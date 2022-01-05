@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased !important;
+  background:#fff;
+  color:#373737;
+}
+
+a {
+  color:#d73f09;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+  color: #9e3800;
+}
+
+p {
+  margin-bottom:1em;
+}
+
+h1, h2, h3, h4 {
+  line-height:1.2;
+}
+
+header {
+  background: #d73f09;
+  position:relative;
+}
+
+header img {
+	height:80px;
+	margin:10px;
+}
+
+header #site-title {
+      background: #000;
+    padding: 10px;
+}
+
+header #site-title a {
+    color:#fff;
+	text-decoration:none;
+}
+
+header #site-title h1 {
+  margin:0px;
+  font-size:26px;
+}
+
+header button {
+  position:absolute;
+  top:25px;
+  right:0px;
+  border:none;
+  background:none;
+  padding:0px 20px;
+  font-size:12px;
+  color:#fff;
+}
+
+header button:hover, header button:focus {
+  color:#000;
+}
+
+header button i {
+  font-size:30px!important;
+}
+
+header .dropdown-menu {
+  right: 10px;
+    left: inherit;
+    top: 100px;
+    border: none;
+    background: #fff;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+header .dropdown-menu a:hover {
+  background:#f0f0f0;
+}
+
+.content {
+  background:#fff;
+  padding:50px 10px;
+}
+
+footer {
+  background: #000;
+  color: #fff;
+  padding: 50px;
+  border-top: 5px solid #d73f09;
+  min-height:200px;
+}
+
+
+
