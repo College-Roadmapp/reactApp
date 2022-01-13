@@ -23,6 +23,11 @@ p {
   margin-bottom:1em;
 }
 
+ul{
+  list-style: none;
+
+}
+
 h1, h2, h3, h4 {
   line-height:1.2;
 }
@@ -73,16 +78,53 @@ header button i {
 
 header .dropdown-menu {
   right: 10px;
-    left: inherit;
-    top: 100px;
-    border: none;
-    background: #fff;
-    margin: 0px;
-    border-radius: 0px;
+  left: inherit;
+  top: 100px;
+  border: none;
+  background: #fff;
+  margin: 0px;
+  border-radius: 0px;
 }
 
 header .dropdown-menu a:hover {
   background:#f0f0f0;
+}
+
+.Tabs{
+  float: left;
+  width: 90px;
+  height: 40px;
+  font-size:15px;
+  background-color: #8080808;
+  color: white;
+
+}
+
+.Boxes {
+  width: 100%;
+}
+
+.Description {
+  clear: left;
+  float: left;
+  width: 50%;
+  height: 100px;
+  border: 1px solid white;
+  box-sizing: border-box;
+  background-color: #d73f09;
+  display: flex;
+  justify-content: center;
+}
+
+.Instructions {
+  float: left;
+  width: 50%;
+  height: 100px;
+  border: 1px solid white;
+  box-sizing: border-box;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
 }
 
 .content {
@@ -97,6 +139,3 @@ footer {
   border-top: 5px solid #d73f09;
   min-height:200px;
 }
-
-
-

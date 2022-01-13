@@ -13,14 +13,20 @@ function App() {
       </div>
       <button id="menu" className="dropdown-toggle" type="button" data-toggle="dropdown">
       <i className="fa fa-bars"></i>
-   
+
       MENU
       </button>
       <ul className="dropdown-menu menu" role="menu">
-        <li><a href="">Home</a></li>
-        <li><a href="">About Us</a></li>
-        <li><a href="">Resources</a></li>
+        <li className="Tabs"><a href="">Home</a></li>
+        <li className="Tabs"><a href="">About Us</a></li>
+        <li className="Tabs"><a href="">Resources</a></li>
       </ul>
+
+      <div className="Boxes">
+        <div className="Description"> DESCRIPTION OF APP </div>
+        <div className="Instructions"> INSTRUCTIONS FOR APP </div>
+      </div>
+
     </header>
       <div>
           <a
