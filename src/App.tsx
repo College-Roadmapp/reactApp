@@ -16,16 +16,30 @@ function App() {
 
       MENU
       </button>
-      <ul className="dropdown-menu menu" role="menu">
-        <li className="Tabs"><a href="">Home</a></li>
-        <li className="Tabs"><a href="">About Us</a></li>
-        <li className="Tabs"><a href="">Resources</a></li>
-      </ul>
-
-      <div className="Boxes">
-        <div className="Description"> DESCRIPTION OF APP </div>
-        <div className="Instructions"> INSTRUCTIONS FOR APP </div>
+      <div id="content-wrapper" className="Wrap">
+        <nav id="navigation">
+          <ul className="dropdown-menu menu" role="menu">
+            <li className="Tabs"><a href="">Home</a></li>
+            <li className="Tabs"><a href="">About Us</a></li>
+            <li className="Tabs"><a href="">Resources</a></li>
+            </ul>
+          </nav>
       </div>
+
+      <div id="page-hero" style={{backgroundImage: "url(" + "https://conferences.oregonstate.edu/sites/conferences.oregonstate.edu/files/beautiful-campus-oregon-state-university.jpg" + ")"}}>
+        <div className="container">
+          <div className="Boxes">
+            <div className="Description"> DESCRIPTION OF APP </div>
+            <div className="Instructions"> INSTRUCTIONS FOR APP </div>
+            </div>
+        </div>
+
+      </div>
+
+
+
+
+
 
     </header>
       <div>
