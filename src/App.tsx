@@ -3,7 +3,12 @@ import logo from './logo.svg';
 import './osu.css';
 import beaverLogo from './beaverLogo.png'
 import { render } from '@testing-library/react';
-import { Link } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Link
+} from "react-router-dom";
 
 function Header() {
   return (
@@ -12,19 +17,22 @@ function Header() {
       <div id="site-title">
       <a href=""><h1>College Roadmap App</h1></a>
       </div>
-      <button id="menu" className="dropdown-toggle" type="button" data-toggle="dropdown">
+      {/* <button id="menu" className="dropdown-toggle" type="button" data-toggle="dropdown">
       <i className="fa fa-bars"></i>
       MENU
-      </button>
+      </button> */}
       <div id="content-wrapper" className="Wrap">
         <nav id="navigation" role="menu">
-          <Link className="Tabs" to="/">Home</Link>
-          <Link className="Tabs" to="/about">About Us</Link>
-          <Link className="Tabs" to="/resources">Resources</Link>
           <ul className="dropdown-menu menu" role="menu">
-            <li className="Tabs"><a href="">Home</a></li>
-            <li className="Tabs"><a href="">About Us</a></li>
-            <li className="Tabs"><a href="">Resources</a></li>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/about">About</Link>
+            </li>
+            <li>
+              <Link to="/resources">Resources</Link>
+            </li>
           </ul>
         </nav>
       </div>
@@ -32,7 +40,7 @@ function Header() {
   )
 }
 
-function Body() {
+function Home() {
   return (
     <body>
         <div id="page-hero" style={{backgroundImage: "url(" + "https://conferences.oregonstate.edu/sites/conferences.oregonstate.edu/files/beautiful-campus-oregon-state-university.jpg" + ")"}}>
@@ -52,7 +60,7 @@ function Body() {
               </div>
           </div>
         </div>
-          <div>
+          {/* <div>
               <a
                 className="App-link"
                 href="https://catalog.oregonstate.edu/"
@@ -61,16 +69,37 @@ function Body() {
               >
                 Oregon State University's Academic Catalog
               </a>
-          </div>
+          </div> */}
         </body>
+  )
+}
+
+function About(){
+  return(
+    <body>
+      <div>About</div>
+    </body>
+  )
+}
+
+function Resources(){
+  return(
+    <body>
+      <div>Resources</div>
+    </body>
   )
 }
 
 function App() {
   return (
     <div>
+      
       <div>{Header()}</div>
-      <div>{Body()}</div>
+      <Routes>
+            <Route  path="/" element={<Home/>}/>
+            <Route  path="/about" element={<About/>}/>
+            <Route  path="/resources" element={<Resources/>}/>
+        </Routes>
     </div>
   );
 }
