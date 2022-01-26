@@ -21,6 +21,12 @@ a:hover, a:focus {
 
 p {
   margin-bottom:1em;
+  font-family: "Open+Sans", sans-serif;
+  font-size: 18px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
 }
 
 ul{
@@ -205,6 +211,12 @@ header .dropdown-menu a:hover {
       #page-hero h1 {
         font-size: 400%; }}
 
+#header-search{
+  display: flex;
+
+
+}
+
 
 .Boxes {
   width: 100%;
@@ -213,18 +225,19 @@ header .dropdown-menu a:hover {
 .Description {
   clear: left;
   float: left;
-  width: 50%;
-  height: 100px;
+  width: 40%;
+  height: auto;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.8);
   background-color: rgba(255, 255, 255, 0.8);
   display: flex;
   justify-content: center;
+  color: #000;
 }
 
 .Instructions {
   float: left;
-  width: 50%;
+  width: 40%;
   height: 100px;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.8);

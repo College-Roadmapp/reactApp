@@ -15,7 +15,7 @@ function Header() {
   <header className="App-header">
       <a href="http://oregonstate.edu"><img src="http://oregonstate.edu/themes/osu/drupal8-osuhomepage/logo.svg" alt="Oregon State University"/></a>
       <div id="site-title">
-      <a href=""><h1>College Roadmap App</h1></a>
+      <a href=""><h1>myOSURoadmap</h1></a>
       </div>
       {/* <button id="menu" className="dropdown-toggle" type="button" data-toggle="dropdown">
       <i className="fa fa-bars"></i>
@@ -43,19 +43,24 @@ function Header() {
 function Home() {
   return (
     <body>
+      <form action="/" method="get">
+        <input
+            type="text"
+            id="header-search"
+            placeholder="Search"
+            name="s"
+          />
+          <button type="submit">Search</button>
+      </form>
         <div id="page-hero" style={{backgroundImage: "url(" + "https://conferences.oregonstate.edu/sites/conferences.oregonstate.edu/files/beautiful-campus-oregon-state-university.jpg" + ")"}}>
-          <form action="/" method="get">
-            <input
-                type="text"
-                id="header-search"
-                placeholder="Search"
-                name="s" 
-            />
-            <button type="submit">Search</button>
-        </form>
           <div className="container">
             <div className="Boxes">
-              <div className="Description"> DESCRIPTION OF APP </div>
+              <div className="Description">
+                <p>
+                myOSURoadmap is a student-built application that is intended to assist first-year students, transfer students, and students in exploratory studies with gathering the information they need to satisfy their graduation requirements. This tool is designed so that any current or potential Oregon State student can easily comprehend the complex course map for their degree. Users are also provided access to additional information like their degree progress, tuition prices, and the ability to explore other degrees. 
+                </p>
+              </div>
+
               <div className="Instructions"> INSTRUCTIONS FOR APP </div>
               </div>
           </div>
@@ -93,7 +98,7 @@ function Resources(){
 function App() {
   return (
     <div>
-      
+
       <div>{Header()}</div>
       <Routes>
             <Route  path="/" element={<Home/>}/>
