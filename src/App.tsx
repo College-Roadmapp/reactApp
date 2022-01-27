@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{ useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './osu.css';
 import beaverLogo from './beaverLogo.png'
@@ -9,6 +9,10 @@ import {
   Route,
   Link
 } from "react-router-dom";
+// import { ProgressBar } from 'primereact/progressbar';
+// import 'bootstrap/dist/css/bootstrap.css';
+// import {ProgressBar} from 'react-bootstrap'
+import Progressbar from './component/progressBar';
 
 function Header() {
   return (
@@ -83,6 +87,7 @@ function About(){
   return(
     <body>
       <div>About</div>
+      <Progressbar bgcolor="orange" progress='30'  height={30} />
     </body>
   )
 }
@@ -95,6 +100,7 @@ function Resources(){
   )
 }
 
+
 function App() {
   return (
     <div>
@@ -104,7 +110,7 @@ function App() {
             <Route  path="/" element={<Home/>}/>
             <Route  path="/about" element={<About/>}/>
             <Route  path="/resources" element={<Resources/>}/>
-        </Routes>
+      </Routes>
     </div>
   );
 }
