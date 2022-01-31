@@ -29,6 +29,12 @@ p {
   padding-top: 20px;
 }
 
+td {
+  padding: 5px;
+  padding-left: 15px;
+  text-align: left;
+}
+
 ul{
   list-style: none;
 
@@ -218,31 +224,47 @@ header .dropdown-menu a:hover {
 }
 
 
-.Boxes {
-  width: 100%;
-}
-
-.Description {
+.description {
   clear: left;
   float: left;
-  width: 40%;
+  width: 48%;
   height: auto;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.8);
   background-color: rgba(255, 255, 255, 0.8);
   display: flex;
   justify-content: center;
   color: #000;
 }
 
-.Instructions {
-  float: left;
-  width: 40%;
-  height: 100px;
+.instructions {
+  float: right;
+  width: 48%;
+  height: 280px;
+  padding-left: 50px;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.8);
   display: flex;
   justify-content: center;
+  color: white;
+}
+
+.displayApp {
+  background-color: white;
+  height: 800px;
+  width: 100%;
+  padding: 30px;
+}
+
+.classTable{
+  background-color: rgb(247, 245, 245);
+  box-sizing: border-box;
+  display: flex;
+  justify-content: left;
+  padding: 30px;
+  width: 40%;
+  text-align: center;
+
+
 }
 
 .content {

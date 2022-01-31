@@ -1,0 +1,109 @@
+{
+	"computerScience":[
+		{
+			"id":"CS 160",
+			"name":"Introduction to Computer Science",
+			"credits":3,
+			"term":1
+		},
+
+		{
+			"id":"CS 161",
+			"name":"Introduction to Computer Science 1",
+			"credits":1,
+			"term":2
+		},
+
+		{
+			"id":"CS 162",
+			"name":"Introduction to Computer Science 2",
+			"credits":4,
+			"term":3
+		},
+
+		{
+			"id":"MTH 251",
+			"name":"Differential Calculus",
+			"credits":4,
+			"term":1
+		},
+
+		{
+			"id":"WR 121",
+			"name":"English Composition",
+			"credits":3,
+			"term":1
+		},
+
+		{
+			"id":"HHS 231",
+			"name":"Lifetime Fitness",
+			"credits":2,
+			"term":1
+		},
+
+
+		{
+			"id":"PAC 274",
+			"name":"Volleyball 2",
+			"credits":1,
+			"term":1
+		},
+
+		{
+			"id":"MTH 252",
+			"name":"Integral Calculus",
+			"credits":4,
+			"term":2
+		},
+
+		{
+			"id":"COMM 111",
+			"name":"Public Speaking",
+			"credits":3,
+			"term":2
+		},
+
+		{
+			"id":"MTH 231",
+			"name":"Discrete Math",
+			"credits":4,
+			"term":3
+		},
+
+		{
+			"id":"CS 261",
+			"name":"Data Structures",
+			"credits":4,
+			"term":4
+		},
+
+		{
+			"id":"MTH 254",
+			"name":"Vector Calculus 1",
+			"credits":4,
+			"term":4
+		},
+
+		{
+			"id":"PH 211",
+			"name":"Physics with Calculus",
+			"credits":4,
+			"term":4
+		},
+
+		{
+			"id":"MTH 264",
+			"name":"Introduction to Matrix Algebra",
+			"credits":2,
+			"term":5
+		},
+
+		{
+			"id":"MTH 265",
+			"name":"Intro to Series",
+			"credits":2,
+			"term":5
+		}
+	]
+}

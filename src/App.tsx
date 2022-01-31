@@ -13,6 +13,7 @@ import {
 // import 'bootstrap/dist/css/bootstrap.css';
 // import {ProgressBar} from 'react-bootstrap'
 import Progressbar from './component/progressBar';
+import ComputerScience from './computerScience.json'
 
 function Header() {
   return (
@@ -56,19 +57,9 @@ function Home() {
           />
           <button type="submit">Search</button>
       </form>
-        <div id="page-hero" style={{backgroundImage: "url(" + "https://conferences.oregonstate.edu/sites/conferences.oregonstate.edu/files/beautiful-campus-oregon-state-university.jpg" + ")"}}>
-          <div className="container">
-            <div className="Boxes">
-              <div className="Description">
-                <p>
-                myOSURoadmap is a student-built application that is intended to assist first-year students, transfer students, and students in exploratory studies with gathering the information they need to satisfy their graduation requirements. This tool is designed so that any current or potential Oregon State student can easily comprehend the complex course map for their degree. Users are also provided access to additional information like their degree progress, tuition prices, and the ability to explore other degrees. 
-                </p>
-              </div>
+      {<AppInfo/>}
+      {<AppDisplay/>}
 
-              <div className="Instructions"> INSTRUCTIONS FOR APP </div>
-              </div>
-          </div>
-        </div>
           {/* <div>
               <a
                 className="App-link"
@@ -82,6 +73,95 @@ function Home() {
         </body>
   )
 }
+
+function AppInfo(){
+  return(
+  <div id="page-hero" style={{backgroundImage: "url(" + "https://conferences.oregonstate.edu/sites/conferences.oregonstate.edu/files/beautiful-campus-oregon-state-university.jpg" + ")"}}>
+    <div className="container">
+      <div className="description">
+        <p>
+          myOSURoadmap is a student-built application that is intended to assist first-year students, transfer students, and students in exploratory studies with gathering the information they need to satisfy their graduation requirements.
+          This tool is designed so that any current or potential Oregon State student can easily comprehend the complex course map for their degree. Users are also provided access to additional information like their degree progress, tuition prices, and the ability to explore other degrees.
+        </p>
+      </div>
+
+      <div className="instructions"> instructions for app </div>
+    </div>
+  </div>
+  )
+}
+
+function AppDisplay(){
+  return(
+    <div className="displayApp">
+      <div className="classTable">
+        <JsonDataDisplay/>
+      </div>
+    </div>
+
+  )
+
+}
+
+function JsonDataDisplay(){
+    let DisplayData: Array<any>;
+    DisplayData=ComputerScience.computerScience.map(
+        (info, i)=>{
+            return(
+                <tr>
+                    <td>{info.id}</td>
+                    <td>{info.name}</td>
+                    <td>{info.credits}</td>
+                    <td>{info.term}</td>
+                </tr>
+            )
+        }
+    );
+    //DisplayData.sort((a, b) => (a.credits < b.credits) ? 1 : -1)
+
+    //let NewArray: Array<any>;
+
+    //var NewArray = [];
+
+    //for (var j = 0; j < DisplayData.length; j++){\
+    //  let var0 = DisplayData[0];
+    //  let var1 = var0.credits;
+    //  let var2 = "3";
+    //  if (1 ){
+    //    NewArray.push(DisplayData[0]);
+    //  }
+
+/*
+    let sortedData = [...DisplayData];
+    sortedData.sort((a,b) => {
+      if(a.name < b.name){
+        return -1;
+      }
+      if(a.name > b.name){
+        return 1;
+      }
+    });
+
+*/
+    return(
+        <div>
+            <table className="table table-striped">
+                <thead>
+                    <tr>
+                    <th>Course ID</th>
+                    <th>Course Name</th>
+                    <th>Credits</th>
+                    <th>Term</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {DisplayData}
+                </tbody>
+            </table>
+        </div>
+    )
+  }
+
 
 function About(){
   return(
