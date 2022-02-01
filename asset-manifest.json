@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/College-Roadmapp/static/css/main.bf450080.chunk.css",
+    "main.js": "/College-Roadmapp/static/js/main.b40a9e61.chunk.js",
+    "main.js.map": "/College-Roadmapp/static/js/main.b40a9e61.chunk.js.map",
+    "runtime-main.js": "/College-Roadmapp/static/js/runtime-main.9ce0bca5.js",
+    "runtime-main.js.map": "/College-Roadmapp/static/js/runtime-main.9ce0bca5.js.map",
+    "static/js/2.8613e7e2.chunk.js": "/College-Roadmapp/static/js/2.8613e7e2.chunk.js",
+    "static/js/2.8613e7e2.chunk.js.map": "/College-Roadmapp/static/js/2.8613e7e2.chunk.js.map",
+    "static/js/3.f77e9481.chunk.js": "/College-Roadmapp/static/js/3.f77e9481.chunk.js",
+    "static/js/3.f77e9481.chunk.js.map": "/College-Roadmapp/static/js/3.f77e9481.chunk.js.map",
+    "index.html": "/College-Roadmapp/index.html",
+    "static/css/main.bf450080.chunk.css.map": "/College-Roadmapp/static/css/main.bf450080.chunk.css.map",
+    "static/js/2.8613e7e2.chunk.js.LICENSE.txt": "/College-Roadmapp/static/js/2.8613e7e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce0bca5.js",
+    "static/js/2.8613e7e2.chunk.js",
+    "static/css/main.bf450080.chunk.css",
+    "static/js/main.b40a9e61.chunk.js"
+  ]
+}
