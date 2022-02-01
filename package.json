@@ -2,10 +2,15 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://verzinoc.github.io/",
   "dependencies": {
+<<<<<<< HEAD
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
     "@mui/material": "^5.3.1",
+=======
+    "-": "^0.0.1",
+>>>>>>> ea635ac5aa5da7314decf33197f1fa2820be4c54
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
@@ -14,6 +19,7 @@
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3",
     "primeicons": "^5.0.0",
     "primereact": "^7.2.0",
     "react": "^17.0.2",
@@ -21,6 +27,7 @@
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.2.1",
     "react-scripts": "4.0.3",
+    "save-dev": "^0.0.1-security",
     "styled-components": "^5.3.3",
     "typescript": "^4.4.4",
     "web-vitals": "^1.1.2"
@@ -29,7 +36,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
