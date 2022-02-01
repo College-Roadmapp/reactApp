@@ -1,4 +1,5 @@
 import React,{ useState, useEffect } from 'react';
+import { ReactDOM } from 'react';
 import logo from './logo.svg';
 import './osu.css';
 import beaverLogo from './beaverLogo.png'
@@ -9,11 +10,14 @@ import {
   Route,
   Link
 } from "react-router-dom";
-// import { ProgressBar } from 'primereact/progressbar';
-// import 'bootstrap/dist/css/bootstrap.css';
-// import {ProgressBar} from 'react-bootstrap'
 import Progressbar from './component/progressBar';
+import Button from './component/button';
 import ComputerScience from './computerScience.json'
+import InputLabel from '@mui/material/InputLabel';
+import MenuItem from '@mui/material/MenuItem';
+import FormHelperText from '@mui/material/FormHelperText';
+import FormControl from '@mui/material/FormControl';
+import Select from '@mui/material/Select';
 
 function Header() {
   return (
@@ -22,10 +26,6 @@ function Header() {
       <div id="site-title">
       <a href=""><h1>myOSURoadmap</h1></a>
       </div>
-      {/* <button id="menu" className="dropdown-toggle" type="button" data-toggle="dropdown">
-      <i className="fa fa-bars"></i>
-      MENU
-      </button> */}
       <div id="content-wrapper" className="Wrap">
         <nav id="navigation" role="menu">
           <ul className="dropdown-menu menu" role="menu">
@@ -58,19 +58,11 @@ function Home() {
           <button type="submit">Search</button>
       </form>
       {<AppInfo/>}
+      {<CollegeDropDownMenu/>}
+      {<MajorDropDownMenu/>}
+      {<OptionDropDownMenu/>}
       {<AppDisplay/>}
-
-          {/* <div>
-              <a
-                className="App-link"
-                href="https://catalog.oregonstate.edu/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Oregon State University's Academic Catalog
-              </a>
-          </div> */}
-        </body>
+    </body>
   )
 }
 
@@ -161,6 +153,160 @@ function JsonDataDisplay(){
         </div>
     )
   }
+
+
+
+function Class(name : any){
+  return(
+    <div>
+      <td>CS290</td>
+    </div>
+  )
+}
+
+function Term(){
+  return(
+    <div className='displayApp'>
+      <div className="classTable">
+        <table className="table table-striped">
+          <thead>
+            <tr>
+              <th>Fall 2022 Classes</th>
+              <th>Credits</th>
+            </tr>
+            <button>+</button>
+          </thead>
+          <tbody>
+            <tr>
+              <Class/>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  )
+}
+
+function CollegeDropDownMenu(){
+  const [college, setCollege] = React.useState('');
+
+  const handleChange = (event : any) => {
+    setCollege(event.target.value);
+  };
+//https://mui.com/components/selects/
+  return (
+    <div>
+      <FormControl sx={{ m: 1, minWidth: 120 }}>
+        <InputLabel id="demo-simple-select-helper-label">College</InputLabel>
+        <Select
+          labelId="demo-simple-select-helper-label"
+          id="demo-simple-select-helper"
+          value={college}
+          label="College"
+          onChange={handleChange}
+        >
+          <MenuItem value="">
+            <em>None</em>
+          </MenuItem>
+          <MenuItem value={10}>Agricultural Sciences</MenuItem>
+          <MenuItem value={20}>Business</MenuItem>
+          <MenuItem value={30}>Earth, Ocean, and Atmospheric Sciences</MenuItem>
+          <MenuItem value={40}>Education</MenuItem>
+          <MenuItem value={50}>Engineering</MenuItem>
+          <MenuItem value={60}>Forestry</MenuItem>
+          <MenuItem value={70}>Liberal Arts</MenuItem>
+          <MenuItem value={80}>Pharmacy</MenuItem>
+          <MenuItem value={90}>Public Health and Human Sciences</MenuItem>
+          <MenuItem value={100}>Science</MenuItem>
+          <MenuItem value={110}>Veterinary Medicine</MenuItem>
+        </Select>
+        <FormHelperText>College</FormHelperText>
+      </FormControl>
+    </div>
+  );
+}
+
+function MajorDropDownMenu(){
+  const [major, setMajor] = React.useState('');
+
+  const handleChange = (event : any) => {
+    setMajor(event.target.value);
+  };
+//https://mui.com/components/selects/
+  return (
+    <div>
+      <FormControl sx={{ m: 1, minWidth: 120 }}>
+        <InputLabel id="demo-simple-select-helper-label">Major</InputLabel>
+        <Select
+          labelId="demo-simple-select-helper-label"
+          id="demo-simple-select-helper"
+          value={major}
+          label="Major"
+          onChange={handleChange}
+        >
+          <MenuItem value="">
+            <em>None</em>
+          </MenuItem>
+          <MenuItem value={10}>Architectual Engineering</MenuItem>
+          <MenuItem value={20}>Bioengineering</MenuItem>
+          <MenuItem value={30}>Chemical Engineering</MenuItem>
+          <MenuItem value={40}>Civil Engineering</MenuItem>
+          <MenuItem value={50}>Computer Science</MenuItem>
+          <MenuItem value={60}>Construction Engineering Management</MenuItem>
+          <MenuItem value={70}>Ecological Engineering</MenuItem>
+          <MenuItem value={80}>Electrical and Computer Engineering</MenuItem>
+          <MenuItem value={90}>Energy Systems Engineering</MenuItem>
+          <MenuItem value={100}>Engineering Science</MenuItem>
+          <MenuItem value={110}>Environmental Engineering</MenuItem>
+          <MenuItem value={120}>Industrial Engineering</MenuItem>
+          <MenuItem value={130}>Manufacturing Engineering</MenuItem>
+          <MenuItem value={140}>Mechanical Engineering</MenuItem>
+          <MenuItem value={150}>Nuclear Engineering</MenuItem>
+          <MenuItem value={160}>Radiation Health Physics</MenuItem>
+        </Select>
+        <FormHelperText>Major</FormHelperText>
+      </FormControl>
+    </div>
+  );
+}
+
+function OptionDropDownMenu(){
+  const [option, setOption] = React.useState('');
+
+  const handleChange = (event : any) => {
+    setOption(event.target.value);
+  };
+//https://mui.com/components/selects/
+  return (
+    <div>
+      <FormControl sx={{ m: 1, minWidth: 120 }}>
+        <InputLabel id="demo-simple-select-helper-label">Option</InputLabel>
+        <Select
+          labelId="demo-simple-select-helper-label"
+          id="demo-simple-select-helper"
+          value={option}
+          label="Option"
+          onChange={handleChange}
+        >
+          <MenuItem value="">
+            <em>None</em>
+          </MenuItem>
+          <MenuItem value={10}>Applied Option: Cybersecurity</MenuItem>
+          <MenuItem value={20}>Applied Option: Data Science</MenuItem>
+          <MenuItem value={30}>Applied Option: Artificial Intelligence</MenuItem>
+          <MenuItem value={40}>Applied Option: Robot Intelligence</MenuItem>
+          <MenuItem value={50}>Applied Option: Bioinformatics</MenuItem>
+          <MenuItem value={60}>Applied Option: Business and Entrepeneurship</MenuItem>
+          <MenuItem value={70}>Applied Option: Human-Computer Interaction</MenuItem>
+          <MenuItem value={80}>Applied Option: Simulation and Game Programming</MenuItem>
+          <MenuItem value={90}>Applied Option: Web and Mobile Application</MenuItem>
+          <MenuItem value={100}>Systems Option</MenuItem>
+        </Select>
+        <FormHelperText>Option</FormHelperText>
+      </FormControl>
+    </div>
+  );
+}
 
 
 function About(){
