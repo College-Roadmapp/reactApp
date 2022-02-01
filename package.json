@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://verzinoc.github.io/College-Roadmapp",
+  "homepage": "https://verzinoc.github.io/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
