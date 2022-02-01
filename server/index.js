@@ -1,4 +1,5 @@
 // Work in Progress - Trey
+// npm install nodemon mysql express
 // File where main server code will go
 const express = require('express');
 const mysql = require('mysql');
