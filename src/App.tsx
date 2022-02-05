@@ -1,9 +1,5 @@
 import React,{ useState, useEffect, Component, MouseEvent } from 'react';
-// import { ReactDOM } from 'react';
-// import logo from './logo.svg';
 import './osu.css';
-// import beaverLogo from './beaverLogo.png'
-import { render } from '@testing-library/react';
 import {
   BrowserRouter as Router,
   Routes,
@@ -17,49 +13,6 @@ import MenuItem from '@mui/material/MenuItem';
 import FormHelperText from '@mui/material/FormHelperText';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
-
-
-//------------------------------------------------------------------------
-const Test: React.FunctionComponent = () => {
-  const [clickedButton, setClickedButton] = useState('');
-
-  const buttonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
-    event.preventDefault();
-
-    const button: HTMLButtonElement = event.currentTarget;
-    setClickedButton(button.name);
-  };
-
-  return (
-    <div className="container">
-      <h3>Kindacode.com</h3>
-      <form>
-        <button onClick={buttonHandler} className="button" name="button 1">
-          Button 1
-        </button>
-
-        <button onClick={buttonHandler} className="button" name="button 2">
-          Button 2
-        </button>
-
-        <button onClick={buttonHandler} className="button" name="button 3">
-          Button 3
-        </button>
-
-        <button onClick={buttonHandler} className="button" name="button 4">
-          Button 4
-        </button>
-      </form>
-      <h1>
-        {clickedButton !== ""
-          ? `You have clicked "${clickedButton}"` 
-          : "No button clicked yet"}
-      </h1>
-    </div>
-  );
-};
-//------------------------------------------------------------------------
-
 
 
 function Header() {
@@ -105,8 +58,8 @@ function Home() {
       {<MajorDropDownMenu/>}
       {<OptionDropDownMenu/>}
       {<AppDisplay/>}
-      {/* {<TermComponent/>} */}
-      {<TermAddingClasses/>}
+      {<TermAddingClassesButton/>}
+      {<TermAddingClassesDropdown/>}
     </body>
   )
 }
@@ -200,7 +153,15 @@ function JsonDataDisplay(){
   }
 
 
-const TermAddingClasses: React.FunctionComponent = () => {
+//https://www.kindacode.com/article/react-typescript-handling-onclick-event/
+//make button trigger drop down menu
+//name each drop down item like button has name="button 1"
+//then instead of printing {clickedButton} which gives us the name
+//print the value of drop down item
+
+//drop down will have all possible classes for that major
+
+const TermAddingClassesButton: React.FunctionComponent = () => {
   const [clickedButton, setClickedButton] = useState('');
 
   const buttonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -227,12 +188,11 @@ const TermAddingClasses: React.FunctionComponent = () => {
           </thead>
           <tbody>
             <tr>
-              <Class/>
-            </tr>
-            <tr>
               <h1>
                 {clickedButton !== ""
-                  ? <div>hi</div>
+                  ? <div>CS290
+                    <div>you have clicked {clickedButton}</div>
+                  </div>
                   : ""}
               </h1>
             </tr>
@@ -244,16 +204,17 @@ const TermAddingClasses: React.FunctionComponent = () => {
 };
 
 
-function Class(){
-  return(
-    <div>
-      <td>CS290</td>
-    </div>
-  )
-}
+const TermAddingClassesDropdown: React.FunctionComponent = () => {
+  const [classN, setClassN] = React.useState('');
 
-function TermComponent(){
-  return(
+  const handleChange = (event: any) => {
+    event.preventDefault();
+
+    // const MenuItem: HTMLButtonElement = event.currentTarget;
+    setClassN(event.target.value);
+  };
+
+  return (
     <div className='displayApp'>
       <div className="classTable">
         <table className="table table-striped">
@@ -262,17 +223,45 @@ function TermComponent(){
               <th>Fall 2022 Classes</th>
               <th>Credits</th>
             </tr>
+            <tr>
+              {/* <button onClick={buttonHandler} className="button" name="button 1">
+                Add Class
+              </button> */}
+              <FormControl sx={{ m: 1, minWidth: 120 }}>
+                <InputLabel id="demo-simple-select-helper-label">Class</InputLabel>
+                <Select
+                  labelId="demo-simple-select-helper-label"
+                  id="demo-simple-select-helper"
+                  value={classN}
+                  label="Class"
+                  onChange={handleChange}
+                >
+                  <MenuItem value="">
+                    <em>None</em>
+                  </MenuItem>
+                  <MenuItem value={290}>CS290:WebDev</MenuItem>
+                </Select>
+                <FormHelperText>Classes</FormHelperText>
+              </FormControl>
+            </tr>
           </thead>
           <tbody>
             <tr>
-              <Class/>
+              <h1>
+                {classN !== ""
+                  ? <div>CS290
+                    <div>you have clicked {classN}</div>
+                  </div>
+                  : ""}
+              </h1>
             </tr>
           </tbody>
         </table>
       </div>
     </div>
   )
-}
+};
+
 
 function CollegeDropDownMenu(){
   const [college, setCollege] = React.useState('');
@@ -296,16 +285,6 @@ function CollegeDropDownMenu(){
             <em>None</em>
           </MenuItem>
           <MenuItem value={10}>Agricultural Sciences</MenuItem>
-          <MenuItem value={20}>Business</MenuItem>
-          <MenuItem value={30}>Earth, Ocean, and Atmospheric Sciences</MenuItem>
-          <MenuItem value={40}>Education</MenuItem>
-          <MenuItem value={50}>Engineering</MenuItem>
-          <MenuItem value={60}>Forestry</MenuItem>
-          <MenuItem value={70}>Liberal Arts</MenuItem>
-          <MenuItem value={80}>Pharmacy</MenuItem>
-          <MenuItem value={90}>Public Health and Human Sciences</MenuItem>
-          <MenuItem value={100}>Science</MenuItem>
-          <MenuItem value={110}>Veterinary Medicine</MenuItem>
         </Select>
         <FormHelperText>College</FormHelperText>
       </FormControl>
