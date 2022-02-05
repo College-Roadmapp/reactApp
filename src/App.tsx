@@ -1,8 +1,8 @@
-import React,{ useState, useEffect } from 'react';
-import { ReactDOM } from 'react';
-import logo from './logo.svg';
+import React,{ useState, useEffect, Component, MouseEvent } from 'react';
+// import { ReactDOM } from 'react';
+// import logo from './logo.svg';
 import './osu.css';
-import beaverLogo from './beaverLogo.png'
+// import beaverLogo from './beaverLogo.png'
 import { render } from '@testing-library/react';
 import {
   BrowserRouter as Router,
@@ -11,13 +11,56 @@ import {
   Link
 } from "react-router-dom";
 import Progressbar from './component/progressBar';
-import Button from './component/button';
 import ComputerScience from './computerScience.json'
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormHelperText from '@mui/material/FormHelperText';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
+
+
+//------------------------------------------------------------------------
+const Test: React.FunctionComponent = () => {
+  const [clickedButton, setClickedButton] = useState('');
+
+  const buttonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
+    event.preventDefault();
+
+    const button: HTMLButtonElement = event.currentTarget;
+    setClickedButton(button.name);
+  };
+
+  return (
+    <div className="container">
+      <h3>Kindacode.com</h3>
+      <form>
+        <button onClick={buttonHandler} className="button" name="button 1">
+          Button 1
+        </button>
+
+        <button onClick={buttonHandler} className="button" name="button 2">
+          Button 2
+        </button>
+
+        <button onClick={buttonHandler} className="button" name="button 3">
+          Button 3
+        </button>
+
+        <button onClick={buttonHandler} className="button" name="button 4">
+          Button 4
+        </button>
+      </form>
+      <h1>
+        {clickedButton !== ""
+          ? `You have clicked "${clickedButton}"` 
+          : "No button clicked yet"}
+      </h1>
+    </div>
+  );
+};
+//------------------------------------------------------------------------
+
+
 
 function Header() {
   return (
@@ -62,6 +105,8 @@ function Home() {
       {<MajorDropDownMenu/>}
       {<OptionDropDownMenu/>}
       {<AppDisplay/>}
+      {/* {<TermComponent/>} */}
+      {<TermAddingClasses/>}
     </body>
   )
 }
@@ -155,8 +200,51 @@ function JsonDataDisplay(){
   }
 
 
+const TermAddingClasses: React.FunctionComponent = () => {
+  const [clickedButton, setClickedButton] = useState('');
 
-function Class(name : any){
+  const buttonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
+    event.preventDefault();
+
+    const button: HTMLButtonElement = event.currentTarget;
+    setClickedButton(button.name);
+  };
+
+  return (
+    <div className='displayApp'>
+      <div className="classTable">
+        <table className="table table-striped">
+          <thead>
+            <tr>
+              <th>Fall 2022 Classes</th>
+              <th>Credits</th>
+            </tr>
+            <tr>
+              <button onClick={buttonHandler} className="button" name="button 1">
+                Add Class
+              </button>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <Class/>
+            </tr>
+            <tr>
+              <h1>
+                {clickedButton !== ""
+                  ? <div>hi</div>
+                  : ""}
+              </h1>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  )
+};
+
+
+function Class(){
   return(
     <div>
       <td>CS290</td>
@@ -164,7 +252,7 @@ function Class(name : any){
   )
 }
 
-function Term(){
+function TermComponent(){
   return(
     <div className='displayApp'>
       <div className="classTable">
@@ -174,7 +262,6 @@ function Term(){
               <th>Fall 2022 Classes</th>
               <th>Credits</th>
             </tr>
-            <button>+</button>
           </thead>
           <tbody>
             <tr>
