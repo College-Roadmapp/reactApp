@@ -7,6 +7,10 @@ import {
   Link
 } from "react-router-dom";
 import Progressbar from './component/progressBar';
+import Header from './component/header';
+import About from './component/about';
+import Class from './component/class';
+import Resources from './component/resources';
 import ComputerScience from './computerScience.json'
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
@@ -14,45 +18,9 @@ import FormHelperText from '@mui/material/FormHelperText';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 
-
-function Header() {
-  return (
-  <header className="App-header">
-      <a href="http://oregonstate.edu"><img src="http://oregonstate.edu/themes/osu/drupal8-osuhomepage/logo.svg" alt="Oregon State University"/></a>
-      <div id="site-title">
-      <a href=""><h1>myOSURoadmap</h1></a>
-      </div>
-      <div id="content-wrapper" className="Wrap">
-        <nav id="navigation" role="menu">
-          <ul className="dropdown-menu menu" role="menu">
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
-              <Link to="/resources">Resources</Link>
-            </li>
-          </ul>
-        </nav>
-      </div>
-  </header>
-  )
-}
-
 function Home() {
   return (
     <body>
-      {/* <form action="/" method="get">
-        <input
-            type="text"
-            id="header-search"
-            placeholder="Search"
-            name="s"
-          />
-          <button type="submit">Search</button>
-      </form> */}
       {<AppInfo/>}
       {<CollegeDropDownMenu/>}
       {<MajorDropDownMenu/>}
@@ -241,7 +209,6 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
                   <MenuItem value={370}>CS370:Intro to Security</MenuItem>
                   <MenuItem value={427}>CS427:Cryptography</MenuItem>
                 </Select>
-                <FormHelperText>Classes</FormHelperText>
               </FormControl>
             </tr>
           </thead>
@@ -259,7 +226,6 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
     </div>
   )
 };
-
 
 function CollegeDropDownMenu(){
   const [college, setCollege] = React.useState('');
@@ -283,8 +249,18 @@ function CollegeDropDownMenu(){
             <em>None</em>
           </MenuItem>
           <MenuItem value={10}>Agricultural Sciences</MenuItem>
+          <MenuItem value={20}>Business</MenuItem>
+          <MenuItem value={30}>Earth, Ocean, and Atmospheric Sciences</MenuItem>
+          <MenuItem value={40}>Education</MenuItem>
+          <MenuItem value={50}>Engineering</MenuItem>
+          <MenuItem value={60}>Forestry</MenuItem>
+          <MenuItem value={70}>Liberal Arts</MenuItem>
+          <MenuItem value={80}>Pharmacy</MenuItem>
+          <MenuItem value={90}>Public Health and Human Sciences</MenuItem>
+          <MenuItem value={100}>Science</MenuItem>
+          <MenuItem value={110}>Veterinary Medicine</MenuItem>
         </Select>
-        <FormHelperText>College</FormHelperText>
+        {/* <FormHelperText>College</FormHelperText> */}
       </FormControl>
     </div>
   );
@@ -328,7 +304,7 @@ function MajorDropDownMenu(){
           <MenuItem value={150}>Nuclear Engineering</MenuItem>
           <MenuItem value={160}>Radiation Health Physics</MenuItem>
         </Select>
-        <FormHelperText>Major</FormHelperText>
+        {/* <FormHelperText>Major</FormHelperText> */}
       </FormControl>
     </div>
   );
@@ -340,7 +316,7 @@ function OptionDropDownMenu(){
   const handleChange = (event : any) => {
     setOption(event.target.value);
   };
-//https://mui.com/components/selects/
+  //https://mui.com/components/selects/
   return (
     <div>
       <FormControl sx={{ m: 1, minWidth: 120 }}>
@@ -366,28 +342,10 @@ function OptionDropDownMenu(){
           <MenuItem value={90}>Applied Option: Web and Mobile Application</MenuItem>
           <MenuItem value={100}>Systems Option</MenuItem>
         </Select>
-        <FormHelperText>Option</FormHelperText>
+        {/* <FormHelperText>Option</FormHelperText> */}
       </FormControl>
     </div>
   );
-}
-
-
-function About(){
-  return(
-    <body>
-      <div>About</div>
-      <Progressbar bgcolor="orange" progress='30'  height={30} />
-    </body>
-  )
-}
-
-function Resources(){
-  return(
-    <body>
-      <div>Resources</div>
-    </body>
-  )
 }
 
 
