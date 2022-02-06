@@ -44,7 +44,7 @@ function Header() {
 function Home() {
   return (
     <body>
-      <form action="/" method="get">
+      {/* <form action="/" method="get">
         <input
             type="text"
             id="header-search"
@@ -52,13 +52,12 @@ function Home() {
             name="s"
           />
           <button type="submit">Search</button>
-      </form>
+      </form> */}
       {<AppInfo/>}
       {<CollegeDropDownMenu/>}
       {<MajorDropDownMenu/>}
       {<OptionDropDownMenu/>}
       {<AppDisplay/>}
-      {<TermAddingClassesButton/>}
       {<TermAddingClassesDropdown/>}
     </body>
   )
@@ -224,9 +223,6 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
               <th>Credits</th>
             </tr>
             <tr>
-              {/* <button onClick={buttonHandler} className="button" name="button 1">
-                Add Class
-              </button> */}
               <FormControl sx={{ m: 1, minWidth: 120 }}>
                 <InputLabel id="demo-simple-select-helper-label">Class</InputLabel>
                 <Select
@@ -240,6 +236,10 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
                     <em>None</em>
                   </MenuItem>
                   <MenuItem value={290}>CS290:WebDev</MenuItem>
+                  <MenuItem value={344}>CS344:OS1</MenuItem>
+                  <MenuItem value={444}>CS444:OS1</MenuItem>
+                  <MenuItem value={370}>CS370:Intro to Security</MenuItem>
+                  <MenuItem value={427}>CS427:Cryptography</MenuItem>
                 </Select>
                 <FormHelperText>Classes</FormHelperText>
               </FormControl>
@@ -249,9 +249,7 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
             <tr>
               <h1>
                 {classN !== ""
-                  ? <div>CS290
-                    <div>you have clicked {classN}</div>
-                  </div>
+                  ? <div>CS{classN}</div>
                   : ""}
               </h1>
             </tr>
