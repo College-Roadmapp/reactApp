@@ -48,6 +48,7 @@ function AppInfo(){
   )
 }
 
+
 function AppDisplay(){
   return(
     <div className="displayApp">
@@ -57,7 +58,6 @@ function AppDisplay(){
     </div>
 
   )
-
 }
 
 function JsonDataDisplay(){
@@ -121,64 +121,36 @@ function JsonDataDisplay(){
 
 
 //https://www.kindacode.com/article/react-typescript-handling-onclick-event/
-//make button trigger drop down menu
-//name each drop down item like button has name="button 1"
-//then instead of printing {clickedButton} which gives us the name
-//print the value of drop down item
-
-//drop down will have all possible classes for that major
-
-const TermAddingClassesButton: React.FunctionComponent = () => {
-  const [clickedButton, setClickedButton] = useState('');
-
-  const buttonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
-    event.preventDefault();
-
-    const button: HTMLButtonElement = event.currentTarget;
-    setClickedButton(button.name);
-  };
-
-  return (
-    <div className='displayApp'>
-      <div className="classTable">
-        <table className="table table-striped">
-          <thead>
-            <tr>
-              <th>Fall 2022 Classes</th>
-              <th>Credits</th>
-            </tr>
-            <tr>
-              <button onClick={buttonHandler} className="button" name="button 1">
-                Add Class
-              </button>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <h1>
-                {clickedButton !== ""
-                  ? <div>CS290
-                    <div>you have clicked {clickedButton}</div>
-                  </div>
-                  : ""}
-              </h1>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  )
-};
-
-
+//---------------- what is happening ----------------
+//when option in dropdown is clicked:
+//classN is set to that class
+//then the div is rendered according to that class
+//we need to stack divs
+var test = false;
+var test1 = false;
+var test2 = false;
+var test3 = false;
 const TermAddingClassesDropdown: React.FunctionComponent = () => {
   const [classN, setClassN] = React.useState('');
 
   const handleChange = (event: any) => {
     event.preventDefault();
-
-    // const MenuItem: HTMLButtonElement = event.currentTarget;
     setClassN(event.target.value);
+    //--------- very temporary workaround for adding element ---------
+    //--------- everyone please ignore ---------
+    if(test2){
+      test3 = true;
+    }
+    if(test1){
+      test2 = true;
+    }
+    if(test){
+      test1 = true;
+    }
+    if (!test1){
+      test = true;
+    }
+    //-----------------------------------------------------------------
   };
 
   return (
@@ -191,8 +163,8 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
               <th>Credits</th>
             </tr>
             <tr>
-              <FormControl sx={{ m: 1, minWidth: 120 }}>
-                <InputLabel id="demo-simple-select-helper-label">Class</InputLabel>
+              <FormControl sx={{ m: 1, minWidth: 150 }}>
+                <InputLabel id="demo-simple-select-helper-label">Add Class</InputLabel>
                 <Select
                   labelId="demo-simple-select-helper-label"
                   id="demo-simple-select-helper"
@@ -214,11 +186,24 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
           </thead>
           <tbody>
             <tr>
-              <h1>
-                {classN !== ""
-                  ? <div>CS{classN}</div>
-                  : ""}
-              </h1>
+              {classN !== ""
+                ? <td>CS{classN}</td>
+                : ""}
+            </tr>
+            <tr>
+              {classN !== "" && test1
+                ? <td>CS{classN}</td>
+                : ""}
+            </tr>
+            <tr>
+              {classN !== "" && test2
+                ? <td>CS{classN}</td>
+                : ""}
+            </tr>
+            <tr>
+              {classN !== "" && test3
+                ? <td>CS{classN}</td>
+                : ""}
             </tr>
           </tbody>
         </table>
