@@ -17,14 +17,18 @@ import MenuItem from '@mui/material/MenuItem';
 import FormHelperText from '@mui/material/FormHelperText';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
+import { styled } from '@mui/material/styles';
+
 
 function Home() {
   return (
     <body>
       {<AppInfo/>}
-      {<CollegeDropDownMenu/>}
-      {<MajorDropDownMenu/>}
-      {<OptionDropDownMenu/>}
+      <div className = "dropDownMenu">
+        {<CollegeDropDownMenu/>}
+        {<MajorDropDownMenu/>}
+        {<OptionDropDownMenu/>}
+      </div>
       {<AppDisplay/>}
       {<TermAddingClassesDropdown/>}
     </body>
@@ -332,6 +336,7 @@ function OptionDropDownMenu(){
     </div>
   );
 }
+
 
 
 function App() {

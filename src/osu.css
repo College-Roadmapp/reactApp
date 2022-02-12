@@ -99,7 +99,11 @@ header .dropdown-menu {
 }
 
 header .dropdown-menu a:hover {
-  background:#f0f0f0;
+  background:#FFC0CB;
+}
+
+.MuiMenuItem-root {
+  background-color: #FFC0CB;
 }
 
 .Wrap{
@@ -112,6 +116,12 @@ header .dropdown-menu a:hover {
   padding: 10px 16px;
   display: flex;
 
+}
+
+.dropDownMenu{
+  display: flex;
+  float: left;
+  margin-left : 30px;
 }
 
 
@@ -256,12 +266,15 @@ header .dropdown-menu a:hover {
 }
 
 .classTable{
-  background-color: rgb(247, 245, 245);
+  clear: left;
+  float: left;
+  width: 500px;
+  height: auto;
   box-sizing: border-box;
+  background-color: rgb(247, 245, 245);
   display: flex;
-  justify-content: left;
+  justify-content: center;
   padding: 30px;
-  width: 40%;
   text-align: center;
 
 
