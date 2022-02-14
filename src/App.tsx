@@ -11,6 +11,7 @@ import Header from './component/header';
 import About from './component/about';
 import Class from './component/class';
 import Resources from './component/resources';
+// import Roadmap from './component/roadmap';
 import ComputerScience from './computerScience.json'
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
@@ -24,14 +25,28 @@ function Home() {
   return (
     <body>
       {<AppInfo/>}
-      <div className = "dropDownMenu">
+      {/* <div className = "dropDownMenu">
         {<CollegeDropDownMenu/>}
         {<MajorDropDownMenu/>}
         {<OptionDropDownMenu/>}
       </div>
       {<AppDisplay/>}
-      {<TermAddingClassesDropdown/>}
+      {<TermAddingClassesDropdown/>} */}
     </body>
+  )
+}
+
+function Roadmap() {
+  return(
+      <div>
+          <div className = "dropDownMenu">
+              {<CollegeDropDownMenu/>}
+              {<MajorDropDownMenu/>}
+              {<OptionDropDownMenu/>}
+          </div>
+          {<AppDisplay/>}
+          {<TermAddingClassesDropdown/>}
+      </div>
   )
 }
 
@@ -346,6 +361,7 @@ function App() {
       <div>{Header()}</div>
       <Routes>
             <Route  path="/" element={<Home/>}/>
+            <Route  path="/roadmap" element={<Roadmap/>}/>
             <Route  path="/about" element={<About/>}/>
             <Route  path="/resources" element={<Resources/>}/>
       </Routes>
