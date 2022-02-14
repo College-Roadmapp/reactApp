@@ -29,6 +29,16 @@ p {
   padding-top: 20px;
 }
 
+caption {
+  width:450px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom:15px;
+  border-bottom-style: solid;
+  border-width: thin;
+}
+
 td {
   padding: 5px;
   padding-left: 15px;
@@ -266,18 +276,24 @@ header .dropdown-menu a:hover {
 }
 
 .classTable{
-  clear: left;
-  float: left;
   width: 500px;
   height: auto;
   box-sizing: border-box;
   background-color: rgb(247, 245, 245);
-  display: flex;
   justify-content: center;
   padding: 30px;
   text-align: center;
+  margin: 20px;
+  float: left;
+  clear: left;
+}
 
+.Tables{
 
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+  clear: left;
 }
 
 .content {

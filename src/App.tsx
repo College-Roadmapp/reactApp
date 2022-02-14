@@ -12,7 +12,7 @@ import About from './component/about';
 import Class from './component/class';
 import Resources from './component/resources';
 // import Roadmap from './component/roadmap';
-import ComputerScience from './computerScience.json'
+import ComputerScience from './component/computerScience.json'
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormHelperText from '@mui/material/FormHelperText';
@@ -25,13 +25,6 @@ function Home() {
   return (
     <body>
       {<AppInfo/>}
-      {/* <div className = "dropDownMenu">
-        {<CollegeDropDownMenu/>}
-        {<MajorDropDownMenu/>}
-        {<OptionDropDownMenu/>}
-      </div>
-      {<AppDisplay/>}
-      {<TermAddingClassesDropdown/>} */}
     </body>
   )
 }
