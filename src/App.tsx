@@ -18,48 +18,8 @@ import Select from '@mui/material/Select';
 import Checkbox from '@mui/material/Checkbox';
 import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
+import { AnyAaaaRecord } from 'dns';
 // import { styled } from '@mui/material/styles';
-
-//------------------------------------------------------
-export type roadmapState = {
-  school: string;
-  major: string;
-  optionExist: boolean;
-  option: string;
-};
-
-const defaultState: roadmapState = {
-  school: "",
-  major: "",
-  optionExist: false,
-  option: ""
-};
-
-
-// const {
-//   DumbContextProvider: roadmapContextProvider,
-//   useDumbContext: useContext
-// } = DumbContextFactory<roadmapState>("roadmapState", defaultState, {
-//   persist: {
-//     type: "local",
-//     key: "user"
-//   }
-// });
-
-// const useRoadmapContext = () => {
-//   const { state, setState } = useContext();
-
-//   return {
-//     user: state,
-//     setUser: (newState: Partial<roadmapState>) => {
-//       setState({ ...state, ...newState });
-//     }
-//   };
-// };
-
-//------------------------------------------------------
-
-
 
 
 function Home() {
@@ -71,6 +31,7 @@ function Home() {
 }
 
 function Roadmap() {
+  let terms=['Fall 2022', 'Winter 2022', 'Spring 2023', 'Fall 2023', 'Winter 2023', 'Spring 2024', 'Fall 2024', 'Winter 2024', 'Spring 2025', 'Fall 2025', 'Winter 2025', 'Spring 2026', 'Fall 2026', 'Winter 2026', 'Spring 2027'];
   return(
       <div>
           <div className = "dropDownMenu">
@@ -79,10 +40,24 @@ function Roadmap() {
               {<OptionDropDownMenu/>}
           </div>
           {<AppDisplay/>}
-          {<TermAddingClassesDropdown/>}
+          {/* {<Term/>} */}
+          {/* {<FourYears/>}
+           */}
+           {terms.map((item, index)=>{
+            return <Term key = {item}/>
+          })}
           <ProgressBar bgcolor="orange" progress='30'  height={30} />
       </div>
   )
+}
+
+function FourYears(){
+  let terms=['Fall 2022', 'Winter 2022', 'Spring 2023', 'Fall 2023', 'Winter 2023', 'Spring 2024', 'Fall 2024', 'Winter 2024', 'Spring 2025', 'Fall 2025', 'Winter 2025', 'Spring 2026', 'Fall 2026', 'Winter 2026', 'Spring 2027'];
+  <body>
+    {terms.map((item, index)=>{
+      return <Term key = {item}/>
+    })}
+  </body>
 }
 
 function AppInfo(){
@@ -174,40 +149,7 @@ function JsonDataDisplay(){
   }
 
 
-//https://www.kindacode.com/article/react-typescript-handling-onclick-event/
-//---------------- what is happening ----------------
-//when option in dropdown is clicked:
-//classN is set to that class
-//then the div is rendered according to that class
-//we need to stack divs
-
-// var test = false;
-// var test1 = false;
-// var test2 = false;
-// var test3 = false;
-// const TermAddingClassesDropdown: React.FunctionComponent = () => {
-  // const [classN, setClassN] = React.useState('');
-
-  // const handleChange = (event: any) => {
-  //   event.preventDefault();
-  //   setClassN(event.target.value);
-  //   //--------- very temporary workaround for adding element ---------
-  //   //--------- everyone please ignore ---------
-  //   if(test2){
-  //     test3 = true;
-  //   }
-  //   if(test1){
-  //     test2 = true;
-  //   }
-  //   if(test){
-  //     test1 = true;
-  //   }
-  //   if (!test1){
-  //     test = true;
-  //   }
-    //-----------------------------------------------------------------
-  // };
-function TermAddingClassesDropdown() {
+function Term(key : any) {
   return (
     <div className='displayApp'>
       <div className="classTable">
@@ -218,52 +160,10 @@ function TermAddingClassesDropdown() {
               <th>Credits</th>
             </tr>
             <tr>
-              {/* <FormControl sx={{ m: 1, minWidth: 150 }}>
-                <InputLabel id="demo-simple-select-helper-label">Add Class</InputLabel>
-                <Select
-                  labelId="demo-simple-select-helper-label"
-                  id="demo-simple-select-helper"
-                  value={classN}
-                  label="Class"
-                  onChange={handleChange}
-                >
-                  <MenuItem value="">
-                    <em>None</em>
-                  </MenuItem>
-                  <MenuItem value={290}>CS290:WebDev</MenuItem>
-                  <MenuItem value={344}>CS344:OS1</MenuItem>
-                  <MenuItem value={444}>CS444:OS1</MenuItem>
-                  <MenuItem value={370}>CS370:Intro to Security</MenuItem>
-                  <MenuItem value={427}>CS427:Cryptography</MenuItem>
-                </Select>
-              </FormControl> */}
             </tr>
           </thead>
           <tbody>
-            {/* <tr>
-              {classN !== ""
-                ? <FormGroup>
-                    <FormControlLabel control={<Checkbox />} label={classN} />
-                  </FormGroup>
-                : ""}
-            </tr>
-            <tr>
-              {classN !== "" && test1
-                ? <td>CS{classN}</td>
-                : ""}
-            </tr>
-            <tr>
-              {classN !== "" && test2
-                ? <td>CS{classN}</td>
-                : ""}
-            </tr>
-            <tr>
-              {classN !== "" && test3
-                ? <td>CS{classN}</td>
-                : ""}
-            </tr> */}
-
-
+            {/* map JSON data instead of hardcode */}
             <tr>
                 <FormGroup>
                   <FormControlLabel control={<Checkbox />} label="CS160" />
