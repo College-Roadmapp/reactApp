@@ -6,19 +6,60 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import Progressbar from './component/progressBar';
 import Header from './component/header';
 import About from './component/about';
-import Class from './component/class';
+import ProgressBar from './component/progressBar';
 import Resources from './component/resources';
-// import Roadmap from './component/roadmap';
 import ComputerScience from './component/computerScience.json'
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
-import FormHelperText from '@mui/material/FormHelperText';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
-import { styled } from '@mui/material/styles';
+import Checkbox from '@mui/material/Checkbox';
+import FormGroup from '@mui/material/FormGroup';
+import FormControlLabel from '@mui/material/FormControlLabel';
+// import { styled } from '@mui/material/styles';
+
+//------------------------------------------------------
+export type roadmapState = {
+  school: string;
+  major: string;
+  optionExist: boolean;
+  option: string;
+};
+
+const defaultState: roadmapState = {
+  school: "",
+  major: "",
+  optionExist: false,
+  option: ""
+};
+
+
+// const {
+//   DumbContextProvider: roadmapContextProvider,
+//   useDumbContext: useContext
+// } = DumbContextFactory<roadmapState>("roadmapState", defaultState, {
+//   persist: {
+//     type: "local",
+//     key: "user"
+//   }
+// });
+
+// const useRoadmapContext = () => {
+//   const { state, setState } = useContext();
+
+//   return {
+//     user: state,
+//     setUser: (newState: Partial<roadmapState>) => {
+//       setState({ ...state, ...newState });
+//     }
+//   };
+// };
+
+//------------------------------------------------------
+
+
 
 
 function Home() {
@@ -39,6 +80,7 @@ function Roadmap() {
           </div>
           {<AppDisplay/>}
           {<TermAddingClassesDropdown/>}
+          <ProgressBar bgcolor="orange" progress='30'  height={30} />
       </div>
   )
 }
@@ -138,33 +180,34 @@ function JsonDataDisplay(){
 //classN is set to that class
 //then the div is rendered according to that class
 //we need to stack divs
-var test = false;
-var test1 = false;
-var test2 = false;
-var test3 = false;
-const TermAddingClassesDropdown: React.FunctionComponent = () => {
-  const [classN, setClassN] = React.useState('');
 
-  const handleChange = (event: any) => {
-    event.preventDefault();
-    setClassN(event.target.value);
-    //--------- very temporary workaround for adding element ---------
-    //--------- everyone please ignore ---------
-    if(test2){
-      test3 = true;
-    }
-    if(test1){
-      test2 = true;
-    }
-    if(test){
-      test1 = true;
-    }
-    if (!test1){
-      test = true;
-    }
+// var test = false;
+// var test1 = false;
+// var test2 = false;
+// var test3 = false;
+// const TermAddingClassesDropdown: React.FunctionComponent = () => {
+  // const [classN, setClassN] = React.useState('');
+
+  // const handleChange = (event: any) => {
+  //   event.preventDefault();
+  //   setClassN(event.target.value);
+  //   //--------- very temporary workaround for adding element ---------
+  //   //--------- everyone please ignore ---------
+  //   if(test2){
+  //     test3 = true;
+  //   }
+  //   if(test1){
+  //     test2 = true;
+  //   }
+  //   if(test){
+  //     test1 = true;
+  //   }
+  //   if (!test1){
+  //     test = true;
+  //   }
     //-----------------------------------------------------------------
-  };
-
+  // };
+function TermAddingClassesDropdown() {
   return (
     <div className='displayApp'>
       <div className="classTable">
@@ -175,7 +218,7 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
               <th>Credits</th>
             </tr>
             <tr>
-              <FormControl sx={{ m: 1, minWidth: 150 }}>
+              {/* <FormControl sx={{ m: 1, minWidth: 150 }}>
                 <InputLabel id="demo-simple-select-helper-label">Add Class</InputLabel>
                 <Select
                   labelId="demo-simple-select-helper-label"
@@ -193,13 +236,15 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
                   <MenuItem value={370}>CS370:Intro to Security</MenuItem>
                   <MenuItem value={427}>CS427:Cryptography</MenuItem>
                 </Select>
-              </FormControl>
+              </FormControl> */}
             </tr>
           </thead>
           <tbody>
-            <tr>
+            {/* <tr>
               {classN !== ""
-                ? <td>CS{classN}</td>
+                ? <FormGroup>
+                    <FormControlLabel control={<Checkbox />} label={classN} />
+                  </FormGroup>
                 : ""}
             </tr>
             <tr>
@@ -216,6 +261,28 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
               {classN !== "" && test3
                 ? <td>CS{classN}</td>
                 : ""}
+            </tr> */}
+
+
+            <tr>
+                <FormGroup>
+                  <FormControlLabel control={<Checkbox />} label="CS160" />
+                </FormGroup>
+            </tr>
+            <tr>
+                <FormGroup>
+                  <FormControlLabel control={<Checkbox />} label="MTH251" />
+                </FormGroup>
+            </tr>
+            <tr>
+                <FormGroup>
+                  <FormControlLabel control={<Checkbox />} label="WR121" />
+                </FormGroup>
+            </tr>
+            <tr>
+                <FormGroup>
+                  <FormControlLabel control={<Checkbox />} label="HHS231" />
+                </FormGroup>
             </tr>
           </tbody>
         </table>
@@ -223,6 +290,8 @@ const TermAddingClassesDropdown: React.FunctionComponent = () => {
     </div>
   )
 };
+
+
 
 function CollegeDropDownMenu(){
   const [college, setCollege] = React.useState('');
@@ -257,7 +326,6 @@ function CollegeDropDownMenu(){
           <MenuItem value={100}>Science</MenuItem>
           <MenuItem value={110}>Veterinary Medicine</MenuItem>
         </Select>
-        {/* <FormHelperText>College</FormHelperText> */}
       </FormControl>
     </div>
   );
@@ -301,7 +369,6 @@ function MajorDropDownMenu(){
           <MenuItem value={150}>Nuclear Engineering</MenuItem>
           <MenuItem value={160}>Radiation Health Physics</MenuItem>
         </Select>
-        {/* <FormHelperText>Major</FormHelperText> */}
       </FormControl>
     </div>
   );
@@ -339,7 +406,6 @@ function OptionDropDownMenu(){
           <MenuItem value={90}>Applied Option: Web and Mobile Application</MenuItem>
           <MenuItem value={100}>Systems Option</MenuItem>
         </Select>
-        {/* <FormHelperText>Option</FormHelperText> */}
       </FormControl>
     </div>
   );
