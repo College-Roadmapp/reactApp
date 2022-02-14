@@ -10,8 +10,8 @@ import Progressbar from './component/progressBar';
 import Header from './component/header';
 import About from './component/about';
 import Class from './component/class';
+import JsonDataDisplay from './component/jsonDataDisplay';
 import Resources from './component/resources';
-import ComputerScience from './computerScience.json'
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormHelperText from '@mui/material/FormHelperText';
@@ -19,16 +19,15 @@ import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import { styled } from '@mui/material/styles';
 
+class courses{
+
+
+}
 
 function Home() {
   return (
     <body>
       {<AppInfo/>}
-      <div className = "dropDownMenu">
-        {<CollegeDropDownMenu/>}
-        {<MajorDropDownMenu/>}
-        {<OptionDropDownMenu/>}
-      </div>
       {<AppDisplay/>}
       {<TermAddingClassesDropdown/>}
     </body>
@@ -56,72 +55,17 @@ function AppInfo(){
 function AppDisplay(){
   return(
     <div className="displayApp">
-      <div className="classTable">
-        <JsonDataDisplay/>
+      <div className = "dropDownMenu">
+        {<CollegeDropDownMenu/>}
+        {<MajorDropDownMenu/>}
+        {<OptionDropDownMenu/>}
       </div>
+      {<JsonDataDisplay/>}
     </div>
 
   )
 }
 
-function JsonDataDisplay(){
-    let DisplayData: Array<any>;
-    DisplayData=ComputerScience.computerScience.map(
-        (info, i)=>{
-            return(
-                <tr>
-                    <td>{info.id}</td>
-                    <td>{info.name}</td>
-                    <td>{info.credits}</td>
-                    <td>{info.term}</td>
-                </tr>
-            )
-        }
-    );
-    //DisplayData.sort((a, b) => (a.credits < b.credits) ? 1 : -1)
-
-    //let NewArray: Array<any>;
-
-    //var NewArray = [];
-
-    //for (var j = 0; j < DisplayData.length; j++){\
-    //  let var0 = DisplayData[0];
-    //  let var1 = var0.credits;
-    //  let var2 = "3";
-    //  if (1 ){
-    //    NewArray.push(DisplayData[0]);
-    //  }
-
-/*
-    let sortedData = [...DisplayData];
-    sortedData.sort((a,b) => {
-      if(a.name < b.name){
-        return -1;
-      }
-      if(a.name > b.name){
-        return 1;
-      }
-    });
-
-*/
-    return(
-        <div>
-            <table className="table table-striped">
-                <thead>
-                    <tr>
-                    <th>Course ID</th>
-                    <th>Course Name</th>
-                    <th>Credits</th>
-                    <th>Term</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {DisplayData}
-                </tbody>
-            </table>
-        </div>
-    )
-  }
 
 
 //https://www.kindacode.com/article/react-typescript-handling-onclick-event/
