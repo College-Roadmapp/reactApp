@@ -1,4 +1,4 @@
-import React,{ useState, useEffect, Component, MouseEvent } from 'react';
+import React,{ FC, useState, useEffect, Component, MouseEvent } from 'react';
 import './osu.css';
 import {
   BrowserRouter as Router,
@@ -31,7 +31,11 @@ function Home() {
 }
 
 function Roadmap() {
-  let terms=['Fall 2022', 'Winter 2022', 'Spring 2023', 'Fall 2023', 'Winter 2023', 'Spring 2024', 'Fall 2024', 'Winter 2024', 'Spring 2025', 'Fall 2025', 'Winter 2025', 'Spring 2026', 'Fall 2026', 'Winter 2026', 'Spring 2027'];
+  let terms=['Fall 2022', 'Winter 2022', 'Spring 2023', 
+            'Fall 2023', 'Winter 2023', 'Spring 2024', 
+            'Fall 2024', 'Winter 2024', 'Spring 2025', 
+            'Fall 2025', 'Winter 2025', 'Spring 2026', 
+            'Fall 2026', 'Winter 2026', 'Spring 2027'];
   return(
       <div>
           <div className = "dropDownMenu">
@@ -40,24 +44,12 @@ function Roadmap() {
               {<OptionDropDownMenu/>}
           </div>
           {<AppDisplay/>}
-          {/* {<Term/>} */}
-          {/* {<FourYears/>}
-           */}
            {terms.map((item, index)=>{
-            return <Term key = {item}/>
+            return (<div><h2>{item}</h2><Term key = {item}/></div>)
           })}
           <ProgressBar bgcolor="orange" progress='30'  height={30} />
       </div>
   )
-}
-
-function FourYears(){
-  let terms=['Fall 2022', 'Winter 2022', 'Spring 2023', 'Fall 2023', 'Winter 2023', 'Spring 2024', 'Fall 2024', 'Winter 2024', 'Spring 2025', 'Fall 2025', 'Winter 2025', 'Spring 2026', 'Fall 2026', 'Winter 2026', 'Spring 2027'];
-  <body>
-    {terms.map((item, index)=>{
-      return <Term key = {item}/>
-    })}
-  </body>
 }
 
 function AppInfo(){
@@ -149,14 +141,24 @@ function JsonDataDisplay(){
   }
 
 
-function Term(key : any) {
-  return (
+// function Term(key : any) {
+  // return (
+interface KeyProps {
+  key: string,
+}
+const Term: FC<KeyProps> = (props):JSX.Element => {
+  return(
     <div className='displayApp'>
       <div className="classTable">
         <table className="table table-striped">
           <thead>
             <tr>
-              <th>Fall 2022 Classes</th>
+              {/* {props.key} */}
+              {/* <th>Fall 2022 Classes</th> */}
+              <th>Classes</th>
+              <th></th>
+              <th></th>
+              <th></th>
               <th>Credits</th>
             </tr>
             <tr>
