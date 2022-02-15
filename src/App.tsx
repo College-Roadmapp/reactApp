@@ -1,7 +1,7 @@
 import React,{ FC, useState, useEffect, Component, MouseEvent } from 'react';
 import './osu.css';
 import {
-  BrowserRouter as Router,
+  BrowserRouter,
   Routes,
   Route,
   Link
@@ -32,23 +32,9 @@ function Home() {
 }
 
 function Roadmap() {
-  let terms=['Fall 2022', 'Winter 2022', 'Spring 2023', 
-            'Fall 2023', 'Winter 2023', 'Spring 2024', 
-            'Fall 2024', 'Winter 2024', 'Spring 2025', 
-            'Fall 2025', 'Winter 2025', 'Spring 2026', 
-            'Fall 2026', 'Winter 2026', 'Spring 2027'];
   return(
       <div>
-          {/* <div className = "dropDownMenu">
-              {<CollegeDropDownMenu/>}
-              {<MajorDropDownMenu/>}
-              {<OptionDropDownMenu/>}
-          </div> */}
           {<AppDisplay/>}
-           {/* {terms.map((item, index)=>{
-            return (<div><h2>{item}</h2><Term key = {item}/></div>)
-          })} */}
-          {/* <ProgressBar bgcolor="orange" progress='30'  height={30} /> */}
       </div>
   )
 }
@@ -79,65 +65,63 @@ function AppDisplay(){
         {<MajorDropDownMenu/>}
         {<OptionDropDownMenu/>}
       </div>
-      {<JsonDataDisplay/>}
+      {/* {<JsonDataDisplay/>} */}
     </div>
-
-
   )
 }
 
 
 // function Term(key : any) {
   // return (
-interface KeyProps {
-  key: string,
-}
-const Term: FC<KeyProps> = (props):JSX.Element => {
-  return(
-    <div className='displayApp'>
-      <div className="classTable">
-        <table className="table table-striped">
-          <thead>
-            <tr>
-              {/* {props.key} */}
-              {/* <th>Fall 2022 Classes</th> */}
-              <th>Classes</th>
-              <th></th>
-              <th></th>
-              <th></th>
-              <th>Credits</th>
-            </tr>
-            <tr>
-            </tr>
-          </thead>
-          <tbody>
-            {/* map JSON data instead of hardcode */}
-            <tr>
-                <FormGroup>
-                  <FormControlLabel control={<Checkbox />} label="CS160" />
-                </FormGroup>
-            </tr>
-            <tr>
-                <FormGroup>
-                  <FormControlLabel control={<Checkbox />} label="MTH251" />
-                </FormGroup>
-            </tr>
-            <tr>
-                <FormGroup>
-                  <FormControlLabel control={<Checkbox />} label="WR121" />
-                </FormGroup>
-            </tr>
-            <tr>
-                <FormGroup>
-                  <FormControlLabel control={<Checkbox />} label="HHS231" />
-                </FormGroup>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  )
-};
+// interface KeyProps {
+//   key: string,
+// }
+// const Term: FC<KeyProps> = (props):JSX.Element => {
+//   return(
+//     <div className='displayApp'>
+//       <div className="classTable">
+//         <table className="table table-striped">
+//           <thead>
+//             <tr>
+//               {/* {props.key} */}
+//               {/* <th>Fall 2022 Classes</th> */}
+//               <th>Classes</th>
+//               <th></th>
+//               <th></th>
+//               <th></th>
+//               <th>Credits</th>
+//             </tr>
+//             <tr>
+//             </tr>
+//           </thead>
+//           <tbody>
+//             {/* map JSON data instead of hardcode */}
+//             <tr>
+//                 <FormGroup>
+//                   <FormControlLabel control={<Checkbox />} label="CS160" />
+//                 </FormGroup>
+//             </tr>
+//             <tr>
+//                 <FormGroup>
+//                   <FormControlLabel control={<Checkbox />} label="MTH251" />
+//                 </FormGroup>
+//             </tr>
+//             <tr>
+//                 <FormGroup>
+//                   <FormControlLabel control={<Checkbox />} label="WR121" />
+//                 </FormGroup>
+//             </tr>
+//             <tr>
+//                 <FormGroup>
+//                   <FormControlLabel control={<Checkbox />} label="HHS231" />
+//                 </FormGroup>
+//             </tr>
+//           </tbody>
+//         </table>
+//       </div>
+//     </div>
+//   )
+// };
 
 
 
@@ -146,6 +130,7 @@ function CollegeDropDownMenu(){
 
   const handleChange = (event : any) => {
     setCollege(event.target.value);
+
   };
 //https://mui.com/components/selects/
   return (
@@ -162,28 +147,42 @@ function CollegeDropDownMenu(){
           <MenuItem value="">
             <em>None</em>
           </MenuItem>
-          <MenuItem value={10}>Agricultural Sciences</MenuItem>
-          <MenuItem value={20}>Business</MenuItem>
-          <MenuItem value={30}>Earth, Ocean, and Atmospheric Sciences</MenuItem>
-          <MenuItem value={40}>Education</MenuItem>
-          <MenuItem value={50}>Engineering</MenuItem>
-          <MenuItem value={60}>Forestry</MenuItem>
-          <MenuItem value={70}>Liberal Arts</MenuItem>
-          <MenuItem value={80}>Pharmacy</MenuItem>
-          <MenuItem value={90}>Public Health and Human Sciences</MenuItem>
-          <MenuItem value={100}>Science</MenuItem>
-          <MenuItem value={110}>Veterinary Medicine</MenuItem>
+          <MenuItem value={"ag-sci"}>Agricultural Sciences</MenuItem>
+          <MenuItem value={"business"}>Business</MenuItem>
+          <MenuItem value={"eart-ocean-atmos-science"}>Earth, Ocean, and Atmospheric Sciences</MenuItem>
+          <MenuItem value={"education"}>Education</MenuItem>
+          <MenuItem value={"engineering"}>Engineering</MenuItem>
+          <MenuItem value={"forestry"}>Forestry</MenuItem>
+          <MenuItem value={"liberal-arts"}>Liberal Arts</MenuItem>
+          <MenuItem value={"pharmacy"}>Pharmacy</MenuItem>
+          <MenuItem value={"public-health-human-science"}>Public Health and Human Sciences</MenuItem>
+          <MenuItem value={"science"}>Science</MenuItem>
+          <MenuItem value={"vet-science"}>Veterinary Medicine</MenuItem>
         </Select>
       </FormControl>
+      {college == "engineering" ?
+      <div>
+      <Routes>
+            <Route  path="/roadmap/computer-science" element={<JsonDataDisplay/>}/>
+      </Routes>
+      {/* <div>hi</div> */}
+      {<JsonDataDisplay/>}
+      </div>
+      :
+      <div></div>
+      }
     </div>
   );
 }
+
+
 
 function MajorDropDownMenu(){
   const [major, setMajor] = React.useState('');
 
   const handleChange = (event : any) => {
     setMajor(event.target.value);
+    // history.push('/list');
   };
 //https://mui.com/components/selects/
   return (
@@ -269,6 +268,7 @@ function App() {
       <Routes>
             <Route  path="/" element={<Home/>}/>
             <Route  path="/roadmap" element={<Roadmap/>}/>
+            <Route  path="/roadmap/computer-science" element={<JsonDataDisplay/>}/>
             <Route  path="/about" element={<About/>}/>
             <Route  path="/resources" element={<Resources/>}/>
       </Routes>

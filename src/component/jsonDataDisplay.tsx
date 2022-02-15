@@ -1,6 +1,5 @@
 import React,{ useState, useEffect, Component, MouseEvent } from 'react';
 
-
 function JsonDataDisplay(){
   const parsedJSON = require('./computerScience.json');
   var result = parsedJSON.computerScience;
@@ -35,7 +34,10 @@ function JsonDataDisplay(){
   return var1}
 
 function TermTable(result:any, term_no:any){
-
+    const [classCheck, setClassCheck] = React.useState('');
+    const handleChange = (event : any) => {
+        setClassCheck(event.target.value)
+    }
     var temp= [];
 
     for(let i=0; i < result.length; i++){
@@ -48,6 +50,7 @@ function TermTable(result:any, term_no:any){
         (info, i)=>{
             return(
                 <tr>
+                    {/* <input type="checkbox" value={1} onChange={handleChange}/> */}
                     <td>{info.id}</td>
                     <td>{info.name}</td>
                     <td>{info.credits}</td>
