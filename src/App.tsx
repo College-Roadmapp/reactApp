@@ -10,7 +10,8 @@ import Header from './component/header';
 import About from './component/about';
 import ProgressBar from './component/progressBar';
 import Resources from './component/resources';
-import ComputerScience from './component/computerScience.json'
+import ComputerScience from './component/computerScience.json';
+import JsonDataDisplay from './component/jsonDataDisplay';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
@@ -38,16 +39,16 @@ function Roadmap() {
             'Fall 2026', 'Winter 2026', 'Spring 2027'];
   return(
       <div>
-          <div className = "dropDownMenu">
+          {/* <div className = "dropDownMenu">
               {<CollegeDropDownMenu/>}
               {<MajorDropDownMenu/>}
               {<OptionDropDownMenu/>}
-          </div>
+          </div> */}
           {<AppDisplay/>}
-           {terms.map((item, index)=>{
+           {/* {terms.map((item, index)=>{
             return (<div><h2>{item}</h2><Term key = {item}/></div>)
-          })}
-          <ProgressBar bgcolor="orange" progress='30'  height={30} />
+          })} */}
+          {/* <ProgressBar bgcolor="orange" progress='30'  height={30} /> */}
       </div>
   )
 }
@@ -73,72 +74,17 @@ function AppInfo(){
 function AppDisplay(){
   return(
     <div className="displayApp">
-      <div className="classTable">
-        <JsonDataDisplay/>
+      <div className = "dropDownMenu">
+        {<CollegeDropDownMenu/>}
+        {<MajorDropDownMenu/>}
+        {<OptionDropDownMenu/>}
       </div>
+      {<JsonDataDisplay/>}
     </div>
+
 
   )
 }
-
-function JsonDataDisplay(){
-    let DisplayData: Array<any>;
-    DisplayData=ComputerScience.computerScience.map(
-        (info, i)=>{
-            return(
-                <tr>
-                    <td>{info.id}</td>
-                    <td>{info.name}</td>
-                    <td>{info.credits}</td>
-                    <td>{info.term}</td>
-                </tr>
-            )
-        }
-    );
-    //DisplayData.sort((a, b) => (a.credits < b.credits) ? 1 : -1)
-
-    //let NewArray: Array<any>;
-
-    //var NewArray = [];
-
-    //for (var j = 0; j < DisplayData.length; j++){\
-    //  let var0 = DisplayData[0];
-    //  let var1 = var0.credits;
-    //  let var2 = "3";
-    //  if (1 ){
-    //    NewArray.push(DisplayData[0]);
-    //  }
-
-/*
-    let sortedData = [...DisplayData];
-    sortedData.sort((a,b) => {
-      if(a.name < b.name){
-        return -1;
-      }
-      if(a.name > b.name){
-        return 1;
-      }
-    });
-
-*/
-    return(
-        <div>
-            <table className="table table-striped">
-                <thead>
-                    <tr>
-                    <th>Course ID</th>
-                    <th>Course Name</th>
-                    <th>Credits</th>
-                    <th>Term</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {DisplayData}
-                </tbody>
-            </table>
-        </div>
-    )
-  }
 
 
 // function Term(key : any) {
