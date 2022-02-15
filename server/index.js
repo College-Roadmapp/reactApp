@@ -15,14 +15,31 @@ app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
 // app.use('/', routesHandler);
 
-pool.getConnection( (err,conn) => {
+// pool.getConnection( (err,conn) => {
+//     if (err) throw err;
+//     const qry = 'INSERT INTO course(course_crn, course_subject, course_name, course_description, course_term, course_credits) VALUES(?,?,?,?,?,?)';
+//     conn.query(qry, ['33991','CS','Operating Systems I','Intro to Op. Systems','W22','4'], (err, result) => {
+//         conn.release();
+//         if (err) throw err;
+//         console.log(result);
+//     });
+// });
+
+pool.getConnection( (err, conn) => {
     if (err) throw err;
-    const qry = 'INSERT INTO course(course_crn, course_subject, course_name, course_description, course_term, course_credits) VALUES(?,?,?,?,?,?)';
-    conn.query(qry, ['33991','CS','Operating Systems I','Intro to Op. Systems','W22','4'], (err, result) => {
-        conn.release();
-        if (err) throw err;
-        console.log(result);
-    });
+
+    try {
+        const qry = `SELECT course_name, course_crn FROM course`
+        conn.query(qry, (err, result) => {
+            conn.release();
+            if (err) throw err;
+            console.log(result);
+            //res.send(JSON.stringify(result));
+        })
+    } catch (err) {
+        console.log(err);
+        //res.end();
+    }
 });
 
 const PORT = process.env.PORT || 4000;

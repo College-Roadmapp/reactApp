@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const pool = require('../config/db.js');
 
-router.get('/courses', async (req, res) => {
+router.get('/roadmap', async (req, res) => {
     pool.getConnection( (err, conn) => {
         if (err) throw err;
 
