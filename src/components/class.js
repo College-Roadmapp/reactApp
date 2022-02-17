@@ -1,4 +1,4 @@
-import React,{ useState, useEffect, Component, MouseEvent } from 'react';
+import React from 'react';
 
 function Class(){
     return (

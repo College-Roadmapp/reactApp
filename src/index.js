@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import About from './component/about';
-import Resources from './component/resources';
-import Roadmap from './component/roadmap'
+import About from './components/about';
+import Resources from './components/resources';
+import Roadmap from './components/roadmap'
 import reportWebVitals from './reportWebVitals';
 import {
   BrowserRouter,

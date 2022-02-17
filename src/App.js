@@ -1,6 +1,6 @@
 import React from 'react';
 import './osu.css';
-import Header from './component/header';
+import Header from './components/header';
 
 
 function Home() {
