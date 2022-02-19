@@ -23,8 +23,8 @@ function AppDisplay(){
       <div className="displayApp">
       <div className = "dropDownMenu">
           {<CollegeDropDownMenu/>}
-          {<MajorDropDownMenu/>}
-          {<OptionDropDownMenu/>}
+          {/* {<MajorDropDownMenu/>} */}
+          {/* {<OptionDropDownMenu/>} */}
       </div>
       </div>
   )
@@ -70,6 +70,13 @@ function CollegeDropDownMenu(){
         {college === "engineering" ?
         <div>
         {<JsonDataDisplay/>}
+        </div>
+        :
+        <div></div>
+        }
+        {college !== '' ?
+        <div>
+          {<MajorDropDownMenu/>}
         </div>
         :
         <div></div>
@@ -121,6 +128,13 @@ function MajorDropDownMenu(){
           
         </Select>
       </FormControl>
+      {major === 'comp-sci' ?
+        <div>
+          {<OptionDropDownMenu/>}
+        </div>
+        :
+        <div></div>
+        }
     </div>
   );
 }
