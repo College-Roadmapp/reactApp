@@ -2,15 +2,6 @@ import React from 'react';
 import './osu.css';
 import Header from './components/header';
 
-
-function Home() {
-  return (
-    <body>
-      {<AppInfo/>}
-    </body>
-  )
-}
-
 function AppInfo(){
   return(
   <div id="page-hero" style={{backgroundImage: "url(" + "https://conferences.oregonstate.edu/sites/conferences.oregonstate.edu/files/beautiful-campus-oregon-state-university.jpg" + ")"}}>
@@ -32,7 +23,7 @@ function App() {
   return (
     <div>
       {Header()}
-      {Home()}
+      {<AppInfo/>}
     </div>
   );
 }

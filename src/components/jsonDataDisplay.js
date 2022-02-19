@@ -3,7 +3,6 @@ import React from 'react';
 function JsonDataDisplay(){
   const parsedJSON = require('./computerScience.json');
   var result = parsedJSON.computerScience;
-
   for(let i=0; i<3; i++){
 
   }
@@ -29,9 +28,8 @@ function JsonDataDisplay(){
         </div>
     </div>
   )
-
-
-  return var1}
+  return var1
+}
 
 function TermTable(result, term_no){
     const [classCheck, setClassCheck] = React.useState('');
