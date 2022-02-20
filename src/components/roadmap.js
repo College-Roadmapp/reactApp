@@ -5,8 +5,6 @@ import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import Header from './header';
 import React, { Component, useState } from 'react';
-// import { Menu } from '@mui/material';
-// import { render } from '@testing-library/react';
 
 
 function Roadmap() {
@@ -22,15 +20,13 @@ function AppDisplay(){
   return(
       <div className="displayApp">
       <div className = "dropDownMenu">
-          {<CollegeDropDownMenu/>}
-          {/* {<MajorDropDownMenu/>} */}
-          {/* {<OptionDropDownMenu/>} */}
+          {<DropDowns/>}
       </div>
       </div>
   )
 }
 
-function CollegeDropDownMenu(){
+function DropDowns(){
   let colleges = [
     {label: "Agricultural Sciences", value: "ag-sci"},
     {label: "Business", value: "business"},
@@ -50,43 +46,7 @@ function CollegeDropDownMenu(){
   const handleChange = (event) => {
     setCollege(event.target.value);
   };
-  return (
-      <div>
-        <FormControl sx={{ m: 1, minWidth: 120 }}>
-          <InputLabel id="demo-simple-select-helper-label">College</InputLabel>
-          <Select
-            labelId="demo-simple-select-helper-label"
-            id="demo-simple-select-helper"
-            value={college}
-            label="College"
-            onChange={handleChange}
-          >
-            <MenuItem value="">
-              <em>None</em>
-            </MenuItem>
-            {colleges.map((college) => <MenuItem value={college.value}>{college.label}</MenuItem>)}
-          </Select>
-        </FormControl>
-        {college === "engineering" ?
-        <div>
-        {<JsonDataDisplay/>}
-        </div>
-        :
-        <div></div>
-        }
-        {college !== '' ?
-        <div>
-          {<MajorDropDownMenu/>}
-        </div>
-        :
-        <div></div>
-        }
-      </div>
-  );
-}
-  
 
-function MajorDropDownMenu(){
 
   let engineeringMajors = [
     {label: "Architectual Engineering", value: "arch"},
@@ -107,39 +67,11 @@ function MajorDropDownMenu(){
   ]
   const [major, setMajor] = React.useState('');
 
-  const handleChange = (event) => {
+  const handleMajorChange = (event) => {
     setMajor(event.target.value);
   };
-  return (
-    <div>
-      <FormControl sx={{ m: 1, minWidth: 120 }}>
-        <InputLabel id="demo-simple-select-helper-label">Major</InputLabel>
-        <Select
-          labelId="demo-simple-select-helper-label"
-          id="demo-simple-select-helper"
-          value={major}
-          label="Major"
-          onChange={handleChange}
-        >
-          <MenuItem value="">
-            <em>None</em>
-          </MenuItem>
-          {engineeringMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)}
-          
-        </Select>
-      </FormControl>
-      {major === 'comp-sci' ?
-        <div>
-          {<OptionDropDownMenu/>}
-        </div>
-        :
-        <div></div>
-        }
-    </div>
-  );
-}
-  
-function OptionDropDownMenu(){
+
+
   let csOptions =[
     {label: "Cybersecurity", value:"cyber-sec"},
     {label: "Data Science", value:"data"},
@@ -154,27 +86,83 @@ function OptionDropDownMenu(){
   ]
   const [option, setOption] = React.useState('');
 
-  const handleChange = (event) => {
+  const handleOptionChange = (event) => {
     setOption(event.target.value);
   };
+
+
   return (
-    <div>
-      <FormControl sx={{ m: 1, minWidth: 120 }}>
-        <InputLabel id="demo-simple-select-helper-label">Option</InputLabel>
-        <Select
-          labelId="demo-simple-select-helper-label"
-          id="demo-simple-select-helper"
-          value={option}
-          label="Option"
-          onChange={handleChange}
-        >
-          <MenuItem value="">
-            <em>None</em>
-          </MenuItem>
-          {csOptions.map((option) => <MenuItem value={option.value}>{option.label}</MenuItem>)}
-        </Select>
-      </FormControl>
-    </div>
+      <div>
+        <FormControl sx={{ m: 1, minWidth: 120 }}>
+          <InputLabel id="demo-simple-select-helper-label">College</InputLabel>
+          <Select
+            labelId="demo-simple-select-helper-label"
+            id="demo-simple-select-helper"
+            value={college}
+            label="College"
+            onChange={handleChange}
+          >
+            <MenuItem value="">
+              <em>None</em>
+            </MenuItem>
+            {colleges.map((college) => <MenuItem value={college.value}>{college.label}</MenuItem>)}
+          </Select>
+        </FormControl>
+        {college !== '' ?
+        <div>
+          <div>
+            <FormControl sx={{ m: 1, minWidth: 120 }}>
+              <InputLabel id="demo-simple-select-helper-label">Major</InputLabel>
+              <Select
+                labelId="demo-simple-select-helper-label"
+                id="demo-simple-select-helper"
+                value={major}
+                label="Major"
+                onChange={handleMajorChange}
+              >
+                <MenuItem value="">
+                  <em>None</em>
+                </MenuItem>
+                {engineeringMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)}
+                
+              </Select>
+            </FormControl>
+            {major === 'comp-sci' ?
+              <div>
+                <div>
+                  <FormControl sx={{ m: 1, minWidth: 120 }}>
+                    <InputLabel id="demo-simple-select-helper-label">Option</InputLabel>
+                    <Select
+                      labelId="demo-simple-select-helper-label"
+                      id="demo-simple-select-helper"
+                      value={option}
+                      label="Option"
+                      onChange={handleOptionChange}
+                    >
+                      <MenuItem value="">
+                        <em>None</em>
+                      </MenuItem>
+                      {csOptions.map((option) => <MenuItem value={option.value}>{option.label}</MenuItem>)}
+                    </Select>
+                  </FormControl>
+                </div>
+              </div>
+              :
+              <div></div>
+              }
+          </div>
+        </div>
+        :
+        <div></div>
+        }
+        {college === "engineering" ?
+        <div>
+        {<JsonDataDisplay/>}
+        </div>
+        :
+        <div></div>
+        }
+      </div>
   );
 }
   
