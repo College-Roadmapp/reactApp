@@ -1,0 +1,19 @@
+{
+    "engineeringMajors":[
+        {"label": "Architectual Engineering", "value": "arch"},
+        {"label": "Bioengineering", "value": "bio"},
+        {"label": "Chemical Engineering", "value": "chem"},
+        {"label": "Civil Engineering", "value": "civil"},
+        {"label": "Computer Science", "value": "comp-sci"},
+        {"label": "Construction Engineering Management", "value": "construction-mgmt"},
+        {"label": "Ecological Engineering", "value": "eco"},
+        {"label": "Electric and Computer Engineering", "value": "electric"},
+        {"label": "Energy Systems Engineering", "value": "energy-sys"},
+        {"label": "Environmental Engineering", "value": "enviro"},
+        {"label": "Industrial Engineering", "value": "industrial"},
+        {"label": "Manufacturing Engineering", "value": "manufacturing"},
+        {"label": "Mechanical Engineering", "value": "mechanical"},
+        {"label": "Nuclear Engineering", "value": "nuclear"},
+        {"label": "Radiation Health Physics", "value": "radiation"}
+    ]
+}
