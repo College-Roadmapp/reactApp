@@ -26,11 +26,6 @@ function AppDisplay(){
   )
 }
 
-
-
-//notes:
-//couldnt render only the map MenuItem components because the conditional
-//statements need a parent component
 function DropDowns(){
   //---------- variables for college selection -----------
   const collegesJSON = require('./colleges.json');
@@ -127,10 +122,6 @@ function DropDowns(){
 
                     </Select> 
               </FormControl>
-
-
-
-
 
             {major === 'comp-sci' ?
               <div>
