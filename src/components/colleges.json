@@ -9,7 +9,6 @@
         {"label": "Liberal Arts", "value": "liberal-arts"},
         {"label": "Pharmacy", "value": "pharmacy"},
         {"label": "Public Health and Human Sciences", "value": "public-health-human-science"},
-        {"label": "Science", "value": "science"},
-        {"label": "Veterinary Medicine", "value": "vet-med"}
+        {"label": "Science", "value": "science"}
     ]
 }

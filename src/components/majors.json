@@ -1,19 +1,124 @@
 {
-    "engineeringMajors":[
-        {"label": "Architectual Engineering", "value": "arch"},
-        {"label": "Bioengineering", "value": "bio"},
-        {"label": "Chemical Engineering", "value": "chem"},
-        {"label": "Civil Engineering", "value": "civil"},
-        {"label": "Computer Science", "value": "comp-sci"},
-        {"label": "Construction Engineering Management", "value": "construction-mgmt"},
-        {"label": "Ecological Engineering", "value": "eco"},
-        {"label": "Electric and Computer Engineering", "value": "electric"},
-        {"label": "Energy Systems Engineering", "value": "energy-sys"},
-        {"label": "Environmental Engineering", "value": "enviro"},
-        {"label": "Industrial Engineering", "value": "industrial"},
-        {"label": "Manufacturing Engineering", "value": "manufacturing"},
-        {"label": "Mechanical Engineering", "value": "mechanical"},
-        {"label": "Nuclear Engineering", "value": "nuclear"},
-        {"label": "Radiation Health Physics", "value": "radiation"}
-    ]
+    "majors":{
+            "agSciMajors":[
+                {"label": "Agricultural and Food Business Management", "value":"ag-food-bus-mgmt"},
+                {"label": "Agricultural Sciences", "value":"agSci"},
+                {"label": "Animal Sciences", "value":"an-sci"},
+                {"label": "Biological Data Sciences", "value":"bio-data"},
+                {"label": "Bioresource Research", "value":"bioresource"},
+                {"label": "Botany", "value":"botany"},
+                {"label": "Crop and Soil Science", "value":"crop-soil"},
+                {"label": "Ecological Engineering", "value":"eco-eng"},
+                {"label": "Environmental Economics and Policy", "value":"enviro-eco-policy"},
+                {"label": "Fisheries, Wildlife, and Conservation Sciences", "value":"fish-wild"},
+                {"label": "Food Science and Technology", "value":"food-sci-tech"},
+                {"label": "Horticulture", "value":"horticulture"},
+                {"label": "Rangeland Sciences", "value":"range-sci"},
+                {"label": "Sustainability Double Degree", "value":"sus-double"}
+            ],
+            "businessMajors":[
+                {"label": "Accounting", "value":"acct"},
+                {"label": "Apparel Design", "value":"app-des"},
+                {"label": "Business Administration", "value":"bus-admin"},
+                {"label": "Business Analytics", "value":"bus-analytics"},
+                {"label": "Business Information Systems", "value":"bus-info-sys"},
+                {"label": "Design and Innovation Management", "value":"des-inn-mgmt"},
+                {"label": "Finance", "value":"finance"},
+                {"label": "Hospitality Management", "value":"hosp-mgmt"},
+                {"label": "Innovation Management", "value":"inn-mgmt"},
+                {"label": "Interior Design", "value":"int-des"},
+                {"label": "Management", "value":"mgmt"},
+                {"label": "Marketing", "value":"marketing"},
+                {"label": "Merchandising Management", "value":"merch-mgmt"},
+                {"label": "Supply Chain and Logistics Management", "value":"supply-chain-mgmt"}
+            ],
+            "EOASMajors":[
+                {"label": "Climate Science", "value":"climate-sci"},
+                {"label": "Environmental Sciences", "value":"enviro-sci"},
+                {"label": "Geography and Geospatial Science", "value":"geo-sci"},
+                {"label": "Geogoly", "value":"geo"},
+                {"label": "Ocean Science", "value":"ocean-sci"}
+            ],
+            "educationMajors":[
+                {"label": "Education Double Degree", "value":"ed-double-deg"},
+                {"label": "Elementary Education", "value":"elem-ed"},
+                {"label": "Clinincally Based Elementary Education", "value":"clin-elem-ed"}
+            ],
+            "engineeringMajors":[
+                {"label": "Architectual Engineering", "value": "arch"},
+                {"label": "Bioengineering", "value": "bio"},
+                {"label": "Chemical Engineering", "value": "chem"},
+                {"label": "Civil Engineering", "value": "civil"},
+                {"label": "Computer Science", "value": "comp-sci"},
+                {"label": "Construction Engineering Management", "value": "construction-mgmt"},
+                {"label": "Ecological Engineering", "value": "eco"},
+                {"label": "Electric and Computer Engineering", "value": "electric"},
+                {"label": "Energy Systems Engineering", "value": "energy-sys"},
+                {"label": "Environmental Engineering", "value": "enviro"},
+                {"label": "Industrial Engineering", "value": "industrial"},
+                {"label": "Manufacturing Engineering", "value": "manufacturing"},
+                {"label": "Mechanical Engineering", "value": "mechanical"},
+                {"label": "Nuclear Engineering", "value": "nuclear"},
+                {"label": "Radiation Health Physics", "value": "radiation"}
+            ],
+            "forestryMajors":[
+                {"label": "Forestry", "value":"forestry"},
+                {"label": "Natural Resources", "value":"nat-resources"},
+                {"label": "Forest Engineering/Civil Engineering", "value":"for-eng-civil-eng"},
+                {"label": "Renewable Materials", "value":"ren-materials"},
+                {"label": "Tourism, Recreation and Adventure Leadership", "value":"tour-rec-adv-leader"}
+            ],
+            "libArtsMajors":[
+                {"label": "American Studies", "value":"amer-studies"},
+                {"label": "Anthropology", "value":"anthro"},
+                {"label": "Art History", "value":"art-history"},
+                {"label": "Arts, Media, and Technology", "value":"art-media-tech"},
+                {"label": "Creative Writing", "value":"creative-writing"},
+                {"label": "Digital Communication Arts", "value":"dig-comm-art"},
+                {"label": "Economics", "value":"economics"},
+                {"label": "English", "value":"english"},
+                {"label": "Ethnic Studies", "value":"ethnic-studies"},
+                {"label": "French", "value":"french"},
+                {"label": "German", "value":"German"},
+                {"label": "Graphic Design", "value":"graphic-design"},
+                {"label": "History", "value":"history"},
+                {"label": "International Studies", "value":"inter-studies"},
+                {"label": "Liberal Studies", "value":"lib-studies"},
+                {"label": "Marine Studies", "value":"marine-studies"},
+                {"label": "Music", "value":"music"},
+                {"label": "Music Studies", "value":"music-studies"},
+                {"label": "New Media Communications", "value":"new-media-comm"},
+                {"label": "Philosophy", "value":"philosophy"},
+                {"label": "Political Science", "value":"political-sci"},
+                {"label": "Psychology", "value":"psychology"},
+                {"label": "Public Policy", "value":"public-policy"},
+                {"label": "Religious Studies", "value":"religious-studies"},
+                {"label": "Social Science", "value":"social-sci"},
+                {"label": "Sociology", "value":"sociology"},
+                {"label": "Spanish", "value":"spanish"},
+                {"label": "Speech Communication", "value":"speech-comm"},
+                {"label": "Women, Gender, and Sexuality Studies", "value":"women-gender-sex"}
+            ],
+            "pharmacyMajors":[
+                {"label": "PharmD Degree", "value":"pharmd"}
+            ],
+            "pubHealthMajors":[
+                {"label": "Health Management and Policy", "value":"health-mgmt-policy"},
+                {"label": "Health Promotion and Health Behavior", "value":"health-promo-behavior"},
+                {"label": "Human Development and Family Sciences", "value":"human-dev-fam-sci"},
+                {"label": "Kinesiology", "value":"kin"},
+                {"label": "Nutrition", "value":"nutrition"}
+            ],
+            "scienceMajors":[
+                {"label": "Biochemistry and Biophysics", "value":"biochem-biophys"},
+                {"label": "Biochemistry and Molecular Biology", "value":"biochem-molbio"},
+                {"label": "BioHealth Sciences", "value":"biohealth-sci"},
+                {"label": "Biology", "value":"bio"},
+                {"label": "Chemistry", "value":"chem"},
+                {"label": "Mathematics", "value":"math"},
+                {"label": "Microbiology", "value":"microbio"},
+                {"label": "Physics", "value":"physics"},
+                {"label": "Zoology", "value":"zoology"}
+            ]
+    }
 }
