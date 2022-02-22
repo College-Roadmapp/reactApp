@@ -1,0 +1,873 @@
+{
+    "all": {
+        "academic-learning-services":{
+
+        },
+        "accounting":
+        {
+
+        },
+        "computer-science":{
+            "label": "CS",
+            "class-list":{
+                "CS101":{
+                    "name": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS101"
+                },
+                "CS160":{
+                    "name": "COMPUTER SCIENCE ORIENTATION",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS160"
+                },
+                "CS160H":{
+                    "name": "COMPUTER SCIENCE ORIENTATION",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS160H"
+                },
+                "CS161":{
+                    "name": "INTRODUCTION TO COMPUTER SCIENCE I",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "MTH112"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS161"
+                },
+                "CS162":{
+                    "name": "INTRODUCTION TO COMPUTER SCIENCE II",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS161"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS162"
+                },
+                "CS165":{
+                    "name": "ACCELERATED INTRODUCTION TO COMPUTER SCIENCE",
+                    "terms": [
+
+                    ],
+                    "prereqs": [
+                        "MTH112"
+                    ],
+                    "credits": 8,
+                    "id": "/courses/all/computer-science/class-list/CS165"
+                },
+                "CS175":{
+                    "name": "COMMUNICATIONS SECURITY AND SOCIAL MOVEMENTS",
+                    "terms": [
+                        "Wi",
+                        "Sp"
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS175"
+                },
+                "CS195":{
+                    "name": "WEBSITE DESIGN",
+                    "terms": [
+
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS195"
+                },
+                "CS199":{
+                    "name": "SPECIAL TOPICS/COMPUTER SCIENCE",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS199"
+                },
+                "CS201":{
+                    "name": "COMPUTER PROGRAMMING FOR NON-CS MAJORS",
+                    "terms": [
+                        "Wi",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "MTH111"
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS201"
+                },
+                "CS225":{
+                    "name": "DISCRETE STRUCTURES IN COMPUTER SCIENCE",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "MTH111"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS225"
+                },
+                "CS261":{
+                    "name": "DATA STRUCTURES",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS162",
+                        "CS225 or MTH231"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS261"
+                },
+                "CS262":{
+                    "name": "PROGRAMMING PROJECTS IN C++",
+                    "terms": [
+                    ],
+                    "prereqs": [
+                        "CS262"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS262"
+                },
+                "CS271":{
+                    "name": "COMPUTER ARCHITECTURE AND ASSEMBLY LANGUAGE",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS161"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS271"
+                },
+                "CS290":{
+                    "name": "WEB DEVELOPMENT",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS162"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS290"
+                },
+                "CS295":{
+                    "name": "WEBSITE MANAGEMENT",
+                    "terms": [
+
+                    ],
+                    "prereqs": [
+                        "CS195"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS295"
+                },
+                "CS299":{
+                    "name": "SPECIAL TOPICS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+    
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS299"
+                },
+                "CS312":{
+                    "name": "SYSTEM ADMINISTRATION",
+                    "terms": [
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS344",
+                        "CS372"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS312"
+                },
+                "CS321":{
+                    "name": "INTRODUCTION TO THEORY OF COMPUTATION",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261",
+                        "CS225"
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS321"
+                },
+                "CS325":{
+                    "name": "ANALYSIS OF ALGORITHMS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS325"
+                },
+                "CS331":{
+                    "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+                    "terms": [
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS325"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS331"
+                },
+                "CS340":{
+                    "name": "INTRODUCTION TO DATABASES",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS290"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS340"
+                },
+                "CS344":{
+                    "name": "OPERATING SYSTEMS I",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS344"
+                },
+                "CS352":{
+                    "name": "INTRODUCTION TO USABILITY ENGINEERING",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS161"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS352"
+                },
+                "CS361":{
+                    "name": "SOFTWARE ENGINEERING I",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS361"
+                },
+                "CS362":{
+                    "name": "SOFTWARE ENGINEERING II",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS362"
+                },
+                "CS370":{
+                    "name": "INTRODUCTION TO SECURITY",
+                    "terms": [
+                        "Fa",               
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS344"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS370"
+                },
+                "CS372":{
+                    "name": "INTRODUCTION TO COMPUTER NETWORKS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261",
+                        "CS271"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS372"
+                },
+                "CS373":{
+                    "name": "DEFENSE AGAINST THE DARK ARTS",
+                    "terms": [
+                        "Fa",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS340",
+                        "CS344",
+                        "CS372"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS373"
+                },
+                "CS381":{
+                    "name": "PROGRAMMING LANGUAGE FUNDAMENTALS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261",
+                        "CS225"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS381"
+                },
+                "CS391":{
+                    "name": "SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                       
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS391"
+                },
+                "CS401":{
+                    "name": "RESEARCH",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS401"
+                },
+                "CS399":{
+                    "name": "SPECIAL TOPICS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS399"
+                },
+                "CS403":{
+                    "name": "THESIS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS403"
+                },
+                "CS405":{
+                    "name": "READING AND CONFERENCE",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS405"
+                },
+                "CS406":{
+                    "name": "PROJECTS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS406"
+                },
+                "CS407":{
+                    "name": "SEMINAR",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS407"
+                },
+                "CS410":{
+                    "name": "OCCUPATIONAL INTERNSHIP",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS410"
+                },
+                "CS419":{
+                    "name": "SELECTED TOPICS IN COMPUTER SCIENCE",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    
+                    ],
+                    "credits": 5,
+                    "id": "/courses/all/computer-science/class-list/CS419"
+                },
+                "CS420":{
+                    "name": "GRAPH THEORY WITH APPLICATIONS TO COMPUTER SCIENCE",
+                    "terms": [
+                        "Wi"
+                    ],
+                    "prereqs": [
+                        "CS325"
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS420"
+                },
+                "CS427":{
+                    "name": "CRYPTOGRAPHY",
+                    "terms": [
+                        "Wi",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS427"
+                },
+                "CS434":{
+                    "name": "MACHINE LEARNING AND DATA MINING",
+                    "terms": [
+                        "Fa",
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS325"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS434"
+                },
+                "CS440":{
+                    "name": "DATABASE MANAGEMENT SYSTEMS",
+                    "terms": [
+                        "Wi"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS440"
+                },
+                "CS444":{
+                    "name": "OPERATING SYSTEMS II",
+                    "terms": [
+                        "Fa",
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS344",
+                        "CS271"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS444"
+                },
+                "CS446":{
+                    "name": "NETWORKS IN COMPUTATIONAL BIOLOGY",
+                    "terms": [
+                    ],
+                    "prereqs": [
+                        "CS161"
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS446"
+                },
+                "CS447":{
+                    "name": "WIRELESS EMBEDDED SYSTEMS",
+                    "terms": [
+                    ],
+                    "prereqs": [
+                        "CS344"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS447"
+                },
+                "CS450":{
+                    "name": "INTRODUCTION TO COMPUTER GRAPHICS",
+                    "terms": [
+                        "Fa"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS450"
+                },
+                "CS453":{
+                    "name": "SCIENTIFIC VISUALIZATION",
+                    "terms": [
+                        "Fa"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS453"
+                },
+                "CS457":{
+                    "name": "COMPUTER GRAPHICS SHADERS",
+                    "terms": [
+                        "Wi"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS457"
+                },
+                "CS458":{
+                    "name": "INTRODUCTION TO INFORMATION VISUALIZATION",
+                    "terms": [
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS361"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS458"
+                },
+                "CS461":{
+                    "name": "SENIOR SOFTWARE ENGINEERING PROJECT I",
+                    "terms": [
+                        "Fa"
+                    ],
+                    "prereqs": [
+                        "CS361",
+                        "CS362",
+                        "CS325"
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS461"
+                },
+                "CS462":{
+                    "name": "SENIOR SOFTWARE ENGINEERING PROJECT II",
+                    "terms": [
+                        "Wi"
+                    ],
+                    "prereqs": [
+                        "CS362",
+                        "CS461"
+                    ],
+                    "credits": 3,
+                    "id": "/courses/all/computer-science/class-list/CS462"
+                },
+                "CS463":{
+                    "name": "SENIOR SOFTWARE ENGINEERING PROJECT",
+                    "terms": [
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS462"
+                    ],
+                    "credits": 2,
+                    "id": "/courses/all/computer-science/class-list/CS463"
+                },
+                "CS464":{
+                    "name": "OPEN SOURCE SOFTWARE",
+                    "terms": [
+                        "Fa",
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS261",
+                        "CS361"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS464"
+                },
+                "CS468":{
+                    "name": "INCLUSIVE DESIGN (HCI)",
+                    "terms": [
+                        "Fa"
+                    ],
+                    "prereqs": [
+                        "CS352"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS468"
+                },
+                "CS469":{
+                    "name": "REAL-WORLD PROJECT MANAGEMENT IN COMPUTER SCIENCE",
+                    "terms": [
+                    ],
+                    "prereqs": [
+                    ],
+                    "credits": 2,
+                    "id": "/courses/all/computer-science/class-list/CS469"
+                },
+                "CS472":{
+                    "name": "COMPUTER ARCHITECTURE",
+                    "terms": [
+                        "Fa",
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "ECE375"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS472"
+                },
+                "CS475":{
+                    "name": "INTRODUCTION TO PARALLEL PROGRAMMING",
+                    "terms": [
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS261"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS475"
+                },
+                "CS476":{
+                    "name": "ADVANCED COMPUTER NETWORKING",
+                    "terms": [
+                        "Wi"
+                    ],
+                    "prereqs": [
+                        "CS372",
+                        "ST314"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS476"
+                },
+                "CS477":{
+                    "name": "INTRODUCTION TO DIGITAL FORENSICS",
+                    "terms": [
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS344"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS477"
+                },
+                "CS478":{
+                    "name": "NETWORK SECURITY",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS372"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS478"
+                },
+                "CS480":{
+                    "name": "Translators",
+                    "terms": [
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS344",
+                        "CS381",
+                        "CS321"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS480"
+                },
+                "CS491":{
+                    "name": "COMPUTER SCIENCE SKILLS FOR SIMULATION AND GAME PROGRAMMING",
+                    "terms": [
+                        "Fa"
+                    ],
+                    "prereqs": [
+                        "CS261",
+                        "CS225 or MTH231",
+                        "MTH252"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS491"
+                },
+                "CS492":{
+                    "name": "MOBILE SOFTWARE DEVELOPMENT",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Su"
+                    ],
+                    "prereqs": [
+                        "CS344"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS492"
+                },
+                "CS493":{
+                    "name": "CLOUD APPLICATION DEVELOPMENT",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp"
+                    ],
+                    "prereqs": [
+                        "CS290",
+                        "CS340",
+                        "CS372"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS493"
+                },
+                "CS496":{
+                    "name": "MOBILE AND CLOUD SOFTWARE DEVELOPMENT",
+                    "terms": [
+                    ],
+                    "prereqs": [
+                        "CS344"
+                    ],
+                    "credits": 4,
+                    "id": "/courses/all/computer-science/class-list/CS496"
+                },
+                "CS499":{
+                    "name": "SPECIAL TOPICS",
+                    "terms": [
+                        "Fa",
+                        "Wi",
+                        "Sp",
+                        "Su"
+                    ],
+                    "prereqs": [
+                    ],
+                    "credits": 16,
+                    "id": "/courses/all/computer-science/class-list/CS499"
+                }
+            }
+        }
+    }
+}
