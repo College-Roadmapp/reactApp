@@ -1,5 +1,5 @@
 {
-    "all": {
+    "subject": {
         "academic-learning-services":{
 
         },
@@ -7,6 +7,10 @@
         {
 
         },
+        "communication": {
+
+        },
+
         "computer-science":{
             "label": "CS",
             "class-list":{
@@ -37,20 +41,6 @@
                     ],
                     "credits": 3,
                     "id": "/courses/all/computer-science/class-list/CS160"
-                },
-                "CS160H":{
-                    "name": "COMPUTER SCIENCE ORIENTATION",
-                    "terms": [
-                        "Fa",
-                        "Wi",
-                        "Sp",
-                        "Su"
-                    ],
-                    "prereqs": [
-    
-                    ],
-                    "credits": 3,
-                    "id": "/courses/all/computer-science/class-list/CS160H"
                 },
                 "CS161":{
                     "name": "INTRODUCTION TO COMPUTER SCIENCE I",
@@ -868,6 +858,9 @@
                     "id": "/courses/all/computer-science/class-list/CS499"
                 }
             }
+        },
+        "mathematics": {
+
         }
     }
 }
