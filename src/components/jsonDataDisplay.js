@@ -1,46 +1,75 @@
 import React from 'react';
 
-function JsonDataDisplay(){
-  const parsedJSON = require('./computerScience.json');
-  var result = parsedJSON.computerScience;
-  for(let i=0; i<3; i++){
 
+class Course {
+  constructor(id, name, credits, term) {
+    this.id = id;
+    this.name = name;
+    this.credits = credits;
+    this.term = term;
+    this.completed = 0;
   }
-  let var1 = (
-    <div className="Tables">
-        <div className="classTable">
-        {TermTable(result, 1)}
-        </div>
-        <div className="classTable">
-        {TermTable(result, 2)}
-        </div>
-        <div className="classTable">
-        {TermTable(result, 3)}
-        </div>
-        <div className="classTable">
-        {TermTable(result, 4)}
-        </div>
-        <div className="classTable">
-        {TermTable(result, 5)}
-        </div>
-        <div className="classTable">
-        {TermTable(result, 6)}
-        </div>
-    </div>
-  )
-  return var1
+  log() {
+    console.log(this.id, this.name, this.credits, this.term, this.term);
+  }
+  completeCourse(){
+    this.completed = 1;
+  }
 }
 
-function TermTable(result, term_no){
-    const [classCheck, setClassCheck] = React.useState('');
-    const handleChange = (event) => {
-        setClassCheck(event.target.value)
-    }
-    var temp= [];
 
-    for(let i=0; i < result.length; i++){
-      if(result[i].term === term_no){
-        temp.push(result[i]);
+
+class Degree {
+  constructor(){
+    this.degree = [];
+  }
+  insertCourse(id, name, credits, term){
+    let c = new Course(id, name, credits, term);
+    this.degree.push(c);
+  }
+  removeCourse(courseID){
+    this.degree = this.degree.filter(function(i) {return i.id != courseID; });
+  }
+  get allCourses(){
+    return this.degree;
+  }
+  get numberCourses(){
+    return this.degree.length;
+  }
+  getCourse(index){
+    return (this.degree[index]);
+  }
+  getName(index){
+    return (this.degree[index].name);
+  }
+  getId(index){
+    return (this.degree[index].id);
+  }
+  getCredits(index){
+    return (this.degree[index].credits);
+  }
+  getTerm(index){
+    return (this.degree[index].term);
+  }
+}
+
+
+
+class Table {
+  constructor(objectArray){
+    this.array = objectArray;
+    this.size = objectArray.numberCourses;
+  }
+  getHtml(termNum){
+
+    var htmlElements = '';
+
+    var temp= [];
+    var result = this.array;
+
+    for(let i=0; i < this.size; i++){
+      if(this.array.getTerm(i) === termNum){
+        temp.push(this.array.getCourse(i));
       }
     }
 
@@ -60,7 +89,7 @@ function TermTable(result, term_no){
     return(
         <div>
             <table className="table table-striped">
-              <caption> Term {term_no} </caption>
+              <caption> Term {termNum} </caption>
                 <thead>
                     <tr>
                     <th>Course ID</th>
@@ -77,6 +106,64 @@ function TermTable(result, term_no){
 
     )
 
+
+
+    //return TermTable(this.array, tableIndex);
+
+  }
 }
+
+function IntoClassObjects(){
+  const parsedJSON = require('./computerScience.json');
+  var result = parsedJSON.computerScience;
+
+  let newDegree = new Degree();
+
+  for(let i=0; i < result.length; i++){
+    newDegree.insertCourse(result[i].id, result[i].name, result[i].credits, result[i].term);
+
+  }
+  return newDegree;
+}
+
+
+function JsonDataDisplay(){
+  const parsedJSON = require('./computerScience.json');
+  var result = parsedJSON.computerScience;
+
+  let newDegree = IntoClassObjects();
+  let newTable1 = new Table(newDegree);
+  let newTable2 = new Table(newDegree);
+  let newTable3 = new Table(newDegree);
+  let newTable4 = new Table(newDegree);
+  let newTable5 = new Table(newDegree);
+  let newTable6 = new Table(newDegree);
+
+
+  let var1 = (
+    <div className="Tables">
+        <div className="classTable">
+        {newTable1.getHtml(1)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(2)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(3)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(4)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(5)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(6)}
+        </div>
+    </div>
+  )
+  return var1
+}
+
 
 export default JsonDataDisplay;
