@@ -1,0 +1,512 @@
+{
+	"baccore":{
+        "Writing 1":[
+            {
+                "id":"WR 160",
+                "name":"Enlish Composition",
+                "credits":4
+            }
+        ],
+        "Writing 2":[
+            {
+                "id":"HC 199",
+                "name":"Honors Writing",
+                "credits":3
+            },
+            {
+                "id":"PHL 121",
+                "name":"Reasoning and Writing",
+                "credits":3
+            },
+            {
+                "id":"WR 201",
+                "name":"Writing for Media",
+                "credits":3
+            },
+            {
+                "id":"WR 214",
+                "name":"Writing in Business",
+                "credits":3
+            },
+            {
+                "id":"WR 222",
+                "name":"English Composition",
+                "credits":3
+            },
+            {
+                "id":"WR 224",
+                "name":"Introduction to Fiction Writing",
+                "credits":3
+            },
+            {
+                "id":"WR 228",
+                "name":"Writing Abroad",
+                "credits":3
+            },
+            {
+                "id":"WR 230",
+                "name":"Essentials of English Grammar",
+                "credits":3
+            },
+            {
+                "id":"WR 240",
+                "name":"Introduction to Nonfiction Writing",
+                "credits":3
+            },
+            {
+                "id":"WR 241",
+                "name":"Introduction to Poetry Writing",
+                "credits":3
+            },
+            {
+                "id":"WR 250",
+                "name":"Podcast Storytelling",
+                "credits":3
+            },
+            {
+                "id":"WR 301",
+                "name":"Publishing and Editing",
+                "credits":3
+            },
+            {
+                "id":"WR 303",
+                "name":"Writing for the Web",
+                "credits":3
+            },
+            {
+                "id":"WR 323",
+                "name":"English Composition",
+                "credits":3
+            },
+            {
+                "id":"WR 327",
+                "name":"Technical Writing",
+                "credits":3
+            },
+            {
+                "id":"WR 330",
+                "name":"Understanding Grammar",
+                "credits":3
+            },
+            {
+                "id":"WR 362",
+                "name":"Science Writing",
+                "credits":3
+            }
+        ],
+        "Mathematics":[
+            {
+                "id":"MTH 105",
+                "name":"Introduction to Comtemporary Mathematics",
+                "credits":3
+            },
+            {
+                "id":"MTH 111",
+                "name":"College Algebra",
+                "credits":4
+            },
+            {
+                "id":"MTH 112",
+                "name":"Elementary Functions",
+                "credits":4
+            },
+            {
+                "id":"MTH 211",
+                "name":"Foundations of Elementary Mathematics",
+                "credits":4
+            },
+            {
+                "id":"MTH 227",
+                "name":"Calculus and Probability for the Life Sciences",
+                "credits":4
+            },
+            {
+                "id":"MTH 241",
+                "name":"Calculus for Management and Social Science",
+                "credits":4
+            },
+            {
+                "id":"MTH 245",
+                "name":"Mathematics for Management, Life, and Social Sciences",
+                "credits":4
+            },
+            {
+                "id":"MTH 251",
+                "name":"Differential Calculus",
+                "credits":4
+            }
+        ],
+        "Speech":[
+            {
+                "id":"COMM 111",
+                "name":"Public Speaking",
+                "credits":3
+            },
+            {
+                "id":"COMM 114",
+                "name":"Argument and Critical Discourse",
+                "credits":3
+            },
+            {
+                "id":"COMM 211",
+                "name":"Communicating Online",
+                "credits":3
+            },
+            {
+                "id":"COMM 218",
+                "name":"Interpersonal Communication",
+                "credits":3
+            }
+        ],
+        "Fitness":[
+            {
+                "id":"HHS 231",
+                "name":"Lifetime Fitness for Health",
+                "credits":2
+            },
+            {
+                "id":"N/A",
+                "name":"Any PAC course: see current offerings",
+                "credits":1
+            }
+        ],
+        "Western Culture":[
+            {
+                "id":"AEC 240",
+                "name":"Rural Economics of Place and People",
+                "credits":3
+            },
+            {
+                "id":"AEC 253",
+                "name":"Environmental Law, Policy, and Economics",
+                "credits":4
+            },
+            {
+                "id":"ANTH 208",
+                "name":"Western Cultures Study Abroad",
+                "credits":3
+            },
+            {
+                "id":"ANTH 261",
+                "name":"Food in American Culture",
+                "credits":3
+            },
+            {
+                "id":"ANTH 312",
+                "name":"Peoples World- Europe",
+                "credits":3
+            },
+            {
+                "id":"ART 204",
+                "name":"Introduction to Western Art: Prehistory to High Middle Ages",
+                "credits":3
+            },
+            {
+                "id":"ART 205",
+                "name":"Introduction to Western Art: Gothic to Baroque",
+                "credits":3
+            },
+            {
+                "id":"ART 210",
+                "name":"History of Western Culture",
+                "credits":3
+            },
+            {
+                "id":"CROP 340",
+                "name":"Pens and Plows: Writings of Working the Land",
+                "credits":3
+            },
+            {
+                "id":"ENG 204",
+                "name":"Survey of British Literature: Beginnings to 1660",
+                "credits":4
+            },
+            {
+                "id":"ENG 205",
+                "name":"Survey of British Literature: Restoration to Romantic Era",
+                "credits":4
+            },
+            {
+                "id":"ENG 206",
+                "name":"Survey of British Literature: Victorian Era to 20th Century",
+                "credits":4
+            },
+            {
+                "id":"ENG 214",
+                "name":"Literature of the World: Europe",
+                "credits":4
+            },
+            {
+                "id":"ENG 215",
+                "name":"Classical Mythology",
+                "credits":4
+            },
+            {
+                "id":"ENG 275",
+                "name":"The Bible as Literature",
+                "credits":4
+            },
+            {
+                "id":"FCSJ 261",
+                "name":"Food in American Culture",
+                "credits":3
+            },
+            {
+                "id":"FR 333",
+                "name":"French Culture and Society Since the Revolution",
+                "credits":3
+            },
+            {
+                "id":"FST 260",
+                "name":"Food Science and Technology in Western Culture",
+                "credits":3
+            },
+            {
+                "id":"FST 273",
+                "name":"Wine in the Western World",
+                "credits":3
+            },
+            {
+                "id":"GEOG 106",
+                "name":"Western Tradition and Emerging Challenges in the Global North",
+                "credits":3
+            },
+            {
+                "id":"HST 101",
+                "name":"History of Western Civilization",
+                "credits":4
+            },
+            {
+                "id":"HST 102",
+                "name":"History of Western Civilization",
+                "credits":4
+            },
+            {
+                "id":"HST 103",
+                "name":"History of Western Civilization",
+                "credits":4
+            },
+            {
+                "id":"HST 202",
+                "name":"History of the United States",
+                "credits":4
+            },
+            {
+                "id":"HST 325",
+                "name":"Early Christianity: Origins to 600",
+                "credits":4
+            },
+            {
+                "id":"HST 326",
+                "name":"History of Christianity",
+                "credits":4
+            },
+            {
+                "id":"HST 335",
+                "name":"Nineteenth-Century Europe",
+                "credits":4
+            },
+            {
+                "id":"HST 338",
+                "name":"Hitler's Europe",
+                "credits":4
+            },
+            {
+                "id":"IT 331",
+                "name":"Italian Culture",
+                "credits":3
+            },
+            {
+                "id":"LING 208",
+                "name":"Western Culture Study Abroad",
+                "credits":3
+            },
+            {
+                "id":"MUS 104",
+                "name":"Survey of Jazz",
+                "credits":3
+            },
+            {
+                "id":"PHL 150",
+                "name":"Great Ideas in Philosophy",
+                "credits":3
+            },
+            {
+                "id":"PHL 170",
+                "name":"The Idea of God",
+                "credits":4
+            },
+            {
+                "id":"PHL 201",
+                "name":"Introduction to Philosophy",
+                "credits":4
+            },
+            {
+                "id":"PHL 203",
+                "name":"The Meaning of Existence",
+                "credits":4
+            },
+            {
+                "id":"HST 338",
+                "name":"Hitler's Europe",
+                "credits":4
+            },
+            {
+                "id":"PHL 205",
+                "name":"Ethics",
+                "credits":4
+            },
+            {
+                "id":"PHL 206",
+                "name":"Religious Ethics and Moral Problems",
+                "credits":4
+            },
+            {
+                "id":"PHL 207",
+                "name":"Political Philosophy",
+                "credits":4
+            },
+            {
+                "id":"PHL 220",
+                "name":"World-Views and Values in the Bible",
+                "credits":4
+            },
+            {
+                "id":"PHL 234",
+                "name":"Philosophy of Happiness",
+                "credits":3
+            },
+            {
+                "id":"PHL 251",
+                "name":"Knowers, Knowing, and the Known",
+                "credits":4
+            },
+            {
+                "id":"PHL 301",
+                "name":"History of Western Philosophy",
+                "credits":4
+            },
+            {
+                "id":"PHL 302",
+                "name":"History of Western Philosophy",
+                "credits":4
+            },
+            {
+                "id":"PHL 303",
+                "name":"History of Western Philosophy",
+                "credits":4
+            },
+            {
+                "id":"PHL 360",
+                "name":"Philosophy and the Arts",
+                "credits":4
+            },
+            {
+                "id":"PHL 365",
+                "name":"Law in Philosophical Perspective",
+                "credits":4
+            },
+            {
+                "id":"PS 206",
+                "name":"Introduction to Political Thought",
+                "credits":4
+            },
+            {
+                "id":"PS 349",
+                "name":"British Politics",
+                "credits":4
+            },
+            {
+                "id":"REL 170",
+                "name":"The Idea of God",
+                "credits":4
+            },
+            {
+                "id":"REL 206",
+                "name":"Religious Ethics and Moral Problems",
+                "credits":4
+            },
+            {
+                "id":"REL 212",
+                "name":"Introduction to Catholocism",
+                "credits":4
+            },
+            {
+                "id":"REL 220",
+                "name":"World-Views and Values in the Bible",
+                "credits":4
+            },
+            {
+                "id":"REL 325",
+                "name":"Early Christianity: Origins to 600",
+                "credits":4
+            },
+            {
+                "id":"REL 326",
+                "name":"History of Christianity",
+                "credits":4
+            },
+            {
+                "id":"SPAN 331",
+                "name":"The Cultures of Spain and Portugal",
+                "credits":3
+            },
+            {
+                "id":"SPAN 332",
+                "name":"The Cultures of Spain and Portugal",
+                "credits":3
+            },
+            {
+                "id":"SPAN 336",
+                "name":"Latin American Culture",
+                "credits":3
+            },
+            {
+                "id":"SPAN 337",
+                "name":"Latin American Culture",
+                "credits":3
+            },
+            {
+                "id":"SPAN 338",
+                "name":"Latin American Culture",
+                "credits":3
+            },
+
+            {
+                "id":"TRAL 132",
+                "name":"Foundations and History of Outdoor and Adventure Professions",
+                "credits":3
+            },
+            {
+                "id":"WGSS 110",
+                "name":"Gender, Race, and Pop Culture",
+                "credits":3
+            },
+            {
+                "id":"WGSS 312",
+                "name":"Global Experience: Western Culture",
+                "credits":3
+            },
+            {
+                "id":"WLC 230",
+                "name":"Frace Today: Cultures within and Beyond Its Borders",
+                "credits":3
+            },
+            {
+                "id":"WLC 231",
+                "name":"German Dictatorships: Nazis and Communists",
+                "credits":3
+            },
+            {
+                "id":"WLC 241",
+                "name":"Grimm's Fairy Tales",
+                "credits":4
+            },
+            {
+                "id":"WLC 429",
+                "name":"French Society through its Cinema",
+                "credits":3
+            }
+        ]
+    }
+}
