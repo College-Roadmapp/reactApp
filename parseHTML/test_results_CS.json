@@ -1,0 +1,114 @@
+{"$program_name":[
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "CS\u00a0162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II"
+    },
+    {
+        "code": "CS\u00a0261",
+        "title": "DATA STRUCTURES"
+    },
+    {
+        "code": "CS\u00a0290",
+        "title": "WEB DEVELOPMENT"
+    },
+    {
+        "code": "CS\u00a0325",
+        "title": "ANALYSIS OF ALGORITHMS"
+    },
+    {
+        "code": "CS\u00a0340",
+        "title": "INTRODUCTION TO DATABASES"
+    },
+    {
+        "code": "CS\u00a0344",
+        "title": "OPERATING SYSTEMS I"
+    },
+    {
+        "code": "CS\u00a0361",
+        "title": "SOFTWARE ENGINEERING I"
+    },
+    {
+        "code": "CS\u00a0362",
+        "title": "SOFTWARE ENGINEERING II"
+    },
+    {
+        "code": "CS\u00a0372",
+        "title": "INTRODUCTION TO COMPUTER NETWORKS"
+    },
+    {
+        "code": "CS\u00a0381",
+        "title": "PROGRAMMING LANGUAGE FUNDAMENTALS"
+    },
+    {
+        "code": "CS\u00a0391",
+        "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE"
+    },
+    {
+        "code": "CS\u00a0444",
+        "title": "OPERATING SYSTEMS II"
+    },
+    {
+        "code": "CS\u00a0461",
+        "title": "^SENIOR SOFTWARE ENGINEERING PROJECT I"
+    },
+    {
+        "code": "CS\u00a0462",
+        "title": "^SENIOR SOFTWARE ENGINEERING PROJECT II"
+    },
+    {
+        "code": "CS\u00a0463",
+        "title": "SENIOR SOFTWARE ENGINEERING PROJECT"
+    },
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING"
+    },
+    {
+        "code": "MTH\u00a0231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "ST\u00a0314",
+        "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0214",
+        "title": "*WRITING IN BUSINESS"
+    },
+    {
+        "code": "WR\u00a0222",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    }
+]}
