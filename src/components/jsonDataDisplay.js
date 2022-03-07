@@ -100,7 +100,7 @@ const style = {
 
 
 // ------------------ modal --------------------
-function BasicModal() {
+function BasicModal(props) {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -111,6 +111,10 @@ function BasicModal() {
   const handleTermChange = event => {
     setTerm(event.target.value);
   }
+
+  console.log(props.deg)
+  console.log(props.id)
+
   return (
     <div>
       <Button onClick={handleOpen}>Change Term</Button>
@@ -162,7 +166,10 @@ class Table  extends React.Component{
         if(i === this.size-1){
           break;
         }
+        //setting each course's term number based on which term we are rendering it
+        this.array.getCourse(i).term = termNum
     }
+    
     // notes: we are going to have to be able to ALTER the values of both
     // info.term and info.completed
     // we should be rendering based on term number...
@@ -177,7 +184,7 @@ class Table  extends React.Component{
                     <td>{info.name}</td>
                     <td>{info.credits}</td>
                     <td>
-                      <BasicModal id={info.id}/>
+                      <BasicModal id={info.id} deg={this.array}/>
                     </td>
                 </tr>
             );
@@ -199,7 +206,6 @@ class Table  extends React.Component{
               </tbody>
           </table>
       </div>
-
   );
   }
 }
