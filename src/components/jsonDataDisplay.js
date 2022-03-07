@@ -63,17 +63,21 @@ class Degree {
 }
 
 
-let completedCourses = []
 // ------------------ checkbox --------------------
 function ControlledCheckbox(props) {
   const [checked, setChecked] = React.useState(false);
 
+  //setting 'completed' to 1 for corresponding course if box is checked
   const handleChange = (event) => {
     setChecked(event.target.checked);
-    completedCourses.push(props.id);
-    // this is where we will want to update progress bar and mark a course as completed
+    if(event.target.checked === true){
+      props.deg.getCourse(props.idx).completed = 1;
+    }
+    else if(event.target.checked === false){
+      props.deg.getCourse(props.idx).completed = 0;
+    }
+    //********  this is where we will want to update progress bar and mark a course as completed ******
   };
-
   return (
     <td>
       <Checkbox
@@ -103,17 +107,20 @@ const style = {
 function BasicModal(props) {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
-  const handleClose = () => setOpen(false);
+  const handleClose = () => {
+    setOpen(false);
+    props.deg.getCourse(props.idx).term = term;
+    this.forceUpdate()
+  }
 
-  const allTerms = [1,2,3,4,5,6,7,8,9,10,11,12]
+  const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
   const [term, setTerm] = React.useState(0)
 
   const handleTermChange = event => {
     setTerm(event.target.value);
   }
 
-  console.log(props.deg)
-  console.log(props.id)
+  console.log(props.deg.getCourse(props.idx).term)
 
   return (
     <div>
@@ -137,7 +144,7 @@ function BasicModal(props) {
             label="Term"
             onChange={handleTermChange}
             >
-              {allTerms.map((term) => <MenuItem value={term}>{term}</MenuItem>)}
+              {allTermNums.map((term) => <MenuItem value={term}>{term}</MenuItem>)}
             </Select>
           </FormControl>
           <Button onClick={handleClose}>OK</Button>
@@ -160,36 +167,33 @@ class Table  extends React.Component{
 
     var temp= [];
 
-    //renders 4 classes for each term based on the order they appear in json
-    for(let i=(termNum-1)*4; i < (4 + (termNum-1)*4); i++){
+    //setting temp array of courses based on term number of course components and termNum
+      //assigns values for each element from degree plan that is calling the function
+    for(let i=0; i < this.size; i++){
+      if(this.array.getTerm(i) === termNum){
         temp.push(this.array.getCourse(i));
-        if(i === this.size-1){
-          break;
-        }
-        //setting each course's term number based on which term we are rendering it
-        this.array.getCourse(i).term = termNum
+      }
     }
     
-    // notes: we are going to have to be able to ALTER the values of both
-    // info.term and info.completed
-    // we should be rendering based on term number...
+    //creating html for each element of temp using json data
     temp=temp.map(
         (info, i)=>{
             return(
                 <tr>
                     <td>
-                      <ControlledCheckbox id={info.id}/>
+                      <ControlledCheckbox id={info.id} deg={this.array} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td>{info.id}</td>
                     <td>{info.name}</td>
                     <td>{info.credits}</td>
                     <td>
-                      <BasicModal id={info.id} deg={this.array}/>
+                      <BasicModal id={info.id} deg={this.array} idx={(termNum-1)*4 + i}/>
                     </td>
                 </tr>
             );
         }
     );
+  //uses temp array to render a table with temp's html
   return(
       <div>
           <table className="table table-striped">
@@ -213,6 +217,7 @@ class Table  extends React.Component{
 
 // ------------------ parse json --------------------
 function IntoClassObjects(){
+  //******* this will have to be conditional based on dropdown selection *****
   const parsedJSON = require('./computerScience.json');
   var result = parsedJSON.computerScience;
 
@@ -231,8 +236,19 @@ function JsonDataDisplay(){
   let newDegree = IntoClassObjects();
   let newTable1 = new Table(newDegree);
 
+  let termNum = 1;
+  //assigns term values; 4 classes per term based on order they appear in json
+  for(let i=0; i < newTable1.size; i++){
+    //setting each course's term number based on which term we are rendering it
+    newTable1.props.getCourse(i).term = termNum
+    //increments the term number after 4 classes have been added
+    if((i + 1) % 4 === 0){
+      termNum += 1
+    }
+  }
 
-  let var1 = (
+  //creates 12 term tables and fills them in with available data
+  let allTerms = (
     <div className="Tables">
         <div className="classTable">
         {newTable1.getHtml(1)}
@@ -246,9 +262,33 @@ function JsonDataDisplay(){
         <div className="classTable">
         {newTable1.getHtml(4)}
         </div>
+        <div className="classTable">
+        {newTable1.getHtml(5)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(6)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(7)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(8)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(9)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(10)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(11)}
+        </div>
+        <div className="classTable">
+        {newTable1.getHtml(12)}
+        </div>
     </div>
   )
-  return var1
+  return allTerms
 }
 
 
