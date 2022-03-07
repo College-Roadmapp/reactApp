@@ -16,14 +16,8 @@ class Course {
     this.id = id;
     this.name = name;
     this.credits = credits;
-    this.term = term;
+    this.term = 0;
     this.completed = 0;
-  }
-  log() {
-    console.log(this.id, this.name, this.credits);
-  }
-  completeCourse(){
-    this.completed = 1;
   }
 }
 
@@ -110,17 +104,14 @@ function BasicModal(props) {
   const handleClose = () => {
     setOpen(false);
     props.deg.getCourse(props.idx).term = term;
-    this.forceUpdate()
   }
 
   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-  const [term, setTerm] = React.useState(0)
+  const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
 
   const handleTermChange = event => {
     setTerm(event.target.value);
   }
-
-  console.log(props.deg.getCourse(props.idx).term)
 
   return (
     <div>
@@ -193,24 +184,24 @@ class Table  extends React.Component{
             );
         }
     );
-  //uses temp array to render a table with temp's html
-  return(
-      <div>
-          <table className="table table-striped">
-            <caption> Term {termNum} </caption>
-              <thead>
-                  <tr>
-                  <th>Course ID</th>
-                  <th>Course Name</th>
-                  <th>Credits</th>
-                  </tr>
-              </thead>
-              <tbody>
-                  {temp}
-              </tbody>
-          </table>
-      </div>
-  );
+    //uses temp array to render a table with temp's html
+    return(
+        <div>
+            <table className="table table-striped">
+              <caption> Term {termNum} </caption>
+                <thead>
+                    <tr>
+                    <th>Course ID</th>
+                    <th>Course Name</th>
+                    <th>Credits</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {temp}
+                </tbody>
+            </table>
+        </div>
+    );
   }
 }
 
@@ -230,9 +221,10 @@ function IntoClassObjects(){
 }
 
 
-// ------------------ display tables and json --------------------
-function JsonDataDisplay(){
 
+// ------------------ assigning intitial term for each course --------------------
+function assignTerms(){
+// function JsonDataDisplay(){
   let newDegree = IntoClassObjects();
   let newTable1 = new Table(newDegree);
 
@@ -246,50 +238,62 @@ function JsonDataDisplay(){
       termNum += 1
     }
   }
+  return newTable1;
+}
 
+
+function MakeTables(props){
   //creates 12 term tables and fills them in with available data
-  let allTerms = (
+  console.log(props.info)
+  return (
     <div className="Tables">
         <div className="classTable">
-        {newTable1.getHtml(1)}
+        {props.info.getHtml(1)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(2)}
+        {props.info.getHtml(2)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(3)}
+        {props.info.getHtml(3)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(4)}
+        {props.info.getHtml(4)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(5)}
+        {props.info.getHtml(5)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(6)}
+        {props.info.getHtml(6)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(7)}
+        {props.info.getHtml(7)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(8)}
+        {props.info.getHtml(8)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(9)}
+        {props.info.getHtml(9)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(10)}
+        {props.info.getHtml(10)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(11)}
+        {props.info.getHtml(11)}
         </div>
         <div className="classTable">
-        {newTable1.getHtml(12)}
+        {props.info.getHtml(12)}
         </div>
     </div>
   )
-  return allTerms
 }
 
+
+// ------------------ display tables and json --------------------
+function JsonDataDisplay(){
+  let info = assignTerms();
+  return(
+    <MakeTables info={info}/>
+  )
+}
 
 export default JsonDataDisplay;
