@@ -13,7 +13,6 @@ import InputLabel from '@mui/material/InputLabel';
 // ------------------ class --------------------
 class Course {
   constructor(id, name, credits, term) {
-  // constructor(id, name, credits) {
     this.id = id;
     this.name = name;
     this.credits = credits;
@@ -21,7 +20,6 @@ class Course {
     this.completed = 0;
   }
   log() {
-    // console.log(this.id, this.name, this.credits, this.term, this.term);
     console.log(this.id, this.name, this.credits);
   }
   completeCourse(){
@@ -35,9 +33,7 @@ class Degree {
     this.degree = [];
   }
   insertCourse(id, name, credits, term){
-  // insertCourse(id, name, credits){
     let c = new Course(id, name, credits, term);
-    // let c = new Course(id, name, credits);
     this.degree.push(c);
   }
   removeCourse(courseID){
@@ -154,17 +150,18 @@ class Table  extends React.Component{
     super(props);
     this.array = props;
     this.size = props.numberCourses;
-    this.state = {term: 0};
   }
 
   getHtml(termNum){
 
     var temp= [];
 
-    for(let i=0; i < this.size; i++){
-      if(this.array.getTerm(i) === termNum){
+    //renders 4 classes for each term based on the order they appear in json
+    for(let i=(termNum-1)*4; i < (4 + (termNum-1)*4); i++){
         temp.push(this.array.getCourse(i));
-      }
+        if(i === this.size-1){
+          break;
+        }
     }
     // notes: we are going to have to be able to ALTER the values of both
     // info.term and info.completed
@@ -179,8 +176,6 @@ class Table  extends React.Component{
                     <td>{info.id}</td>
                     <td>{info.name}</td>
                     <td>{info.credits}</td>
-                    <td>{this.state.term}</td>
-                    {completedCourses.includes(info.id) ? <td>1</td> : <td>0</td>}
                     <td>
                       <BasicModal id={info.id}/>
                     </td>
@@ -218,7 +213,7 @@ function IntoClassObjects(){
   let newDegree = new Degree();
 
   for(let i=0; i < result.length; i++){
-    newDegree.insertCourse(result[i].id, result[i].name, result[i].credits, result[i].term);
+    newDegree.insertCourse(result[i].id, result[i].name, result[i].credits);
   }
   return newDegree;
 }
@@ -226,16 +221,9 @@ function IntoClassObjects(){
 
 // ------------------ display tables and json --------------------
 function JsonDataDisplay(){
-  const parsedJSON = require('./computerScience.json');
-  var result = parsedJSON.computerScience;
 
   let newDegree = IntoClassObjects();
   let newTable1 = new Table(newDegree);
-  // let newTable2 = new Table(newDegree);
-  // let newTable3 = new Table(newDegree);
-  // let newTable4 = new Table(newDegree);
-  // let newTable5 = new Table(newDegree);
-  // let newTable6 = new Table(newDegree);
 
 
   let var1 = (
@@ -252,30 +240,6 @@ function JsonDataDisplay(){
         <div className="classTable">
         {newTable1.getHtml(4)}
         </div>
-        <div className="classTable">
-        {newTable1.getHtml(5)}
-        </div>
-        <div className="classTable">
-        {newTable1.getHtml(6)}
-        </div>
-        {/* <div className="classTable">
-        {newTable1.getHtml(1)}
-        </div>
-        <div className="classTable">
-        {newTable1.getHtml(2)}
-        </div>
-        <div className="classTable">
-        {newTable1.getHtml(3)}
-        </div>
-        <div className="classTable">
-        {newTable1.getHtml(4)}
-        </div>
-        <div className="classTable">
-        {newTable1.getHtml(5)}
-        </div>
-        <div className="classTable">
-        {newTable1.getHtml(6)}
-        </div> */}
     </div>
   )
   return var1
