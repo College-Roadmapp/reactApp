@@ -1,0 +1,402 @@
+[
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/agricultural-education-general-agriculture/agricultural-sciences-bs-hbs/#requirementstext",
+        "major": "Agricultural Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/animal-rangeland-sciences/animal-sciences-bs-hbs/#requirementstext",
+        "major": "Animal Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/animal-rangeland-sciences/rangeland-sciences-bs-hbs/#requirementstext",
+        "major": "Rangeland Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/applied-economics/agricultural-food-business-management-bs-hbs/#requirementstext",
+        "major": "Agricultural and Food Business Management Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/applied-economics/environmental-economics-policy-bs-hbs/#requirementstext",
+        "major": "Environmental Economics and Policy Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/bioresource-research-bs-hbs/#requirementstext",
+        "major": "Bioresource Research Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/botany-plant-pathology/biological-data-sciences-bs-hbs/#requirementstext",
+        "major": "Biological Data Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/botany-plant-pathology/botany-bs-hbs/#requirementstext",
+        "major": "Botany Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/crop-soil-science/crop-soil-science-bs-hbs/#requirementstext",
+        "major": "Crop and Soil Science Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/fisheries-wildlife-conservation-sciences/fisheries-wildlife-sciences-bs-hbs/#requirementstext",
+        "major": "Fisheries and Wildlife Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/food-science-technology/food-science-technology-bs-hbs/#requirementstext",
+        "major": "Food Science and Technology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/horticulture/horticulture-bs-hbs/#requirementstext",
+        "major": "Horticulture Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/agricultural-sciences/sustainability-bs-hbs/#requirementstext",
+        "major": "Sustainability Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/accountancy-bs-hbs/#requirementstext",
+        "major": "Accountancy Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/apparel-design-bs-hbs/#requirementstext",
+        "major": "Apparel Design Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/business-administration-ba-bs-hba-hbs/#requirementstext",
+        "major": "Business Administration Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/business-analytics-bs-hbs/#requirementstext",
+        "major": "Business Analytics Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/business-information-systems-ba-bs-hba-hbs/#requirementstext",
+        "major": "Business Information Systems Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/design-innovation-management-bs-hbs/#requirementstext",
+        "major": "Design and Innovation Management Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/finance-ba-bs-hba-hbs/#requirementstext",
+        "major": "Finance Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/hospitality-management-ba-bs-hba-hbs/#requirementstext",
+        "major": "Hospitality Management Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/innovation-management-ba-bs-hba-hbs/#requirementstext",
+        "major": "Innovation Management Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/interior-design-bs-hbs/#requirementstext",
+        "major": "Interior Design Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/management-ba-bs-hba-hbs/#requirementstext",
+        "major": "Management Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/marketing-ba-bs-hba-hbs/#requirementstext",
+        "major": "Marketing Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/merchandising-management-bs-hbs/#requirementstext",
+        "major": "Merchandising Management Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/business/supply-chain-logistics-management-bs-hbs/#requirementstext",
+        "major": "Supply Chain and Logistics Management Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/earth-ocean-atmospheric-sciences/climate-science-bs-hbs/#requirementstext",
+        "major": "Climate Science Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/earth-ocean-atmospheric-sciences/earth-sciences-bs-hbs/#requirementstext",
+        "major": "Earth Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/earth-ocean-atmospheric-sciences/environmental-sciences-bs-hbs/#requirementstext",
+        "major": "Environmental Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/earth-ocean-atmospheric-sciences/geography-geospatial-science-bs-hbs/#requirementstext",
+        "major": "Geography and Geospatial Science Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/earth-ocean-atmospheric-sciences/geology-bs-hbs/#requirementstext",
+        "major": "Geology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/education/education-ba-bs-hba-hbs/#requirementstext",
+        "major": "Education Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/education/teaching-bs-hbs/#requirementstext",
+        "major": "Teaching Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/biological-ecological-engineering/ecological-engineering-bs-hbs/#requirementstext",
+        "major": "Ecological Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/other-degrees-programs/engineering-science-bs-hbs/#requirementstext",
+        "major": "Engineering Science Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/other-degrees-programs/outdoor-products-bs-hbs/#requirementstext",
+        "major": "Outdoor Products Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-chemical-biological-environmental-engineering/bioengineering-ba-bs-hba-hbs/#requirementstext",
+        "major": "Bioengineering Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-chemical-biological-environmental-engineering/chemical-engineering-ba-bs-hba-hbs/#requirementstext",
+        "major": "Chemical Engineering Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-chemical-biological-environmental-engineering/environmental-engineering-ba-bs-hba-hbs/#requirementstext",
+        "major": "Environmental Engineering Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-civil-construction-engineering/architectural-engineering-bs-hbs/#requirementstext",
+        "major": "Architectural Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-civil-construction-engineering/civil-engineering-ba-bs-hba-hbs/#requirementstext",
+        "major": "Civil Engineering Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-civil-construction-engineering/construction-engineering-management-ba-bs-hba-hbs/#requirementstext",
+        "major": "Construction Engineering Management Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-ba-bs-hba-hbs/#requirementstext",
+        "major": "Computer Science Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/electrical-computer-engineering-bs-hbs/#requirementstext",
+        "major": "Electrical and Computer Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-mechanical-industrial-manufacturing-engineering/energy-systems-engineering-bs-hbs/#requirementstext",
+        "major": "Energy Systems Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-mechanical-industrial-manufacturing-engineering/industrial-engineering-bs-hbs/#requirementstext",
+        "major": "Industrial Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-mechanical-industrial-manufacturing-engineering/manufacturing-engineering-bs-hbs/#requirementstext",
+        "major": "Manufacturing Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-mechanical-industrial-manufacturing-engineering/mechanical-engineering-bs-hbs/#requirementstext",
+        "major": "Mechanical Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-nuclear-science-engineering/nuclear-engineering-bs-hbs/#requirementstext",
+        "major": "Nuclear Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/engineering/school-nuclear-science-engineering/radiation-health-physics-bs-hbs/#requirementstext",
+        "major": "Radiation Health Physics Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/forestry/forest-ecosystems-society/natural-resources-bs-hbs/#requirementstext",
+        "major": "Natural Resources Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/forestry/forest-ecosystems-society/tourism-recreation-adventure-leadership-bs-hbs/#requirementstext",
+        "major": "Tourism, Recreation, and Adventure Leadership Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/forestry/forest-engineering-resources-management/forest-engineering-civil-engineering-bs-hbs/#requirementstext",
+        "major": "Forest Engineering - Civil Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/forestry/forest-engineering-resources-management/forest-engineering-bs-hbs/#requirementstext",
+        "major": "Forest Engineering Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/forestry/forest-engineering-resources-management/forestry-bs-hbs/#requirementstext",
+        "major": "Forestry Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/forestry/wood-science-engineering/renewable-materials-bs-hbs/#requirementstext",
+        "major": "Renewable Materials Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/american-studies/american-studies-ba-bs-hba-hbs/#requirementstext",
+        "major": "American Studies Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/liberal-studies/liberal-studies-ba-bs-hba-hbs/#requirementstext",
+        "major": "Liberal Studies Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/other-degrees-programs/marine-studies-ba-bs-hba-hbs/#requirementstext",
+        "major": "Marine Studies Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/other-degrees-programs/social-science-ba-bs-hba-hbs/#requirementstext",
+        "major": "Social Science Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/art-ba-bfa-bs-hba-hbfa-hbs/#requirementstext",
+        "major": "Art Undergraduate Major (BA, BFA, BS, HBA, HBFA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/arts-media-technology-ba-bs-hba-hbs/#requirementstext",
+        "major": "Arts, Media, and Technology Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/digital-communication-arts-ba-bfa-bs-hba-hbfa-hbs/#requirementstext",
+        "major": "Digital Communication Arts Undergraduate Major (BA, BFA, BS, HBA, HBFA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/graphic-design-bfa-hbfa/#requirementstext",
+        "major": "Graphic Design Undergraduate Major (BFA, HBFA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/music-studies-bm-hbm/#requirementstext",
+        "major": "Music Studies Undergraduate Major (BM, HBM)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/music-ba-bs-hba-hbs/#requirementstext",
+        "major": "Music Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-arts-communication/speech-communication-ba-bs-hba-hbs/#requirementstext",
+        "major": "Speech Communication Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-history-philosophy-religion/history-ba-bs-hba-hbs/#requirementstext",
+        "major": "History Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-history-philosophy-religion/philosophy-ba-bs-hba-hbs/#requirementstext",
+        "major": "Philosophy Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-history-philosophy-religion/religious-studies-ba-bs-hba-hbs/#requirementstext",
+        "major": "Religious Studies Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/anthropology-ba-bs-hba-hbs/#requirementstext",
+        "major": "Anthropology Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/ethnic-studies-ba-bs-hba-hbs/#requirementstext",
+        "major": "Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/french-ba-hba/#requirementstext",
+        "major": "French Undergraduate Major (BA, HBA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/german-ba-hba/#requirementstext",
+        "major": "German Undergraduate Major (BA, HBA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/international-studies-ba-hba/#requirementstext",
+        "major": "International Studies Undergraduate Major (BA, HBA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/spanish-ba-hba/#requirementstext",
+        "major": "Spanish Undergraduate Major (BA, HBA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-language-culture-society/women-gender-sexuality-studies-ba-bs-hba-hbs/#requirementstext",
+        "major": "Women, Gender, and Sexuality Studies Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-psychological-sciences/psychology-ba-bs-hba-hbs/#requirementstext",
+        "major": "Psychology Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-public-policy/economics-ba-bs-hba-hbs/#requirementstext",
+        "major": "Economics Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-public-policy/political-science-ba-bs-hba-hbs/#requirementstext",
+        "major": "Political Science Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-public-policy/public-policy-bs-hbs/#requirementstext",
+        "major": "Public Policy Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-public-policy/sociology-ba-bs-hba-hbs/#requirementstext",
+        "major": "Sociology Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-writing-literature-film/creative-writing-ba-hba/#requirementstext",
+        "major": "Creative Writing Undergraduate Major (BA, HBA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/liberal-arts/school-writing-literature-film/english-ba-hba/#requirementstext",
+        "major": "English Undergraduate Major (BA, HBA)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/public-health-human-sciences/school-biological-population-health-sciences/kinesiology-bs-hbs/#requirementstext",
+        "major": "Kinesiology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/public-health-human-sciences/school-biological-population-health-sciences/nutrition-bs-hbs/#requirementstext",
+        "major": "Nutrition Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/public-health-human-sciences/school-social-behavioral-health-sciences/human-development-family-sciences-bs-hbs/#requirementstext",
+        "major": "Human Development and Family Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/public-health-human-sciences/school-social-behavioral-health-sciences/public-health-bs-hbs/#requirementstext",
+        "major": "Public Health Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/chemistry/chemistry-ba-bs-hba-hbs/#requirementstext",
+        "major": "Chemistry Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/mathematics/mathematics-bs-hbs/#requirementstext",
+        "major": "Mathematics Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/physics/physics-ba-bs-hba-hbs/#requirementstext",
+        "major": "Physics Undergraduate Major (BA, BS, HBA, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/school-life-sciences/biochemistry-biophysics/biochemistry-biophysics-bs-hbs/#requirementstext",
+        "major": "Biochemistry and Biophysics Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/school-life-sciences/biochemistry-biophysics/biochemistry-molecular-biology-bs-hbs/#requirementstext",
+        "major": "Biochemistry and Molecular Biology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/school-life-sciences/integrative-biology/biology-bs-hbs/#requirementstext",
+        "major": "Biology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/school-life-sciences/integrative-biology/zoology-bs-hbs/#requirementstext",
+        "major": "Zoology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/school-life-sciences/microbiology/biohealth-sciences-bs-hbs/#requirementstext",
+        "major": "BioHealth Sciences Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/science/school-life-sciences/microbiology/microbiology-bs-hbs/#requirementstext",
+        "major": "Microbiology Undergraduate Major (BS, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/honors/honors-associate-hba-hbfa-hbm-hbs/#requirementstext",
+        "major": "Honors Associate Undergraduate Major (HBA, HBFA, HBM, HBS)"
+    },
+    {
+        "link": "https://catalog.oregonstate.edu/college-departments/honors/honors-scholar-hba-hbfa-hbm-hbs/#requirementstext",
+        "major": "Honors Scholar Undergraduate Major (HBA, HBFA, HBM, HBS)"
+    }
+]
