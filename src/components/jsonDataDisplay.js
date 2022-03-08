@@ -1,6 +1,6 @@
-import React, { Component, useState, useCallback, useEffect } from 'react';
+import React from 'react';
 import Checkbox from '@mui/material/Checkbox';
-import { collapseClasses, FormControl } from '@mui/material';
+import { FormControl } from '@mui/material';
 import MenuItem from '@mui/material/MenuItem';
 import Select from '@mui/material/Select';
 import Box from '@mui/material/Box';
@@ -10,6 +10,8 @@ import Modal from '@mui/material/Modal';
 import InputLabel from '@mui/material/InputLabel';
 
 
+let totalProgress = 0;
+let totalCoursesTaken = [];
 // ------------------ class --------------------
 class Course {
   constructor(id, name, credits, term) {
@@ -31,7 +33,7 @@ class Degree {
     this.degree.push(c);
   }
   removeCourse(courseID){
-    this.degree = this.degree.filter(function(i) {return i.id != courseID; });
+    this.degree = this.degree.filter(function(i) {return i.id !== courseID; });
   }
   get allCourses(){
     return this.degree;
@@ -66,10 +68,25 @@ function ControlledCheckbox(props) {
     setChecked(event.target.checked);
     if(event.target.checked === true){
       props.deg.getCourse(props.idx).completed = 1;
+      //adding the course to the array of all courses completed by user
+      if(!totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
+        totalCoursesTaken.push(props.deg.getCourse(props.idx).id);
+        //adding the credits out of the pool of total credits completed
+        totalProgress += props.deg.getCourse(props.idx).credits;
+      }
     }
     else if(event.target.checked === false){
       props.deg.getCourse(props.idx).completed = 0;
+      //remove the course from the array of all courses completed by user
+      if(totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
+        var idx = totalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
+        totalCoursesTaken.splice(idx, 1);
+        //taking the credits out of the pool of total credits completed
+        totalProgress -= props.deg.getCourse(props.idx).credits;
+      }
     }
+    console.log(totalCoursesTaken);
+    console.log(totalProgress);
     //********  this is where we will want to update progress bar and mark a course as completed ******
   };
   return (
@@ -104,10 +121,17 @@ function BasicModal(props) {
   const handleClose = () => {
     setOpen(false);
     props.deg.getCourse(props.idx).term = term;
+    // let newTable = new Table(props.deg);
+    // return(
+    //   <MakeTables info={newTable} />
+    // )
+    // console.log(newTable)
+    // MakeTables(newTable);
   }
 
   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-  const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
+  // const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
+  const [term, setTerm] = React.useState(0)
 
   const handleTermChange = event => {
     setTerm(event.target.value);
@@ -155,7 +179,6 @@ class Table  extends React.Component{
   }
 
   getHtml(termNum){
-
     var temp= [];
 
     //setting temp array of courses based on term number of course components and termNum
@@ -242,9 +265,9 @@ function assignTerms(){
 }
 
 
+// ------------------ display tables and json based on props --------------------
 function MakeTables(props){
   //creates 12 term tables and fills them in with available data
-  console.log(props.info)
   return (
     <div className="Tables">
         <div className="classTable">
@@ -288,11 +311,14 @@ function MakeTables(props){
 }
 
 
-// ------------------ display tables and json --------------------
+// ------------------ creates initial roadmap --------------------
 function JsonDataDisplay(){
+  //brand new json
   let info = assignTerms();
   return(
-    <MakeTables info={info}/>
+    <div>
+      <MakeTables info={info}/>
+    </div>
   )
 }
 

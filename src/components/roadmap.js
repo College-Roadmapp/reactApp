@@ -152,7 +152,7 @@ function DropDowns(){
         <div></div>
         }
         {college === "engineering" &&
-        <JsonDataDisplay/>
+        <JsonDataDisplay />
         }
       </div>
   );
