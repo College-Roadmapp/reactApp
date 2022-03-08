@@ -63,10 +63,11 @@ class Degree {
 function ControlledCheckbox(props) {
   const [checked, setChecked] = React.useState(false);
 
-  //setting 'completed' to 1 for corresponding course if box is checked
   const handleChange = (event) => {
     setChecked(event.target.checked);
+    //user has clicked the checkbox indicating the have taken the corresponding course
     if(event.target.checked === true){
+      //setting 'completed' of course to 1 to keep track of status
       props.deg.getCourse(props.idx).completed = 1;
       //adding the course to the array of all courses completed by user
       if(!totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
@@ -75,7 +76,9 @@ function ControlledCheckbox(props) {
         totalProgress += props.deg.getCourse(props.idx).credits;
       }
     }
+    //user has unclicked the checkbox indicating the have not taken the corresponding course
     else if(event.target.checked === false){
+      //setting 'completed' of course to 0 to keep track of status
       props.deg.getCourse(props.idx).completed = 0;
       //remove the course from the array of all courses completed by user
       if(totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
@@ -85,8 +88,6 @@ function ControlledCheckbox(props) {
         totalProgress -= props.deg.getCourse(props.idx).credits;
       }
     }
-    console.log(totalCoursesTaken);
-    console.log(totalProgress);
     //********  this is where we will want to update progress bar and mark a course as completed ******
   };
   return (
@@ -120,13 +121,8 @@ function BasicModal(props) {
   const handleOpen = () => setOpen(true);
   const handleClose = () => {
     setOpen(false);
+    //set the course's term value to the term they selected in the dropdown
     props.deg.getCourse(props.idx).term = term;
-    // let newTable = new Table(props.deg);
-    // return(
-    //   <MakeTables info={newTable} />
-    // )
-    // console.log(newTable)
-    // MakeTables(newTable);
   }
 
   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
@@ -179,8 +175,8 @@ class Table  extends React.Component{
   }
 
   getHtml(termNum){
+    //empty array that will hold the current term's courses
     var temp= [];
-
     //setting temp array of courses based on term number of course components and termNum
       //assigns values for each element from degree plan that is calling the function
     for(let i=0; i < this.size; i++){
@@ -188,7 +184,6 @@ class Table  extends React.Component{
         temp.push(this.array.getCourse(i));
       }
     }
-    
     //creating html for each element of temp using json data
     temp=temp.map(
         (info, i)=>{
@@ -234,9 +229,9 @@ function IntoClassObjects(){
   //******* this will have to be conditional based on dropdown selection *****
   const parsedJSON = require('./computerScience.json');
   var result = parsedJSON.computerScience;
-
+  //create new degree plan to put the json in
   let newDegree = new Degree();
-
+  //loop through each course found in the json file and add it to the Degree Class component
   for(let i=0; i < result.length; i++){
     newDegree.insertCourse(result[i].id, result[i].name, result[i].credits);
   }
@@ -247,65 +242,36 @@ function IntoClassObjects(){
 
 // ------------------ assigning intitial term for each course --------------------
 function assignTerms(){
-// function JsonDataDisplay(){
+  //gets degree plan based on json file
   let newDegree = IntoClassObjects();
-  let newTable1 = new Table(newDegree);
-
+  //puts that degree plan into a Table for the roadmap
+  let newTable = new Table(newDegree);
+  //start with term 1
   let termNum = 1;
   //assigns term values; 4 classes per term based on order they appear in json
-  for(let i=0; i < newTable1.size; i++){
+  for(let i=0; i < newTable.size; i++){
     //setting each course's term number based on which term we are rendering it
-    newTable1.props.getCourse(i).term = termNum
+    newTable.props.getCourse(i).term = termNum
     //increments the term number after 4 classes have been added
     if((i + 1) % 4 === 0){
       termNum += 1
     }
   }
-  return newTable1;
+  return newTable;
 }
 
 
 // ------------------ display tables and json based on props --------------------
 function MakeTables(props){
+  const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
   //creates 12 term tables and fills them in with available data
   return (
     <div className="Tables">
-        <div className="classTable">
-        {props.info.getHtml(1)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(2)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(3)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(4)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(5)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(6)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(7)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(8)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(9)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(10)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(11)}
-        </div>
-        <div className="classTable">
-        {props.info.getHtml(12)}
-        </div>
+        {allTermNums.map((term) => 
+         <div className="classTable">
+         {props.info.getHtml(term)}
+         </div>
+        )}
     </div>
   )
 }
