@@ -1,0 +1,686 @@
+{"Courses":[
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or approved PAC course)"
+    },
+    {
+        "code": "FW\u00a0435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS"
+    },
+    {
+        "code": "FW\u00a0439",
+        "title": "^HUMAN DIMENSIONS OF FISHERIES AND WILDLIFE MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0454",
+        "title": "^FISHERY BIOLOGY"
+    },
+    {
+        "code": "FW\u00a0497",
+        "title": "^AQUACULTURE"
+    },
+    {
+        "code": "WR\u00a0222",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "HC\u00a0199",
+        "title": "*HONORS WRITING"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "WR\u00a0362",
+        "title": "*SCIENCE WRITING"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "BI\u00a0370",
+        "title": "ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0107",
+        "title": "ORIENTATION TO FISHERIES AND WILDLIFE"
+    },
+    {
+        "code": "FW\u00a0209",
+        "title": "CAREER SKILLS IN FISHERIES AND WILDLIFE SCIENCES"
+    },
+    {
+        "code": "FW\u00a0251",
+        "title": "PRINCIPLES OF FISH AND WILDLIFE CONSERVATION"
+    },
+    {
+        "code": "FW\u00a0255",
+        "title": "FIELD SAMPLING OF FISH AND WILDLIFE"
+    },
+    {
+        "code": "FW\u00a0289",
+        "title": "COMMUNICATION SKILLS FOR FISHERIES AND WILDLIFE PROFESSIONALS"
+    },
+    {
+        "code": "FW\u00a0307",
+        "title": "SPECIALIZATION DEVELOPMENT"
+    },
+    {
+        "code": "FW\u00a0320",
+        "title": "INTRODUCTORY POPULATION DYNAMICS"
+    },
+    {
+        "code": "FW\u00a0321",
+        "title": "APPLIED COMMUNITY AND ECOSYSTEM ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "FW\u00a0488",
+        "title": "PROBLEM SOLVING IN FISHERIES AND WILDLIFE SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "FW\u00a0302",
+        "title": "BIOLOGY AND CONSERVATION OF MARINE MAMMALS"
+    },
+    {
+        "code": "FW\u00a0311",
+        "title": "ORNITHOLOGY"
+    },
+    {
+        "code": "FW\u00a0315",
+        "title": "ICHTHYOLOGY"
+    },
+    {
+        "code": "FW\u00a0317",
+        "title": "MAMMALOGY"
+    },
+    {
+        "code": "FW\u00a0331",
+        "title": "ECOLOGY OF MARINE AND ESTUARINE BIRDS"
+    },
+    {
+        "code": "Z\u00a0473",
+        "title": "HERPETOLOGY"
+    },
+    {
+        "code": "FW\u00a0312",
+        "title": "SYSTEMATICS OF BIRDS"
+    },
+    {
+        "code": "FW\u00a0316",
+        "title": "SYSTEMATICS OF FISHES"
+    },
+    {
+        "code": "FW\u00a0318",
+        "title": "SYSTEMATICS OF MAMMALS"
+    },
+    {
+        "code": "ANS\u00a0378",
+        "title": "ANIMAL GENETICS"
+    },
+    {
+        "code": "BI\u00a0311",
+        "title": "GENETICS"
+    },
+    {
+        "code": "BI\u00a0345",
+        "title": "*INTRODUCTION TO EVOLUTION"
+    },
+    {
+        "code": "FW\u00a0370",
+        "title": "CONSERVATION GENETICS"
+    },
+    {
+        "code": "PBG\u00a0430",
+        "title": "PLANT GENETICS"
+    },
+    {
+        "code": "ANS\u00a0311",
+        "title": "PRINCIPLES OF ANIMAL NUTRITION"
+    },
+    {
+        "code": "ANS\u00a0314",
+        "title": "ANIMAL PHYSIOLOGY"
+    },
+    {
+        "code": "FW\u00a0469",
+        "title": "METHODS IN PHYSIOLOGY AND BEHAVIOR OF MARINE MEGAFAUNA"
+    },
+    {
+        "code": "FW\u00a0471",
+        "title": "ENVIRONMENTAL PHYSIOLOGY OF FISHES"
+    },
+    {
+        "code": "FW\u00a0475",
+        "title": "WILDLIFE BEHAVIOR"
+    },
+    {
+        "code": "FW\u00a0476",
+        "title": "FISH PHYSIOLOGY"
+    },
+    {
+        "code": "Z\u00a0350",
+        "title": "ANIMAL BEHAVIOR"
+    },
+    {
+        "code": "Z\u00a0423",
+        "title": "ENVIRONMENTAL PHYSIOLOGY"
+    },
+    {
+        "code": "Z\u00a0431",
+        "title": "VERTEBRATE PHYSIOLOGY I"
+    },
+    {
+        "code": "Z\u00a0432",
+        "title": "VERTEBRATE PHYSIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0351",
+        "title": "MARINE ECOLOGY"
+    },
+    {
+        "code": "FES\u00a0341",
+        "title": "FOREST ECOLOGY"
+    },
+    {
+        "code": "FES\u00a0342",
+        "title": "FOREST TYPES OF THE NORTHWEST"
+    },
+    {
+        "code": "FES\u00a0440",
+        "title": "WILDLAND FIRE ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0345",
+        "title": "*GLOBAL CHANGE BIOLOGY"
+    },
+    {
+        "code": "FW\u00a0418",
+        "title": "URBAN ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0426",
+        "title": "COASTAL ECOLOGY AND RESOURCE MANAGEMENT"
+    },
+    {
+        "code": "FW 434/OC 434",
+        "title": "ESTUARINE ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS"
+    },
+    {
+        "code": "FW 445/FES 445",
+        "title": "ECOLOGICAL RESTORATION"
+    },
+    {
+        "code": "FW 452/FES 452",
+        "title": "BIODIVERSITY CONSERVATION IN MANAGED FORESTS"
+    },
+    {
+        "code": "FW\u00a0456",
+        "title": "FRESHWATER ECOLOGY AND CONSERVATION"
+    },
+    {
+        "code": "FW\u00a0462",
+        "title": "ECOSYSTEM SERVICES"
+    },
+    {
+        "code": "FW\u00a0467",
+        "title": "ANTARCTIC SCIENCE AND CONSERVATION"
+    },
+    {
+        "code": "FW\u00a0479",
+        "title": "WETLANDS AND RIPARIAN ECOLOGY"
+    },
+    {
+        "code": "RNG\u00a0341",
+        "title": "RANGELAND ECOLOGY AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0419",
+        "title": "THE NATURAL HISTORY OF WHALES AND WHALING"
+    },
+    {
+        "code": "FW\u00a0421",
+        "title": "AQUATIC BIOLOGICAL INVASIONS"
+    },
+    {
+        "code": "FW\u00a0427",
+        "title": "PRINCIPLES OF WILDLIFE DISEASES"
+    },
+    {
+        "code": "FW\u00a0451",
+        "title": "AVIAN CONSERVATION AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0454",
+        "title": "^FISHERY BIOLOGY"
+    },
+    {
+        "code": "FW\u00a0458",
+        "title": "MAMMAL CONSERVATION AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0464",
+        "title": "MARINE CONSERVATION BIOLOGY"
+    },
+    {
+        "code": "FW\u00a0473",
+        "title": "FISH ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0474",
+        "title": "EARLY LIFE HISTORY OF FISHES"
+    },
+    {
+        "code": "FW\u00a0481",
+        "title": "WILDLIFE ECOLOGY"
+    },
+    {
+        "code": "FW 491/MB 491",
+        "title": "FISH DISEASES IN CONSERVATION BIOLOGY AND AQUACULTURE"
+    },
+    {
+        "code": "BOT\u00a0313",
+        "title": "PLANT STRUCTURE"
+    },
+    {
+        "code": "BOT\u00a0321",
+        "title": "PLANT SYSTEMATICS"
+    },
+    {
+        "code": "BOT\u00a0323",
+        "title": "^FLOWERING PLANTS OF THE WORLD"
+    },
+    {
+        "code": "BOT\u00a0331",
+        "title": "PLANT PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0341",
+        "title": "PLANT ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0416",
+        "title": "AQUATIC BOTANY"
+    },
+    {
+        "code": "BOT\u00a0440",
+        "title": "FIELD METHODS IN PLANT ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0442",
+        "title": "PLANT POPULATION ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0488",
+        "title": "ENVIRONMENTAL PHYSIOLOGY OF PLANTS"
+    },
+    {
+        "code": "RNG\u00a0353",
+        "title": "WILDLAND PLANT IDENTIFICATION"
+    },
+    {
+        "code": "CH\u00a0130",
+        "title": "GENERAL CHEMISTRY OF LIVING SYSTEMS"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0332",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0390",
+        "title": "ENVIRONMENTAL CHEMISTRY"
+    },
+    {
+        "code": "MTH\u00a0227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I"
+    },
+    {
+        "code": "MTH\u00a0228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "OC\u00a0450",
+        "title": "CHEMICAL OCEANOGRAPHY"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0205",
+        "title": "*SOLAR SYSTEM ASTRONOMY"
+    },
+    {
+        "code": "PH\u00a0206",
+        "title": "*STARS AND STELLAR EVOLUTION"
+    },
+    {
+        "code": "PH\u00a0207",
+        "title": "*GALAXIES, QUASARS, AND COSMOLOGY"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0331",
+        "title": "*SOUND, HEARING, AND MUSIC"
+    },
+    {
+        "code": "PH\u00a0332",
+        "title": "*LIGHT, VISION, AND COLOR"
+    },
+    {
+        "code": "ATS\u00a0201",
+        "title": "*CLIMATE SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0201",
+        "title": "*PHYSICAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0203",
+        "title": "*EVOLUTION OF PLANET EARTH"
+    },
+    {
+        "code": "GEO\u00a0221",
+        "title": "*ENVIRONMENTAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0305",
+        "title": "*LIVING WITH ACTIVE CASCADE VOLCANOES"
+    },
+    {
+        "code": "GEO\u00a0306",
+        "title": "*MINERALS, ENERGY, WATER, AND THE ENVIRONMENT"
+    },
+    {
+        "code": "GEO\u00a0307",
+        "title": "*NATIONAL PARK GEOLOGY AND PRESERVATION"
+    },
+    {
+        "code": "GEO\u00a0308",
+        "title": "*GLOBAL CHANGE AND EARTH SCIENCES"
+    },
+    {
+        "code": "OC\u00a0201",
+        "title": "*OCEANOGRAPHY"
+    },
+    {
+        "code": "OC\u00a0332",
+        "title": "COASTAL OCEANOGRAPHY"
+    },
+    {
+        "code": "SOIL\u00a0205",
+        "title": "SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205"
+    },
+    {
+        "code": "CSS\u00a0205",
+        "title": "*SOIL SCIENCE"
+    },
+    {
+        "code": "CSS\u00a0305",
+        "title": "PRINCIPLES OF SOIL SCIENCE"
+    },
+    {
+        "code": "AG\u00a0301",
+        "title": "*ECOSYSTEM SCIENCE OF PACIFIC NW INDIANS"
+    },
+    {
+        "code": "FW\u00a0340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES"
+    },
+    {
+        "code": "GEO\u00a0309",
+        "title": "*ENVIRONMENTAL JUSTICE"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0432",
+        "title": "ENVIRONMENTAL LAW"
+    },
+    {
+        "code": "FOR\u00a0462",
+        "title": "NATURAL RESOURCE POLICY AND LAW"
+    },
+    {
+        "code": "FW\u00a0350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY"
+    },
+    {
+        "code": "FW\u00a0415",
+        "title": "FISHERIES AND WILDLIFE LAW AND POLICY"
+    },
+    {
+        "code": "FW\u00a0422",
+        "title": "INTRODUCTION TO OCEAN LAW"
+    },
+    {
+        "code": "PPOL\u00a0448",
+        "title": "MARINE POLICY IN THE UNITED STATES"
+    },
+    {
+        "code": "PS\u00a0475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY"
+    },
+    {
+        "code": "PS\u00a0477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY"
+    },
+    {
+        "code": "ANTH\u00a0477",
+        "title": "ECOLOGICAL ANTHROPOLOGY"
+    },
+    {
+        "code": "ANTH\u00a0481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES"
+    },
+    {
+        "code": "BOT\u00a0322",
+        "title": "ECONOMIC AND ETHNOBOTANY: ROLE OF PLANTS IN HUMAN CULTURE"
+    },
+    {
+        "code": "FES\u00a0355",
+        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES"
+    },
+    {
+        "code": "FES\u00a0422",
+        "title": "RESEARCH METHODS IN SOCIAL SCIENCE"
+    },
+    {
+        "code": "FES\u00a0485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES"
+    },
+    {
+        "code": "FW\u00a0324",
+        "title": "*FOOD FROM THE SEA"
+    },
+    {
+        "code": "FW\u00a0325",
+        "title": "*GLOBAL CRISES IN RESOURCE ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0360",
+        "title": "*ORIGINS OF F&W MANAGEMENT-EVOLUTION, GENETICS, AND ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0391",
+        "title": "*RIDGE TO REEF: SUSTAINABLE RESOURCE MANAGEMENT IN PALAU"
+    },
+    {
+        "code": "FW\u00a0439",
+        "title": "^HUMAN DIMENSIONS OF FISHERIES AND WILDLIFE MANAGEMENT"
+    },
+    {
+        "code": "GEOG\u00a0340",
+        "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY"
+    },
+    {
+        "code": "HST\u00a0481",
+        "title": "*ENVIRONMENTAL HISTORY OF THE UNITED STATES"
+    },
+    {
+        "code": "PHL\u00a0440",
+        "title": "*ENVIRONMENTAL ETHICS"
+    },
+    {
+        "code": "PHL 443/REL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES"
+    },
+    {
+        "code": "PS\u00a0461",
+        "title": "ENVIRONMENTAL POLITICAL THEORY"
+    },
+    {
+        "code": "PS\u00a0476",
+        "title": "*SCIENCE AND POLITICS"
+    },
+    {
+        "code": "SOC\u00a0480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY"
+    },
+    {
+        "code": "SOC\u00a0481",
+        "title": "*SOCIETY AND NATURAL RESOURCES"
+    }
+]}

@@ -1,0 +1,214 @@
+{"Courses":[
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "PH\u00a0203",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "GEO\u00a0201",
+        "title": "*PHYSICAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0203",
+        "title": "*EVOLUTION OF PLANET EARTH"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "GEO\u00a0295",
+        "title": "INTRODUCTION TO FIELD GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0301",
+        "title": "GEOSCIENCES DATA ANALYSIS (New Course - GEOSCIENCES DATA ANALYSIS)"
+    },
+    {
+        "code": "GEO\u00a0310",
+        "title": "EARTH MATERIALS I: MINERALOGY"
+    },
+    {
+        "code": "GEO\u00a0315",
+        "title": "EARTH MATERIALS II: PETROLOGY"
+    },
+    {
+        "code": "GEO\u00a0322",
+        "title": "SURFACE PROCESSES"
+    },
+    {
+        "code": "GEO\u00a0340",
+        "title": "STRUCTURAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0370",
+        "title": "STRATIGRAPHY AND SEDIMENTOLOGY"
+    },
+    {
+        "code": "GEO\u00a0415",
+        "title": "EARTH MATERIALS III: PETROGRAPHY"
+    },
+    {
+        "code": "GEO\u00a0430",
+        "title": "^GEOCHEMISTRY"
+    },
+    {
+        "code": "GEO\u00a0463",
+        "title": "^GEOPHYSICS AND TECTONICS"
+    },
+    {
+        "code": "GEO\u00a0487",
+        "title": "HYDROGEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0495",
+        "title": "ADVANCED FIELD GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0412",
+        "title": "IGNEOUS PETROLOGY"
+    },
+    {
+        "code": "GEO\u00a0440",
+        "title": "ECONOMIC GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0497",
+        "title": "FIELD MAPPING OF ORE DEPOSITS"
+    },
+    {
+        "code": "GEO\u00a0427",
+        "title": "^VOLCANOLOGY"
+    },
+    {
+        "code": "GEO\u00a0433",
+        "title": "COASTAL GEOMORPHOLOGY"
+    },
+    {
+        "code": "GEO\u00a0461",
+        "title": "GEOLOGY OF EARTHQUAKES"
+    },
+    {
+        "code": "BI\u00a0427",
+        "title": "PALEOBIOLOGY"
+    },
+    {
+        "code": "GEO\u00a0431",
+        "title": "ENVIRONMENTAL GEOCHEMISTRY"
+    },
+    {
+        "code": "GEO\u00a0432",
+        "title": "APPLIED GEOMORPHOLOGY"
+    },
+    {
+        "code": "GEO\u00a0477",
+        "title": "GLACIERS IN THE CLIMATE SYSTEM (New Course - GLACIERS IN THE CLIMATE SYSTEM)"
+    },
+    {
+        "code": "GEO\u00a0481",
+        "title": "GLACIAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0484",
+        "title": "INTRODUCTION TO BIOGEOCHEMISTRY"
+    },
+    {
+        "code": "GEO\u00a0486",
+        "title": "QUATERNARY PALEOCLIMATOLOGY"
+    },
+    {
+        "code": "GEO\u00a0488",
+        "title": "QUATERNARY STRATIGRAPHY OF NORTH AMERICA"
+    },
+    {
+        "code": "GEOG\u00a0423",
+        "title": "SNOW HYDROLOGY"
+    },
+    {
+        "code": "GEOG\u00a0480",
+        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS"
+    },
+    {
+        "code": "OC\u00a0460",
+        "title": "GEOLOGICAL OCEANOGRAPHY"
+    },
+    {
+        "code": "GEO\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "GEO\u00a0499",
+        "title": "SPECIAL TOPICS"
+    }
+]}

@@ -1,0 +1,238 @@
+{"Courses":[
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or any PAC course)"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "BB\u00a0314",
+        "title": "CELL AND MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "BI\u00a0311",
+        "title": "GENETICS"
+    },
+    {
+        "code": "PBG\u00a0430",
+        "title": "PLANT GENETICS"
+    },
+    {
+        "code": "PBG\u00a0431",
+        "title": "PLANT GENETICS RECITATION"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0332",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0350",
+        "title": "ELEMENTARY BIOCHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0450",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0451",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "MTH\u00a0111",
+        "title": "*COLLEGE ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0112",
+        "title": "*ELEMENTARY FUNCTIONS"
+    },
+    {
+        "code": "MTH\u00a0231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "BOT\u00a0470",
+        "title": "INTRODUCTION TO COMPUTING IN THE LIFE SCIENCES"
+    },
+    {
+        "code": "CS\u00a0161",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE I"
+    },
+    {
+        "code": "CS\u00a0162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "GEOG\u00a0361",
+        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0411",
+        "title": "METHODS OF DATA ANALYSIS"
+    },
+    {
+        "code": "BI\u00a0371",
+        "title": "^ECOLOGICAL METHODS"
+    },
+    {
+        "code": "BOT\u00a0323",
+        "title": "^FLOWERING PLANTS OF THE WORLD"
+    },
+    {
+        "code": "HSTS\u00a0415",
+        "title": "*THEORY OF EVOLUTION AND FOUNDATION OF MODERN BIOLOGY"
+    },
+    {
+        "code": "HSTS\u00a0419",
+        "title": "*STUDIES IN SCIENTIFIC CONTROVERSY: METHODS AND PRACTICES"
+    },
+    {
+        "code": "MB\u00a0311",
+        "title": "^MOLECULAR MICROBIOLOGY LAB: A WRITING INTENSIVE COURSE"
+    },
+    {
+        "code": "BOT\u00a0220",
+        "title": "*INTRODUCTION TO PLANT BIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0313",
+        "title": "PLANT STRUCTURE"
+    },
+    {
+        "code": "BOT\u00a0321",
+        "title": "PLANT SYSTEMATICS"
+    },
+    {
+        "code": "BOT\u00a0331",
+        "title": "PLANT PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0332",
+        "title": "LABORATORY TECHNIQUES IN PLANT BIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0341",
+        "title": "PLANT ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "BOT\u00a0416",
+        "title": "AQUATIC BOTANY"
+    },
+    {
+        "code": "BOT\u00a0461",
+        "title": "MYCOLOGY"
+    },
+    {
+        "code": "BOT\u00a0465",
+        "title": "LICHENOLOGY"
+    },
+    {
+        "code": "BOT\u00a0466",
+        "title": "BRYOLOGY"
+    }
+]}

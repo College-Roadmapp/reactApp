@@ -1,0 +1,150 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "MTH\u00a0111",
+        "title": "*COLLEGE ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0112",
+        "title": "*ELEMENTARY FUNCTIONS"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS (required for Horticultural Research option)"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS 1"
+    },
+    {
+        "code": "BOT\u00a0331",
+        "title": "PLANT PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0350",
+        "title": "INTRODUCTORY PLANT PATHOLOGY"
+    },
+    {
+        "code": "CROP\u00a0440",
+        "title": "WEED MANAGEMENT"
+    },
+    {
+        "code": "ENT\u00a0311",
+        "title": "INTRODUCTION TO INSECT PEST MANAGEMENT"
+    },
+    {
+        "code": "SOIL\u00a0205",
+        "title": "SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205"
+    },
+    {
+        "code": "CSS\u00a0205",
+        "title": "*SOIL SCIENCE"
+    },
+    {
+        "code": "HORT\u00a0112",
+        "title": "INTRODUCTION TO HORTICULTURAL SYSTEMS, PRACTICES AND CAREERS"
+    },
+    {
+        "code": "CROP 101/ENT 101/SOIL 101",
+        "title": "INTRODUCTION TO CROP, SOIL, AND INSECT SCIENCE (Plant Breeding & Genetics option only)"
+    },
+    {
+        "code": "HORT\u00a0301",
+        "title": "GROWTH AND DEVELOPMENT OF HORTICULTURAL CROPS"
+    },
+    {
+        "code": "HORT\u00a0310",
+        "title": "PRINCIPLES OF PLANT PROPAGATION"
+    },
+    {
+        "code": "HORT\u00a0311",
+        "title": "PLANT PROPAGATION"
+    },
+    {
+        "code": "HORT\u00a0316",
+        "title": "PLANT NUTRITION"
+    },
+    {
+        "code": "HORT\u00a0403",
+        "title": "THESIS (required for Horticultural Research option) 2"
+    },
+    {
+        "code": "HORT\u00a0410",
+        "title": "INTERNSHIP 2"
+    },
+    {
+        "code": "HORT\u00a0412",
+        "title": "CAREER EXPLORATION: INTERNSHIPS AND RESEARCH PROJECTS"
+    }
+]}

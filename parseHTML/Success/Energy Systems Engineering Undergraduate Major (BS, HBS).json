@@ -1,0 +1,198 @@
+{"Courses":[
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or any PAC course)"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "SUS\u00a0350",
+        "title": "*SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "CH\u00a0201",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0202",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "CH\u00a0205",
+        "title": "LABORATORY FOR CH 202"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "ST\u00a0314",
+        "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS"
+    },
+    {
+        "code": "BA\u00a0357",
+        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT"
+    },
+    {
+        "code": "ENGR\u00a0390",
+        "title": "ENGINEERING ECONOMY"
+    },
+    {
+        "code": "IE\u00a0471",
+        "title": "PROJECT MANAGEMENT IN ENGINEERING"
+    },
+    {
+        "code": "IE\u00a0212",
+        "title": "COMPUTATIONAL METHODS FOR INDUSTRIAL ENGINEERING"
+    },
+    {
+        "code": "ESE\u00a0330",
+        "title": "MODELING AND ANALYSIS OF DYNAMIC SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0355",
+        "title": "ENERGY REGULATION"
+    },
+    {
+        "code": "ESE\u00a0360",
+        "title": "ENERGY CONSUMPTION ANALYSIS"
+    },
+    {
+        "code": "ESE\u00a0430",
+        "title": "FEEDBACK CONTROL SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0450",
+        "title": "ENERGY GENERATION SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0470",
+        "title": "ENERGY DISTRIBUTION SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0471",
+        "title": "ENERGY STORAGE SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0497",
+        "title": "^MIME CAPSTONE DESIGN"
+    },
+    {
+        "code": "ESE\u00a0498",
+        "title": "^MIME CAPSTONE DESIGN"
+    },
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING"
+    },
+    {
+        "code": "ENGR\u00a0201",
+        "title": "ELECTRICAL FUNDAMENTALS I"
+    },
+    {
+        "code": "ENGR\u00a0202",
+        "title": "ELECTRICAL FUNDAMENTALS II"
+    },
+    {
+        "code": "ENGR\u00a0211",
+        "title": "STATICS"
+    },
+    {
+        "code": "ENGR\u00a0212",
+        "title": "DYNAMICS"
+    },
+    {
+        "code": "IE\u00a0415",
+        "title": "SIMULATION AND DECISION SUPPORT SYSTEMS"
+    },
+    {
+        "code": "IE\u00a0425",
+        "title": "INDUSTRIAL SYSTEMS OPTIMIZATION"
+    },
+    {
+        "code": "ME 311/NSE 311",
+        "title": "INTRODUCTION TO THERMAL-FLUID SCIENCES"
+    },
+    {
+        "code": "ME 312/NSE 312",
+        "title": "THERMODYNAMICS"
+    },
+    {
+        "code": "ME 331/NSE 331",
+        "title": "INTRODUCTORY FLUID MECHANICS"
+    },
+    {
+        "code": "ME 332/NSE 332",
+        "title": "HEAT TRANSFER"
+    }
+]}

@@ -1,0 +1,30 @@
+{"Courses":[
+    {
+        "code": "CE\u00a0361",
+        "title": "SURVEYING THEORY"
+    },
+    {
+        "code": "CE\u00a0365",
+        "title": "HIGHWAY LOCATION AND DESIGN"
+    },
+    {
+        "code": "CE 461/CE 561",
+        "title": "PHOTOGRAMMETRY"
+    },
+    {
+        "code": "CE 463/CE 563",
+        "title": "CONTROL SURVEYING"
+    },
+    {
+        "code": "CE 465/CE 565",
+        "title": "OREGON LAND SURVEY LAW"
+    },
+    {
+        "code": "CE 469/CE 569",
+        "title": "PROPERTY SURVEYS"
+    },
+    {
+        "code": "CE\u00a0562",
+        "title": "DIGITAL TERRAIN MODELING"
+    }
+]}

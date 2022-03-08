@@ -1,0 +1,34 @@
+{"Courses":[
+    {
+        "code": "ANTH\u00a0101",
+        "title": "*INTRODUCTION TO ANTHROPOLOGY"
+    },
+    {
+        "code": "ANTH\u00a0210",
+        "title": "*COMPARATIVE CULTURES"
+    },
+    {
+        "code": "ANTH\u00a0230",
+        "title": "TIME TRAVELERS"
+    },
+    {
+        "code": "ANTH\u00a0240",
+        "title": "INTRODUCTION TO BIOLOGICAL ANTHROPOLOGY"
+    },
+    {
+        "code": "ANTH\u00a0345",
+        "title": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE"
+    },
+    {
+        "code": "ANTH\u00a0350",
+        "title": "LANGUAGE, CULTURE AND SOCIETY"
+    },
+    {
+        "code": "ANTH\u00a0370",
+        "title": "^ANTHROPOLOGICAL THEORIES"
+    },
+    {
+        "code": "ANTH\u00a0475",
+        "title": "ANTHROPOLOGY IN PRACTICE"
+    }
+]}

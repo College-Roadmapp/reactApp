@@ -1,0 +1,110 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "BI\u00a0311",
+        "title": "GENETICS"
+    },
+    {
+        "code": "BI\u00a0445",
+        "title": "EVOLUTION"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0411",
+        "title": "METHODS OF DATA ANALYSIS"
+    },
+    {
+        "code": "ST\u00a0412",
+        "title": "METHODS OF DATA ANALYSIS"
+    },
+    {
+        "code": "CS\u00a0161",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE I"
+    },
+    {
+        "code": "CS\u00a0162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II"
+    },
+    {
+        "code": "CS\u00a0261",
+        "title": "DATA STRUCTURES"
+    },
+    {
+        "code": "BDS\u00a0211",
+        "title": "USE AND ABUSE OF DATA: CRITICAL THINKING IN SCIENCE"
+    },
+    {
+        "code": "BDS\u00a0311",
+        "title": "COMPUTATIONAL APPROACHES FOR BIOLOGICAL DATA"
+    },
+    {
+        "code": "BDS\u00a0406",
+        "title": "SPECIAL PROJECTS"
+    },
+    {
+        "code": "BDS\u00a0411",
+        "title": "*ANALYSIS OF BIOLOGICAL DATA: CASE STUDIES"
+    },
+    {
+        "code": "BDS\u00a0491",
+        "title": "CAPSTONE PROJECTS IN BIOLOGICAL DATA SCIENCE I"
+    },
+    {
+        "code": "BDS\u00a0492",
+        "title": "CAPSTONE PROJECTS IN BIOLOGICAL DATA SCIENCE II"
+    }
+]}

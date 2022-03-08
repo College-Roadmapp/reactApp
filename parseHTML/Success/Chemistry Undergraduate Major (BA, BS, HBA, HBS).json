@@ -1,0 +1,294 @@
+{"Courses":[
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or any PAC course)"
+    },
+    {
+        "code": "CH\u00a0231H",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0232H",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0233H",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261H",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0262H",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0263H",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0361H",
+        "title": "EXPERIMENTAL CHEMISTRY I"
+    },
+    {
+        "code": "CH\u00a0362H",
+        "title": "EXPERIMENTAL CHEMISTRY I"
+    },
+    {
+        "code": "CH\u00a0461H",
+        "title": "EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "CH\u00a0462H",
+        "title": "^EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "CH\u00a0463H",
+        "title": "^ EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "CH\u00a0464H",
+        "title": "^EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0271",
+        "title": "*LABORATORY FOR CH 231 FOR CHEMISTRY MAJORS"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0272",
+        "title": "*LABORATORY FOR CH 232 FOR CHEMISTRY MAJORS"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0273",
+        "title": "*LABORATORY FOR CH 233 FOR CHEMISTRY MAJORS"
+    },
+    {
+        "code": "CH\u00a0334",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0335",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0336",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0361",
+        "title": "EXPERIMENTAL CHEMISTRY I"
+    },
+    {
+        "code": "CH\u00a0362",
+        "title": "EXPERIMENTAL CHEMISTRY I"
+    },
+    {
+        "code": "CH\u00a0421",
+        "title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0422",
+        "title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0440",
+        "title": "PHYSICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0441",
+        "title": "PHYSICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0442",
+        "title": "PHYSICAL CHEMISTRY"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0253",
+        "title": "INFINITE SERIES AND SEQUENCES"
+    },
+    {
+        "code": "MTH\u00a0306",
+        "title": "MATRIX AND POWER SERIES METHODS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0221",
+        "title": "RECITATION FOR PHYSICS 211"
+    },
+    {
+        "code": "PH\u00a0222",
+        "title": "RECITATION FOR PHYSICS 212"
+    },
+    {
+        "code": "PH\u00a0223",
+        "title": "RECITATION FOR PHYSICS 213"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0271",
+        "title": "*LABORATORY FOR CH 231 FOR CHEMISTRY MAJORS"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0272",
+        "title": "*LABORATORY FOR CH 232 FOR CHEMISTRY MAJORS"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0273",
+        "title": "*LABORATORY FOR CH 233 FOR CHEMISTRY MAJORS"
+    },
+    {
+        "code": "CH\u00a0324",
+        "title": "QUANTITATIVE ANALYSIS 2"
+    },
+    {
+        "code": "CH\u00a0334",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0335",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0336",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0361",
+        "title": "EXPERIMENTAL CHEMISTRY I"
+    },
+    {
+        "code": "CH\u00a0362",
+        "title": "EXPERIMENTAL CHEMISTRY I"
+    },
+    {
+        "code": "CH\u00a0411",
+        "title": "INORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0412",
+        "title": "INORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0440",
+        "title": "PHYSICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0441",
+        "title": "PHYSICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0442",
+        "title": "PHYSICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0462",
+        "title": "^EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "CH\u00a0463",
+        "title": "^EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "CH\u00a0464",
+        "title": "^EXPERIMENTAL CHEMISTRY II"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0221",
+        "title": "RECITATION FOR PHYSICS 211"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0222",
+        "title": "RECITATION FOR PHYSICS 212"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0223",
+        "title": "RECITATION FOR PHYSICS 213"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0203",
+        "title": "*GENERAL PHYSICS"
+    }
+]}

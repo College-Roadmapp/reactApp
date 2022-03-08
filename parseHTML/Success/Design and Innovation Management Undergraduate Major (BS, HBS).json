@@ -1,0 +1,238 @@
+{"Courses":[
+    {
+        "code": "BA\u00a0160",
+        "title": "B-ENGAGED"
+    },
+    {
+        "code": "BA\u00a0163",
+        "title": "B-ENGAGED"
+    },
+    {
+        "code": "BA\u00a0161",
+        "title": "INNOVATION NATION--AWARENESS TO ACTION"
+    },
+    {
+        "code": "BA\u00a0162",
+        "title": "INNOVATION NATION--IDEAS TO REALITY"
+    },
+    {
+        "code": "BA\u00a0101",
+        "title": "BUSINESS NOW"
+    },
+    {
+        "code": "BA\u00a0280",
+        "title": "BUSINESS INSIGHTS"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "COMM\u00a0218",
+        "title": "*INTERPERSONAL COMMUNICATION"
+    },
+    {
+        "code": "ART\u00a0101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS"
+    },
+    {
+        "code": "MTH\u00a0111",
+        "title": "*COLLEGE ALGEBRA"
+    },
+    {
+        "code": "DSGN\u00a0121",
+        "title": "COMPUTER AIDED DESIGN"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "DSGN\u00a0253",
+        "title": "PROFESSIONAL DEVELOPMENT"
+    },
+    {
+        "code": "DSGN\u00a0282",
+        "title": "DRAFTING YOUR CAREER BLUEPRINT"
+    },
+    {
+        "code": "DSGN\u00a0283",
+        "title": "CREATIVITY, CULTURE, AND THE WORKPLACE"
+    },
+    {
+        "code": "DSGN\u00a0284",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE I"
+    },
+    {
+        "code": "ART\u00a0206",
+        "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY"
+    },
+    {
+        "code": "ART\u00a0204",
+        "title": "*INTRODUCTION TO WESTERN ART: PREHISTORY TO HIGH MIDDLE AGES"
+    },
+    {
+        "code": "ART\u00a0205",
+        "title": "*INTRODUCTION TO WESTERN ART: GOTHIC TO BAROQUE"
+    },
+    {
+        "code": "DSGN\u00a0244",
+        "title": "COLOR INNOVATION"
+    },
+    {
+        "code": "DSGN\u00a0255",
+        "title": "TEXTILES"
+    },
+    {
+        "code": "DSGN\u00a0281",
+        "title": "DRAWING AND SKETCHING"
+    },
+    {
+        "code": "BA\u00a0260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "ST\u00a0201",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "WR\u00a0222",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0323",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "ART\u00a0367",
+        "title": "*HISTORY OF DESIGN"
+    },
+    {
+        "code": "BA\u00a0315",
+        "title": "ACCOUNTING FOR DECISION MAKING"
+    },
+    {
+        "code": "BA\u00a0390",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "BA\u00a0223",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "DSGN\u00a0311",
+        "title": "FRAMING YOUR CAREER PLAN"
+    },
+    {
+        "code": "DSGN\u00a0312",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE II"
+    },
+    {
+        "code": "DSGN\u00a0313",
+        "title": "THE ORANGE AND BLACK CASE COMPETITION"
+    },
+    {
+        "code": "DSGN\u00a0341",
+        "title": "DESIGN THINKING AND PROCESS INNOVATION"
+    },
+    {
+        "code": "BA\u00a0352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE"
+    },
+    {
+        "code": "BA\u00a0354",
+        "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY"
+    },
+    {
+        "code": "MGMT\u00a0364",
+        "title": "PROJECT MANAGEMENT"
+    },
+    {
+        "code": "DSGN\u00a0411",
+        "title": "NAVIGATING YOUR WORKPLACE"
+    },
+    {
+        "code": "DSGN\u00a0412",
+        "title": "FINANCIAL PLANNING I"
+    },
+    {
+        "code": "DSGN\u00a0413",
+        "title": "FINANCIAL PLANNING II"
+    },
+    {
+        "code": "MRKT\u00a0492",
+        "title": "CONSUMER BEHAVIOR"
+    },
+    {
+        "code": "MRKT\u00a0495",
+        "title": "RETAIL MANAGEMENT"
+    },
+    {
+        "code": "DSGN\u00a0342",
+        "title": "INTRODUCTION TO DESIGN MANAGEMENT"
+    },
+    {
+        "code": "DSGN\u00a0343",
+        "title": "IDEA VISUALIZATION"
+    },
+    {
+        "code": "DSGN\u00a0440",
+        "title": "DESIGN RESEARCH"
+    },
+    {
+        "code": "DSGN\u00a0441",
+        "title": "SERVICE DESIGN INNOVATION"
+    },
+    {
+        "code": "DSGN\u00a0442",
+        "title": "MATERIALITY AND MAKING FIELD PROJECT"
+    },
+    {
+        "code": "DSGN\u00a0330",
+        "title": "^FASHION FORECASTING AND MARKET ANALYSIS"
+    },
+    {
+        "code": "DSGN\u00a0333",
+        "title": "HISTORY OF CONTEMPORARY FASHION"
+    },
+    {
+        "code": "DSGN\u00a0356",
+        "title": "SPECIFICATION AND EVALUATION OF PERFORMANCE MATERIALS"
+    },
+    {
+        "code": "SUS\u00a0350",
+        "title": "*SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "BA\u00a0363",
+        "title": "INNOVATION MANAGEMENT"
+    },
+    {
+        "code": "DSGN\u00a0475",
+        "title": "*GLOBAL SOURCING OF TEXTILES, APPAREL, AND FOOTWEAR"
+    },
+    {
+        "code": "BA\u00a0481",
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS"
+    },
+    {
+        "code": "MRKT\u00a0484",
+        "title": "DIGITAL MARKETING PLATFORMS"
+    },
+    {
+        "code": "MRKT\u00a0493",
+        "title": "INTEGRATED MARKETING COMMUNICATIONS"
+    }
+]}

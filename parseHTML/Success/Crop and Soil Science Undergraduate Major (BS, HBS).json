@@ -1,0 +1,174 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "MTH\u00a0111",
+        "title": "*COLLEGE ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0112",
+        "title": "*ELEMENTARY FUNCTIONS"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "CROP 101/ENT 101/SOIL 101",
+        "title": "INTRODUCTION TO CROP, SOIL, AND INSECT SCIENCE"
+    },
+    {
+        "code": "CROP\u00a0200",
+        "title": "CROP ECOLOGY AND MORPHOLOGY"
+    },
+    {
+        "code": "SOIL\u00a0205",
+        "title": "SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205"
+    },
+    {
+        "code": "CSS\u00a0205",
+        "title": "*SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0316",
+        "title": "NUTRIENT CYCLING IN AGROECOSYSTEMS"
+    },
+    {
+        "code": "CROP 407/SOIL 407/HORT 407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "CROP\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "CROP\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "CROP\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "SOIL\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "SOIL\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "SOIL\u00a0408",
+        "title": "WORKSHOP"
+    },
+    {
+        "code": "SOIL\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "BI\u00a0370",
+        "title": "ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0341",
+        "title": "PLANT ECOLOGY"
+    },
+    {
+        "code": "HORT\u00a0318",
+        "title": "^APPLIED ECOLOGY OF MANAGED ECOSYSTEMS"
+    },
+    {
+        "code": "RNG\u00a0341",
+        "title": "RANGELAND ECOLOGY AND MANAGEMENT"
+    },
+    {
+        "code": "CROP\u00a0414",
+        "title": "PRECISION AGRICULTURE"
+    },
+    {
+        "code": "CROP\u00a0420",
+        "title": "SEED SCIENCE AND TECHNOLOGY"
+    },
+    {
+        "code": "SOIL\u00a0468",
+        "title": "SOIL LANDSCAPE ANALYSIS"
+    },
+    {
+        "code": "SOIL\u00a0395",
+        "title": "^WORLD SOIL RESOURCES"
+    },
+    {
+        "code": "SUS 325/CROP 325/SOIL 325",
+        "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH"
+    }
+]}

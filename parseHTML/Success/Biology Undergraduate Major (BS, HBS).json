@@ -1,0 +1,522 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0197",
+        "title": "PROFESSIONAL DEVELOPMENT I: HEALTH PROFESSIONS"
+    },
+    {
+        "code": "BI\u00a0198",
+        "title": "PROFESSIONAL DEVELOPMENT I: BIOLOGY AND ZOOLOGY"
+    },
+    {
+        "code": "BI\u00a0298",
+        "title": "PROFESSIONAL DEVELOPMENT FOR BIOLOGISTS II"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "WR\u00a0362",
+        "title": "*SCIENCE WRITING"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I"
+    },
+    {
+        "code": "MTH\u00a0228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS 1"
+    },
+    {
+        "code": "ST\u00a0411",
+        "title": "METHODS OF DATA ANALYSIS"
+    },
+    {
+        "code": "ST\u00a0412",
+        "title": "METHODS OF DATA ANALYSIS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0332",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0337",
+        "title": "ORGANIC CHEMISTRY LABORATORY"
+    },
+    {
+        "code": "BB\u00a0450",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0451",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0370",
+        "title": "ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0311",
+        "title": "GENETICS"
+    },
+    {
+        "code": "BB\u00a0314",
+        "title": "CELL AND MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "BI\u00a0445",
+        "title": "EVOLUTION"
+    },
+    {
+        "code": "MB\u00a0302",
+        "title": "GENERAL MICROBIOLOGY"
+    },
+    {
+        "code": "MB\u00a0303",
+        "title": "GENERAL MICROBIOLOGY LABORATORY"
+    },
+    {
+        "code": "BI\u00a0498",
+        "title": "SENIOR BIOLOGY FIELD TEST 2"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "BB\u00a0220",
+        "title": "*CANCER: SOCIETY'S MALIGNANT SHADOW"
+    },
+    {
+        "code": "BB\u00a0331",
+        "title": "*INTRODUCTION TO MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "BB\u00a0332",
+        "title": "*MOLECULAR MEDICINE"
+    },
+    {
+        "code": "BI\u00a0175",
+        "title": "*GENOMES, IDENTITIES AND SOCIETIES"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "BI\u00a0306",
+        "title": "*ENVIRONMENTAL ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0345",
+        "title": "*INTRODUCTION TO EVOLUTION"
+    },
+    {
+        "code": "BI\u00a0347",
+        "title": "*OCEANS IN PERIL"
+    },
+    {
+        "code": "BI\u00a0348",
+        "title": "*HUMAN ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0420",
+        "title": "*VIRUSES IN MODERN SOCIETY"
+    },
+    {
+        "code": "BOT\u00a0324",
+        "title": "*FUNGI IN SOCIETY"
+    },
+    {
+        "code": "FES 435/TOX 435",
+        "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK"
+    },
+    {
+        "code": "FW\u00a0350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY"
+    },
+    {
+        "code": "H\u00a0312",
+        "title": "*HIV/AIDS AND STIS IN MODERN SOCIETY"
+    },
+    {
+        "code": "HSTS\u00a0417",
+        "title": "*HISTORY OF MEDICINE"
+    },
+    {
+        "code": "MB\u00a0330",
+        "title": "*DISEASE AND SOCIETY"
+    },
+    {
+        "code": "PHL\u00a0444",
+        "title": "*BIOMEDICAL ETHICS"
+    },
+    {
+        "code": "Z\u00a0349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0203",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "CS\u00a0201",
+        "title": "COMPUTER PROGRAMMING FOR NON-CS MAJORS"
+    },
+    {
+        "code": "CS\u00a0161",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE I"
+    },
+    {
+        "code": "BDS\u00a0211",
+        "title": "USE AND ABUSE OF DATA: CRITICAL THINKING IN SCIENCE"
+    },
+    {
+        "code": "CS\u00a0162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II"
+    },
+    {
+        "code": "BB\u00a0485",
+        "title": "APPLIED BIOINFORMATICS"
+    },
+    {
+        "code": "BDS 470/BOT 470",
+        "title": "INTRODUCTION TO COMPUTING IN THE LIFE SCIENCES"
+    },
+    {
+        "code": "BDS 475/BOT 475",
+        "title": "COMPARATIVE GENOMICS"
+    },
+    {
+        "code": "BDS 478/BOT 478",
+        "title": "FUNCTIONAL GENOMICS"
+    },
+    {
+        "code": "BDS\u00a0491",
+        "title": "CAPSTONE PROJECTS IN BIOLOGICAL DATA SCIENCE I"
+    },
+    {
+        "code": "BI\u00a0456",
+        "title": "PHYLOGENETICS"
+    },
+    {
+        "code": "BI\u00a0481",
+        "title": "BIOGEOGRAPHY"
+    },
+    {
+        "code": "BI\u00a0483",
+        "title": "POPULATION BIOLOGY"
+    },
+    {
+        "code": "FW\u00a0433",
+        "title": "POPULATION DYNAMICS FOR CONSERVATION"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "GEOG\u00a0361",
+        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING"
+    },
+    {
+        "code": "GEOG\u00a0362",
+        "title": "GIS AND SPATIAL DATA SCIENCE"
+    },
+    {
+        "code": "OC\u00a0449",
+        "title": "ECOLOGICAL THEORIES IN BIOLOGICAL AND FISHERIES OCEANOGRAPHY DATA"
+    },
+    {
+        "code": "ST\u00a0431",
+        "title": "SAMPLING METHODS"
+    },
+    {
+        "code": "ST\u00a0435",
+        "title": "QUANTITATIVE ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0427",
+        "title": "PALEOBIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0321",
+        "title": "PLANT SYSTEMATICS"
+    },
+    {
+        "code": "BOT\u00a0416",
+        "title": "AQUATIC BOTANY"
+    },
+    {
+        "code": "BOT\u00a0461",
+        "title": "MYCOLOGY"
+    },
+    {
+        "code": "Z\u00a0361",
+        "title": "INVERTEBRATE BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0362",
+        "title": "INVERTEBRATE BIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0371",
+        "title": "VERTEBRATE BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0372",
+        "title": "VERTEBRATE BIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0422",
+        "title": "COMPARATIVE/FUNCTIONAL VERTEBRATE ANATOMY"
+    },
+    {
+        "code": "Z\u00a0461",
+        "title": "MARINE AND ESTUARINE INVERTEBRATE ZOOLOGY (taught at Hatfield Marine Science Center)"
+    },
+    {
+        "code": "Z\u00a0477",
+        "title": "AQUATIC ENTOMOLOGY"
+    },
+    {
+        "code": "BI\u00a0331",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY"
+    },
+    {
+        "code": "BI\u00a0341",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY"
+    },
+    {
+        "code": "BI\u00a0332",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0331",
+        "title": "PLANT PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0488",
+        "title": "ENVIRONMENTAL PHYSIOLOGY OF PLANTS"
+    },
+    {
+        "code": "Z\u00a0423",
+        "title": "ENVIRONMENTAL PHYSIOLOGY"
+    },
+    {
+        "code": "Z\u00a0425",
+        "title": "EMBRYOLOGY AND DEVELOPMENT"
+    },
+    {
+        "code": "Z\u00a0431",
+        "title": "VERTEBRATE PHYSIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0319",
+        "title": "^THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES"
+    },
+    {
+        "code": "BI\u00a0371",
+        "title": "^ECOLOGICAL METHODS"
+    },
+    {
+        "code": "BI\u00a0373",
+        "title": "^FIELD METHODS IN MARINE ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0323",
+        "title": "^FLOWERING PLANTS OF THE WORLD"
+    },
+    {
+        "code": "MB\u00a0385",
+        "title": "^EMERGING INFECTIOUS DISEASES AND EPIDEMICS"
+    },
+    {
+        "code": "BI\u00a0309",
+        "title": "TEACHING PRACTICUM (by approval)"
+    },
+    {
+        "code": "BI\u00a0401",
+        "title": "RESEARCH AND SCHOLARSHIP (by approval)"
+    },
+    {
+        "code": "BI\u00a0406",
+        "title": "PROJECTS: CURATORIAL ASSISTANT (by approval)"
+    },
+    {
+        "code": "BI\u00a0409",
+        "title": "ADVANCED TEACHING PRACTICUM (by approval)"
+    },
+    {
+        "code": "BI\u00a0410",
+        "title": "INTERNSHIP (by approval)"
+    },
+    {
+        "code": "BI\u00a0333",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY"
+    },
+    {
+        "code": "BI\u00a0343",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY"
+    },
+    {
+        "code": "BI\u00a0353",
+        "title": "PACIFIC NORTHWEST COASTAL ECOSYSTEMS (taught at Hatfield Marine Science Center)"
+    },
+    {
+        "code": "BI\u00a0358",
+        "title": "SYMBIOSES AND THE ENVIRONMENT"
+    },
+    {
+        "code": "BI\u00a0375",
+        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION (taught at OSU Cascades)"
+    },
+    {
+        "code": "BI\u00a0427",
+        "title": "PALEOBIOLOGY (if not used above)"
+    },
+    {
+        "code": "BI\u00a0450",
+        "title": "^MARINE BIOLOGY AND ECOLOGY (taught at Hatfield Marine Science Center) 4"
+    },
+    {
+        "code": "BI\u00a0454",
+        "title": "EVOLUTIONARY GENOMICS"
+    },
+    {
+        "code": "BI\u00a0456",
+        "title": "PHYLOGENETICS (if not used above)"
+    },
+    {
+        "code": "BI\u00a0481",
+        "title": "BIOGEOGRAPHY (if not used above)"
+    },
+    {
+        "code": "BI\u00a0483",
+        "title": "POPULATION BIOLOGY (if not used above)"
+    },
+    {
+        "code": "BI\u00a0485",
+        "title": "MONSTER BIOLOGY"
+    },
+    {
+        "code": "BI\u00a0495",
+        "title": "DISEASE ECOLOGY"
+    },
+    {
+        "code": "Z\u00a0350",
+        "title": "ANIMAL BEHAVIOR"
+    },
+    {
+        "code": "Z\u00a0361",
+        "title": "INVERTEBRATE BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0362",
+        "title": "INVERTEBRATE BIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0365",
+        "title": "BIOLOGY OF INSECTS"
+    },
+    {
+        "code": "Z\u00a0371",
+        "title": "VERTEBRATE BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0372",
+        "title": "VERTEBRATE BIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0425",
+        "title": "EMBRYOLOGY AND DEVELOPMENT (if not used above)"
+    },
+    {
+        "code": "Z\u00a0432",
+        "title": "VERTEBRATE PHYSIOLOGY II"
+    },
+    {
+        "code": "Z\u00a0442",
+        "title": "VERTEBRATE PHYSIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0438",
+        "title": "BEHAVIORAL NEUROBIOLOGY"
+    },
+    {
+        "code": "Z\u00a0473",
+        "title": "HERPETOLOGY"
+    }
+]}

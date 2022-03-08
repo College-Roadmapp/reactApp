@@ -1,0 +1,206 @@
+{"Courses":[
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING"
+    },
+    {
+        "code": "CH\u00a0201",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "CH\u00a0202",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "CH\u00a0205",
+        "title": "LABORATORY FOR CH 202"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "CS\u00a0162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II"
+    },
+    {
+        "code": "ENGR\u00a0211",
+        "title": "STATICS"
+    },
+    {
+        "code": "ENGR\u00a0212",
+        "title": "DYNAMICS"
+    },
+    {
+        "code": "ENGR\u00a0201",
+        "title": "ELECTRICAL FUNDAMENTALS I"
+    },
+    {
+        "code": "ENGR\u00a0202",
+        "title": "ELECTRICAL FUNDAMENTALS II"
+    },
+    {
+        "code": "ENGR\u00a0203",
+        "title": "ELECTRICAL FUNDAMENTALS III"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0264",
+        "title": "INTRODUCTION TO MATRIX ALGEBRA"
+    },
+    {
+        "code": "ST\u00a0314",
+        "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "ECE\u00a0271",
+        "title": "DIGITAL LOGIC DESIGN"
+    },
+    {
+        "code": "ECE\u00a0272",
+        "title": "DIGITAL LOGIC DESIGN LABORATORY"
+    },
+    {
+        "code": "ENGR\u00a0390",
+        "title": "ENGINEERING ECONOMY"
+    },
+    {
+        "code": "ESC\u00a0340",
+        "title": "INTRO TO EXPERIMENTATION"
+    },
+    {
+        "code": "ESC\u00a0350",
+        "title": "ENGINEERING MATERIALS"
+    },
+    {
+        "code": "ESC\u00a0497",
+        "title": "^MIME CAPSTONE DESIGN"
+    },
+    {
+        "code": "ESC\u00a0498",
+        "title": "^MIME CAPSTONE DESIGN"
+    },
+    {
+        "code": "ESE\u00a0330",
+        "title": "MODELING AND ANALYSIS OF DYNAMIC SYSTEMS"
+    },
+    {
+        "code": "IE\u00a0471",
+        "title": "PROJECT MANAGEMENT IN ENGINEERING"
+    },
+    {
+        "code": "ME\u00a0311",
+        "title": "INTRODUCTION TO THERMAL-FLUID SCIENCES"
+    },
+    {
+        "code": "CS\u00a0261",
+        "title": "DATA STRUCTURES"
+    },
+    {
+        "code": "CS\u00a0290",
+        "title": "WEB DEVELOPMENT"
+    },
+    {
+        "code": "CS\u00a0325",
+        "title": "ANALYSIS OF ALGORITHMS"
+    },
+    {
+        "code": "CS\u00a0340",
+        "title": "INTRODUCTION TO DATABASES"
+    },
+    {
+        "code": "CS\u00a0434",
+        "title": "MACHINE LEARNING AND DATA MINING"
+    },
+    {
+        "code": "ECE\u00a0322",
+        "title": "ELECTRONICS I"
+    },
+    {
+        "code": "ESE\u00a0355",
+        "title": "ENERGY REGULATION"
+    },
+    {
+        "code": "ESE\u00a0430",
+        "title": "FEEDBACK CONTROL SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0450",
+        "title": "ENERGY GENERATION SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0470",
+        "title": "ENERGY DISTRIBUTION SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0471",
+        "title": "ENERGY STORAGE SYSTEMS"
+    },
+    {
+        "code": "ESE\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "ME\u00a0331",
+        "title": "INTRODUCTORY FLUID MECHANICS"
+    },
+    {
+        "code": "MTH\u00a0231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS"
+    },
+    {
+        "code": "IE\u00a0415",
+        "title": "SIMULATION AND DECISION SUPPORT SYSTEMS"
+    },
+    {
+        "code": "IE\u00a0425",
+        "title": "INDUSTRIAL SYSTEMS OPTIMIZATION"
+    }
+]}

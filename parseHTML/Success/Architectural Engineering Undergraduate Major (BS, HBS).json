@@ -1,0 +1,226 @@
+{"Courses":[
+    {
+        "code": "ART\u00a0210",
+        "title": "*HISTORY OF WESTERN ARCHITECTURE"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "PHL\u00a0205",
+        "title": "*ETHICS"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0264",
+        "title": "INTRODUCTION TO MATRIX ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0265",
+        "title": "INTRODUCTION TO SERIES"
+    },
+    {
+        "code": "ST\u00a0314",
+        "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "CH\u00a0201",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING"
+    },
+    {
+        "code": "CCE\u00a0201",
+        "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN"
+    },
+    {
+        "code": "CCE\u00a0207",
+        "title": "CCE SEMINAR"
+    },
+    {
+        "code": "CCE\u00a0203",
+        "title": "INTRODUCTION TO VIRTUAL DESIGN AND CONSTRUCTION"
+    },
+    {
+        "code": "ENGR\u00a0211",
+        "title": "STATICS"
+    },
+    {
+        "code": "ENGR\u00a0212",
+        "title": "DYNAMICS"
+    },
+    {
+        "code": "ENGR\u00a0213",
+        "title": "STRENGTH OF MATERIALS"
+    },
+    {
+        "code": "CE\u00a0381",
+        "title": "STRUCTURAL THEORY I"
+    },
+    {
+        "code": "CE\u00a0382",
+        "title": "STRUCTURAL THEORY II"
+    },
+    {
+        "code": "CE\u00a0383",
+        "title": "DESIGN OF STEEL STRUCTURES"
+    },
+    {
+        "code": "CE\u00a0481",
+        "title": "REINFORCED CONCRETE I"
+    },
+    {
+        "code": "CE\u00a0484",
+        "title": "WOOD DESIGN"
+    },
+    {
+        "code": "CEM\u00a0341",
+        "title": "CONSTRUCTION ESTIMATING I"
+    },
+    {
+        "code": "CE\u00a0420",
+        "title": "ENGINEERING PLANNING"
+    },
+    {
+        "code": "CEM\u00a0442",
+        "title": "BUILDING CONSTRUCTION MANAGEMENT"
+    },
+    {
+        "code": "ARE\u00a0451",
+        "title": "ADVANCED BUILDING CONSTRUCTION METHODS"
+    },
+    {
+        "code": "ENGR\u00a0201",
+        "title": "ELECTRICAL FUNDAMENTALS I"
+    },
+    {
+        "code": "CEM\u00a0471",
+        "title": "ELECTRICAL FACILITIES"
+    },
+    {
+        "code": "ARE\u00a0352",
+        "title": "DESIGN OF ELECTRICAL AND ILLUMINATION SYSTEMS FOR BUILDINGS"
+    },
+    {
+        "code": "CEM\u00a0311",
+        "title": "HYDRAULICS"
+    },
+    {
+        "code": "CEM\u00a0472",
+        "title": "MECHANICAL FACILITIES"
+    },
+    {
+        "code": "ARE\u00a0353",
+        "title": "DESIGN OF HVAC SYSTEMS FOR BUILDINGS"
+    },
+    {
+        "code": "CCE\u00a0321",
+        "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS"
+    },
+    {
+        "code": "CE\u00a0372",
+        "title": "GEOTECHNICAL ENGINEERING I"
+    },
+    {
+        "code": "CCE\u00a0422",
+        "title": "GREEN BUILDING MATERIALS"
+    },
+    {
+        "code": "ARE\u00a0418",
+        "title": "^ARCHITECTURAL ENGINEERING PROFESSIONAL PRACTICE (Capstone)"
+    },
+    {
+        "code": "ARE\u00a0419",
+        "title": "^ARCHITECTURAL ENGINEERING DESIGN (Capstone)"
+    },
+    {
+        "code": "CE\u00a0482",
+        "title": "MASONRY DESIGN"
+    },
+    {
+        "code": "CE\u00a0427",
+        "title": "TEMPORARY CONSTRUCTION STRUCTURES"
+    },
+    {
+        "code": "CE\u00a0373",
+        "title": "GEOTECHNICAL ENGINEERING II"
+    },
+    {
+        "code": "CE\u00a0580",
+        "title": "SELECTED TOPICS IN STRUCTURAL DESIGN"
+    },
+    {
+        "code": "WSE\u00a0592",
+        "title": "ADVANCED WOOD DESIGN"
+    },
+    {
+        "code": "CE\u00a0424",
+        "title": "CONTRACTS AND SPECIFICATIONS"
+    },
+    {
+        "code": "CEM\u00a0431",
+        "title": "OBTAINING CONSTRUCTION CONTRACTS"
+    },
+    {
+        "code": "CEM\u00a0443",
+        "title": "^PROJECT MANAGEMENT FOR CONSTRUCTION"
+    },
+    {
+        "code": "CE\u00a0594",
+        "title": "TRANSPORT FACILITY DESIGN"
+    }
+]}

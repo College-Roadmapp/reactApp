@@ -1,0 +1,62 @@
+{"Courses":[
+    {
+        "code": "ATS\u00a0201",
+        "title": "*CLIMATE SCIENCE"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "GEO\u00a0201",
+        "title": "*PHYSICAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "OC\u00a0201",
+        "title": "*OCEANOGRAPHY"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "CBEE\u00a0102",
+        "title": "ENGINEERING PROBLEM SOLVING AND COMPUTATIONS"
+    },
+    {
+        "code": "ENGR\u00a0112",
+        "title": "INTRODUCTION TO ENGINEERING COMPUTING"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    }
+]}

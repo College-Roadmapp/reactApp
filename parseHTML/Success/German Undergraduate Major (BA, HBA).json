@@ -1,0 +1,26 @@
+{"Courses":[
+    {
+        "code": "GER\u00a0311",
+        "title": "THIRD-YEAR GERMAN"
+    },
+    {
+        "code": "GER\u00a0312",
+        "title": "THIRD-YEAR GERMAN"
+    },
+    {
+        "code": "GER\u00a0313",
+        "title": "THIRD-YEAR GERMAN"
+    },
+    {
+        "code": "GER\u00a0411",
+        "title": "^FOURTH-YEAR GERMAN"
+    },
+    {
+        "code": "GER\u00a0412",
+        "title": "FOURTH-YEAR GERMAN"
+    },
+    {
+        "code": "GER\u00a0413",
+        "title": "FOURTH-YEAR GERMAN"
+    }
+]}

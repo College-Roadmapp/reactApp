@@ -1,0 +1,522 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0198",
+        "title": "PROFESSIONAL DEVELOPMENT I: BIOLOGY AND ZOOLOGY"
+    },
+    {
+        "code": "BI\u00a0298",
+        "title": "PROFESSIONAL DEVELOPMENT FOR BIOLOGISTS II"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "WR\u00a0362",
+        "title": "*SCIENCE WRITING"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I"
+    },
+    {
+        "code": "MTH\u00a0228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0332",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0337",
+        "title": "ORGANIC CHEMISTRY LABORATORY"
+    },
+    {
+        "code": "CH\u00a0390",
+        "title": "ENVIRONMENTAL CHEMISTRY"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "BI\u00a0370",
+        "title": "ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0311",
+        "title": "GENETICS"
+    },
+    {
+        "code": "BB\u00a0314",
+        "title": "CELL AND MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0361",
+        "title": "INVERTEBRATE BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0362",
+        "title": "INVERTEBRATE BIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0364",
+        "title": "DIVERSITY OF LIFE: INVERTEBRATES"
+    },
+    {
+        "code": "Z\u00a0461",
+        "title": "MARINE AND ESTUARINE INVERTEBRATE ZOOLOGY"
+    },
+    {
+        "code": "BI\u00a0450",
+        "title": "^MARINE BIOLOGY AND ECOLOGY"
+    },
+    {
+        "code": "Z\u00a0371",
+        "title": "VERTEBRATE BIOLOGY"
+    },
+    {
+        "code": "Z\u00a0372",
+        "title": "VERTEBRATE BIOLOGY LABORATORY"
+    },
+    {
+        "code": "Z\u00a0374",
+        "title": "DIVERSITY OF LIFE: VERTEBRATES"
+    },
+    {
+        "code": "Z\u00a0423",
+        "title": "ENVIRONMENTAL PHYSIOLOGY"
+    },
+    {
+        "code": "BI\u00a0445",
+        "title": "EVOLUTION"
+    },
+    {
+        "code": "BI\u00a0483",
+        "title": "POPULATION BIOLOGY"
+    },
+    {
+        "code": "BI\u00a0319",
+        "title": "^THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES"
+    },
+    {
+        "code": "BI\u00a0371",
+        "title": "^ECOLOGICAL METHODS"
+    },
+    {
+        "code": "BI\u00a0373",
+        "title": "^FIELD METHODS IN MARINE ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0450",
+        "title": "^MARINE BIOLOGY AND ECOLOGY (by application only - Hatfield Marine Science Center)"
+    },
+    {
+        "code": "BI\u00a0498",
+        "title": "SENIOR BIOLOGY FIELD TEST ++"
+    },
+    {
+        "code": "BI\u00a0358",
+        "title": "SYMBIOSES AND THE ENVIRONMENT"
+    },
+    {
+        "code": "BI\u00a0485",
+        "title": "MONSTER BIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0321",
+        "title": "PLANT SYSTEMATICS"
+    },
+    {
+        "code": "FW\u00a0302",
+        "title": "BIOLOGY AND CONSERVATION OF MARINE MAMMALS 1"
+    },
+    {
+        "code": "FW\u00a0311",
+        "title": "ORNITHOLOGY"
+    },
+    {
+        "code": "FW\u00a0315",
+        "title": "ICHTHYOLOGY"
+    },
+    {
+        "code": "FW\u00a0317",
+        "title": "MAMMALOGY"
+    },
+    {
+        "code": "FW\u00a0331",
+        "title": "ECOLOGY OF MARINE AND ESTUARINE BIRDS"
+    },
+    {
+        "code": "MB\u00a0480",
+        "title": "GENERAL PARASITOLOGY"
+    },
+    {
+        "code": "Z\u00a0350",
+        "title": "ANIMAL BEHAVIOR"
+    },
+    {
+        "code": "Z\u00a0365",
+        "title": "BIOLOGY OF INSECTS"
+    },
+    {
+        "code": "Z\u00a0422",
+        "title": "COMPARATIVE/FUNCTIONAL VERTEBRATE ANATOMY"
+    },
+    {
+        "code": "Z\u00a0431",
+        "title": "VERTEBRATE PHYSIOLOGY I"
+    },
+    {
+        "code": "Z\u00a0438",
+        "title": "BEHAVIORAL NEUROBIOLOGY"
+    },
+    {
+        "code": "Z\u00a0473",
+        "title": "HERPETOLOGY"
+    },
+    {
+        "code": "Z\u00a0477",
+        "title": "AQUATIC ENTOMOLOGY"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "BI\u00a0348",
+        "title": "*HUMAN ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0351",
+        "title": "MARINE ECOLOGY +"
+    },
+    {
+        "code": "BI\u00a0450",
+        "title": "^MARINE BIOLOGY AND ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0353",
+        "title": "PACIFIC NORTHWEST COASTAL ECOSYSTEMS (taught at Hatfield Marine Science Center)"
+    },
+    {
+        "code": "BI\u00a0375",
+        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION (taught at OSU-Cascades)"
+    },
+    {
+        "code": "BI\u00a0427",
+        "title": "PALEOBIOLOGY"
+    },
+    {
+        "code": "BI\u00a0481",
+        "title": "BIOGEOGRAPHY"
+    },
+    {
+        "code": "BI\u00a0495",
+        "title": "DISEASE ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0341",
+        "title": "PLANT ECOLOGY"
+    },
+    {
+        "code": "FES\u00a0440",
+        "title": "WILDLAND FIRE ECOLOGY"
+    },
+    {
+        "code": "FES\u00a0445",
+        "title": "ECOLOGICAL RESTORATION"
+    },
+    {
+        "code": "FW\u00a0445",
+        "title": "ECOLOGICAL RESTORATION"
+    },
+    {
+        "code": "FW\u00a0320",
+        "title": "INTRODUCTORY POPULATION DYNAMICS +"
+    },
+    {
+        "code": "FW\u00a0421",
+        "title": "AQUATIC BIOLOGICAL INVASIONS"
+    },
+    {
+        "code": "FW\u00a0427",
+        "title": "PRINCIPLES OF WILDLIFE DISEASES"
+    },
+    {
+        "code": "FW\u00a0479",
+        "title": "WETLANDS AND RIPARIAN ECOLOGY"
+    },
+    {
+        "code": "Z\u00a0349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS"
+    },
+    {
+        "code": "AEC\u00a0432",
+        "title": "ENVIRONMENTAL LAW"
+    },
+    {
+        "code": "ANS\u00a0280",
+        "title": "COMPANION ANIMAL MANAGEMENT"
+    },
+    {
+        "code": "BI\u00a0347",
+        "title": "*OCEANS IN PERIL"
+    },
+    {
+        "code": "BI\u00a0348",
+        "title": "*HUMAN ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "FES\u00a0355",
+        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES"
+    },
+    {
+        "code": "FES\u00a0412",
+        "title": "FOREST ENTOMOLOGY"
+    },
+    {
+        "code": "FES 452/FW 452",
+        "title": "BIODIVERSITY CONSERVATION IN MANAGED FORESTS"
+    },
+    {
+        "code": "FES\u00a0485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES"
+    },
+    {
+        "code": "FOR\u00a0436",
+        "title": "WILDLAND FIRE SCIENCE AND MANAGEMENT"
+    },
+    {
+        "code": "FOR\u00a0462",
+        "title": "NATURAL RESOURCE POLICY AND LAW"
+    },
+    {
+        "code": "FW\u00a0350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY"
+    },
+    {
+        "code": "FW\u00a0451",
+        "title": "AVIAN CONSERVATION AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0458",
+        "title": "MAMMAL CONSERVATION AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0462",
+        "title": "ECOSYSTEM SERVICES"
+    },
+    {
+        "code": "GEOG\u00a0450",
+        "title": "LAND USE IN THE AMERICAN WEST"
+    },
+    {
+        "code": "PS\u00a0475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY"
+    },
+    {
+        "code": "PS\u00a0477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY"
+    },
+    {
+        "code": "SOC\u00a0481",
+        "title": "*SOCIETY AND NATURAL RESOURCES"
+    },
+    {
+        "code": "TRAL\u00a0352",
+        "title": "WILDERNESS MANAGEMENT"
+    },
+    {
+        "code": "TRAL\u00a0357",
+        "title": "*PARKS AND PROTECTED AREAS MANAGEMENT"
+    },
+    {
+        "code": "BI\u00a0309",
+        "title": "TEACHING PRACTICUM (by approval)"
+    },
+    {
+        "code": "BI\u00a0401",
+        "title": "RESEARCH AND SCHOLARSHIP (by approval)"
+    },
+    {
+        "code": "BI\u00a0406",
+        "title": "PROJECTS: CURATORIAL ASSISTANT (by approval)"
+    },
+    {
+        "code": "BI\u00a0409",
+        "title": "ADVANCED TEACHING PRACTICUM (by approval)"
+    },
+    {
+        "code": "BI\u00a0410",
+        "title": "INTERNSHIP (by approval)"
+    },
+    {
+        "code": "ANS\u00a0435",
+        "title": "APPLIED ANIMAL BEHAVIOR"
+    },
+    {
+        "code": "BI\u00a0375",
+        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION (taught at OSU-Cascades)"
+    },
+    {
+        "code": "BI\u00a0450",
+        "title": "^MARINE BIOLOGY AND ECOLOGY (by application only - taught at Hatfield Marine Science Center)"
+    },
+    {
+        "code": "BOT\u00a0425",
+        "title": "FLORA OF THE PACIFIC NORTHWEST"
+    },
+    {
+        "code": "BOT\u00a0440",
+        "title": "FIELD METHODS IN PLANT ECOLOGY"
+    },
+    {
+        "code": "CS\u00a0201",
+        "title": "COMPUTER PROGRAMMING FOR NON-CS MAJORS"
+    },
+    {
+        "code": "CS\u00a0161",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE I"
+    },
+    {
+        "code": "FES\u00a0430",
+        "title": "FOREST AS CLASSROOM"
+    },
+    {
+        "code": "FW\u00a0255",
+        "title": "FIELD SAMPLING OF FISH AND WILDLIFE"
+    },
+    {
+        "code": "FW\u00a0430",
+        "title": "INTRODUCTION TO SCIENTIFIC DIVING"
+    },
+    {
+        "code": "FW\u00a0493",
+        "title": "FIELD METHODS FOR MARINE RESEARCH (taught at Hatfield Marine Science Center)"
+    },
+    {
+        "code": "FW\u00a0498",
+        "title": "AQUACULTURE LABORATORY"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "KIN\u00a0232",
+        "title": "BACKCOUNTRY LEADERSHIP"
+    },
+    {
+        "code": "NR\u00a0325",
+        "title": "SCIENTIFIC METHODS FOR ANALYZING NATURAL RESOURCE PROBLEMS"
+    },
+    {
+        "code": "RNG\u00a0353",
+        "title": "WILDLAND PLANT IDENTIFICATION"
+    },
+    {
+        "code": "RNG\u00a0441",
+        "title": "RANGELAND ANALYSIS"
+    },
+    {
+        "code": "SED\u00a0435",
+        "title": "COMMUNICATING OCEAN SCIENCES TO INFORMAL AUDIENCES"
+    },
+    {
+        "code": "TRAL\u00a0493",
+        "title": "ENVIRONMENTAL INTERPRETATION"
+    }
+]}

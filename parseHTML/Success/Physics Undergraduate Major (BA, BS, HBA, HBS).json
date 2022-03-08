@@ -1,0 +1,174 @@
+{"Courses":[
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0253",
+        "title": "INFINITE SERIES AND SEQUENCES"
+    },
+    {
+        "code": "MTH\u00a0306",
+        "title": "MATRIX AND POWER SERIES METHODS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0255",
+        "title": "VECTOR CALCULUS II"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0221",
+        "title": "RECITATION FOR PHYSICS 211"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0222",
+        "title": "RECITATION FOR PHYSICS 212"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0223",
+        "title": "RECITATION FOR PHYSICS 213"
+    },
+    {
+        "code": "PH\u00a0315",
+        "title": "PHYSICS OF CONTEMPORARY CHALLENGES"
+    },
+    {
+        "code": "PH\u00a0335",
+        "title": "TECHNIQUES OF THEORETICAL MECHANICS"
+    },
+    {
+        "code": "PH\u00a0411",
+        "title": "ELECTRONICS"
+    },
+    {
+        "code": "PH\u00a0365",
+        "title": "COMPUTATIONAL PHYSICS LAB"
+    },
+    {
+        "code": "PH\u00a0366",
+        "title": "COMPUTATIONAL PHYSICS LAB"
+    },
+    {
+        "code": "PH\u00a0367",
+        "title": "COMPUTATIONAL PHYSICS LAB"
+    },
+    {
+        "code": "PH\u00a0422",
+        "title": "PARADIGMS IN PHYSICS: STATIC FIELDS"
+    },
+    {
+        "code": "PH\u00a0423",
+        "title": "PARADIGMS IN PHYSICS: ENERGY AND ENTROPY"
+    },
+    {
+        "code": "PH\u00a0424",
+        "title": "PARADIGMS IN PHYSICS: OSCILLATIONS AND WAVES"
+    },
+    {
+        "code": "PH\u00a0425",
+        "title": "PARADIGMS IN PHYSICS: QUANTUM FUNDAMENTALS"
+    },
+    {
+        "code": "PH\u00a0426",
+        "title": "PARADIGMS IN PHYSICS: CENTRAL FORCES"
+    },
+    {
+        "code": "PH\u00a0427",
+        "title": "PARADIGMS IN PHYSICS: PERIODIC SYSTEMS"
+    },
+    {
+        "code": "PH\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "PH\u00a0403",
+        "title": "^THESIS"
+    },
+    {
+        "code": "PH\u00a0415",
+        "title": "COMPUTER INTERFACING AND INSTRUMENTATION"
+    },
+    {
+        "code": "PH\u00a0464",
+        "title": "SCIENTIFIC COMPUTING II"
+    },
+    {
+        "code": "PH\u00a0431",
+        "title": "CAPSTONES IN PHYSICS: ELECTROMAGNETISM"
+    },
+    {
+        "code": "PH\u00a0441",
+        "title": "CAPSTONES IN PHYSICS: THERMAL AND STATISTICAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0451",
+        "title": "CAPSTONES IN PHYSICS: QUANTUM MECHANICS"
+    },
+    {
+        "code": "PH\u00a0481",
+        "title": "PHYSICAL OPTICS"
+    },
+    {
+        "code": "PH\u00a0431",
+        "title": "CAPSTONES IN PHYSICS: ELECTROMAGNETISM"
+    },
+    {
+        "code": "PH\u00a0441",
+        "title": "CAPSTONES IN PHYSICS: THERMAL AND STATISTICAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0451",
+        "title": "CAPSTONES IN PHYSICS: QUANTUM MECHANICS"
+    }
+]}

@@ -1,0 +1,58 @@
+{"Courses":[
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0218",
+        "title": "*INTERPERSONAL COMMUNICATION"
+    },
+    {
+        "code": "ED\u00a0216",
+        "title": "*PURPOSE, STRUCTURE, AND FUNCTION OF EDUCATION IN A DEMOCRACY"
+    },
+    {
+        "code": "ED\u00a0219",
+        "title": "*SOCIAL JUSTICE,CIVIL RIGHTS & MULTICULTURALISM IN EDUCATION"
+    },
+    {
+        "code": "HDFS\u00a0201",
+        "title": "*CONTEMPORARY FAMILIES IN THE U.S."
+    },
+    {
+        "code": "HDFS\u00a0311",
+        "title": "INFANT AND CHILD DEVELOPMENT"
+    },
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "MTH\u00a0211",
+        "title": "*FOUNDATIONS OF ELEMENTARY MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0212",
+        "title": "FOUNDATIONS OF ELEMENTARY MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0390",
+        "title": "FOUNDATIONS OF ELEMENTARY MATHEMATICS"
+    },
+    {
+        "code": "PSY\u00a0201",
+        "title": "*GENERAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0202",
+        "title": "*GENERAL PSYCHOLOGY"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0222",
+        "title": "*ENGLISH COMPOSITION"
+    }
+]}

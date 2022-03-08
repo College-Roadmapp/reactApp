@@ -1,0 +1,186 @@
+{"Courses":[
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0253",
+        "title": "INFINITE SERIES AND SEQUENCES"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0255",
+        "title": "VECTOR CALCULUS II"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0311",
+        "title": "ADVANCED CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0312",
+        "title": "ADVANCED CALCULUS II"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "MTH\u00a0342",
+        "title": "LINEAR ALGEBRA II"
+    },
+    {
+        "code": "MTH\u00a0343",
+        "title": "INTRODUCTION TO MODERN ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0355",
+        "title": "DISCRETE MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0323",
+        "title": "^MATHEMATICAL MODELING"
+    },
+    {
+        "code": "MTH\u00a0333",
+        "title": "^FUNDAMENTAL CONCEPTS OF TOPOLOGY"
+    },
+    {
+        "code": "MTH\u00a0338",
+        "title": "^NON-EUCLIDEAN GEOMETRY"
+    },
+    {
+        "code": "MTH\u00a0321",
+        "title": "INTRODUCTORY APPLICATIONS OF MATHEMATICAL SOFTWARE"
+    },
+    {
+        "code": "MTH\u00a0351",
+        "title": "INTRODUCTION TO NUMERICAL ANALYSIS"
+    },
+    {
+        "code": "MTH\u00a0440",
+        "title": "COMPUTATIONAL NUMBER THEORY"
+    },
+    {
+        "code": "MTH\u00a0441",
+        "title": "APPLIED AND COMPUTATIONAL ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0451",
+        "title": "NUMERICAL LINEAR ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0452",
+        "title": "NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0440",
+        "title": "COMPUTATIONAL NUMBER THEORY"
+    },
+    {
+        "code": "MTH\u00a0441",
+        "title": "APPLIED AND COMPUTATIONAL ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0442",
+        "title": "APPLIED AND COMPUTATIONAL ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0443",
+        "title": "ABSTRACT LINEAR ALGEBRA (cannot be used in a pair to satisfy (a))"
+    },
+    {
+        "code": "MTH\u00a0411",
+        "title": "REAL ANALYSIS"
+    },
+    {
+        "code": "MTH\u00a0419",
+        "title": "MULTIVARIABLE ADVANCED CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0483",
+        "title": "COMPLEX VARIABLES"
+    },
+    {
+        "code": "MTH\u00a0420",
+        "title": "MODELS AND METHODS OF APPLIED MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0427",
+        "title": "INTRODUCTION TO MATHEMATICAL BIOLOGY"
+    },
+    {
+        "code": "MTH\u00a0428",
+        "title": "STOCHASTIC ELEMENTS IN MATHEMATICAL BIOLOGY"
+    },
+    {
+        "code": "MTH\u00a0480",
+        "title": "SYSTEMS OF ORDINARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0481",
+        "title": "APPLIED ORDINARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0482",
+        "title": "APPLIED PARTIAL DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0430",
+        "title": "METRIC SPACES AND TOPOLOGY"
+    },
+    {
+        "code": "MTH\u00a0434",
+        "title": "INTRODUCTION TO DIFFERENTIAL GEOMETRY"
+    },
+    {
+        "code": "MTH\u00a0435",
+        "title": "DIFFERENTIAL GEOMETRY"
+    },
+    {
+        "code": "MTH\u00a0437",
+        "title": "GENERAL RELATIVITY"
+    },
+    {
+        "code": "MTH\u00a0451",
+        "title": "NUMERICAL LINEAR ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0452",
+        "title": "NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0453",
+        "title": "NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0463",
+        "title": "PROBABILITY I"
+    },
+    {
+        "code": "MTH\u00a0464",
+        "title": "PROBABILITY II"
+    },
+    {
+        "code": "MTH\u00a0465",
+        "title": "PROBABILITY III"
+    },
+    {
+        "code": "MTH\u00a0467",
+        "title": "ACTUARIAL MATHEMATICS"
+    }
+]}

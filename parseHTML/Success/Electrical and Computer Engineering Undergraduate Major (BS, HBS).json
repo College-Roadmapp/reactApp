@@ -1,0 +1,394 @@
+{"Courses":[
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING"
+    },
+    {
+        "code": "ENGR\u00a0201",
+        "title": "ELECTRICAL FUNDAMENTALS I"
+    },
+    {
+        "code": "ENGR\u00a0202",
+        "title": "ELECTRICAL FUNDAMENTALS II"
+    },
+    {
+        "code": "ENGR\u00a0203",
+        "title": "ELECTRICAL FUNDAMENTALS III"
+    },
+    {
+        "code": "CH\u00a0201",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "MTH\u00a0231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0255",
+        "title": "VECTOR CALCULUS II"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0264",
+        "title": "INTRODUCTION TO MATRIX ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0265",
+        "title": "INTRODUCTION TO SERIES"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "CS\u00a0162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II"
+    },
+    {
+        "code": "CS\u00a0261",
+        "title": "DATA STRUCTURES"
+    },
+    {
+        "code": "CS\u00a0391",
+        "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE"
+    },
+    {
+        "code": "ECE\u00a0271",
+        "title": "DIGITAL LOGIC DESIGN"
+    },
+    {
+        "code": "ECE\u00a0272",
+        "title": "DIGITAL LOGIC DESIGN LABORATORY"
+    },
+    {
+        "code": "ECE\u00a0322",
+        "title": "ELECTRONICS I"
+    },
+    {
+        "code": "ECE\u00a0323",
+        "title": "ELECTRONICS II"
+    },
+    {
+        "code": "ECE\u00a0341",
+        "title": "JUNIOR DESIGN I"
+    },
+    {
+        "code": "ECE\u00a0342",
+        "title": "JUNIOR DESIGN II"
+    },
+    {
+        "code": "ECE\u00a0351",
+        "title": "SIGNALS AND SYSTEMS I"
+    },
+    {
+        "code": "ECE\u00a0352",
+        "title": "SIGNALS AND SYSTEMS II"
+    },
+    {
+        "code": "ECE\u00a0353",
+        "title": "INTRODUCTION TO PROBABILITY AND RANDOM SIGNALS"
+    },
+    {
+        "code": "ECE 372/CS 372",
+        "title": "INTRODUCTION TO COMPUTER NETWORKS"
+    },
+    {
+        "code": "ECE\u00a0375",
+        "title": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING"
+    },
+    {
+        "code": "ECE\u00a0391",
+        "title": "TRANSMISSION LINES"
+    },
+    {
+        "code": "ECE\u00a0441",
+        "title": "^ENGINEERING DESIGN PROJECT"
+    },
+    {
+        "code": "ECE\u00a0442",
+        "title": "^ENGINEERING DESIGN PROJECT"
+    },
+    {
+        "code": "ECE\u00a0443",
+        "title": "^ENGINEERING DESIGN PROJECT"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS"
+    },
+    {
+        "code": "CH\u00a0411",
+        "title": "INORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CHE\u00a0444",
+        "title": "THIN FILM MATERIALS PROCESSING"
+    },
+    {
+        "code": "CHE\u00a0499",
+        "title": "SPECIAL TOPICS (Conventional Alternative Energy Systems)"
+    },
+    {
+        "code": "CS\u00a0325",
+        "title": "ANALYSIS OF ALGORITHMS"
+    },
+    {
+        "code": "CS\u00a0331",
+        "title": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "code": "CS\u00a0344",
+        "title": "OPERATING SYSTEMS I"
+    },
+    {
+        "code": "CS\u00a0434",
+        "title": "MACHINE LEARNING AND DATA MINING"
+    },
+    {
+        "code": "CS\u00a0444",
+        "title": "OPERATING SYSTEMS II"
+    },
+    {
+        "code": "CS\u00a0450",
+        "title": "INTRODUCTION TO COMPUTER GRAPHICS"
+    },
+    {
+        "code": "ECE\u00a0331",
+        "title": "ELECTROMECHANICAL ENERGY CONVERSION"
+    },
+    {
+        "code": "ECE\u00a0390",
+        "title": "ELECTRIC AND MAGNETIC FIELDS"
+    },
+    {
+        "code": "ECE\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "ECE\u00a0411",
+        "title": "ENGINEERING MAGNETICS"
+    },
+    {
+        "code": "ECE\u00a0413",
+        "title": "SENSORS"
+    },
+    {
+        "code": "ECE\u00a0415",
+        "title": "MATERIAL SCIENCE OF NANOTECHNOLOGY"
+    },
+    {
+        "code": "ECE\u00a0416",
+        "title": "ELECTRONIC MATERIALS AND DEVICES"
+    },
+    {
+        "code": "ECE\u00a0417",
+        "title": "BASIC SEMICONDUCTOR DEVICES"
+    },
+    {
+        "code": "ECE\u00a0418",
+        "title": "SEMICONDUCTOR PROCESSING"
+    },
+    {
+        "code": "ECE\u00a0422",
+        "title": "CMOS INTEGRATED CIRCUITS I"
+    },
+    {
+        "code": "ECE\u00a0423",
+        "title": "CMOS INTEGRATED CIRCUITS II"
+    },
+    {
+        "code": "ECE\u00a0431",
+        "title": "POWER ELECTRONICS"
+    },
+    {
+        "code": "ECE\u00a0432",
+        "title": "DYNAMICS OF ELECTROMECHANICAL ENERGY CONVERSION"
+    },
+    {
+        "code": "ECE\u00a0433",
+        "title": "POWER SYSTEM ANALYSIS"
+    },
+    {
+        "code": "ECE\u00a0437",
+        "title": "SMART GRID"
+    },
+    {
+        "code": "ECE\u00a0438",
+        "title": "ELECTRIC AND HYBRID ELECTRIC VEHICLES"
+    },
+    {
+        "code": "ECE 451/ME 430",
+        "title": "SYSTEMS DYNAMICS AND CONTROL"
+    },
+    {
+        "code": "ECE\u00a0461",
+        "title": "INTRODUCTION TO ANALOG AND DIGITAL COMMUNICATIONS"
+    },
+    {
+        "code": "ECE\u00a0462",
+        "title": "DIGITAL COMMUNICATIONS AND CHANNEL CODING"
+    },
+    {
+        "code": "ECE\u00a0463",
+        "title": "WIRELESS COMMUNICATIONS NETWORK"
+    },
+    {
+        "code": "ECE\u00a0464",
+        "title": "DIGITAL SIGNAL PROCESSING"
+    },
+    {
+        "code": "ECE\u00a0468",
+        "title": "DIGITAL IMAGE PROCESSING"
+    },
+    {
+        "code": "ECE\u00a0471",
+        "title": "ENERGY-EFFICIENT VLSI DESIGN"
+    },
+    {
+        "code": "ECE 472/CS 472",
+        "title": "COMPUTER ARCHITECTURE"
+    },
+    {
+        "code": "ECE\u00a0473",
+        "title": "MICROCONTROLLER SYSTEM DESIGN"
+    },
+    {
+        "code": "ECE\u00a0474",
+        "title": "VLSI SYSTEM DESIGN"
+    },
+    {
+        "code": "ECE 476/CS 476",
+        "title": "ADVANCED COMPUTER NETWORKING"
+    },
+    {
+        "code": "ECE\u00a0477",
+        "title": "MULTIMEDIA SYSTEMS"
+    },
+    {
+        "code": "ECE\u00a0478",
+        "title": "NETWORK SECURITY"
+    },
+    {
+        "code": "ECE 482/PH 482",
+        "title": "OPTICAL ELECTRONIC SYSTEMS"
+    },
+    {
+        "code": "ECE 483/PH 483",
+        "title": "GUIDED WAVE OPTICS"
+    },
+    {
+        "code": "ECE\u00a0484",
+        "title": "ANTENNAS AND PROPAGATION"
+    },
+    {
+        "code": "ECE\u00a0485",
+        "title": "MICROWAVE DESIGN TECHNIQUES"
+    },
+    {
+        "code": "ECE\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "ECE\u00a0520",
+        "title": "ANALOG CMOS INTEGRATED CIRCUITS"
+    },
+    {
+        "code": "ECE\u00a0530",
+        "title": "CONTEMPORARY ENERGY APPLICATIONS"
+    },
+    {
+        "code": "ECE\u00a0536",
+        "title": "POWER SYSTEM PROTECTION"
+    },
+    {
+        "code": "ECE\u00a0550",
+        "title": "LINEAR SYSTEMS"
+    },
+    {
+        "code": "ME 311/NSE 311",
+        "title": "INTRODUCTION TO THERMAL-FLUID SCIENCES"
+    },
+    {
+        "code": "ME\u00a0317",
+        "title": "INTERMEDIATE DYNAMICS"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "MTH\u00a0342",
+        "title": "LINEAR ALGEBRA II"
+    },
+    {
+        "code": "MTH\u00a0351",
+        "title": "INTRODUCTION TO NUMERICAL ANALYSIS"
+    },
+    {
+        "code": "PH\u00a0315",
+        "title": "PHYSICS OF CONTEMPORARY CHALLENGES"
+    },
+    {
+        "code": "PH\u00a0481",
+        "title": "PHYSICAL OPTICS"
+    },
+    {
+        "code": "ROB\u00a0421",
+        "title": "APPLIED ROBOTICS"
+    },
+    {
+        "code": "ROB\u00a0456",
+        "title": "INTELLIGENT ROBOTS"
+    }
+]}

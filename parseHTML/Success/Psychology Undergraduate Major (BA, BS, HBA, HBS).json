@@ -1,0 +1,254 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0102",
+        "title": "*ANIMAL BIOLOGY: GENES, BEHAVIOR AND EVOLUTION OF LIFE"
+    },
+    {
+        "code": "BI\u00a0103",
+        "title": "*HUMAN BIOLOGY: ANATOMY, PHYSIOLOGY AND DISEASE"
+    },
+    {
+        "code": "BI\u00a0212",
+        "title": "*PRINCIPLES OF BIOLOGY"
+    },
+    {
+        "code": "BI\u00a0213",
+        "title": "*PRINCIPLES OF BIOLOGY"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "WR\u00a0222",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "PSY\u00a0201",
+        "title": "*GENERAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0202",
+        "title": "*GENERAL PSYCHOLOGY"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "PSY\u00a0301",
+        "title": "RESEARCH METHODS IN PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0330",
+        "title": "BRAIN AND BEHAVIOR"
+    },
+    {
+        "code": "PSY\u00a0340",
+        "title": "COGNITIVE PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0350",
+        "title": "HUMAN LIFESPAN DEVELOPMENT"
+    },
+    {
+        "code": "PSY\u00a0360",
+        "title": "SOCIAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0370",
+        "title": "PERSONALITY"
+    },
+    {
+        "code": "PSY\u00a0381",
+        "title": "ABNORMAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0426",
+        "title": "*PSYCHOLOGY OF GENDER"
+    },
+    {
+        "code": "PSY\u00a0428",
+        "title": "PSYCHOLOGY AND THE LAW"
+    },
+    {
+        "code": "PSY\u00a0432",
+        "title": "PHYSIOLOGICAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0433",
+        "title": "PSYCHOPHARMACOLOGY"
+    },
+    {
+        "code": "PSY\u00a0437",
+        "title": "MOTIVATION"
+    },
+    {
+        "code": "PSY\u00a0442",
+        "title": "PERCEPTION"
+    },
+    {
+        "code": "PSY\u00a0444",
+        "title": "LEARNING AND MEMORY"
+    },
+    {
+        "code": "PSY\u00a0446",
+        "title": "PSYCHOLOGY OF HUMAN COMPUTER INTERACTION"
+    },
+    {
+        "code": "PSY\u00a0448",
+        "title": "CONSCIOUSNESS"
+    },
+    {
+        "code": "PSY\u00a0452",
+        "title": "CROSS-CULTURAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0454",
+        "title": "COGNITIVE DEVELOPMENT"
+    },
+    {
+        "code": "PSY\u00a0456",
+        "title": "SOCIAL DEVELOPMENT"
+    },
+    {
+        "code": "PSY\u00a0458",
+        "title": "LANGUAGE ACQUISITION"
+    },
+    {
+        "code": "PSY\u00a0462",
+        "title": "PSYCHOLOGY OF DISABILITY"
+    },
+    {
+        "code": "PSY\u00a0463",
+        "title": "JUDGMENT AND DECISION MAKING"
+    },
+    {
+        "code": "PSY\u00a0464",
+        "title": "SOCIAL COGNITION"
+    },
+    {
+        "code": "PSY\u00a0467",
+        "title": "POLITICAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0468",
+        "title": "THE PSYCHOLOGY OF CLOSE RELATIONSHIPS"
+    },
+    {
+        "code": "PSY\u00a0476",
+        "title": "NONVERBAL BEHAVIOR"
+    },
+    {
+        "code": "PSY\u00a0482",
+        "title": "PSYCHOTHERAPY"
+    },
+    {
+        "code": "PSY\u00a0483",
+        "title": "DEVELOPMENTAL PSYCHOPATHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0485",
+        "title": "BEHAVIOR MODIFICATION"
+    },
+    {
+        "code": "PSY\u00a0492",
+        "title": "CONSERVATION PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0493",
+        "title": "POSITIVE PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0494",
+        "title": "ENGINEERING PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0495",
+        "title": "PSYCHOLOGY OF MEDITATION"
+    },
+    {
+        "code": "PSY\u00a0496",
+        "title": "INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0497",
+        "title": "EVOLUTIONARY PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0498",
+        "title": "HEALTH PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "PSY\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "PSY\u00a0402",
+        "title": "INDEPENDENT STUDY"
+    },
+    {
+        "code": "PSY\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "PSY\u00a0405",
+        "title": "READING AND CONFERENCE"
+    },
+    {
+        "code": "PSY\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "PSY\u00a0407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "PSY\u00a0408",
+        "title": "WORKSHOP"
+    },
+    {
+        "code": "PSY\u00a0410",
+        "title": "PSYCHOLOGY INTERNSHIP"
+    },
+    {
+        "code": "PSY\u00a0434",
+        "title": "^BRAIN AND BEHAVIOR METHODS"
+    },
+    {
+        "code": "PSY\u00a0440",
+        "title": "^COGNITION RESEARCH"
+    },
+    {
+        "code": "PSY\u00a0450",
+        "title": "^EDUCATIONAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0460",
+        "title": "^ADVANCED SOCIAL RESEARCH METHODS"
+    },
+    {
+        "code": "PSY\u00a0470",
+        "title": "^PSYCHOMETRICS AND PSYCHOLOGICAL TESTING"
+    },
+    {
+        "code": "PSY\u00a0480",
+        "title": "^CLINICAL RESEARCH METHODS"
+    },
+    {
+        "code": "PSY\u00a0484",
+        "title": "^PSYCHOLOGY OF ADDICTION"
+    }
+]}

@@ -1,0 +1,222 @@
+{"Courses":[
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or PAC course)"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "COMM\u00a0218",
+        "title": "*INTERPERSONAL COMMUNICATION"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION (Must be taken in first 45 credits)"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "AG\u00a0421",
+        "title": "^WRITING IN AGRICULTURE"
+    },
+    {
+        "code": "ANS\u00a0420",
+        "title": "^ETHICAL ISSUES IN ANIMAL AGRICULTURE"
+    },
+    {
+        "code": "ENSC\u00a0479",
+        "title": "^ENVIRONMENTAL CASE STUDIES"
+    },
+    {
+        "code": "FW\u00a0435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS"
+    },
+    {
+        "code": "RNG\u00a0121",
+        "title": "*INTRODUCTION TO WILDLAND ECOLOGY"
+    },
+    {
+        "code": "RNG\u00a0341",
+        "title": "RANGELAND ECOLOGY AND MANAGEMENT"
+    },
+    {
+        "code": "RNG\u00a0351",
+        "title": "RANGE ECOLOGY I-GRASSLANDS"
+    },
+    {
+        "code": "RNG\u00a0352",
+        "title": "RANGE ECOLOGY II-SHRUBLANDS"
+    },
+    {
+        "code": "RNG\u00a0421",
+        "title": "WILDLAND RESTORATION AND ECOLOGY"
+    },
+    {
+        "code": "RNG\u00a0441",
+        "title": "RANGELAND ANALYSIS"
+    },
+    {
+        "code": "RNG\u00a0442",
+        "title": "RANGELAND-ANIMAL RELATIONS"
+    },
+    {
+        "code": "RNG\u00a0490",
+        "title": "RANGELAND MANAGEMENT PLANNING"
+    },
+    {
+        "code": "BOT\u00a0331",
+        "title": "PLANT PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0341",
+        "title": "PLANT ECOLOGY"
+    },
+    {
+        "code": "RNG\u00a0353",
+        "title": "WILDLAND PLANT IDENTIFICATION"
+    },
+    {
+        "code": "SOIL\u00a0205",
+        "title": "SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205"
+    },
+    {
+        "code": "CSS\u00a0205",
+        "title": "*SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0366",
+        "title": "ECOSYSTEMS OF WILDLAND SOILS"
+    },
+    {
+        "code": "SOIL\u00a0466",
+        "title": "SOIL MORPHOLOGY AND CLASSIFICATION"
+    },
+    {
+        "code": "RNG\u00a0355",
+        "title": "DESERT WATERSHED MANAGEMENT"
+    },
+    {
+        "code": "RNG\u00a0455",
+        "title": "RIPARIAN ECOHYDROLOGY AND MANAGEMENT"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "ANTH\u00a0466",
+        "title": "*RURAL ANTHROPOLOGY"
+    },
+    {
+        "code": "SOC\u00a0381",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY"
+    },
+    {
+        "code": "SOC\u00a0475",
+        "title": "RURAL SOCIOLOGY"
+    },
+    {
+        "code": "SOC\u00a0480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY"
+    },
+    {
+        "code": "SOC\u00a0481",
+        "title": "*SOCIETY AND NATURAL RESOURCES"
+    },
+    {
+        "code": "ANS\u00a0313",
+        "title": "APPLIED ANIMAL NUTRITION: FEEDS AND RATION FORMULATION"
+    },
+    {
+        "code": "ANS\u00a0436",
+        "title": "SHEEP PRODUCTION SYSTEMS"
+    },
+    {
+        "code": "ANS\u00a0445",
+        "title": "BEEF PRODUCTION SYSTEMS"
+    },
+    {
+        "code": "ANS\u00a0446",
+        "title": "GRAZING LIVESTOCK PRODUCTION"
+    },
+    {
+        "code": "ANS 448/CROP 448/RNG 448",
+        "title": "LIVESTOCK PRODUCTION ON PASTURE"
+    },
+    {
+        "code": "FW\u00a0255",
+        "title": "FIELD SAMPLING OF FISH AND WILDLIFE"
+    },
+    {
+        "code": "RNG\u00a0457",
+        "title": "HABITAT ANALYSIS 1: HABITAT USE AND MOVEMENT"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "ST\u00a0201",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    }
+]}

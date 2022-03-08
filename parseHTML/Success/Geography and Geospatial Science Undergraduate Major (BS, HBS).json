@@ -1,0 +1,274 @@
+{"Courses":[
+    {
+        "code": "MTH\u00a0112",
+        "title": "*ELEMENTARY FUNCTIONS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "GEOG\u00a0102",
+        "title": "*PHYSICAL GEOGRAPHY"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "GEOG\u00a0323",
+        "title": "^CLIMATOLOGY"
+    },
+    {
+        "code": "GEOG\u00a0324",
+        "title": "^ECOLOGICAL BIOGEOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0103",
+        "title": "*THE HUMAN PLANET"
+    },
+    {
+        "code": "GEOG\u00a0100",
+        "title": "*CLIMATE JUSTICE"
+    },
+    {
+        "code": "GEOG\u00a0203",
+        "title": "*HUMAN-ENVIRONMENT GEOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0105",
+        "title": "*PEOPLE, PLACES, AND PERSPECTIVES IN THE GLOBAL SOUTH"
+    },
+    {
+        "code": "GEOG\u00a0106",
+        "title": "*WESTERN TRADITION & EMERGING CHALLENGES IN THE GLOBAL NORTH"
+    },
+    {
+        "code": "GEOG\u00a0240",
+        "title": "*HUMAN DIMENSIONS OF CLIMATE CHANGE"
+    },
+    {
+        "code": "GEOG\u00a0250",
+        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "GEOG\u00a0241",
+        "title": "*TRANSFORMING ENVIRONMENTAL CONFLICTS"
+    },
+    {
+        "code": "GEOG\u00a0300",
+        "title": "*SUSTAINABILITY FOR THE COMMON GOOD"
+    },
+    {
+        "code": "GEOG\u00a0201",
+        "title": "*FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "GEOG\u00a0370",
+        "title": "GEOVISUALIZATION: CARTOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0464",
+        "title": "GEOSPATIAL PERSPECTIVES ON INTELLIGENCE, SECURITY AND ETHICS"
+    },
+    {
+        "code": "GEOG\u00a0480",
+        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS"
+    },
+    {
+        "code": "GEOG\u00a0407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "GEOG\u00a0295",
+        "title": "INTRODUCTION TO GEOGRAPHIC FIELD RESEARCH"
+    },
+    {
+        "code": "GEOG\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "GEOG\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "GEOG\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "GEOG\u00a0495",
+        "title": "FIELD GEOGRAPHY OF OREGON I"
+    },
+    {
+        "code": "GEOG\u00a0361",
+        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING"
+    },
+    {
+        "code": "GEOG\u00a0362",
+        "title": "GIS AND SPATIAL DATA SCIENCE"
+    },
+    {
+        "code": "GEOG\u00a0371",
+        "title": "GEOVISUALIZATION: WEB MAPPING"
+    },
+    {
+        "code": "GEOG\u00a0462",
+        "title": "GISCIENCE III: PROGRAMMING FOR GEOSPATIAL ANALYSIS"
+    },
+    {
+        "code": "GEOG\u00a0472",
+        "title": "GEOVISUALIZATION: GEOVISUAL ANALYTICS"
+    },
+    {
+        "code": "GEOG\u00a0481",
+        "title": "SATELLITE IMAGE ANALYSIS"
+    },
+    {
+        "code": "ATS\u00a0341",
+        "title": "*SNOW, SMOKE, AND STORMS: CLIMATE CHANGE IMPACTS IN THE PNW"
+    },
+    {
+        "code": "GEOG\u00a0323",
+        "title": "^CLIMATOLOGY"
+    },
+    {
+        "code": "GEOG\u00a0324",
+        "title": "^ECOLOGICAL BIOGEOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0423",
+        "title": "SNOW HYDROLOGY"
+    },
+    {
+        "code": "GEOG\u00a0424",
+        "title": "HYDROLOGY FOR WATER RESOURCES MANAGEMENT"
+    },
+    {
+        "code": "OC\u00a0333",
+        "title": "*OCEANS, COASTS, AND PEOPLE"
+    },
+    {
+        "code": "GEOG\u00a0350",
+        "title": "*GEOGRAPHY OF NATURAL HAZARDS"
+    },
+    {
+        "code": "GEOG\u00a0451",
+        "title": "PLANNING PRINCIPLES AND PRACTICES FOR RESILIENT COMMUNITIES"
+    },
+    {
+        "code": "GEOG\u00a0452",
+        "title": "ENVIRONMENTAL ASSESSMENT"
+    },
+    {
+        "code": "GEOG\u00a0453",
+        "title": "EFFECTIVE COMMUNICATION OF ENVIRONMENTAL CHANGE SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0309",
+        "title": "*ENVIRONMENTAL JUSTICE"
+    },
+    {
+        "code": "GEOG\u00a0311",
+        "title": "*GEOGRAPHY OF AFRICA"
+    },
+    {
+        "code": "GEOG\u00a0313",
+        "title": "*GEOGRAPHY OF ASIA"
+    },
+    {
+        "code": "GEOG\u00a0314",
+        "title": "*GEOGRAPHY OF LATIN AMERICA"
+    },
+    {
+        "code": "GEOG\u00a0330",
+        "title": "*GEOGRAPHY OF INTERNATIONAL DEVELOPMENT AND GLOBALIZATION"
+    },
+    {
+        "code": "GEOG\u00a0332",
+        "title": "*CLIMATE AND HEALTH"
+    },
+    {
+        "code": "GEOG\u00a0300",
+        "title": "*SUSTAINABILITY FOR THE COMMON GOOD"
+    },
+    {
+        "code": "GEOG\u00a0331",
+        "title": "*POPULATION, CONSUMPTION, AND ENVIRONMENT"
+    },
+    {
+        "code": "GEOG\u00a0340",
+        "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY"
+    },
+    {
+        "code": "GEOG\u00a0430",
+        "title": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT"
+    },
+    {
+        "code": "GEOG\u00a0440",
+        "title": "CONFLICT, COOPERATION, AND CONTROL OF WATER IN THE US"
+    },
+    {
+        "code": "GEOG\u00a0441",
+        "title": "THE WORLD'S WATER"
+    },
+    {
+        "code": "GEOG\u00a0102",
+        "title": "*PHYSICAL GEOGRAPHY"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "GEOG\u00a0103",
+        "title": "*THE HUMAN PLANET"
+    },
+    {
+        "code": "GEOG\u00a0203",
+        "title": "*HUMAN-ENVIRONMENT GEOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0105",
+        "title": "*PEOPLE, PLACES, AND PERSPECTIVES IN THE GLOBAL SOUTH"
+    },
+    {
+        "code": "GEOG\u00a0106",
+        "title": "*WESTERN TRADITION & EMERGING CHALLENGES IN THE GLOBAL NORTH"
+    },
+    {
+        "code": "GEOG\u00a0201",
+        "title": "*FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS"
+    },
+    {
+        "code": "GEOG\u00a0240",
+        "title": "*HUMAN DIMENSIONS OF CLIMATE CHANGE"
+    },
+    {
+        "code": "GEOG\u00a0250",
+        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "GEOG\u00a0251",
+        "title": "*GEOGRAPHY OF DISASTER MANAGEMENT"
+    },
+    {
+        "code": "MTH\u00a0112",
+        "title": "*ELEMENTARY FUNCTIONS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    }
+]}

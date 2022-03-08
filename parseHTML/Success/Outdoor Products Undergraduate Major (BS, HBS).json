@@ -1,0 +1,138 @@
+{"Courses":[
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "ENGR\u00a0248",
+        "title": "ENGINEERING GRAPHICS AND 3-D MODELING"
+    },
+    {
+        "code": "ST\u00a0201",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "ST\u00a0202",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "BA\u00a0161",
+        "title": "INNOVATION NATION--AWARENESS TO ACTION"
+    },
+    {
+        "code": "BA\u00a0162",
+        "title": "INNOVATION NATION--IDEAS TO REALITY"
+    },
+    {
+        "code": "BA\u00a0260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "code": "BA\u00a0390",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "BA\u00a0357",
+        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT"
+    },
+    {
+        "code": "DSGN\u00a0341",
+        "title": "DESIGN THINKING AND PROCESS INNOVATION"
+    },
+    {
+        "code": "OP\u00a0101",
+        "title": "INTRODUCTION TO THE OUTDOOR PRODUCTS INDUSTRY"
+    },
+    {
+        "code": "OP\u00a0231",
+        "title": "EXPERIENCE OUTDOOR PRODUCTS - WATER"
+    },
+    {
+        "code": "OP\u00a0232",
+        "title": "EXPERIENCE OUTDOOR PRODUCTS - WINTER"
+    },
+    {
+        "code": "OP\u00a0233",
+        "title": "EXPERIENCE OUTDOOR PRODUCTS - LAND"
+    },
+    {
+        "code": "OP\u00a0301",
+        "title": "OUTDOOR PRODUCTS PROCESS CONNECTIONS"
+    },
+    {
+        "code": "OP\u00a0351",
+        "title": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT I"
+    },
+    {
+        "code": "OP\u00a0352",
+        "title": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT II"
+    },
+    {
+        "code": "OP\u00a0353",
+        "title": "OUTDOOR PRODUCTS FAILURE"
+    },
+    {
+        "code": "OP\u00a0360",
+        "title": "OUTDOOR PRODUCTS BRANDING, MERCHANDISING AND SALES"
+    },
+    {
+        "code": "AEC\u00a0352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "GEO\u00a0309",
+        "title": "*ENVIRONMENTAL JUSTICE"
+    },
+    {
+        "code": "SUS\u00a0102",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY"
+    },
+    {
+        "code": "SUS\u00a0304",
+        "title": "*SUSTAINABILITY ASSESSMENT"
+    },
+    {
+        "code": "TRAL\u00a0251",
+        "title": "RECREATION RESOURCE MANAGEMENT"
+    },
+    {
+        "code": "TRAL\u00a0132",
+        "title": "*FOUNDATIONS AND HISTORY OF OUTDOOR AND ADVENTURE PROFESSIONS"
+    },
+    {
+        "code": "TRAL\u00a0352",
+        "title": "WILDERNESS MANAGEMENT"
+    },
+    {
+        "code": "OP\u00a0307",
+        "title": "OUTDOOR PRODUCTS PRE-PRACTICUM SEMINAR"
+    },
+    {
+        "code": "OP\u00a0309",
+        "title": "OUTDOOR PRODUCTS PRACTICUM"
+    },
+    {
+        "code": "OP\u00a0410",
+        "title": "OUTDOOR PRODUCTS INTERNSHIP"
+    },
+    {
+        "code": "OP\u00a0450",
+        "title": "^OUTDOOR PRODUCTS CAPSTONE I"
+    },
+    {
+        "code": "OP\u00a0451",
+        "title": "^OUTDOOR PRODUCTS CAPSTONE II"
+    }
+]}

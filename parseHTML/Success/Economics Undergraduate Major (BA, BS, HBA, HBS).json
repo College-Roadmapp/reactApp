@@ -1,0 +1,50 @@
+{"Courses":[
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "ECON\u00a0202",
+        "title": "*INTRODUCTION TO MACROECONOMICS"
+    },
+    {
+        "code": "ECON\u00a0411",
+        "title": "ADVANCED MICROECONOMIC THEORY 1"
+    },
+    {
+        "code": "ECON\u00a0311",
+        "title": "INTERMEDIATE MICROECONOMIC THEORY"
+    },
+    {
+        "code": "ECON\u00a0415",
+        "title": "ADVANCED MACROECONOMIC THEORY 1"
+    },
+    {
+        "code": "ECON\u00a0315",
+        "title": "INTERMEDIATE MACROECONOMIC THEORY"
+    },
+    {
+        "code": "ECON\u00a0423",
+        "title": "PRE-ECONOMETRICS 1, 2"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "ECON\u00a0427",
+        "title": "INTRODUCTION TO ECONOMETRICS WITH CALCULUS 1"
+    },
+    {
+        "code": "ECON\u00a0424",
+        "title": "INTRODUCTION TO ECONOMETRICS"
+    },
+    {
+        "code": "ECON\u00a0428",
+        "title": "^INTRODUCTION TO ECONOMIC RESEARCH"
+    },
+    {
+        "code": "ECON\u00a0439",
+        "title": "^PUBLIC POLICY ANALYSIS"
+    }
+]}

@@ -1,4 +1,4 @@
-{"$program_name":[
+{"Courses":[
     {
         "code": "AEC\u00a0211",
         "title": "AGRICULTURAL AND FOOD MANAGEMENT"
@@ -13,7 +13,11 @@
     },
     {
         "code": "SOIL\u00a0205",
-        "title": "SOIL SCIENCEand *SOIL SCIENCE LABORATORY FOR SOIL 205 (Corvallis)"
+        "title": "SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205"
     },
     {
         "code": "CSS\u00a0205",
@@ -165,15 +169,39 @@
     },
     {
         "code": "BI\u00a0221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLSand *PRINCIPLES OF BIOLOGY: ORGANISMSand *PRINCIPLES OF BIOLOGY: POPULATIONS"
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
     },
     {
         "code": "BI\u00a0101",
-        "title": "*ENVIRONMENTAL BIOLOGY: ECOLOGY, CONSERVATION, GLOBAL CHANGEand *ANIMAL BIOLOGY: GENES, BEHAVIOR AND EVOLUTION OF LIFEand *HUMAN BIOLOGY: ANATOMY, PHYSIOLOGY AND DISEASE"
+        "title": "*ENVIRONMENTAL BIOLOGY: ECOLOGY, CONSERVATION, GLOBAL CHANGE"
+    },
+    {
+        "code": "BI\u00a0102",
+        "title": "*ANIMAL BIOLOGY: GENES, BEHAVIOR AND EVOLUTION OF LIFE"
+    },
+    {
+        "code": "BI\u00a0103",
+        "title": "*HUMAN BIOLOGY: ANATOMY, PHYSIOLOGY AND DISEASE"
     },
     {
         "code": "BI\u00a0204",
-        "title": "*INTRODUCTORY BIOLOGY Iand *INTRODUCTORY BIOLOGY IIand *INTRODUCTORY BIOLOGY III"
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
     },
     {
         "code": "AG\u00a0230",

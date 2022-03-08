@@ -1,0 +1,194 @@
+{"Courses":[
+    {
+        "code": "AEC\u00a0121",
+        "title": "DISCOVERING AGRICULTURAL AND RESOURCE ECONOMICS"
+    },
+    {
+        "code": "AEC\u00a0211",
+        "title": "AGRICULTURAL AND FOOD MANAGEMENT"
+    },
+    {
+        "code": "AEC\u00a0221",
+        "title": "AGRICULTURAL AND FOOD MARKETING"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0251",
+        "title": "*INTRODUCTION TO AGRICULTURAL AND FOOD ECONOMICS"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "ECON\u00a0202",
+        "title": "*INTRODUCTION TO MACROECONOMICS"
+    },
+    {
+        "code": "AEC\u00a0311",
+        "title": "INTERMEDIATE APPLIED ECONOMICS I: PRODUCERS AND CONSUMERS"
+    },
+    {
+        "code": "AEC\u00a0442",
+        "title": "AGRICULTURAL BUSINESS MANAGEMENT"
+    },
+    {
+        "code": "AEC\u00a0461",
+        "title": "^AGRICULTURAL AND FOOD POLICY ISSUES"
+    },
+    {
+        "code": "AEC\u00a0465",
+        "title": "AGRICULTURAL AND FOOD FINANCIAL MANAGEMENT"
+    },
+    {
+        "code": "AEC\u00a0466",
+        "title": "AGRICULTURAL AND FOOD MARKETING MANAGEMENT"
+    },
+    {
+        "code": "AEC\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "AEC\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "BA\u00a0211",
+        "title": "FINANCIAL ACCOUNTING +"
+    },
+    {
+        "code": "BA\u00a0213",
+        "title": "MANAGERIAL ACCOUNTING +"
+    },
+    {
+        "code": "BA\u00a0330",
+        "title": "LEGAL ENVIRONMENT OF BUSINESS"
+    },
+    {
+        "code": "BA\u00a0302",
+        "title": "BUSINESS PROCESS MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0347",
+        "title": "INTERNATIONAL BUSINESS"
+    },
+    {
+        "code": "BA\u00a0351",
+        "title": "MANAGING ORGANIZATIONS"
+    },
+    {
+        "code": "BA\u00a0352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE"
+    },
+    {
+        "code": "BA\u00a0357",
+        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0360",
+        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0390",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "BA\u00a0463",
+        "title": "FAMILY ENTERPRISE GOVERNANCE"
+    },
+    {
+        "code": "FIN\u00a0441",
+        "title": "FINANCIAL INSTITUTIONS"
+    },
+    {
+        "code": "MRKT\u00a0492",
+        "title": "CONSUMER BEHAVIOR"
+    },
+    {
+        "code": "MRKT\u00a0493",
+        "title": "INTEGRATED MARKETING COMMUNICATIONS"
+    },
+    {
+        "code": "MRKT\u00a0495",
+        "title": "RETAIL MANAGEMENT"
+    },
+    {
+        "code": "MRKT\u00a0497",
+        "title": "GLOBAL MARKETING"
+    },
+    {
+        "code": "AG\u00a0111",
+        "title": "INFORMATION TECHNOLOGY IN AGRICULTURE"
+    },
+    {
+        "code": "CS\u00a0101",
+        "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS"
+    },
+    {
+        "code": "MTH\u00a0111",
+        "title": "*COLLEGE ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "AEC\u00a0446",
+        "title": "INTRODUCTION TO APPLIED ECONOMETRICS"
+    },
+    {
+        "code": "AEC\u00a0447",
+        "title": "AGRICULTURAL PRICE AND MARKET ANALYSIS"
+    },
+    {
+        "code": "ECON\u00a0424",
+        "title": "INTRODUCTION TO ECONOMETRICS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "WR\u00a0323",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION +"
+    },
+    {
+        "code": "WR\u00a0214",
+        "title": "*WRITING IN BUSINESS"
+    },
+    {
+        "code": "WR\u00a0222",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or any PAC course)"
+    }
+]}

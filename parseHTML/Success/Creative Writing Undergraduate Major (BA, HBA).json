@@ -1,0 +1,310 @@
+{"Courses":[
+    {
+        "code": "WR\u00a0224",
+        "title": "*INTRODUCTION TO FICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0240",
+        "title": "*INTRODUCTION TO NONFICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0241",
+        "title": "*INTRODUCTION TO POETRY WRITING"
+    },
+    {
+        "code": "ENG\u00a0201",
+        "title": "*SHAKESPEARE"
+    },
+    {
+        "code": "ENG\u00a0202",
+        "title": "*SHAKESPEARE"
+    },
+    {
+        "code": "ENG\u00a0204",
+        "title": "*SURVEY OF BRITISH LITERATURE: BEGINNINGS TO 1660"
+    },
+    {
+        "code": "ENG\u00a0205",
+        "title": "*SURVEY OF BRITISH LITERATURE: RESTORATION TO ROMANTIC ERA"
+    },
+    {
+        "code": "ENG\u00a0206",
+        "title": "*SURVEY OF BRITISH LITERATURE: VICTORIAN ERA TO 20TH CENTURY"
+    },
+    {
+        "code": "ENG\u00a0207",
+        "title": "LITERATURE OF WESTERN CIVILIZATION: CLASSICAL-RENAISSANCE"
+    },
+    {
+        "code": "ENG\u00a0208",
+        "title": "LITERATURE OF WESTERN CIVILIZATION: 18TH CENTURY TO PRESENT"
+    },
+    {
+        "code": "ENG\u00a0210",
+        "title": "*LITERATURES OF THE WORLD: ASIA"
+    },
+    {
+        "code": "ENG\u00a0211",
+        "title": "*LITERATURES OF THE WORLD: AFRICA"
+    },
+    {
+        "code": "ENG\u00a0212",
+        "title": "*LITERATURES OF THE WORLD: MESO/SOUTH AMERICA, CARIBBEAN"
+    },
+    {
+        "code": "ENG\u00a0213",
+        "title": "*LITERATURES OF THE WORLD: MIDDLE EAST"
+    },
+    {
+        "code": "ENG\u00a0214",
+        "title": "*LITERATURE OF THE WORLD: EUROPE"
+    },
+    {
+        "code": "ENG\u00a0215",
+        "title": "*CLASSICAL MYTHOLOGY"
+    },
+    {
+        "code": "ENG\u00a0220",
+        "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION"
+    },
+    {
+        "code": "ENG\u00a0221",
+        "title": "*AFRICAN-AMERICAN LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0222",
+        "title": "CHILDREN'S LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0240",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0253",
+        "title": "*SURVEY OF AMERICAN LITERATURE: COLONIAL TO 1900"
+    },
+    {
+        "code": "ENG\u00a0254",
+        "title": "*SURVEY OF AMERICAN LITERATURE: 1900 TO PRESENT"
+    },
+    {
+        "code": "ENG\u00a0260",
+        "title": "*LITERATURE OF AMERICAN MINORITIES"
+    },
+    {
+        "code": "ENG\u00a0275",
+        "title": "*THE BIBLE AS LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0295",
+        "title": "*FEMINISM AND THE BIBLE"
+    },
+    {
+        "code": "ENG\u00a0299",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "WR\u00a0324",
+        "title": "SHORT STORY WRITING"
+    },
+    {
+        "code": "WR\u00a0340",
+        "title": "CREATIVE NONFICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0341",
+        "title": "POETRY WRITING"
+    },
+    {
+        "code": "WR\u00a0424",
+        "title": "ADVANCED FICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0440",
+        "title": "ADVANCED CREATIVE NONFICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0441",
+        "title": "ADVANCED POETRY WRITING"
+    },
+    {
+        "code": "ENG\u00a0412",
+        "title": "STUDIES IN BRITISH THEATER AND SOCIETY"
+    },
+    {
+        "code": "ENG\u00a0425",
+        "title": "STUDIES IN MEDIEVAL LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0430",
+        "title": "STUDIES IN PRE-1700 LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0435",
+        "title": "STUDIES IN SHAKESPEARE"
+    },
+    {
+        "code": "ENG\u00a0490",
+        "title": "HISTORY OF THE ENGLISH LANGUAGE"
+    },
+    {
+        "code": "ENG\u00a0317",
+        "title": "*THE AMERICAN NOVEL: BEGINNINGS TO CHOPIN"
+    },
+    {
+        "code": "ENG\u00a0318",
+        "title": "*THE AMERICAN NOVEL: MODERNIST PERIOD"
+    },
+    {
+        "code": "ENG\u00a0319",
+        "title": "*THE AMERICAN NOVEL: POST-WORLD WAR II"
+    },
+    {
+        "code": "ENG\u00a0320",
+        "title": "*STUDIES IN PAGE, STAGE, AND SCREEN"
+    },
+    {
+        "code": "ENG\u00a0321",
+        "title": "*STUDIES IN WORD, OBJECT, AND IMAGE"
+    },
+    {
+        "code": "ENG\u00a0322",
+        "title": "*STUDIES IN GLOBALISM, TEXT, AND EVENT"
+    },
+    {
+        "code": "ENG\u00a0330",
+        "title": "*THE HOLOCAUST IN LITERATURE AND FILM"
+    },
+    {
+        "code": "ENG\u00a0360",
+        "title": "*NATIVE AMERICAN LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0362",
+        "title": "*AMERICAN WOMEN WRITERS"
+    },
+    {
+        "code": "ENG\u00a0374",
+        "title": "*MODERN SHORT STORY"
+    },
+    {
+        "code": "ENG\u00a0418",
+        "title": "THE ENGLISH NOVEL: VICTORIAN PERIOD"
+    },
+    {
+        "code": "ENG\u00a0434",
+        "title": "STUDIES IN ROMANTICISM"
+    },
+    {
+        "code": "ENG\u00a0438",
+        "title": "STUDIES IN MODERNISM"
+    },
+    {
+        "code": "ENG\u00a0440",
+        "title": "STUDIES IN MODERN IRISH LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0482",
+        "title": "STUDIES IN AMERICAN LITERATURE, CULTURE, AND THE ENVIRONMENT"
+    },
+    {
+        "code": "ENG\u00a0485",
+        "title": "^STUDIES IN AMERICAN LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0489",
+        "title": "WRITING, LITERATURE AND MEDICINE"
+    },
+    {
+        "code": "FILM\u00a0452",
+        "title": "^STUDIES IN FILM"
+    },
+    {
+        "code": "ENG\u00a0311",
+        "title": "^STUDIES IN BRITISH PROSE"
+    },
+    {
+        "code": "ENG\u00a0320",
+        "title": "*STUDIES IN PAGE, STAGE, AND SCREEN"
+    },
+    {
+        "code": "ENG\u00a0321",
+        "title": "*STUDIES IN WORD, OBJECT, AND IMAGE"
+    },
+    {
+        "code": "ENG\u00a0322",
+        "title": "*STUDIES IN GLOBALISM, TEXT, AND EVENT"
+    },
+    {
+        "code": "ENG\u00a0399",
+        "title": "SELECTED TOPICS"
+    },
+    {
+        "code": "ENG\u00a0401",
+        "title": "RESEARCH AND SCHOLARSHIP"
+    },
+    {
+        "code": "ENG\u00a0402",
+        "title": "INDEPENDENT STUDY"
+    },
+    {
+        "code": "ENG\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "ENG\u00a0405",
+        "title": "READING AND CONFERENCE"
+    },
+    {
+        "code": "ENG\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "ENG\u00a0407",
+        "title": "^SEMINAR"
+    },
+    {
+        "code": "ENG\u00a0408",
+        "title": "WORKSHOP"
+    },
+    {
+        "code": "ENG\u00a0410",
+        "title": "INTERNSHIP IN ENGLISH"
+    },
+    {
+        "code": "ENG\u00a0416",
+        "title": "POWER AND REPRESENTATION"
+    },
+    {
+        "code": "ENG\u00a0445",
+        "title": "^STUDIES IN NONFICTION"
+    },
+    {
+        "code": "ENG\u00a0454",
+        "title": "MAJOR AUTHORS"
+    },
+    {
+        "code": "ENG\u00a0460",
+        "title": "STUDIES IN DRAMA"
+    },
+    {
+        "code": "ENG\u00a0465",
+        "title": "STUDIES IN THE NOVEL"
+    },
+    {
+        "code": "ENG\u00a0470",
+        "title": "^STUDIES IN POETRY"
+    },
+    {
+        "code": "ENG\u00a0475",
+        "title": "STUDIES IN CRITICISM"
+    },
+    {
+        "code": "ENG\u00a0480",
+        "title": "STUDIES IN LITERATURE, CULTURE AND SOCIETY"
+    },
+    {
+        "code": "ENG\u00a0497",
+        "title": "*INTERNATIONAL WOMEN'S VOICES"
+    }
+]}

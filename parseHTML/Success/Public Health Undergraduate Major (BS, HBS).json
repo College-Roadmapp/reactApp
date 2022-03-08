@@ -1,0 +1,42 @@
+{"Courses":[
+    {
+        "code": "H\u00a0100",
+        "title": "INTRODUCTION TO PUBLIC HEALTH"
+    },
+    {
+        "code": "H\u00a0206",
+        "title": "PROJECTS (take 3 times)"
+    },
+    {
+        "code": "H\u00a0210",
+        "title": "*INTRODUCTION TO THE HEALTH CARE SYSTEM"
+    },
+    {
+        "code": "H\u00a0220",
+        "title": "INTRODUCTION TO HEALTH DATA ANALYSIS"
+    },
+    {
+        "code": "ST\u00a0201",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "H\u00a0225",
+        "title": "*SOCIAL AND INDIVIDUAL HEALTH DETERMINANTS"
+    },
+    {
+        "code": "H\u00a0319",
+        "title": "INTRODUCTION TO HEALTH POLICY"
+    },
+    {
+        "code": "H\u00a0320",
+        "title": "INTRODUCTION TO HUMAN DISEASE"
+    },
+    {
+        "code": "H\u00a0344",
+        "title": "FOUNDATIONS OF ENVIRONMENTAL HEALTH"
+    },
+    {
+        "code": "H\u00a0425",
+        "title": "FOUNDATIONS OF EPIDEMIOLOGY"
+    }
+]}

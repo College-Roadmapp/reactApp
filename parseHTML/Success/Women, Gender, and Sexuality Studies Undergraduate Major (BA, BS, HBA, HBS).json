@@ -1,0 +1,322 @@
+{"Courses":[
+    {
+        "code": "WGSS\u00a0223",
+        "title": "*INTRODUCTION TO WOMEN, GENDER, AND SEXUALITY STUDIES"
+    },
+    {
+        "code": "WGSS 262/QS 262",
+        "title": "*INTRODUCTION TO QUEER STUDIES"
+    },
+    {
+        "code": "WGSS\u00a0319",
+        "title": "*FEMINIST DECOLONIZING METHODOLOGIES: SOCIAL JUSTICE RESEARCH"
+    },
+    {
+        "code": "WGSS\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "WGSS\u00a0414",
+        "title": "*SYSTEMS OF OPPRESSION IN WOMEN'S LIVES"
+    },
+    {
+        "code": "WGSS\u00a0416",
+        "title": "THEORIES OF FEMINISM"
+    },
+    {
+        "code": "WGSS\u00a0460",
+        "title": "^SEXUALITIES, FEMINISMS, WOMEN"
+    },
+    {
+        "code": "WGSS 472/QS 472",
+        "title": "^INDIGENOUS TWO-SPIRIT AND QUEER STUDIES"
+    },
+    {
+        "code": "WGSS\u00a0480",
+        "title": "*GENDER AND TRANSNATIONAL ACTIVISMS"
+    },
+    {
+        "code": "WGSS\u00a0498",
+        "title": "FEMINIST PRACTICE"
+    },
+    {
+        "code": "WGSS\u00a0110",
+        "title": "*GENDER, RACE, AND POP CULTURE"
+    },
+    {
+        "code": "WGSS\u00a0111",
+        "title": "*FEMINIST PERSPECTIVES ON CURRENT EVENTS"
+    },
+    {
+        "code": "WGSS\u00a0199",
+        "title": "SPECIAL STUDIES"
+    },
+    {
+        "code": "WGSS\u00a0224",
+        "title": "*WOMEN: PERSONAL AND SOCIAL CHANGE"
+    },
+    {
+        "code": "WGSS\u00a0230",
+        "title": "*WOMEN IN THE MOVIES"
+    },
+    {
+        "code": "WGSS\u00a0235",
+        "title": "*WOMEN IN WORLD CINEMA"
+    },
+    {
+        "code": "WGSS\u00a0240",
+        "title": "*GENDER AND SPORT"
+    },
+    {
+        "code": "WGSS\u00a0270",
+        "title": "*RESISTING GENDER VIOLENCE"
+    },
+    {
+        "code": "WGSS\u00a0280",
+        "title": "*WOMEN WORLDWIDE"
+    },
+    {
+        "code": "WGSS\u00a0295",
+        "title": "*FEMINISM AND THE BIBLE"
+    },
+    {
+        "code": "WGSS\u00a0299",
+        "title": "TOPICS IN WOMEN, GENDER, AND SEXUALITY STUDIES"
+    },
+    {
+        "code": "WGSS\u00a0311",
+        "title": "*GLOBAL EXPERIENCE: CULTURAL DIVERSITY"
+    },
+    {
+        "code": "WGSS\u00a0312",
+        "title": "*GLOBAL EXPERIENCE: WESTERN CULTURE"
+    },
+    {
+        "code": "WGSS\u00a0313",
+        "title": "*GLOBAL EXPERIENCE: CONTEMPORARY GLOBAL ISSUES"
+    },
+    {
+        "code": "WGSS\u00a0320",
+        "title": "*GENDER AND TECHNOLOGY"
+    },
+    {
+        "code": "WGSS 321/QS 321",
+        "title": "*QUEER POP CULTURE"
+    },
+    {
+        "code": "WGSS\u00a0324",
+        "title": "*FEMINIST ACTIVISMS"
+    },
+    {
+        "code": "WGSS\u00a0325",
+        "title": "*DISNEY: GENDER, RACE, EMPIRE"
+    },
+    {
+        "code": "WGSS\u00a0340",
+        "title": "*GENDER AND SCIENCE"
+    },
+    {
+        "code": "WGSS\u00a0350",
+        "title": "*POLITICS OF MOTHERHOOD IN A GLOBAL CONTEXT"
+    },
+    {
+        "code": "WGSS\u00a0360",
+        "title": "*MEN AND MASCULINITIES IN A GLOBAL CONTEXT"
+    },
+    {
+        "code": "WGSS 361/ES 361/QS 361/WLC 361",
+        "title": "(RE)FRAMING RACE THROUGH FILM PRODUCTION"
+    },
+    {
+        "code": "WGSS 362/QS 362",
+        "title": "*SERVING LGBTQ+ COMMUNITIES"
+    },
+    {
+        "code": "WGSS 364/QS 364",
+        "title": "*TRANSGENDER POLITICS"
+    },
+    {
+        "code": "WGSS 373/ANTH 373/ES 373/WLC 373",
+        "title": "APPROACHES TO SOCIAL JUSTICE"
+    },
+    {
+        "code": "WGSS 375/ES 375/QS 375",
+        "title": "*ARTS AND SOCIAL JUSTICE"
+    },
+    {
+        "code": "WGSS 378/REL 378",
+        "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE"
+    },
+    {
+        "code": "WGSS\u00a0380",
+        "title": "*MUSLIM WOMEN"
+    },
+    {
+        "code": "WGSS\u00a0399",
+        "title": "TOPICS IN WOMEN, GENDER, AND SEXUALITY STUDIES"
+    },
+    {
+        "code": "WGSS\u00a0402",
+        "title": "INDEPENDENT STUDY"
+    },
+    {
+        "code": "WGSS\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "WGSS\u00a0430",
+        "title": "WOMEN OF COLOR FEMINISMS"
+    },
+    {
+        "code": "WGSS 431/ES 431/QS 431",
+        "title": "*QUEER OF COLOR CRITIQUES"
+    },
+    {
+        "code": "WGSS 432/ART 432/QS 432",
+        "title": "*GENDER, SEXUALITY, AND THE PHOTOGRAPHIC IMAGE"
+    },
+    {
+        "code": "WGSS\u00a0440",
+        "title": "*WOMEN AND NATURAL RESOURCES"
+    },
+    {
+        "code": "WGSS\u00a0450",
+        "title": "ECOFEMINISM"
+    },
+    {
+        "code": "WGSS\u00a0460",
+        "title": "^SEXUALITIES, FEMINISMS, WOMEN (if not used above)"
+    },
+    {
+        "code": "WGSS 462/QS 462",
+        "title": "*QUEER THEORIES"
+    },
+    {
+        "code": "WGSS 466/PSY 466",
+        "title": "*FAT STUDIES"
+    },
+    {
+        "code": "WGSS 472/QS 472",
+        "title": "^INDIGENOUS TWO-SPIRIT AND QUEER STUDIES (if not used above)"
+    },
+    {
+        "code": "WGSS 473/QS 473",
+        "title": "TRANSGENDER LIVES"
+    },
+    {
+        "code": "WGSS 477/ES 477/QS 477",
+        "title": "QUEER/TRANS PEOPLE OF COLOR ARTS AND ACTIVISM"
+    },
+    {
+        "code": "WGSS\u00a0482",
+        "title": "GLOBAL PERSPECTIVES ON WOMEN'S HEALTH"
+    },
+    {
+        "code": "WGSS\u00a0483",
+        "title": "RACE, GENDER, AND HEALTH JUSTICE"
+    },
+    {
+        "code": "WGSS 485/ANTH 485/ES 485/WLC 485",
+        "title": "CAPSTONE IN SOCIAL JUSTICE"
+    },
+    {
+        "code": "WGSS\u00a0486",
+        "title": "GLOBAL EXPERIENCE I"
+    },
+    {
+        "code": "WGSS\u00a0487",
+        "title": "GLOBAL EXPERIENCE II"
+    },
+    {
+        "code": "WGSS\u00a0495",
+        "title": "*GLOBAL FEMINIST THEOLOGIES"
+    },
+    {
+        "code": "WGSS\u00a0496",
+        "title": "*FEMINIST THEOLOGIES IN THE UNITED STATES"
+    },
+    {
+        "code": "WGSS\u00a0499",
+        "title": "TOPICS"
+    },
+    {
+        "code": "ANTH\u00a0473",
+        "title": "*GENDER, ETHNICITY, AND CULTURE"
+    },
+    {
+        "code": "COMM\u00a0432",
+        "title": "GENDER AND COMMUNICATION"
+    },
+    {
+        "code": "ENG\u00a0362",
+        "title": "*AMERICAN WOMEN WRITERS"
+    },
+    {
+        "code": "ENG\u00a0416",
+        "title": "POWER AND REPRESENTATION"
+    },
+    {
+        "code": "ENG\u00a0497",
+        "title": "*INTERNATIONAL WOMEN'S VOICES"
+    },
+    {
+        "code": "ES\u00a0457",
+        "title": "*LITERATURE BY WOMEN OF COLOR IN THE UNITED STATES"
+    },
+    {
+        "code": "HDFS\u00a0444",
+        "title": "FAMILY VIOLENCE AND NEGLECT"
+    },
+    {
+        "code": "HDFS\u00a0447",
+        "title": "*FAMILIES AND POVERTY"
+    },
+    {
+        "code": "HST\u00a0362",
+        "title": "WOMEN IN UNITED STATES HISTORY"
+    },
+    {
+        "code": "HST\u00a0368",
+        "title": "*LESBIAN AND GAY MOVEMENTS IN MODERN AMERICA"
+    },
+    {
+        "code": "HST\u00a0390",
+        "title": "*MIDEAST WOMEN: IN THEIR OWN WORDS"
+    },
+    {
+        "code": "HST\u00a0432",
+        "title": "THE HISTORY OF SEXUALITY"
+    },
+    {
+        "code": "PHL\u00a0417",
+        "title": "FEMINIST PHILOSOPHIES"
+    },
+    {
+        "code": "PS\u00a0317",
+        "title": "GENDER AND POLITICS"
+    },
+    {
+        "code": "PS\u00a0363",
+        "title": "*GENDER AND RACE IN AMERICAN POLITICAL THOUGHT"
+    },
+    {
+        "code": "PSY\u00a0426",
+        "title": "*PSYCHOLOGY OF GENDER"
+    },
+    {
+        "code": "PSY\u00a0456",
+        "title": "SOCIAL DEVELOPMENT"
+    },
+    {
+        "code": "SOC\u00a0312",
+        "title": "*SOCIOLOGY OF THE FAMILY"
+    },
+    {
+        "code": "SOC\u00a0430",
+        "title": "GENDER AND SOCIETY"
+    },
+    {
+        "code": "SOC\u00a0480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY"
+    }
+]}

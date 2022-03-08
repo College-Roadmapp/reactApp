@@ -1,0 +1,358 @@
+{"Courses":[
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "ATS\u00a0302",
+        "title": "MATHEMATICAL APPLICATIONS IN THE EARTH SCIENCES"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS 1"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS 1"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "ATS\u00a0201",
+        "title": "*CLIMATE SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "GEOG\u00a0240",
+        "title": "*HUMAN DIMENSIONS OF CLIMATE CHANGE"
+    },
+    {
+        "code": "OC\u00a0201",
+        "title": "*OCEANOGRAPHY"
+    },
+    {
+        "code": "ATS\u00a0295",
+        "title": "OBSERVING CLIMATE"
+    },
+    {
+        "code": "ATS\u00a0301",
+        "title": "CLIMATE DATA ANALYSIS"
+    },
+    {
+        "code": "ATS\u00a0310",
+        "title": "METEOROLOGY"
+    },
+    {
+        "code": "ATS\u00a0420",
+        "title": "CLIMATE PHYSICS"
+    },
+    {
+        "code": "ATS\u00a0421",
+        "title": "CLIMATE MODELING"
+    },
+    {
+        "code": "ATS\u00a0441",
+        "title": "^NORTHWEST CLIMATE AND WEATHER"
+    },
+    {
+        "code": "GEO\u00a0484",
+        "title": "INTRODUCTION TO BIOGEOCHEMISTRY"
+    },
+    {
+        "code": "GEO\u00a0486",
+        "title": "QUATERNARY PALEOCLIMATOLOGY"
+    },
+    {
+        "code": "GEOG\u00a0433",
+        "title": "CLIMATE CHANGE IMPACTS, ADAPTATION AND VULNERABILITY"
+    },
+    {
+        "code": "GEOG\u00a0453",
+        "title": "EFFECTIVE COMMUNICATION OF ENVIRONMENTAL CHANGE SCIENCE"
+    },
+    {
+        "code": "ATS\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "ATS\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "ATS\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "AEC\u00a0122",
+        "title": "*INTRODUCTION TO CLIMATE CHANGE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "ECON\u00a0466",
+        "title": "ECONOMICS OF TRADITIONAL AND RENEWABLE ENERGY"
+    },
+    {
+        "code": "PH\u00a0313",
+        "title": "*ENERGY ALTERNATIVES"
+    },
+    {
+        "code": "PPOL\u00a0441",
+        "title": "*ENERGY, CLIMATE AND SOCIETY"
+    },
+    {
+        "code": "PPOL\u00a0447",
+        "title": "INTEGRATED POLICY: FOOD, ENERGY, WATER, CLIMATE"
+    },
+    {
+        "code": "PPOL\u00a0474",
+        "title": "INTERNATIONAL ENERGY POLITICS AND POLICY"
+    },
+    {
+        "code": "PS\u00a0455",
+        "title": "*THE POLITICS OF CLIMATE CHANGE"
+    },
+    {
+        "code": "PS\u00a0473",
+        "title": "US ENERGY POLICY"
+    },
+    {
+        "code": "PS\u00a0478",
+        "title": "RENEWABLE ENERGY POLICY"
+    },
+    {
+        "code": "WSE\u00a0473",
+        "title": "BIOENERGY AND ENVIRONMENTAL IMPACT"
+    },
+    {
+        "code": "ANTH\u00a0447",
+        "title": "*ARCTIC PERSPECTIVES ON GLOBAL PROBLEMS"
+    },
+    {
+        "code": "GEOG\u00a0430",
+        "title": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT"
+    },
+    {
+        "code": "GEOG\u00a0440",
+        "title": "CONFLICT, COOPERATION, AND CONTROL OF WATER IN THE US"
+    },
+    {
+        "code": "HST\u00a0481",
+        "title": "*ENVIRONMENTAL HISTORY OF THE UNITED STATES"
+    },
+    {
+        "code": "PHL\u00a0440",
+        "title": "*ENVIRONMENTAL ETHICS"
+    },
+    {
+        "code": "SOC\u00a0480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY"
+    },
+    {
+        "code": "SUS\u00a0420",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY"
+    },
+    {
+        "code": "SOC\u00a0381",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY"
+    },
+    {
+        "code": "WGSS\u00a0450",
+        "title": "ECOFEMINISM"
+    },
+    {
+        "code": "ATS\u00a0411",
+        "title": "THERMODYNAMICS AND CLOUD MICROPHYSICS"
+    },
+    {
+        "code": "ATS\u00a0412",
+        "title": "ATMOSPHERIC RADIATION"
+    },
+    {
+        "code": "ATS\u00a0413",
+        "title": "ATMOSPHERIC CHEMISTRY"
+    },
+    {
+        "code": "ATS\u00a0415",
+        "title": "ATMOSPHERIC DYNAMICS"
+    },
+    {
+        "code": "ATS\u00a0417",
+        "title": "WEATHER SYSTEM DYNAMICS AND FORECASTING"
+    },
+    {
+        "code": "ATS\u00a0475",
+        "title": "PLANETARY ATMOSPHERES"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "CH\u00a0390",
+        "title": "ENVIRONMENTAL CHEMISTRY"
+    },
+    {
+        "code": "FES\u00a0341",
+        "title": "FOREST ECOLOGY"
+    },
+    {
+        "code": "FOR\u00a0346",
+        "title": "TOPICS IN WILDLAND FIRE"
+    },
+    {
+        "code": "FOR\u00a0436",
+        "title": "WILDLAND FIRE SCIENCE AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0345",
+        "title": "*GLOBAL CHANGE BIOLOGY"
+    },
+    {
+        "code": "GEOG\u00a0323",
+        "title": "^CLIMATOLOGY"
+    },
+    {
+        "code": "GEOG\u00a0423",
+        "title": "SNOW HYDROLOGY"
+    },
+    {
+        "code": "GEO\u00a0477",
+        "title": "GLACIERS IN THE CLIMATE SYSTEM"
+    },
+    {
+        "code": "GEO\u00a0481",
+        "title": "GLACIAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0488",
+        "title": "QUATERNARY STRATIGRAPHY OF NORTH AMERICA"
+    },
+    {
+        "code": "OC\u00a0350",
+        "title": "CHEMICAL OCEANOGRAPHY"
+    },
+    {
+        "code": "OC\u00a0430",
+        "title": "PRINCIPLES OF PHYSICAL OCEANOGRAPHY"
+    },
+    {
+        "code": "OC\u00a0465",
+        "title": "CENOZOIC PALEOCEANOGRAPHY"
+    },
+    {
+        "code": "PH\u00a0315",
+        "title": "PHYSICS OF CONTEMPORARY CHALLENGES"
+    },
+    {
+        "code": "SOIL\u00a0445",
+        "title": "ENVIRONMENTAL SOIL CHEMISTRY"
+    },
+    {
+        "code": "Z\u00a0349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION"
+    },
+    {
+        "code": "ATS\u00a0302",
+        "title": "MATHEMATICAL APPLICATIONS IN THE EARTH SCIENCES (if not used above)"
+    },
+    {
+        "code": "BEE\u00a0411",
+        "title": "GLOBAL ENVIRONMENTAL CHANGE: USING DATA TO INFORM DECISIONS"
+    },
+    {
+        "code": "ENGR\u00a0112",
+        "title": "INTRODUCTION TO ENGINEERING COMPUTING"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "GEOG\u00a0452",
+        "title": "ENVIRONMENTAL ASSESSMENT"
+    },
+    {
+        "code": "GEOG\u00a0480",
+        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I (if not used above)"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "NR\u00a0325",
+        "title": "SCIENTIFIC METHODS FOR ANALYZING NATURAL RESOURCE PROBLEMS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "WR\u00a0362",
+        "title": "*SCIENCE WRITING"
+    },
+    {
+        "code": "WR\u00a0462",
+        "title": "^ENVIRONMENTAL WRITING"
+    }
+]}

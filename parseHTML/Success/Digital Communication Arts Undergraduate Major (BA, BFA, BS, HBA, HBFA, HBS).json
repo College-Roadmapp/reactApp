@@ -1,0 +1,230 @@
+{"Courses":[
+    {
+        "code": "NMC\u00a0100",
+        "title": "*NEW MEDIA AND CULTURE"
+    },
+    {
+        "code": "NMC\u00a0101",
+        "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS"
+    },
+    {
+        "code": "NMC\u00a0260",
+        "title": "NEW MEDIA FUTURES"
+    },
+    {
+        "code": "NMC\u00a0301",
+        "title": "^WRITING FOR THE MEDIA PROFESSIONAL"
+    },
+    {
+        "code": "COMM\u00a0324",
+        "title": "COMMUNICATION IN ORGANIZATIONS"
+    },
+    {
+        "code": "COMM\u00a0368",
+        "title": "PROPAGANDA AND SOCIAL CONTROL"
+    },
+    {
+        "code": "COMM\u00a0372",
+        "title": "VISUAL RHETORIC"
+    },
+    {
+        "code": "COMM\u00a0385",
+        "title": "COMMUNICATION AND CULTURE IN CYBERSPACE"
+    },
+    {
+        "code": "COMM\u00a0440",
+        "title": "THEORIES OF CONFLICT AND CONFLICT MANAGEMENT"
+    },
+    {
+        "code": "COMM\u00a0476",
+        "title": "ISSUES IN THE FREEDOM OF SPEECH"
+    },
+    {
+        "code": "COMM\u00a0484",
+        "title": "MEDIA CRITICISM"
+    },
+    {
+        "code": "ART\u00a0121",
+        "title": "DIGITAL CORE STUDIO"
+    },
+    {
+        "code": "NMC\u00a0100",
+        "title": "*NEW MEDIA AND CULTURE"
+    },
+    {
+        "code": "NMC\u00a0101",
+        "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS"
+    },
+    {
+        "code": "NMC\u00a0260",
+        "title": "NEW MEDIA FUTURES"
+    },
+    {
+        "code": "NMC\u00a0301",
+        "title": "^WRITING FOR THE MEDIA PROFESSIONAL"
+    },
+    {
+        "code": "ART\u00a0101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS"
+    },
+    {
+        "code": "ART\u00a0115",
+        "title": "2-D CORE STUDIO"
+    },
+    {
+        "code": "ART\u00a0131",
+        "title": "DRAWING CORE STUDIO"
+    },
+    {
+        "code": "ART\u00a0263",
+        "title": "DIGITAL PHOTOGRAPHY"
+    },
+    {
+        "code": "NMC\u00a0322",
+        "title": "LANDMARKS IN MEDIA CONTENT"
+    },
+    {
+        "code": "NMC\u00a0351",
+        "title": "NEW MEDIA VISUALIZATION"
+    },
+    {
+        "code": "TA\u00a0242",
+        "title": "VISUAL PRINCIPLES OF THEATRE"
+    },
+    {
+        "code": "TA\u00a0346",
+        "title": "SCENE AND STAGE DESIGN"
+    },
+    {
+        "code": "WR\u00a0407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "ART\u00a0206",
+        "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY"
+    },
+    {
+        "code": "FILM\u00a0125",
+        "title": "*INTRODUCTION TO FILM STUDIES: 1945-PRESENT"
+    },
+    {
+        "code": "FILM\u00a0245",
+        "title": "*THE NEW AMERICAN CINEMA"
+    },
+    {
+        "code": "FILM\u00a0265",
+        "title": "*FILMS FOR THE FUTURE"
+    },
+    {
+        "code": "NMC\u00a0240",
+        "title": "SURVEY OF SOCIAL MEDIA"
+    },
+    {
+        "code": "NMC\u00a0321",
+        "title": "HISTORY OF BROADCASTING"
+    },
+    {
+        "code": "NMC\u00a0330",
+        "title": "THE MEANING OF VIDEO GAMES"
+    },
+    {
+        "code": "NMC\u00a0340",
+        "title": "SOCIAL MEDIA STRATEGY"
+    },
+    {
+        "code": "NMC 388/COMM 388",
+        "title": "SOCIAL MEDIA AND INTERPERSONAL RELATIONSHIPS"
+    },
+    {
+        "code": "NMC\u00a0399",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "NMC\u00a0421",
+        "title": "DIFFUSION OF INNOVATIONS"
+    },
+    {
+        "code": "NMC\u00a0427",
+        "title": "*DIGITAL PORNOGRAPHY"
+    },
+    {
+        "code": "NMC\u00a0430",
+        "title": "MEDIA THEORY"
+    },
+    {
+        "code": "NMC\u00a0435",
+        "title": "MEDIA EFFECTS"
+    },
+    {
+        "code": "NMC\u00a0437",
+        "title": "NEW MEDIA AND SOCIETY"
+    },
+    {
+        "code": "NMC\u00a0490",
+        "title": "MEDIA ETHICS"
+    },
+    {
+        "code": "NMC\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "MUS\u00a0493",
+        "title": "BASIC RECORDING TECHNIQUES"
+    },
+    {
+        "code": "MUS\u00a0494",
+        "title": "INTERMEDIATE RECORDING TECHNIQUES"
+    },
+    {
+        "code": "MUS\u00a0495",
+        "title": "ADVANCED RECORDING TECHNIQUES"
+    },
+    {
+        "code": "NMC\u00a0255",
+        "title": "APPLIED SOUND DESIGN"
+    },
+    {
+        "code": "NMC 349/ART 349",
+        "title": "VIDEO ART"
+    },
+    {
+        "code": "NMC\u00a0355",
+        "title": "SOUND DESIGN FOR VISUAL MEDIA"
+    },
+    {
+        "code": "NMC\u00a0380",
+        "title": "PRE-PRODUCTION"
+    },
+    {
+        "code": "NMC\u00a0383",
+        "title": "FIELD PRODUCTION"
+    },
+    {
+        "code": "NMC\u00a0409",
+        "title": "PRACTICUM 2"
+    },
+    {
+        "code": "NMC\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "NMC\u00a0481",
+        "title": "COMPOSITING AND DIGITAL EFFECTS"
+    },
+    {
+        "code": "NMC\u00a0482",
+        "title": "DOCUMENTARY"
+    },
+    {
+        "code": "NMC\u00a0483",
+        "title": "NEW MEDIA 3-D"
+    },
+    {
+        "code": "NMC\u00a0484",
+        "title": "NEW MEDIA ANIMATION"
+    },
+    {
+        "code": "NMC\u00a0498",
+        "title": "ADVANCED COLLABORATIVE EXPERIENCE"
+    }
+]}

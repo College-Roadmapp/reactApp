@@ -1,0 +1,682 @@
+{"Courses":[
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0201",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "CH\u00a0202",
+        "title": "CHEMISTRY FOR ENGINEERING MAJORS"
+    },
+    {
+        "code": "CH\u00a0205",
+        "title": "LABORATORY FOR CH 202"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "COMM\u00a0218",
+        "title": "*INTERPERSONAL COMMUNICATION"
+    },
+    {
+        "code": "ENGR\u00a0211",
+        "title": "STATICS"
+    },
+    {
+        "code": "ENGR\u00a0213",
+        "title": "STRENGTH OF MATERIALS"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0264",
+        "title": "INTRODUCTION TO MATRIX ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0265",
+        "title": "INTRODUCTION TO SERIES"
+    },
+    {
+        "code": "MTH\u00a0253",
+        "title": "INFINITE SERIES AND SEQUENCES"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "BEE\u00a0221",
+        "title": "FUNDAMENTALS OF ECOLOGICAL ENGINEERING"
+    },
+    {
+        "code": "BEE\u00a0222",
+        "title": "ECOLOGICAL ENGINEERING COMPUTATION"
+    },
+    {
+        "code": "BEE\u00a0270",
+        "title": "ECOLOGY FOR ENGINEERS"
+    },
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS"
+    },
+    {
+        "code": "SOIL\u00a0205",
+        "title": "SOIL SCIENCE"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205"
+    },
+    {
+        "code": "ST\u00a0314",
+        "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS"
+    },
+    {
+        "code": "ST\u00a0421",
+        "title": "INTRODUCTION TO MATHEMATICAL STATISTICS"
+    },
+    {
+        "code": "ST\u00a0422",
+        "title": "INTRODUCTION TO MATHEMATICAL STATISTICS"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "BEE\u00a0311",
+        "title": "ECOLOGICAL FLUID MECHANICS"
+    },
+    {
+        "code": "BEE\u00a0312",
+        "title": "ECOHYDRAULICS"
+    },
+    {
+        "code": "BEE\u00a0313",
+        "title": "ECOHYDROLOGY"
+    },
+    {
+        "code": "BEE\u00a0320",
+        "title": "BIOSYSTEMS ANALYSIS AND MODELING"
+    },
+    {
+        "code": "BEE\u00a0322",
+        "title": "ECOLOGICAL ENGINEERING THERMODYNAMICS AND TRANSFER PROCESS"
+    },
+    {
+        "code": "BEE\u00a0361",
+        "title": "ECOLOGICAL ENGINEERING LABORATORY"
+    },
+    {
+        "code": "BEE\u00a0362",
+        "title": "ECOLOGICAL ENGINEERING MICROBIAL PROCESSES"
+    },
+    {
+        "code": "BEE\u00a0468",
+        "title": "BIOREMEDIATION ENGINEERING"
+    },
+    {
+        "code": "BEE\u00a0481",
+        "title": "^ECOLOGICAL ENGINEERING DESIGN I"
+    },
+    {
+        "code": "BEE\u00a0482",
+        "title": "ECOLOGICAL ENGINEERING DESIGN II"
+    },
+    {
+        "code": "BEE\u00a0483",
+        "title": "ECOLOGICAL ENGINEERING DESIGN III"
+    },
+    {
+        "code": "BEE\u00a0415",
+        "title": "PROFESSIONAL DEVELOPMENT"
+    },
+    {
+        "code": "FE\u00a0208",
+        "title": "FOREST SURVEYING"
+    },
+    {
+        "code": "FE\u00a0257",
+        "title": "GIS AND FOREST ENGINEERING APPLICATIONS"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS"
+    },
+    {
+        "code": "IE\u00a0380",
+        "title": "*THE RESPONSIBLE ENGINEER"
+    },
+    {
+        "code": "PHL\u00a0205",
+        "title": "*ETHICS"
+    },
+    {
+        "code": "PHL\u00a0440",
+        "title": "*ENVIRONMENTAL ETHICS"
+    },
+    {
+        "code": "PHL 443/REL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES"
+    },
+    {
+        "code": "BEE\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "BEE\u00a0410",
+        "title": "ECOLOGICAL ENGINEERING INTERNSHIP"
+    },
+    {
+        "code": "BEE\u00a0433",
+        "title": "IRRIGATION SYSTEM DESIGN"
+    },
+    {
+        "code": "BEE\u00a0446",
+        "title": "RIVER ENGINEERING"
+    },
+    {
+        "code": "BEE\u00a0458",
+        "title": "NONPOINT SOURCE POLLUTION ASSESSMENT AND CONTROL"
+    },
+    {
+        "code": "CE\u00a0411",
+        "title": "OCEAN ENGINEERING"
+    },
+    {
+        "code": "CE\u00a0413",
+        "title": "GIS IN WATER RESOURCES"
+    },
+    {
+        "code": "CE\u00a0415",
+        "title": "COASTAL INFRASTRUCTURE"
+    },
+    {
+        "code": "CE\u00a0417",
+        "title": "HYDRAULIC ENGINEERING DESIGN"
+    },
+    {
+        "code": "CE\u00a0465",
+        "title": "OREGON LAND SURVEY LAW"
+    },
+    {
+        "code": "CE\u00a0469",
+        "title": "PROPERTY SURVEYS"
+    },
+    {
+        "code": "CCE\u00a0201",
+        "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN"
+    },
+    {
+        "code": "ENVE\u00a0421",
+        "title": "DRINKING WATER TREATMENT PROCESSES"
+    },
+    {
+        "code": "ENVE\u00a0422",
+        "title": "WASTEWATER TREATMENT PROCESSES"
+    },
+    {
+        "code": "ENVE\u00a0425",
+        "title": "AIR POLLUTION CONTROL"
+    },
+    {
+        "code": "ENVE\u00a0431",
+        "title": "FATE AND TRANSPORT OF CHEMICALS IN ENVIRONMENTAL SYSTEMS"
+    },
+    {
+        "code": "ENVE\u00a0456",
+        "title": "SUSTAINABLE WATER RESOURCES DEVELOPMENT"
+    },
+    {
+        "code": "FE\u00a0310",
+        "title": "FOREST ROUTE SURVEYING"
+    },
+    {
+        "code": "FE\u00a0315",
+        "title": "SOIL ENGINEERING"
+    },
+    {
+        "code": "FE\u00a0316",
+        "title": "SOIL MECHANICS"
+    },
+    {
+        "code": "FE\u00a0371",
+        "title": "HARVESTING PROCESS ENGINEERING"
+    },
+    {
+        "code": "FE\u00a0423",
+        "title": "UNMANNED AIRCRAFT SYSTEM REMOTE SENSING"
+    },
+    {
+        "code": "FE\u00a0430",
+        "title": "WATERSHED PROCESSES"
+    },
+    {
+        "code": "FE\u00a0434",
+        "title": "FOREST WATERSHED MANAGEMENT"
+    },
+    {
+        "code": "FE 457/FOR 457",
+        "title": "TECHNIQUES FOR FOREST RESOURCE ANALYSIS"
+    },
+    {
+        "code": "FE 479/CE 479",
+        "title": "SLOPE AND EMBANKMENT DESIGN"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0432",
+        "title": "ENVIRONMENTAL LAW"
+    },
+    {
+        "code": "ANS\u00a0121",
+        "title": "*INTRODUCTION TO ANIMAL SCIENCES"
+    },
+    {
+        "code": "ANS\u00a0251",
+        "title": "PRINCIPLES OF ANIMAL FOODS TECHNOLOGY"
+    },
+    {
+        "code": "ANS\u00a0315",
+        "title": "*CONTENTIOUS SOCIAL ISSUES IN ANIMAL AGRICULTURE"
+    },
+    {
+        "code": "ANS\u00a0351",
+        "title": "ADVANCED PRINCIPLES OF ANIMAL FOODS TECHNOLOGY"
+    },
+    {
+        "code": "BA\u00a0362",
+        "title": "SOCIAL ENTREPRENEURSHIP AND SOCIAL INITIATIVES"
+    },
+    {
+        "code": "BA\u00a0432",
+        "title": "*ENVIRONMENTAL LAW, SUSTAINABILITY AND BUSINESS"
+    },
+    {
+        "code": "BB\u00a0350",
+        "title": "ELEMENTARY BIOCHEMISTRY"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "BI\u00a0348",
+        "title": "*HUMAN ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0420",
+        "title": "*VIRUSES IN MODERN SOCIETY"
+    },
+    {
+        "code": "BOT\u00a0313",
+        "title": "PLANT STRUCTURE"
+    },
+    {
+        "code": "BOT\u00a0331",
+        "title": "PLANT PHYSIOLOGY"
+    },
+    {
+        "code": "BOT\u00a0341",
+        "title": "PLANT ECOLOGY"
+    },
+    {
+        "code": "BOT\u00a0442",
+        "title": "PLANT POPULATION ECOLOGY"
+    },
+    {
+        "code": "CH\u00a0324",
+        "title": "QUANTITATIVE ANALYSIS"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0332",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0337",
+        "title": "ORGANIC CHEMISTRY LABORATORY"
+    },
+    {
+        "code": "COMM\u00a0440",
+        "title": "THEORIES OF CONFLICT AND CONFLICT MANAGEMENT"
+    },
+    {
+        "code": "COMM\u00a0442",
+        "title": "BARGAINING AND NEGOTIATION PROCESSES"
+    },
+    {
+        "code": "COMM\u00a0444",
+        "title": "THIRD PARTIES IN DISPUTE RESOLUTION: MEDIATION AND ARBITRATION"
+    },
+    {
+        "code": "FE\u00a0460",
+        "title": "^FOREST OPERATIONS REGULATIONS AND POLICY ISSUES"
+    },
+    {
+        "code": "FES 435/TOX 435",
+        "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK"
+    },
+    {
+        "code": "FES 445/FW 445",
+        "title": "ECOLOGICAL RESTORATION"
+    },
+    {
+        "code": "FES\u00a0485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES"
+    },
+    {
+        "code": "FOR\u00a0441",
+        "title": "SILVICULTURE PRINCIPLES"
+    },
+    {
+        "code": "FOR\u00a0329",
+        "title": "FOREST RESOURCE ECONOMICS I"
+    },
+    {
+        "code": "FOR\u00a0460",
+        "title": "^FOREST POLICY"
+    },
+    {
+        "code": "FOR\u00a0462",
+        "title": "NATURAL RESOURCE POLICY AND LAW"
+    },
+    {
+        "code": "FST\u00a0210",
+        "title": "FRUIT AND VEGETABLE PROCESSING"
+    },
+    {
+        "code": "FST\u00a0212",
+        "title": "DAIRY PROCESSING"
+    },
+    {
+        "code": "FST\u00a0213",
+        "title": "DAIRY PROCESSING LABORATORY"
+    },
+    {
+        "code": "FST\u00a0421",
+        "title": "*FOOD LAW"
+    },
+    {
+        "code": "FST\u00a0460",
+        "title": "CHEMISTRY AND BIOCHEMISTRY OF BEER"
+    },
+    {
+        "code": "FST\u00a0461",
+        "title": "PRODUCTION AND ANALYSIS OF BEER"
+    },
+    {
+        "code": "FST\u00a0466",
+        "title": "CHEMISTRY AND BIOCHEMISTRY OF WINE"
+    },
+    {
+        "code": "FST 479/MB 479",
+        "title": "FERMENTATION MICROBIOLOGY"
+    },
+    {
+        "code": "FW\u00a0251",
+        "title": "PRINCIPLES OF FISH AND WILDLIFE CONSERVATION"
+    },
+    {
+        "code": "FW\u00a0326",
+        "title": "INTEGRATED WATERSHED MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY"
+    },
+    {
+        "code": "FW\u00a0435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS"
+    },
+    {
+        "code": "FW\u00a0456",
+        "title": "FRESHWATER ECOLOGY AND CONSERVATION"
+    },
+    {
+        "code": "FW\u00a0462",
+        "title": "ECOSYSTEM SERVICES"
+    },
+    {
+        "code": "FW\u00a0479",
+        "title": "WETLANDS AND RIPARIAN ECOLOGY"
+    },
+    {
+        "code": "GEO\u00a0202",
+        "title": "*EARTH SYSTEMS SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0322",
+        "title": "SURFACE PROCESSES"
+    },
+    {
+        "code": "GEO\u00a0432",
+        "title": "APPLIED GEOMORPHOLOGY"
+    },
+    {
+        "code": "GEO\u00a0481",
+        "title": "GLACIAL GEOLOGY"
+    },
+    {
+        "code": "GEO\u00a0487",
+        "title": "HYDROGEOLOGY"
+    },
+    {
+        "code": "GEOG\u00a0201",
+        "title": "*FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS"
+    },
+    {
+        "code": "GEOG\u00a0370",
+        "title": "GEOVISUALIZATION: CARTOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0423",
+        "title": "SNOW HYDROLOGY"
+    },
+    {
+        "code": "GEOG\u00a0480",
+        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS"
+    },
+    {
+        "code": "HORT\u00a0285",
+        "title": "PERMACULTURE DESIGN AND THEORY: CERTIFICATE COURSE"
+    },
+    {
+        "code": "HORT 300/CROP 300",
+        "title": "CROP PRODUCTION IN PACIFIC NORTHWEST AGROECOSYSTEMS"
+    },
+    {
+        "code": "HORT\u00a0318",
+        "title": "^APPLIED ECOLOGY OF MANAGED ECOSYSTEMS"
+    },
+    {
+        "code": "HORT\u00a0360",
+        "title": "IRRIGATION AND DRAINAGE"
+    },
+    {
+        "code": "HORT 414/CROP 414",
+        "title": "PRECISION AGRICULTURE"
+    },
+    {
+        "code": "MB\u00a0302",
+        "title": "GENERAL MICROBIOLOGY"
+    },
+    {
+        "code": "MB\u00a0303",
+        "title": "GENERAL MICROBIOLOGY LABORATORY"
+    },
+    {
+        "code": "MTH\u00a0351",
+        "title": "INTRODUCTION TO NUMERICAL ANALYSIS"
+    },
+    {
+        "code": "MTH\u00a0452",
+        "title": "NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0481",
+        "title": "APPLIED ORDINARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "MTH\u00a0482",
+        "title": "APPLIED PARTIAL DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "code": "OC 434/FW 434",
+        "title": "ESTUARINE ECOLOGY"
+    },
+    {
+        "code": "RNG\u00a0341",
+        "title": "RANGELAND ECOLOGY AND MANAGEMENT"
+    },
+    {
+        "code": "RNG\u00a0351",
+        "title": "RANGE ECOLOGY I-GRASSLANDS"
+    },
+    {
+        "code": "RNG\u00a0352",
+        "title": "RANGE ECOLOGY II-SHRUBLANDS"
+    },
+    {
+        "code": "RNG\u00a0355",
+        "title": "DESERT WATERSHED MANAGEMENT"
+    },
+    {
+        "code": "RNG\u00a0421",
+        "title": "WILDLAND RESTORATION AND ECOLOGY"
+    },
+    {
+        "code": "RNG\u00a0455",
+        "title": "RIPARIAN ECOHYDROLOGY AND MANAGEMENT"
+    },
+    {
+        "code": "SOIL\u00a0455",
+        "title": "BIOLOGY OF SOIL ECOSYSTEMS"
+    },
+    {
+        "code": "ST\u00a0421",
+        "title": "INTRODUCTION TO MATHEMATICAL STATISTICS"
+    },
+    {
+        "code": "ST\u00a0422",
+        "title": "INTRODUCTION TO MATHEMATICAL STATISTICS"
+    },
+    {
+        "code": "SUS\u00a0304",
+        "title": "*SUSTAINABILITY ASSESSMENT"
+    },
+    {
+        "code": "SUS\u00a0350",
+        "title": "*SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "TOX\u00a0430",
+        "title": "CHEMICAL BEHAVIOR IN THE ENVIRONMENT"
+    },
+    {
+        "code": "WSE\u00a0455",
+        "title": "INDUSTRIAL MARKETING IN THE FOREST SECTOR"
+    },
+    {
+        "code": "Z\u00a0349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION"
+    }
+]}

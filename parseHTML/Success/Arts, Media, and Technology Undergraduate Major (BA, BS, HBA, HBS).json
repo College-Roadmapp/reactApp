@@ -1,0 +1,102 @@
+{"Courses":[
+    {
+        "code": "ART\u00a0101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS"
+    },
+    {
+        "code": "ART\u00a0115",
+        "title": "2-D CORE STUDIO"
+    },
+    {
+        "code": "ART\u00a0117",
+        "title": "3-D CORE STUDIO"
+    },
+    {
+        "code": "ART\u00a0121",
+        "title": "DIGITAL CORE STUDIO"
+    },
+    {
+        "code": "ART\u00a0222",
+        "title": "INTRODUCTION TO TIME-BASED ART"
+    },
+    {
+        "code": "ART\u00a0215",
+        "title": "COLOR IN THE VISUAL ARTS"
+    },
+    {
+        "code": "ART\u00a0263",
+        "title": "DIGITAL PHOTOGRAPHY"
+    },
+    {
+        "code": "ART\u00a0339",
+        "title": "PROFESSIONAL PRACTICES FOR ARTISTS"
+    },
+    {
+        "code": "ART\u00a0349",
+        "title": "VIDEO ART"
+    },
+    {
+        "code": "ART\u00a0366",
+        "title": "ART SINCE 1945 1"
+    },
+    {
+        "code": "ART\u00a0367",
+        "title": "*HISTORY OF DESIGN"
+    },
+    {
+        "code": "ART\u00a0411",
+        "title": "^ART IN CONTEXT HISTORICAL AND CRITICAL APPROACHES"
+    },
+    {
+        "code": "ART\u00a0422",
+        "title": "NEW MEDIA: INTERACTIVE"
+    },
+    {
+        "code": "ART\u00a0451",
+        "title": "INTRODUCTION TO ARTS ENTREPRENEURSHIP"
+    },
+    {
+        "code": "ART\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "ART\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "ART\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "GD\u00a0110",
+        "title": "GRAPHIC DESIGN TOOLS AND TECHNIQUES"
+    },
+    {
+        "code": "GD\u00a0210",
+        "title": "GRAPHIC DESIGN I"
+    },
+    {
+        "code": "GD\u00a0310",
+        "title": "GRAPHIC DESIGN 2: INTERMEDIATE GRAPHIC DESIGN"
+    },
+    {
+        "code": "GD\u00a0430",
+        "title": "GRAPHIC DESIGN PRACTICUM"
+    },
+    {
+        "code": "GD\u00a0440",
+        "title": "USER RESEARCH FOR GRAPHIC DESIGNERS"
+    },
+    {
+        "code": "NMC\u00a0101",
+        "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS"
+    },
+    {
+        "code": "NMC\u00a0351",
+        "title": "NEW MEDIA VISUALIZATION"
+    },
+    {
+        "code": "NMC\u00a0484",
+        "title": "NEW MEDIA ANIMATION"
+    }
+]}

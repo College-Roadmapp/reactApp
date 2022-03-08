@@ -1,0 +1,90 @@
+{"Courses":[
+    {
+        "code": "HHS\u00a0231",
+        "title": "*LIFETIME FITNESS FOR HEALTH"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "*LIFETIME FITNESS (or any PAC course)"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION"
+    },
+    {
+        "code": "WR\u00a0214",
+        "title": "*WRITING IN BUSINESS"
+    },
+    {
+        "code": "WR\u00a0327",
+        "title": "*TECHNICAL WRITING"
+    },
+    {
+        "code": "COMM\u00a0111",
+        "title": "*PUBLIC SPEAKING"
+    },
+    {
+        "code": "COMM\u00a0114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "FES\u00a0240",
+        "title": "*FOREST BIOLOGY"
+    },
+    {
+        "code": "FOR\u00a0111",
+        "title": "INTRODUCTION TO FORESTRY"
+    },
+    {
+        "code": "FOR\u00a0112",
+        "title": "COMPUTING APPLICATIONS IN FORESTRY"
+    },
+    {
+        "code": "WSE\u00a0111",
+        "title": "RENEWABLE MATERIALS FOR A GREEN PLANET"
+    },
+    {
+        "code": "WSE\u00a0210",
+        "title": "*RENEWABLE MATERIALS TECHNOLOGY AND UTILIZATION"
+    },
+    {
+        "code": "WSE\u00a0225",
+        "title": "DEVELOPMENTS OF BUILDING DESIGN WITH RENEWABLE MATERIALS"
+    },
+    {
+        "code": "WSE\u00a0250",
+        "title": "CAD: COMPUTER AIDED DESIGN"
+    },
+    {
+        "code": "WSE\u00a0320",
+        "title": "ANATOMY OF RENEWABLE MATERIALS"
+    },
+    {
+        "code": "WSE\u00a0321",
+        "title": "CHEMISTRY OF RENEWABLE MATERIALS"
+    },
+    {
+        "code": "WSE\u00a0322",
+        "title": "PHYSICAL AND MECHANICAL PROPERTIES OF RENEWABLE MATERIALS"
+    },
+    {
+        "code": "WSE\u00a0324",
+        "title": "RENEWABLE MATERIALS LABORATORY"
+    },
+    {
+        "code": "WSE\u00a0453",
+        "title": "^FOREST PRODUCTS BUSINESS"
+    },
+    {
+        "code": "WSE\u00a0465",
+        "title": "RENEWABLE MATERIALS MANUFACTURING EXPERIENCE"
+    }
+]}

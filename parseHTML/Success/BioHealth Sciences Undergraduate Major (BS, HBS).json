@@ -1,0 +1,450 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "BHS\u00a0110",
+        "title": "BIOHEALTH SCIENCES ORIENTATION"
+    },
+    {
+        "code": "ST\u00a0201",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "MTH\u00a0111",
+        "title": "*COLLEGE ALGEBRA"
+    },
+    {
+        "code": "MTH\u00a0112",
+        "title": "*ELEMENTARY FUNCTIONS"
+    },
+    {
+        "code": "MTH\u00a0227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I"
+    },
+    {
+        "code": "MTH\u00a0228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0203",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0331",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0332",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0337",
+        "title": "ORGANIC CHEMISTRY LABORATORY"
+    },
+    {
+        "code": "BB\u00a0314",
+        "title": "CELL AND MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "BB\u00a0450",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0451",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "BHS\u00a0329",
+        "title": "MECHANISMS OF DISEASE: INTRODUCTION TO GENERAL PATHOLOGY"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "BI\u00a0204",
+        "title": "*INTRODUCTORY BIOLOGY I"
+    },
+    {
+        "code": "BI\u00a0205",
+        "title": "*INTRODUCTORY BIOLOGY II"
+    },
+    {
+        "code": "BI\u00a0206",
+        "title": "*INTRODUCTORY BIOLOGY III"
+    },
+    {
+        "code": "MB\u00a0302",
+        "title": "GENERAL MICROBIOLOGY"
+    },
+    {
+        "code": "MB\u00a0303",
+        "title": "GENERAL MICROBIOLOGY LABORATORY 1"
+    },
+    {
+        "code": "BHS\u00a0305",
+        "title": "LABORATORY AND COMPUTATIONAL SKILLS IN MICROBIOLOGY"
+    },
+    {
+        "code": "MB\u00a0310",
+        "title": "BACTERIAL MOLECULAR GENETICS"
+    },
+    {
+        "code": "BI\u00a0311",
+        "title": "GENETICS"
+    },
+    {
+        "code": "MB\u00a0416",
+        "title": "IMMUNOLOGY"
+    },
+    {
+        "code": "BHS\u00a0316",
+        "title": "PRINCIPLES OF IMMUNOLOGY"
+    },
+    {
+        "code": "BHS\u00a0490",
+        "title": "BIOHEALTH SCIENCES CAPSTONE EXPERIENCE"
+    },
+    {
+        "code": "BHS\u00a0323",
+        "title": "^MICROBIAL INFLUENCES ON HUMAN HEALTH"
+    },
+    {
+        "code": "MB\u00a0385",
+        "title": "^EMERGING INFECTIOUS DISEASES AND EPIDEMICS"
+    },
+    {
+        "code": "H\u00a0210",
+        "title": "*INTRODUCTION TO THE HEALTH CARE SYSTEM"
+    },
+    {
+        "code": "H\u00a0225",
+        "title": "*SOCIAL AND INDIVIDUAL HEALTH DETERMINANTS"
+    },
+    {
+        "code": "PHAR\u00a0210",
+        "title": "TERMINOLOGY OF THE HEALTH SCIENCES"
+    },
+    {
+        "code": "PSY\u00a0201",
+        "title": "*GENERAL PSYCHOLOGY"
+    },
+    {
+        "code": "PSY\u00a0202",
+        "title": "*GENERAL PSYCHOLOGY"
+    },
+    {
+        "code": "ANTH\u00a0240",
+        "title": "INTRODUCTION TO BIOLOGICAL ANTHROPOLOGY"
+    },
+    {
+        "code": "ANTH\u00a0345",
+        "title": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE"
+    },
+    {
+        "code": "ANTH 361/FCSJ 361",
+        "title": "*FOOD JUSTICE"
+    },
+    {
+        "code": "ECON\u00a0383",
+        "title": "*THE ECONOMICS OF DISCRIMINATION"
+    },
+    {
+        "code": "ES\u00a0351",
+        "title": "*ETHNIC MINORITIES IN OREGON"
+    },
+    {
+        "code": "ES\u00a0353",
+        "title": "*ENVIRONMENTAL RACISM"
+    },
+    {
+        "code": "HDFS\u00a0201",
+        "title": "*CONTEMPORARY FAMILIES IN THE U.S."
+    },
+    {
+        "code": "MB\u00a0330",
+        "title": "*DISEASE AND SOCIETY"
+    },
+    {
+        "code": "PHL\u00a0280",
+        "title": "*ETHICS OF DIVERSITY"
+    },
+    {
+        "code": "PSY\u00a0426",
+        "title": "*PSYCHOLOGY OF GENDER"
+    },
+    {
+        "code": "PSY 466/WGSS 466",
+        "title": "*FAT STUDIES"
+    },
+    {
+        "code": "QS 262/WGSS 262",
+        "title": "*INTRODUCTION TO QUEER STUDIES"
+    },
+    {
+        "code": "SOC\u00a0426",
+        "title": "*SOCIAL INEQUALITY"
+    },
+    {
+        "code": "SPAN\u00a0221",
+        "title": "SPANISH FOR MEDICAL PROFESSIONS I"
+    },
+    {
+        "code": "SPAN\u00a0222",
+        "title": "SPANISH FOR MEDICAL PROFESSIONS II"
+    },
+    {
+        "code": "WGSS\u00a0414",
+        "title": "*SYSTEMS OF OPPRESSION IN WOMEN'S LIVES"
+    },
+    {
+        "code": "BB\u00a0331",
+        "title": "*INTRODUCTION TO MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "BB\u00a0332",
+        "title": "*MOLECULAR MEDICINE"
+    },
+    {
+        "code": "BB\u00a0360",
+        "title": "INTRODUCTION TO NEUROSCIENCE"
+    },
+    {
+        "code": "BB\u00a0460",
+        "title": "ADVANCED CELL BIOLOGY"
+    },
+    {
+        "code": "BB\u00a0481",
+        "title": "MACROMOLECULAR STRUCTURE"
+    },
+    {
+        "code": "BB\u00a0485",
+        "title": "APPLIED BIOINFORMATICS"
+    },
+    {
+        "code": "BHS\u00a0320",
+        "title": "HUMAN BACTERIOLOGY"
+    },
+    {
+        "code": "BHS\u00a0340",
+        "title": "HUMAN VIROLOGY"
+    },
+    {
+        "code": "BI\u00a0309",
+        "title": "TEACHING PRACTICUM"
+    },
+    {
+        "code": "BI\u00a0409",
+        "title": "ADVANCED TEACHING PRACTICUM"
+    },
+    {
+        "code": "BI\u00a0483",
+        "title": "POPULATION BIOLOGY"
+    },
+    {
+        "code": "ST\u00a0352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    },
+    {
+        "code": "Z\u00a0350",
+        "title": "ANIMAL BEHAVIOR"
+    },
+    {
+        "code": "Z\u00a0423",
+        "title": "ENVIRONMENTAL PHYSIOLOGY"
+    },
+    {
+        "code": "Z\u00a0431",
+        "title": "VERTEBRATE PHYSIOLOGY I"
+    },
+    {
+        "code": "Z\u00a0432",
+        "title": "VERTEBRATE PHYSIOLOGY II"
+    },
+    {
+        "code": "Z\u00a0438",
+        "title": "BEHAVIORAL NEUROBIOLOGY"
+    },
+    {
+        "code": "BI\u00a0309",
+        "title": "TEACHING PRACTICUM"
+    },
+    {
+        "code": "BI\u00a0409",
+        "title": "ADVANCED TEACHING PRACTICUM"
+    },
+    {
+        "code": "CH\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "CH\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "CH\u00a0405",
+        "title": "READING AND CONFERENCE"
+    },
+    {
+        "code": "CH\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "CH\u00a0407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "CH\u00a0410",
+        "title": "INTERNSHIP"
+    },
+    {
+        "code": "MB\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "MB\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "MB\u00a0405",
+        "title": "READING AND CONFERENCE"
+    },
+    {
+        "code": "MB\u00a0406",
+        "title": "SPECIAL PROJECTS"
+    },
+    {
+        "code": "MB\u00a0407",
+        "title": "SEMINAR"
+    },
+    {
+        "code": "MB\u00a0410",
+        "title": "OCCUPATIONAL INTERNSHIP"
+    }
+]}

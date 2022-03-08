@@ -1,0 +1,346 @@
+{"Courses":[
+    {
+        "code": "ENG\u00a0201",
+        "title": "*SHAKESPEARE"
+    },
+    {
+        "code": "ENG\u00a0202",
+        "title": "*SHAKESPEARE"
+    },
+    {
+        "code": "ENG\u00a0204",
+        "title": "*SURVEY OF BRITISH LITERATURE: BEGINNINGS TO 1660"
+    },
+    {
+        "code": "ENG\u00a0205",
+        "title": "*SURVEY OF BRITISH LITERATURE: RESTORATION TO ROMANTIC ERA"
+    },
+    {
+        "code": "ENG\u00a0206",
+        "title": "*SURVEY OF BRITISH LITERATURE: VICTORIAN ERA TO 20TH CENTURY"
+    },
+    {
+        "code": "ENG\u00a0207",
+        "title": "LITERATURE OF WESTERN CIVILIZATION: CLASSICAL-RENAISSANCE"
+    },
+    {
+        "code": "ENG\u00a0208",
+        "title": "LITERATURE OF WESTERN CIVILIZATION: 18TH CENTURY TO PRESENT"
+    },
+    {
+        "code": "ENG\u00a0210",
+        "title": "*LITERATURES OF THE WORLD: ASIA"
+    },
+    {
+        "code": "ENG\u00a0211",
+        "title": "*LITERATURES OF THE WORLD: AFRICA"
+    },
+    {
+        "code": "ENG\u00a0212",
+        "title": "*LITERATURES OF THE WORLD: MESO/SOUTH AMERICA, CARIBBEAN"
+    },
+    {
+        "code": "ENG\u00a0213",
+        "title": "*LITERATURES OF THE WORLD: MIDDLE EAST"
+    },
+    {
+        "code": "ENG\u00a0214",
+        "title": "*LITERATURE OF THE WORLD: EUROPE"
+    },
+    {
+        "code": "ENG\u00a0220",
+        "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION"
+    },
+    {
+        "code": "ENG\u00a0221",
+        "title": "*AFRICAN-AMERICAN LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0222",
+        "title": "CHILDREN'S LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0240",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0253",
+        "title": "*SURVEY OF AMERICAN LITERATURE: COLONIAL TO 1900"
+    },
+    {
+        "code": "ENG\u00a0254",
+        "title": "*SURVEY OF AMERICAN LITERATURE: 1900 TO PRESENT"
+    },
+    {
+        "code": "ENG\u00a0260",
+        "title": "*LITERATURE OF AMERICAN MINORITIES"
+    },
+    {
+        "code": "ENG\u00a0275",
+        "title": "*THE BIBLE AS LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0301",
+        "title": "WAYS OF READING"
+    },
+    {
+        "code": "ENG\u00a0302",
+        "title": "^WRITING ABOUT LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0200",
+        "title": "LIBRARY SKILLS FOR LITERARY STUDY"
+    },
+    {
+        "code": "ENG\u00a0345",
+        "title": "INTRODUCTION TO LITERARY CRITICISM AND THEORY"
+    },
+    {
+        "code": "ENG\u00a0304",
+        "title": "CAREER PREPARATION FOR ENGLISH MAJORS"
+    },
+    {
+        "code": "ED\u00a0309",
+        "title": "FIELD PRACTICUM"
+    },
+    {
+        "code": "ENG\u00a0317",
+        "title": "*THE AMERICAN NOVEL: BEGINNINGS TO CHOPIN"
+    },
+    {
+        "code": "ENG\u00a0318",
+        "title": "*THE AMERICAN NOVEL: MODERNIST PERIOD"
+    },
+    {
+        "code": "ENG\u00a0319",
+        "title": "*THE AMERICAN NOVEL: POST-WORLD WAR II"
+    },
+    {
+        "code": "ENG\u00a0320",
+        "title": "*STUDIES IN PAGE, STAGE, AND SCREEN"
+    },
+    {
+        "code": "ENG\u00a0321",
+        "title": "*STUDIES IN WORD, OBJECT, AND IMAGE"
+    },
+    {
+        "code": "ENG\u00a0322",
+        "title": "*STUDIES IN GLOBALISM, TEXT, AND EVENT"
+    },
+    {
+        "code": "ENG\u00a0330",
+        "title": "*THE HOLOCAUST IN LITERATURE AND FILM"
+    },
+    {
+        "code": "ENG\u00a0360",
+        "title": "*NATIVE AMERICAN LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0362",
+        "title": "*AMERICAN WOMEN WRITERS"
+    },
+    {
+        "code": "ENG\u00a0374",
+        "title": "*MODERN SHORT STORY"
+    },
+    {
+        "code": "ENG\u00a0375",
+        "title": "CHILDREN'S LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0386",
+        "title": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART I"
+    },
+    {
+        "code": "ENG\u00a0387",
+        "title": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART II"
+    },
+    {
+        "code": "ENG\u00a0388",
+        "title": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART III"
+    },
+    {
+        "code": "FILM\u00a0310",
+        "title": "*FILM THEORY AND CRITICISM"
+    },
+    {
+        "code": "WR\u00a0324",
+        "title": "SHORT STORY WRITING"
+    },
+    {
+        "code": "WR\u00a0340",
+        "title": "CREATIVE NONFICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0341",
+        "title": "POETRY WRITING"
+    },
+    {
+        "code": "WR\u00a0383",
+        "title": "FOOD WRITING"
+    },
+    {
+        "code": "ENG\u00a0425",
+        "title": "STUDIES IN MEDIEVAL LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0430",
+        "title": "STUDIES IN PRE-1700 LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0435",
+        "title": "STUDIES IN SHAKESPEARE"
+    },
+    {
+        "code": "ENG\u00a0490",
+        "title": "HISTORY OF THE ENGLISH LANGUAGE"
+    },
+    {
+        "code": "ENG\u00a0418",
+        "title": "THE ENGLISH NOVEL: VICTORIAN PERIOD"
+    },
+    {
+        "code": "ENG\u00a0434",
+        "title": "STUDIES IN ROMANTICISM"
+    },
+    {
+        "code": "ENG\u00a0438",
+        "title": "STUDIES IN MODERNISM"
+    },
+    {
+        "code": "ENG\u00a0440",
+        "title": "STUDIES IN MODERN IRISH LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0403",
+        "title": "THESIS"
+    },
+    {
+        "code": "ENG\u00a0406",
+        "title": "PROJECTS"
+    },
+    {
+        "code": "ENG\u00a0412",
+        "title": "STUDIES IN BRITISH THEATER AND SOCIETY"
+    },
+    {
+        "code": "ENG\u00a0416",
+        "title": "POWER AND REPRESENTATION"
+    },
+    {
+        "code": "ENG\u00a0445",
+        "title": "^STUDIES IN NONFICTION"
+    },
+    {
+        "code": "ENG\u00a0454",
+        "title": "MAJOR AUTHORS"
+    },
+    {
+        "code": "ENG\u00a0460",
+        "title": "STUDIES IN DRAMA"
+    },
+    {
+        "code": "ENG\u00a0465",
+        "title": "STUDIES IN THE NOVEL"
+    },
+    {
+        "code": "ENG\u00a0470",
+        "title": "^STUDIES IN POETRY"
+    },
+    {
+        "code": "ENG\u00a0475",
+        "title": "STUDIES IN CRITICISM"
+    },
+    {
+        "code": "ENG\u00a0480",
+        "title": "STUDIES IN LITERATURE, CULTURE AND SOCIETY"
+    },
+    {
+        "code": "ENG\u00a0482",
+        "title": "STUDIES IN AMERICAN LITERATURE, CULTURE, AND THE ENVIRONMENT"
+    },
+    {
+        "code": "ENG\u00a0485",
+        "title": "^STUDIES IN AMERICAN LITERATURE"
+    },
+    {
+        "code": "ENG\u00a0488",
+        "title": "LITERATURE AND PEDAGOGY"
+    },
+    {
+        "code": "ENG\u00a0489",
+        "title": "WRITING, LITERATURE AND MEDICINE"
+    },
+    {
+        "code": "ENG\u00a0497",
+        "title": "*INTERNATIONAL WOMEN'S VOICES"
+    },
+    {
+        "code": "ENG\u00a0499",
+        "title": "SELECTED TOPICS"
+    },
+    {
+        "code": "FILM\u00a0445",
+        "title": "DOCUMENTARY FILM STUDIES"
+    },
+    {
+        "code": "FILM\u00a0452",
+        "title": "^STUDIES IN FILM"
+    },
+    {
+        "code": "FILM\u00a0480",
+        "title": "STUDIES IN FILM, CULTURE AND SOCIETY"
+    },
+    {
+        "code": "WR\u00a0411",
+        "title": "^THE TEACHING OF WRITING"
+    },
+    {
+        "code": "WR\u00a0414",
+        "title": "ADVERTISING AND PUBLIC RELATIONS WRITING"
+    },
+    {
+        "code": "WR\u00a0420",
+        "title": "STUDIES IN WRITING"
+    },
+    {
+        "code": "WR\u00a0424",
+        "title": "ADVANCED FICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0440",
+        "title": "ADVANCED CREATIVE NONFICTION WRITING"
+    },
+    {
+        "code": "WR\u00a0441",
+        "title": "ADVANCED POETRY WRITING"
+    },
+    {
+        "code": "WR\u00a0448",
+        "title": "MAGAZINE ARTICLE WRITING"
+    },
+    {
+        "code": "WR\u00a0449",
+        "title": "CRITICAL REVIEWING"
+    },
+    {
+        "code": "WR\u00a0462",
+        "title": "^ENVIRONMENTAL WRITING"
+    },
+    {
+        "code": "WR\u00a0466",
+        "title": "^ADVANCED TECHNICAL WRITING"
+    },
+    {
+        "code": "WR\u00a0475",
+        "title": "RHETORICS OF RACE"
+    },
+    {
+        "code": "WR\u00a0495",
+        "title": "^INTRODUCTION TO LITERACY STUDIES"
+    },
+    {
+        "code": "WR\u00a0497",
+        "title": "DIGITAL LITERACY AND CULTURE"
+    }
+]}

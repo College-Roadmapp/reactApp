@@ -1,0 +1,602 @@
+{"Courses":[
+    {
+        "code": "SUS\u00a0304",
+        "title": "*SUSTAINABILITY ASSESSMENT"
+    },
+    {
+        "code": "SUS\u00a0350",
+        "title": "*SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "BI\u00a0306H",
+        "title": "*ENVIRONMENTAL ECOLOGY"
+    },
+    {
+        "code": "SUS\u00a0102",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY +"
+    },
+    {
+        "code": "SOC\u00a0381",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY (Ecampus only)"
+    },
+    {
+        "code": "SOC\u00a0480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY"
+    },
+    {
+        "code": "SOC\u00a0481",
+        "title": "*SOCIETY AND NATURAL RESOURCES"
+    },
+    {
+        "code": "SUS\u00a0331",
+        "title": "*SUSTAINABILITY, JUSTICE, AND ENGAGEMENT"
+    },
+    {
+        "code": "SUS\u00a0420",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY (Ecampus "
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0434",
+        "title": "^BENEFIT-COST ANALYSIS"
+    },
+    {
+        "code": "SUS\u00a0401",
+        "title": "RESEARCH"
+    },
+    {
+        "code": "SUS\u00a0410",
+        "title": "INTERNSHIP 3"
+    },
+    {
+        "code": "SUS\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "AEC\u00a0243",
+        "title": "*GLOBAL POVERTY AND SUSTAINABLE DEVELOPMENT"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "BA\u00a0302",
+        "title": "BUSINESS PROCESS MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0314",
+        "title": "SUSTAINABLE BUSINESS OPERATIONS"
+    },
+    {
+        "code": "BA\u00a0351",
+        "title": "MANAGING ORGANIZATIONS"
+    },
+    {
+        "code": "BA\u00a0352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE"
+    },
+    {
+        "code": "BA\u00a0362",
+        "title": "SOCIAL ENTREPRENEURSHIP AND SOCIAL INITIATIVES"
+    },
+    {
+        "code": "BA\u00a0432",
+        "title": "*ENVIRONMENTAL LAW, SUSTAINABILITY AND BUSINESS"
+    },
+    {
+        "code": "BA\u00a0466",
+        "title": "INTEGRATIVE STRATEGIC EXPERIENCE"
+    },
+    {
+        "code": "ECON\u00a0202",
+        "title": "*INTRODUCTION TO MACROECONOMICS"
+    },
+    {
+        "code": "ECON\u00a0311",
+        "title": "INTERMEDIATE MICROECONOMIC THEORY"
+    },
+    {
+        "code": "ECON\u00a0315",
+        "title": "INTERMEDIATE MACROECONOMIC THEORY"
+    },
+    {
+        "code": "MGMT\u00a0452",
+        "title": "LEADERSHIP"
+    },
+    {
+        "code": "BEE\u00a0221",
+        "title": "FUNDAMENTALS OF ECOLOGICAL ENGINEERING"
+    },
+    {
+        "code": "BEE\u00a0320",
+        "title": "BIOSYSTEMS ANALYSIS AND MODELING"
+    },
+    {
+        "code": "BEE\u00a0322",
+        "title": "ECOLOGICAL ENGINEERING THERMODYNAMICS AND TRANSFER PROCESS"
+    },
+    {
+        "code": "CCE\u00a0422",
+        "title": "GREEN BUILDING MATERIALS"
+    },
+    {
+        "code": "CHE\u00a0450",
+        "title": "CONVENTIONAL AND ALTERNATIVE ENERGY SYSTEMS"
+    },
+    {
+        "code": "CHE\u00a0451",
+        "title": "SOLAR ENERGY TECHNOLOGIES"
+    },
+    {
+        "code": "ECE\u00a0438",
+        "title": "ELECTRIC AND HYBRID ELECTRIC VEHICLES"
+    },
+    {
+        "code": "ENGR\u00a0350",
+        "title": "*SUSTAINABLE ENGINEERING"
+    },
+    {
+        "code": "ENVE\u00a0321",
+        "title": "ENVIRONMENTAL ENGINEERING FUNDAMENTALS"
+    },
+    {
+        "code": "HEST\u00a0310",
+        "title": "*INTRO TO COMMUNITY ENGAGEMENT AND COMMUNITY-BASED DESIGN"
+    },
+    {
+        "code": "AGRI 411/AEC 411",
+        "title": "*INTRODUCTION TO FOOD SYSTEMS: LOCAL TO GLOBAL"
+    },
+    {
+        "code": "BI\u00a0301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS"
+    },
+    {
+        "code": "BI\u00a0306",
+        "title": "*ENVIRONMENTAL ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0347",
+        "title": "*OCEANS IN PERIL"
+    },
+    {
+        "code": "BI\u00a0348",
+        "title": "*HUMAN ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0351",
+        "title": "MARINE ECOLOGY"
+    },
+    {
+        "code": "BI\u00a0370",
+        "title": "ECOLOGY"
+    },
+    {
+        "code": "BRR\u00a0325",
+        "title": "*ENERGY TECHNOLOGY AND SOCIAL CHANGE"
+    },
+    {
+        "code": "CH\u00a0374",
+        "title": "*TECHNOLOGY, ENERGY, AND RISK"
+    },
+    {
+        "code": "CH\u00a0390",
+        "title": "ENVIRONMENTAL CHEMISTRY"
+    },
+    {
+        "code": "FES\u00a0341",
+        "title": "FOREST ECOLOGY"
+    },
+    {
+        "code": "FES\u00a0355",
+        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES"
+    },
+    {
+        "code": "FES\u00a0365",
+        "title": "*ISSUES IN NATURAL RESOURCES CONSERVATION"
+    },
+    {
+        "code": "FES 435/TOX 435",
+        "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK"
+    },
+    {
+        "code": "FES 445/FW 445",
+        "title": "ECOLOGICAL RESTORATION"
+    },
+    {
+        "code": "FES 455/HORT 455",
+        "title": "URBAN FOREST PLANNING, POLICY AND MANAGEMENT"
+    },
+    {
+        "code": "FES 477/NR 477",
+        "title": "*AGROFORESTRY"
+    },
+    {
+        "code": "FES\u00a0485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES"
+    },
+    {
+        "code": "FES\u00a0486",
+        "title": "^PUBLIC LANDS POLICY AND MANAGEMENT"
+    },
+    {
+        "code": "FOR\u00a0462",
+        "title": "NATURAL RESOURCE POLICY AND LAW"
+    },
+    {
+        "code": "FW\u00a0251",
+        "title": "PRINCIPLES OF FISH AND WILDLIFE CONSERVATION"
+    },
+    {
+        "code": "FW\u00a0303",
+        "title": "SURVEY OF GEOGRAPHIC INFORMATION SYSTEMS IN NATURAL RESOURCE"
+    },
+    {
+        "code": "FW\u00a0321",
+        "title": "APPLIED COMMUNITY AND ECOSYSTEM ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0324",
+        "title": "*FOOD FROM THE SEA"
+    },
+    {
+        "code": "FW\u00a0325",
+        "title": "*GLOBAL CRISES IN RESOURCE ECOLOGY"
+    },
+    {
+        "code": "FW\u00a0326",
+        "title": "INTEGRATED WATERSHED MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0419",
+        "title": "THE NATURAL HISTORY OF WHALES AND WHALING"
+    },
+    {
+        "code": "FW\u00a0435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS"
+    },
+    {
+        "code": "FW\u00a0462",
+        "title": "ECOSYSTEM SERVICES"
+    },
+    {
+        "code": "FW\u00a0489",
+        "title": "EFFECTIVE COMMUNICATIONS IN FISHERIES AND WILDLIFE SCIENCE"
+    },
+    {
+        "code": "GEO\u00a0306",
+        "title": "*MINERALS, ENERGY, WATER, AND THE ENVIRONMENT"
+    },
+    {
+        "code": "GEO\u00a0309",
+        "title": "*ENVIRONMENTAL JUSTICE"
+    },
+    {
+        "code": "GEOG\u00a0250",
+        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "GEOG\u00a0300",
+        "title": "*SUSTAINABILITY FOR THE COMMON GOOD"
+    },
+    {
+        "code": "GEOG\u00a0324",
+        "title": "^ECOLOGICAL BIOGEOGRAPHY"
+    },
+    {
+        "code": "GEOG\u00a0330",
+        "title": "*GEOGRAPHY OF INTERNATIONAL DEVELOPMENT AND GLOBALIZATION"
+    },
+    {
+        "code": "GEOG\u00a0331",
+        "title": "*POPULATION, CONSUMPTION, AND ENVIRONMENT"
+    },
+    {
+        "code": "GEOG\u00a0360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY"
+    },
+    {
+        "code": "GEOG\u00a0430",
+        "title": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT"
+    },
+    {
+        "code": "GEOG\u00a0431",
+        "title": "GLOBAL RESOURCES AND DEVELOPMENT"
+    },
+    {
+        "code": "GEOG\u00a0441",
+        "title": "THE WORLD'S WATER"
+    },
+    {
+        "code": "GEOG\u00a0450",
+        "title": "LAND USE IN THE AMERICAN WEST"
+    },
+    {
+        "code": "GEOG\u00a0451",
+        "title": "PLANNING PRINCIPLES AND PRACTICES FOR RESILIENT COMMUNITIES"
+    },
+    {
+        "code": "GEOG\u00a0452",
+        "title": "ENVIRONMENTAL ASSESSMENT"
+    },
+    {
+        "code": "HORT\u00a0260",
+        "title": "ORGANIC FARMING AND GARDENING"
+    },
+    {
+        "code": "NR\u00a0201",
+        "title": "MANAGING NATURAL RESOURCES FOR THE FUTURE"
+    },
+    {
+        "code": "NR\u00a0202",
+        "title": "NATURAL RESOURCE PROBLEMS AND SOLUTIONS"
+    },
+    {
+        "code": "NR\u00a0312",
+        "title": "CRITICAL THINKING FOR NATURAL RESOURCE CHALLENGES"
+    },
+    {
+        "code": "NR\u00a0351",
+        "title": "*WHEN SCIENCE ESCAPES THE LAB: SCIENCE AND RESOURCE MANAGEMENT"
+    },
+    {
+        "code": "OC\u00a0333",
+        "title": "*OCEANS, COASTS, AND PEOPLE"
+    },
+    {
+        "code": "PH\u00a0313",
+        "title": "*ENERGY ALTERNATIVES"
+    },
+    {
+        "code": "SOIL\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "SUS\u00a0103",
+        "title": "*INTRODUCTION TO CLIMATE CHANGE"
+    },
+    {
+        "code": "TRAL\u00a0351",
+        "title": "OUTDOOR RECREATION MANAGEMENT ON PUBLIC LANDS"
+    },
+    {
+        "code": "TRAL\u00a0352",
+        "title": "WILDERNESS MANAGEMENT"
+    },
+    {
+        "code": "TRAL\u00a0354",
+        "title": "COMMUNITIES, NATURAL AREAS, AND SUSTAINABLE TOURISM"
+    },
+    {
+        "code": "WSE\u00a0111",
+        "title": "RENEWABLE MATERIALS FOR A GREEN PLANET"
+    },
+    {
+        "code": "WSE\u00a0210",
+        "title": "*RENEWABLE MATERIALS TECHNOLOGY AND UTILIZATION"
+    },
+    {
+        "code": "WSE\u00a0266",
+        "title": "INDUSTRIAL HEMP"
+    },
+    {
+        "code": "WSE\u00a0320",
+        "title": "ANATOMY OF RENEWABLE MATERIALS"
+    },
+    {
+        "code": "WSE\u00a0321",
+        "title": "CHEMISTRY OF RENEWABLE MATERIALS"
+    },
+    {
+        "code": "WSE\u00a0385",
+        "title": "*EVALUATING SUSTAINABILITY THROUGH LIFE CYCLE ANALYSIS"
+    },
+    {
+        "code": "WSE\u00a0392",
+        "title": "*BAMBOOLOOZA: THE FASCINATING WORLD OF BAMBOO"
+    },
+    {
+        "code": "WSE\u00a0453",
+        "title": "^FOREST PRODUCTS BUSINESS"
+    },
+    {
+        "code": "WSE\u00a0455",
+        "title": "INDUSTRIAL MARKETING IN THE FOREST SECTOR"
+    },
+    {
+        "code": "WSE\u00a0470",
+        "title": "*FORESTS, WOOD, AND CIVILIZATION"
+    },
+    {
+        "code": "WSE\u00a0473",
+        "title": "BIOENERGY AND ENVIRONMENTAL IMPACT"
+    },
+    {
+        "code": "Z\u00a0349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC\u00a0434",
+        "title": "^BENEFIT-COST ANALYSIS"
+    },
+    {
+        "code": "AGRI\u00a0411",
+        "title": "*INTRODUCTION TO FOOD SYSTEMS: LOCAL TO GLOBAL"
+    },
+    {
+        "code": "ANTH\u00a0352",
+        "title": "*ANTHROPOLOGY, HEALTH, AND ENVIRONMENT"
+    },
+    {
+        "code": "ANTH\u00a0361",
+        "title": "*FOOD JUSTICE"
+    },
+    {
+        "code": "ANTH\u00a0477",
+        "title": "ECOLOGICAL ANTHROPOLOGY"
+    },
+    {
+        "code": "ANTH\u00a0481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES"
+    },
+    {
+        "code": "ANTH\u00a0482",
+        "title": "*ANTHROPOLOGY OF INTERNATIONAL DEVELOPMENT"
+    },
+    {
+        "code": "COMM\u00a0408",
+        "title": "WORKSHOP"
+    },
+    {
+        "code": "COMM\u00a0440",
+        "title": "THEORIES OF CONFLICT AND CONFLICT MANAGEMENT"
+    },
+    {
+        "code": "COMM\u00a0442",
+        "title": "BARGAINING AND NEGOTIATION PROCESSES"
+    },
+    {
+        "code": "ENG\u00a0482",
+        "title": "STUDIES IN AMERICAN LITERATURE, CULTURE, AND THE ENVIRONMENT"
+    },
+    {
+        "code": "FES\u00a0486",
+        "title": "^PUBLIC LANDS POLICY AND MANAGEMENT"
+    },
+    {
+        "code": "FW\u00a0340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES"
+    },
+    {
+        "code": "FW\u00a0350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY"
+    },
+    {
+        "code": "GEO\u00a0309",
+        "title": "*ENVIRONMENTAL JUSTICE"
+    },
+    {
+        "code": "GEOG\u00a0250",
+        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "HEST\u00a0310",
+        "title": "*INTRO TO COMMUNITY ENGAGEMENT AND COMMUNITY-BASED DESIGN"
+    },
+    {
+        "code": "HORT\u00a0217",
+        "title": "*SOCIAL IMPACTS OF SCIENCE"
+    },
+    {
+        "code": "MB\u00a0330",
+        "title": "*DISEASE AND SOCIETY"
+    },
+    {
+        "code": "PHL\u00a0325",
+        "title": "*SCIENTIFIC REASONING"
+    },
+    {
+        "code": "PHL\u00a0390",
+        "title": "MORAL THEORIES"
+    },
+    {
+        "code": "PHL\u00a0440",
+        "title": "*ENVIRONMENTAL ETHICS"
+    },
+    {
+        "code": "PHL 443/REL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES"
+    },
+    {
+        "code": "PS\u00a0331",
+        "title": "*STATE AND LOCAL POLITICS"
+    },
+    {
+        "code": "PS\u00a0374",
+        "title": "*SUSTAINABLE LIVING: PRACTICES AND POLICIES"
+    },
+    {
+        "code": "PS\u00a0455",
+        "title": "*THE POLITICS OF CLIMATE CHANGE"
+    },
+    {
+        "code": "PS\u00a0461",
+        "title": "ENVIRONMENTAL POLITICAL THEORY"
+    },
+    {
+        "code": "PS\u00a0475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY"
+    },
+    {
+        "code": "PS\u00a0477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY"
+    },
+    {
+        "code": "SOC\u00a0360",
+        "title": "*POPULATION TRENDS AND POLICY"
+    },
+    {
+        "code": "SOC\u00a0480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY"
+    },
+    {
+        "code": "SOC\u00a0481",
+        "title": "*SOCIETY AND NATURAL RESOURCES"
+    },
+    {
+        "code": "SUS\u00a0325",
+        "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH"
+    },
+    {
+        "code": "WGSS\u00a0440",
+        "title": "*WOMEN AND NATURAL RESOURCES"
+    },
+    {
+        "code": "WGSS\u00a0450",
+        "title": "ECOFEMINISM"
+    }
+]}

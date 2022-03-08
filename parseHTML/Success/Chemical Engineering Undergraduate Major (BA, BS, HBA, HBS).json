@@ -1,0 +1,202 @@
+{"Courses":[
+    {
+        "code": "CH\u00a0411",
+        "title": "INORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0412",
+        "title": "INORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0418",
+        "title": "NUCLEAR CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0421",
+        "title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0422",
+        "title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0424",
+        "title": "BIOANALYTICAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0435",
+        "title": "STRUCTURE DETERMINATION BY SPECTROSCOPIC METHODS"
+    },
+    {
+        "code": "CH\u00a0450",
+        "title": "INTRODUCTORY QUANTUM CHEMISTRY"
+    },
+    {
+        "code": "WSE\u00a0321",
+        "title": "CHEMISTRY OF RENEWABLE MATERIALS"
+    },
+    {
+        "code": "ATS\u00a0413",
+        "title": "ATMOSPHERIC CHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0350",
+        "title": "ELEMENTARY BIOCHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0450",
+        "title": "GENERAL BIOCHEMISTRY"
+    },
+    {
+        "code": "OEAS\u00a0540",
+        "title": "THE BIOGEOCHEMICAL EARTH"
+    },
+    {
+        "code": "OC\u00a0450",
+        "title": "CHEMICAL OCEANOGRAPHY"
+    },
+    {
+        "code": "OC\u00a0499",
+        "title": "SPECIAL TOPICS IN OCEANOGRAPHY"
+    },
+    {
+        "code": "CH\u00a0324",
+        "title": "QUANTITATIVE ANALYSIS"
+    },
+    {
+        "code": "CH\u00a0337",
+        "title": "ORGANIC CHEMISTRY LABORATORY"
+    },
+    {
+        "code": "CHE\u00a0417",
+        "title": "INSTRUMENTATION IN CHEMICAL, BIOLOGICAL, AND ENVIRONMENTAL ENGINEERING"
+    },
+    {
+        "code": "CHE\u00a0444",
+        "title": "THIN FILM MATERIALS PROCESSING"
+    },
+    {
+        "code": "CHE\u00a0445",
+        "title": "POLYMER ENGINEERING AND SCIENCE"
+    },
+    {
+        "code": "CHE\u00a0450",
+        "title": "CONVENTIONAL AND ALTERNATIVE ENERGY SYSTEMS"
+    },
+    {
+        "code": "CHE\u00a0451",
+        "title": "SOLAR ENERGY TECHNOLOGIES"
+    },
+    {
+        "code": "CHE\u00a0499",
+        "title": "SPECIAL TOPICS"
+    },
+    {
+        "code": "CHE\u00a0514",
+        "title": "FLUID FLOW"
+    },
+    {
+        "code": "CHE\u00a0520",
+        "title": "MASS TRANSFER I"
+    },
+    {
+        "code": "CHE\u00a0525",
+        "title": "CHEMICAL ENGINEERING ANALYSIS"
+    },
+    {
+        "code": "CHE\u00a0537",
+        "title": "CHEMICAL ENGINEERING THERMODYNAMICS I"
+    },
+    {
+        "code": "BIOE\u00a0351",
+        "title": "BIOMATERIALS AND BIOINTERFACES"
+    },
+    {
+        "code": "BIOE\u00a0440",
+        "title": "BIOCONJUGATION"
+    },
+    {
+        "code": "BIOE\u00a0445",
+        "title": "SURFACE ANALYSIS"
+    },
+    {
+        "code": "BIOE\u00a0457",
+        "title": "BIOREACTORS"
+    },
+    {
+        "code": "BIOE\u00a0459",
+        "title": "CELL ENGINEERING"
+    },
+    {
+        "code": "BIOE\u00a0462",
+        "title": "BIOSEPARATIONS"
+    },
+    {
+        "code": "ENVE\u00a0322",
+        "title": "FUNDAMENTALS OF ENVIRONMENTAL ENGINEERING"
+    },
+    {
+        "code": "ENVE\u00a0421",
+        "title": "DRINKING WATER TREATMENT PROCESSES"
+    },
+    {
+        "code": "ENVE\u00a0422",
+        "title": "WASTEWATER TREATMENT PROCESSES"
+    },
+    {
+        "code": "ENVE\u00a0425",
+        "title": "AIR POLLUTION CONTROL"
+    },
+    {
+        "code": "ENVE\u00a0431",
+        "title": "FATE AND TRANSPORT OF CHEMICALS IN ENVIRONMENTAL SYSTEMS"
+    },
+    {
+        "code": "ENVE\u00a0456",
+        "title": "SUSTAINABLE WATER RESOURCES DEVELOPMENT"
+    },
+    {
+        "code": "CE\u00a0412",
+        "title": "HYDROLOGY"
+    },
+    {
+        "code": "ECE\u00a0415",
+        "title": "MATERIAL SCIENCE OF NANOTECHNOLOGY"
+    },
+    {
+        "code": "ECE\u00a0416",
+        "title": "ELECTRONIC MATERIALS AND DEVICES"
+    },
+    {
+        "code": "ECE\u00a0417",
+        "title": "BASIC SEMICONDUCTOR DEVICES"
+    },
+    {
+        "code": "ECE\u00a0418",
+        "title": "SEMICONDUCTOR PROCESSING"
+    },
+    {
+        "code": "ENGR\u00a0221",
+        "title": "THE SCIENCE, ENGINEERING AND SOCIAL IMPACT OF NANOTECHNOLOGY"
+    },
+    {
+        "code": "IE\u00a0355",
+        "title": "STATISTICAL QUALITY CONTROL"
+    },
+    {
+        "code": "IE\u00a0356",
+        "title": "EXPERIMENTAL DESIGN FOR INDUSTRIAL PROCESSES"
+    },
+    {
+        "code": "MATS\u00a0321",
+        "title": "INTRODUCTION TO MATERIALS SCIENCE"
+    },
+    {
+        "code": "MATS\u00a0322",
+        "title": "MECHANICAL PROPERTIES OF MATERIALS"
+    },
+    {
+        "code": "CBEE\u00a0416",
+        "title": "CBEE LABORATORY II"
+    }
+]}

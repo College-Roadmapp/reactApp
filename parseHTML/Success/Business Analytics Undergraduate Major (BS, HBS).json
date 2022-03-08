@@ -1,0 +1,26 @@
+{"Courses":[
+    {
+        "code": "BA\u00a0275",
+        "title": "FOUNDATIONS OF STATISTICAL INFERENCE"
+    },
+    {
+        "code": "BA\u00a0375",
+        "title": "APPLIED QUANTITATIVE METHODS"
+    },
+    {
+        "code": "BA\u00a0474",
+        "title": "DATA MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0475",
+        "title": "DATA EXPLORATION AND VISUALIZATION"
+    },
+    {
+        "code": "BA\u00a0476",
+        "title": "DATA AND TEXT MINING"
+    },
+    {
+        "code": "BA\u00a0481",
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS"
+    }
+]}

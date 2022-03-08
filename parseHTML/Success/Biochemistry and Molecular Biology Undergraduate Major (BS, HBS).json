@@ -1,0 +1,170 @@
+{"Courses":[
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "BB\u00a0111",
+        "title": "INTRODUCTION TO BIOCHEMISTRY AND BIOPHYSICS RESEARCH"
+    },
+    {
+        "code": "BB\u00a0314",
+        "title": "CELL AND MOLECULAR BIOLOGY"
+    },
+    {
+        "code": "BB\u00a0315",
+        "title": "MOLECULAR BIOLOGY LABORATORY"
+    },
+    {
+        "code": "BB\u00a0317",
+        "title": "^SCIENTIFIC THEORY AND PRACTICE"
+    },
+    {
+        "code": "BB\u00a0481",
+        "title": "MACROMOLECULAR STRUCTURE"
+    },
+    {
+        "code": "BB\u00a0486",
+        "title": "ADVANCED MOLECULAR GENETICS"
+    },
+    {
+        "code": "BB\u00a0490",
+        "title": "BIOCHEMISTRY 1: STRUCTURE AND FUNCTION"
+    },
+    {
+        "code": "BB\u00a0491",
+        "title": "BIOCHEMISTRY 2: METABOLISM"
+    },
+    {
+        "code": "BB\u00a0492",
+        "title": "BIOCHEMISTRY 3: GENETIC BIOCHEMISTRY"
+    },
+    {
+        "code": "BB\u00a0494",
+        "title": "BIOCHEMISTRY LABORATORY MOLECULAR TECHNIQUES 2"
+    },
+    {
+        "code": "BB\u00a0498",
+        "title": "ASBMB CERTIFICATION EXAM"
+    },
+    {
+        "code": "BI\u00a0221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS"
+    },
+    {
+        "code": "BI\u00a0222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS"
+    },
+    {
+        "code": "BI\u00a0223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0261",
+        "title": "*LABORATORY FOR CHEMISTRY 231"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0262",
+        "title": "*LABORATORY FOR CHEMISTRY 232"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0263",
+        "title": "*LABORATORY FOR CHEMISTRY 233"
+    },
+    {
+        "code": "CH\u00a0334",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0335",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0336",
+        "title": "ORGANIC CHEMISTRY"
+    },
+    {
+        "code": "CH\u00a0337",
+        "title": "ORGANIC CHEMISTRY LABORATORY"
+    },
+    {
+        "code": "CH\u00a0324",
+        "title": "QUANTITATIVE ANALYSIS"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS"
+    },
+    {
+        "code": "PH\u00a0201",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0202",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "PH\u00a0203",
+        "title": "*GENERAL PHYSICS"
+    },
+    {
+        "code": "ST\u00a0351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS"
+    }
+]}
