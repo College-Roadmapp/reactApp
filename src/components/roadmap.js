@@ -4,7 +4,7 @@ import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import Header from './header';
-import React, { Component, useState } from 'react';
+import React from 'react';
 
 
 function Roadmap() {
@@ -18,10 +18,10 @@ function Roadmap() {
 
 function AppDisplay(){
   return(
-      <div className="displayApp">
-      <div className = "dropDownMenu">
-          {<DropDowns/>}
-      </div>
+      <div className="displayApp" key="appParentDiv">
+        <div className = "dropDownMenu" key="ddParentDiv">
+            {<DropDowns key="ddFunction"/>}
+        </div>
       </div>
   )
 }
@@ -59,7 +59,7 @@ function DropDowns(){
     setOption(event.target.value);
   };
   return (
-      <div>
+      <div key="roadmap">
         <FormControl sx={{ m: 1, minWidth: 120 }}>
           <InputLabel id="demo-simple-select-helper-label">College</InputLabel>
           <Select
@@ -72,7 +72,7 @@ function DropDowns(){
             <MenuItem value="">
               <em>None</em>
             </MenuItem>
-            {parsedColleges.map((college) => <MenuItem value={college.value}>{college.label}</MenuItem>)}
+            {parsedColleges.map((college) => <MenuItem value={college.value} key={college.label}>{college.label}</MenuItem>)}
           </Select>
         </FormControl>
         {college !== '' ?
@@ -90,34 +90,34 @@ function DropDowns(){
                       <em>None</em>
                     </MenuItem>
                     {college === "ag-sci" &&
-                      parsedAgSciMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedAgSciMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "business" &&
-                      parsedBusMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedBusMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "earth-ocean-atmos-science" &&
-                      parsedEOASMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedEOASMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "education" &&
-                      parsedEdMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedEdMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "engineering" &&
-                      parsedEngMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedEngMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "forestry" &&
-                      parsedForestryMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedForestryMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "liberal-arts" &&
-                      parsedLibArtsMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedLibArtsMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "pharmacy" &&
-                      parsedPharmMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedPharmMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "public-health-human-science" &&
-                      parsedPubHealthMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedPubHealthMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
                     {college === "science" &&
-                      parsedSciMajors.map((major) => <MenuItem value={major.value}>{major.label}</MenuItem>)
+                      parsedSciMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
 
                     </Select> 
@@ -138,7 +138,7 @@ function DropDowns(){
                       <MenuItem value="">
                         <em>None</em>
                       </MenuItem>
-                      {parsedCSOption.map((option) => <MenuItem value={option.value}>{option.label}</MenuItem>)}
+                      {parsedCSOption.map((option) => <MenuItem value={option.value} key={option.label}>{option.label}</MenuItem>)}
                     </Select>
                   </FormControl>
                 </div>
@@ -152,7 +152,7 @@ function DropDowns(){
         <div></div>
         }
         {college === "engineering" &&
-        <JsonDataDisplay />
+        <JsonDataDisplay key="json"/>
         }
       </div>
   );

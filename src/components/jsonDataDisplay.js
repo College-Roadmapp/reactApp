@@ -8,17 +8,21 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import InputLabel from '@mui/material/InputLabel';
+import { render } from '@testing-library/react';
 
 
+
+// ------------- variables for keeping track of progress ---------------
 let totalProgress = 0;
 let totalCoursesTaken = [];
+
 // ------------------ class --------------------
 class Course {
   constructor(id, name, credits, term) {
     this.id = id;
     this.name = name;
     this.credits = credits;
-    this.term = 0;
+    this.term = term;
     this.completed = 0;
   }
 }
@@ -32,8 +36,9 @@ class Degree {
     let c = new Course(id, name, credits, term);
     this.degree.push(c);
   }
-  removeCourse(courseID){
-    this.degree = this.degree.filter(function(i) {return i.id !== courseID; });
+  removeCourse(idx){
+    // this.degree = this.degree.filter(function(i) {return i.id !== courseID; });
+    this.degree.splice(idx, 1);
   }
   get allCourses(){
     return this.degree;
@@ -56,8 +61,13 @@ class Degree {
   getTerm(index){
     return (this.degree[index].term);
   }
+  getIndex(courseId){
+    for(let i = 0; i < this.degree.length; i++){
+      if(this.degree[i].id === courseId)
+        return i;
+    }
+  }
 }
-
 
 // ------------------ checkbox --------------------
 function ControlledCheckbox(props) {
@@ -91,13 +101,11 @@ function ControlledCheckbox(props) {
     //********  this is where we will want to update progress bar and mark a course as completed ******
   };
   return (
-    <td>
       <Checkbox
         checked={checked}
         onChange={handleChange}
         inputProps={{ 'aria-label': 'controlled' }}
       />
-    </td>
   );
 }
 
@@ -121,14 +129,25 @@ function BasicModal(props) {
   const handleOpen = () => setOpen(true);
   const handleClose = () => {
     setOpen(false);
+
+
+    // ------------------------------------------
+    let idx = props.deg.getIndex(props.id)
+    props.deg.insertCourse(props.deg.getId(idx), props.deg.getName(idx), props.deg.getCredits(idx), term);
+    props.deg.removeCourse(idx);
+    // for debugging purposes- can delete later
+    for(let i = 0; i < 15; i++){
+      console.log(i)
+      console.log(props.deg.getCourse(i))
+    }
     //set the course's term value to the term they selected in the dropdown
     props.deg.getCourse(props.idx).term = term;
+    console.log(term)
+    // ------------------------------------------
   }
 
   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-  // const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
-  const [term, setTerm] = React.useState(0)
-
+  const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
   const handleTermChange = event => {
     setTerm(event.target.value);
   }
@@ -266,9 +285,9 @@ function MakeTables(props){
   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
   //creates 12 term tables and fills them in with available data
   return (
-    <div className="Tables">
+    <div className="Tables" key="parentDiv">
         {allTermNums.map((term) => 
-         <div className="classTable">
+         <div className="classTable" key={term}>
          {props.info.getHtml(term)}
          </div>
         )}
@@ -278,14 +297,22 @@ function MakeTables(props){
 
 
 // ------------------ creates initial roadmap --------------------
-function JsonDataDisplay(){
-  //brand new json
-  let info = assignTerms();
-  return(
-    <div>
-      <MakeTables info={info}/>
-    </div>
-  )
+class JsonDataDisplay extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {progress: totalProgress};
+    this.array = {courses: totalCoursesTaken};
+  }
+
+  //brand new Table with json values
+  render() {
+    let info = assignTerms();
+    return(
+      <div key="tableParent">
+        <MakeTables info={info} key="tables"/>
+      </div>
+    )
+  }
 }
 
 export default JsonDataDisplay;
