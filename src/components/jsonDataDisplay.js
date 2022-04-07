@@ -8,7 +8,6 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import InputLabel from '@mui/material/InputLabel';
-import { render } from '@testing-library/react';
 
 
 
@@ -37,7 +36,6 @@ class Degree {
     this.degree.push(c);
   }
   removeCourse(idx){
-    // this.degree = this.degree.filter(function(i) {return i.id !== courseID; });
     this.degree.splice(idx, 1);
   }
   get allCourses(){
@@ -66,6 +64,13 @@ class Degree {
       if(this.degree[i].id === courseId)
         return i;
     }
+  }
+  getTermsArray(){
+    let termArray = []
+    for(let i = 0; i < this.degree.length; i++){
+      termArray.push(this.degree[i].term)
+    }
+    return termArray;
   }
 }
 
@@ -125,31 +130,33 @@ const style = {
 
 // ------------------ modal --------------------
 function BasicModal(props) {
+  // handling modal open
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
-  const handleClose = () => {
-    setOpen(false);
 
-
-    // ------------------------------------------
-    let idx = props.deg.getIndex(props.id)
-    props.deg.insertCourse(props.deg.getId(idx), props.deg.getName(idx), props.deg.getCredits(idx), term);
-    props.deg.removeCourse(idx);
-    // for debugging purposes- can delete later
-    for(let i = 0; i < 15; i++){
-      console.log(i)
-      console.log(props.deg.getCourse(i))
-    }
-    //set the course's term value to the term they selected in the dropdown
-    props.deg.getCourse(props.idx).term = term;
-    console.log(term)
-    // ------------------------------------------
-  }
-
+  // handling term dropdown selection; saves selection into term variable
   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
   const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
   const handleTermChange = event => {
     setTerm(event.target.value);
+  }
+
+  //handling modal closing and updating given course's term
+  const handleClose = () => {
+    setOpen(false);
+    // makes new course with updated term number and deleted old course with outdated term number
+    let idx = props.deg.getIndex(props.id)
+    props.deg.insertCourse(props.deg.getId(idx), props.deg.getName(idx), props.deg.getCredits(idx), term);
+    props.deg.removeCourse(idx);
+    // console.log("-----")
+    // console.log(props.deg.getTermsArray())
+    // console.log(props.deg)
+    // console.log("-----")
+    // ------------------------------------------------------------------------------------
+            //somehow need to rerender everything based on term numbers here
+            //remove old table and make new one
+    // ------------------------------------------------------------------------------------
+
   }
 
   return (
@@ -243,73 +250,67 @@ class Table  extends React.Component{
 }
 
 
-// ------------------ parse json --------------------
-function IntoClassObjects(){
-  //******* this will have to be conditional based on dropdown selection *****
-  const parsedJSON = require('./computerScience.json');
-  var result = parsedJSON.computerScience;
-  //create new degree plan to put the json in
-  let newDegree = new Degree();
-  //loop through each course found in the json file and add it to the Degree Class component
-  for(let i=0; i < result.length; i++){
-    newDegree.insertCourse(result[i].id, result[i].name, result[i].credits);
-  }
-  return newDegree;
-}
-
-
-
-// ------------------ assigning intitial term for each course --------------------
-function assignTerms(){
-  //gets degree plan based on json file
-  let newDegree = IntoClassObjects();
-  //puts that degree plan into a Table for the roadmap
-  let newTable = new Table(newDegree);
-  //start with term 1
-  let termNum = 1;
-  //assigns term values; 4 classes per term based on order they appear in json
-  for(let i=0; i < newTable.size; i++){
-    //setting each course's term number based on which term we are rendering it
-    newTable.props.getCourse(i).term = termNum
-    //increments the term number after 4 classes have been added
-    if((i + 1) % 4 === 0){
-      termNum += 1
-    }
-  }
-  return newTable;
-}
-
-
-// ------------------ display tables and json based on props --------------------
-function MakeTables(props){
-  const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-  //creates 12 term tables and fills them in with available data
-  return (
-    <div className="Tables" key="parentDiv">
-        {allTermNums.map((term) => 
-         <div className="classTable" key={term}>
-         {props.info.getHtml(term)}
-         </div>
-        )}
-    </div>
-  )
-}
-
-
 // ------------------ creates initial roadmap --------------------
 class JsonDataDisplay extends React.Component {
+
   constructor(props) {
     super(props);
-    this.state = {progress: totalProgress};
-    this.array = {courses: totalCoursesTaken};
+    this.state = {
+      termArray: []
+    };
   }
+
+  IntoClassObjects(){
+    //******* this will have to be conditional based on dropdown selection *****
+    const parsedJSON = require('./computerScience.json');
+    var result = parsedJSON.computerScience;
+    //create new degree plan to put the json in
+    let newDegree = new Degree();
+    //loop through each course found in the json file and add it to the Degree Class component
+    for(let i=0; i < result.length; i++){
+      newDegree.insertCourse(result[i].id, result[i].name, result[i].credits);
+    }
+    return newDegree;
+  }
+
+  assignTerms(){
+    //gets degree plan based on json file
+    let newDegree = this.IntoClassObjects();
+    //puts that degree plan into a Table for the roadmap
+    let newTable = new Table(newDegree);
+    //start with term 1
+    let termNum = 1;
+    //assigns term values; 4 classes per term based on order they appear in json
+    for(let i=0; i < newTable.size; i++){
+      //setting each course's term number based on which term we are rendering it
+      newTable.props.getCourse(i).term = termNum
+      //increments the term number after 4 classes have been added
+      if((i + 1) % 4 === 0){
+        termNum += 1
+      }
+    }
+    return newTable;
+  }
+  
 
   //brand new Table with json values
   render() {
-    let info = assignTerms();
+    let info = this.assignTerms();
+    for(let i = 0; i < info.array.degree.length; i++){
+      console.log(info.array.degree[i].term)
+    }
+    console.log(info.array.getTermsArray())
+    // this.setState({termsArray: info.array.getTermsArray()});
+    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     return(
       <div key="tableParent">
-        <MakeTables info={info} key="tables"/>
+        <div className="Tables" key="parentDiv">
+            {allTermNums.map((term) => 
+            <div className="classTable" key={term}>
+            {info.getHtml(term)}
+            </div>
+            )}
+        </div>
       </div>
     )
   }
