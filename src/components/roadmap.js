@@ -4,6 +4,7 @@ import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import Header from './header';
+import EngineeringCalculator from './tuition/engineeringCalculator'
 import React from 'react';
 
 
@@ -120,7 +121,7 @@ function DropDowns(){
                       parsedSciMajors.map((major) => <MenuItem value={major.value} key={major.label}>{major.label}</MenuItem>)
                     }
 
-                    </Select> 
+                    </Select>
               </FormControl>
 
             {major === 'comp-sci' ?
@@ -154,8 +155,11 @@ function DropDowns(){
         {college === "engineering" &&
         <JsonDataDisplay key="json"/>
         }
+        {college === "engineering" &&
+        <EngineeringCalculator/>
+        }
       </div>
   );
 }
-  
+
 export default Roadmap;
