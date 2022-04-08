@@ -256,8 +256,78 @@ class JsonDataDisplay extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      termArray: []
+      termArray: [],
+      isOpen: false,
+      term: 0
     };
+  }
+
+  BasicModal(props) {
+    // handling modal open
+    // const [open, setOpen] = React.useState(false);
+
+    // const handleOpen = () => setOpen(true);
+    const handleOpen = () => this.setState({isOpen: true});
+  
+    // handling term dropdown selection; saves selection into term variable
+    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+    // const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
+    this.setState({term: props.deg.getCourse(props.idx).term})
+
+    const handleTermChange = event => {
+      this.setState({term: event.target.value});
+    }
+  
+    //handling modal closing and updating given course's term
+    const handleClose = () => {
+      // setOpen(false);
+      this.setState({isOpen: false})
+
+      // makes new course with updated term number and deleted old course with outdated term number
+      let idx = props.deg.getIndex(props.id)
+      props.deg.insertCourse(props.deg.getId(idx), props.deg.getName(idx), props.deg.getCredits(idx), this.state.term);
+      props.deg.removeCourse(idx);
+      // console.log("-----")
+      // console.log(props.deg.getTermsArray())
+      // console.log(props.deg)
+      // console.log("-----")
+      // ------------------------------------------------------------------------------------
+              //somehow need to rerender everything based on term numbers here
+              //remove old table and make new one
+      // ------------------------------------------------------------------------------------
+  
+    }
+  
+    return (
+      <div>
+        <Button onClick={handleOpen}>Change Term</Button>
+        <Modal
+          open={this.state.isOpen}
+          onClose={handleClose}
+          aria-labelledby="modal-modal-title"
+          aria-describedby="modal-modal-description"
+        >
+          <Box sx={style}>
+            <Typography id="modal-modal-title" variant="h6" component="h2">
+              Which term would you like to move this class to?
+            </Typography>
+            <FormControl sx={{ m: 1, minWidth: 120 }}>
+            <InputLabel id="demo-simple-select-helper-label">Term</InputLabel>
+              <Select
+              labelId="demo-simple-select-helper-label"
+              id="demo-simple-select-helper"
+              value={this.state.term}
+              label="Term"
+              onChange={handleTermChange}
+              >
+                {allTermNums.map((term) => <MenuItem value={this.state.term}>{this.state.term}</MenuItem>)}
+              </Select>
+            </FormControl>
+            <Button onClick={handleClose}>OK</Button>
+          </Box>
+        </Modal>
+      </div>
+    );
   }
 
   IntoClassObjects(){
