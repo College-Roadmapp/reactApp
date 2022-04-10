@@ -1,0 +1,239 @@
+{
+    "Courses": [
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 202",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "HHS 241",
+            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "credits": "1"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 201",
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 212",
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 213",
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        {
+            "code": "MTH 265",
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        {
+            "code": "NSE 233",
+            "title": "MATHEMATICAL METHODS FOR NSE",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 234",
+            "title": "NUCLEAR AND RADIATION PHYSICS I",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 235",
+            "title": "NUCLEAR AND RADIATION PHYSICS II",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 236",
+            "title": "NUCLEAR RADIATION DETECTION AND INSTRUMENTATION",
+            "credits": "3"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 213",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 248",
+            "title": "ENGINEERING GRAPHICS AND 3-D MODELING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 390",
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        {
+            "code": "MATS 321",
+            "title": "INTRODUCTION TO MATERIALS SCIENCE",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 311/ME 311",
+            "title": "INTRODUCTION TO THERMAL-FLUID SCIENCES",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 312/ME 312",
+            "title": "THERMODYNAMICS",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 331/ME 331",
+            "title": "INTRODUCTORY FLUID MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 332/ME 332",
+            "title": "HEAT TRANSFER",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 451",
+            "title": "NEUTRONIC ANALYSIS I",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 452",
+            "title": "NEUTRONIC ANALYSIS II",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 457",
+            "title": "NUCLEAR REACTOR LABORATORY",
+            "credits": "3"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 407",
+            "title": "SEMINAR (Nuclear Engineering - 3 terms)",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 415",
+            "title": "NUCLEAR RULES AND REGULATIONS",
+            "credits": "2"
+        },
+        {
+            "code": "NSE 435",
+            "title": "RADIATION SHIELDING AND EXTERNAL DOSIMETRY",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 467",
+            "title": "NUCLEAR REACTOR THERMAL HYDRAULICS",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 473",
+            "title": "NUCLEAR REACTOR SYSTEMS ANALYSIS",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 474",
+            "title": "^NUCLEAR SYSTEMS DESIGN I",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 475",
+            "title": "^NUCLEAR SYSTEMS DESIGN II",
+            "credits": "4"
+        },
+        {
+            "code": "NSE 481",
+            "title": "RADIATION PROTECTION",
+            "credits": "4"
+        }
+    ]
+}

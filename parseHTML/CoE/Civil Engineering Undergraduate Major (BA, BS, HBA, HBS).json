@@ -1,0 +1,224 @@
+{
+    "Courses": [
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 202",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 205",
+            "title": "LABORATORY FOR CH 202",
+            "credits": "1"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "CCE 201",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "CCE 207",
+            "title": "CCE SEMINAR",
+            "credits": "1"
+        },
+        {
+            "code": "CE 202",
+            "title": "CIVIL ENGINEERING: GEOSPATIAL INFORMATION AND GIS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 212",
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 213",
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        {
+            "code": "MTH 265",
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 213",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "CCE 321",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        {
+            "code": "CE 311",
+            "title": "FLUID MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "CE 313",
+            "title": "HYDRAULIC ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 361",
+            "title": "SURVEYING THEORY",
+            "credits": "4"
+        },
+        {
+            "code": "CE 372",
+            "title": "GEOTECHNICAL ENGINEERING I",
+            "credits": "4"
+        },
+        {
+            "code": "CE 373",
+            "title": "GEOTECHNICAL ENGINEERING II",
+            "credits": "4"
+        },
+        {
+            "code": "CE 381",
+            "title": "STRUCTURAL THEORY I",
+            "credits": "4"
+        },
+        {
+            "code": "CE 382",
+            "title": "STRUCTURAL THEORY II",
+            "credits": "4"
+        },
+        {
+            "code": "CE 392",
+            "title": "INTRODUCTION TO HIGHWAY ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 412",
+            "title": "HYDROLOGY",
+            "credits": "4"
+        },
+        {
+            "code": "CE 481",
+            "title": "REINFORCED CONCRETE I",
+            "credits": "4"
+        },
+        {
+            "code": "CE 383",
+            "title": "DESIGN OF STEEL STRUCTURES",
+            "credits": "4"
+        },
+        {
+            "code": "CE 418",
+            "title": "^CIVIL ENGINEERING PROFESSIONAL PRACTICE",
+            "credits": "3"
+        },
+        {
+            "code": "CE 419",
+            "title": "^CIVIL INFRASTRUCTURE DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "CE 420",
+            "title": "ENGINEERING PLANNING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 491",
+            "title": "TRANSPORTATION ENGINEERING",
+            "credits": "3"
+        },
+        {
+            "code": "ENVE 321",
+            "title": "ENVIRONMENTAL ENGINEERING FUNDAMENTALS",
+            "credits": "4"
+        }
+    ]
+}

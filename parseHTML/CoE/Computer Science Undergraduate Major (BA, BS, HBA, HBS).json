@@ -1,0 +1,144 @@
+{
+    "Courses": [
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "CS 162",
+            "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+            "credits": "4"
+        },
+        {
+            "code": "CS 261",
+            "title": "DATA STRUCTURES",
+            "credits": "4"
+        },
+        {
+            "code": "CS 290",
+            "title": "WEB DEVELOPMENT",
+            "credits": "4"
+        },
+        {
+            "code": "CS 325",
+            "title": "ANALYSIS OF ALGORITHMS",
+            "credits": "4"
+        },
+        {
+            "code": "CS 340",
+            "title": "INTRODUCTION TO DATABASES",
+            "credits": "4"
+        },
+        {
+            "code": "CS 344",
+            "title": "OPERATING SYSTEMS I",
+            "credits": "4"
+        },
+        {
+            "code": "CS 361",
+            "title": "SOFTWARE ENGINEERING I",
+            "credits": "4"
+        },
+        {
+            "code": "CS 362",
+            "title": "SOFTWARE ENGINEERING II",
+            "credits": "4"
+        },
+        {
+            "code": "CS 372",
+            "title": "INTRODUCTION TO COMPUTER NETWORKS",
+            "credits": "4"
+        },
+        {
+            "code": "CS 381",
+            "title": "PROGRAMMING LANGUAGE FUNDAMENTALS",
+            "credits": "4"
+        },
+        {
+            "code": "CS 391",
+            "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+            "credits": "3"
+        },
+        {
+            "code": "CS 444",
+            "title": "OPERATING SYSTEMS II",
+            "credits": "4"
+        },
+        {
+            "code": "CS 461",
+            "title": "^SENIOR SOFTWARE ENGINEERING PROJECT I",
+            "credits": "3"
+        },
+        {
+            "code": "CS 462",
+            "title": "^SENIOR SOFTWARE ENGINEERING PROJECT II",
+            "credits": "3"
+        },
+        {
+            "code": "CS 463",
+            "title": "SENIOR SOFTWARE ENGINEERING PROJECT",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "MTH 231",
+            "title": "ELEMENTS OF DISCRETE MATHEMATICS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "WR 214",
+            "title": "*WRITING IN BUSINESS",
+            "credits": "3"
+        },
+        {
+            "code": "WR 222",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "3"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        }
+    ]
+}

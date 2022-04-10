@@ -1,0 +1,194 @@
+{
+    "Courses": [
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 202",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 205",
+            "title": "LABORATORY FOR CH 202",
+            "credits": "1"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "HHS 241",
+            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "credits": "1"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 201",
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 212",
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 213",
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 248",
+            "title": "ENGINEERING GRAPHICS AND 3-D MODELING",
+            "credits": "3"
+        },
+        {
+            "code": "MATS 321",
+            "title": "INTRODUCTION TO MATERIALS SCIENCE",
+            "credits": "4"
+        },
+        {
+            "code": "ME 250",
+            "title": "INTRODUCTION TO MANUFACTURING PROCESSES",
+            "credits": "1"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 341",
+            "title": "LINEAR ALGEBRA I",
+            "credits": "3"
+        },
+        {
+            "code": "PH 213",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 213",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS ",
+            "credits": "4"
+        },
+        {
+            "code": "ME 311/NSE 311",
+            "title": "INTRODUCTION TO THERMAL-FLUID SCIENCES",
+            "credits": "4"
+        },
+        {
+            "code": "ME 382",
+            "title": "INTRODUCTION TO DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "MFGE 336",
+            "title": "PRODUCTION ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "MFGE 337",
+            "title": "MATERIALS AND MANUFACTURING PROCESSES",
+            "credits": "4"
+        },
+        {
+            "code": "MFGE 413",
+            "title": "COMPUTER AIDED DESIGN AND MANUFACTURING",
+            "credits": "4"
+        },
+        {
+            "code": "MFGE 436",
+            "title": "LEAN MANUFACTURING SYSTEMS ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "MFGE 437",
+            "title": "COMPUTER CONTROL OF MANUFACTURING PROCESSES",
+            "credits": "4"
+        },
+        {
+            "code": "MIME 497",
+            "title": "^MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "MIME 498",
+            "title": "^MIME CAPSTONE DESIGN",
+            "credits": "4"
+        }
+    ]
+}
