@@ -332,13 +332,13 @@ class JsonDataDisplay extends React.Component {
 
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
-    const parsedJSON = require('./computerScience.json');
-    var result = parsedJSON.computerScience;
+    const parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+    var result = parsedJSON.Courses;
     //create new degree plan to put the json in
     let newDegree = new Degree();
     //loop through each course found in the json file and add it to the Degree Class component
     for(let i=0; i < result.length; i++){
-      newDegree.insertCourse(result[i].id, result[i].name, result[i].credits);
+      newDegree.insertCourse(result[i].code, result[i].title, 4);
     }
     return newDegree;
   }
