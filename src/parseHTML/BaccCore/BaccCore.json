@@ -1,0 +1,4808 @@
+{
+    "Baccalaureate Core Courses": {
+        "Skill Courses (16)": {
+            "Fitness (3)": [
+                {
+                    "code": "PAC",
+                    "title": "Any PAC course",
+                    "credits": "1"
+                },
+                {
+                    "code": "HHS 231",
+                    "title": "*LIFETIME FITNESS FOR HEALTH",
+                    "credits": "2"
+                },
+                {
+                    "code": "HHS 231H",
+                    "title": "*LIFETIME FITNESS FOR HEALTH",
+                    "credits": "2"
+                },
+                {
+                    "code": "HHS 241",
+                    "title": "*LIFETIME FITNESS",
+                    "credits": "1"
+                },
+                {
+                    "code": "MS 130",
+                    "title": "*MILITARY PHYSICAL CONDITIONING",
+                    "credits": "1"
+                }
+            ],
+            "MATHEMATICS (3)": [
+                {
+                    "code": "MTH 105",
+                    "title": "*INTRODUCTION TO CONTEMPORARY MATHEMATICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "MTH 111",
+                    "title": "*COLLEGE ALGEBRA",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 112",
+                    "title": "*ELEMENTARY FUNCTIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 211",
+                    "title": "*FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 227",
+                    "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 241",
+                    "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 245",
+                    "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 251",
+                    "title": "*DIFFERENTIAL CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "MTH 251H",
+                    "title": "*DIFFERENTIAL CALCULUS",
+                    "credits": "4"
+                }
+            ],
+            "SPEECH (3)": [
+                {
+                    "code": "COMM 111",
+                    "title": "*PUBLIC SPEAKING",
+                    "credits": "3"
+                },
+                {
+                    "code": "COMM 111H",
+                    "title": "*PUBLIC SPEAKING",
+                    "credits": "3"
+                },
+                {
+                    "code": "COMM 114",
+                    "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+                    "credits": "3"
+                },
+                {
+                    "code": "COMM 114H",
+                    "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+                    "credits": "3"
+                },
+                {
+                    "code": "COMM 211",
+                    "title": "*COMMUNICATING ONLINE",
+                    "credits": "3"
+                },
+                {
+                    "code": "COMM 218",
+                    "title": "*INTERPERSONAL COMMUNICATION",
+                    "credits": "3"
+                }
+            ],
+            "WRITING I (4)": [
+                {
+                    "code": "WR 121",
+                    "title": "*ENGLISH COMPOSITION",
+                    "credits": "4"
+                },
+                {
+                    "code": "WR 121H",
+                    "title": "*ENGLISH COMPOSITION",
+                    "credits": "4"
+                }
+            ],
+            "WRITING II (3)": [
+                {
+                    "code": "HC 199",
+                    "title": "*HONORS WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 121",
+                    "title": "*REASONING AND WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 201",
+                    "title": "*WRITING FOR MEDIA",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 214",
+                    "title": "*WRITING IN BUSINESS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 222",
+                    "title": "*ENGLISH COMPOSITION",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 224",
+                    "title": "*INTRODUCTION TO FICTION WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 224H",
+                    "title": "*INTRODUCTION TO FICTION WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 228",
+                    "title": "*WRITING ABROAD",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 230",
+                    "title": "*ESSENTIALS OF ENGLISH GRAMMAR",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 240",
+                    "title": "*INTRODUCTION TO NONFICTION WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 241",
+                    "title": "*INTRODUCTION TO POETRY WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 250",
+                    "title": "*PODCAST STORYTELLING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 301",
+                    "title": "*PUBLISHING AND EDITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 303",
+                    "title": "*WRITING FOR THE WEB",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 323",
+                    "title": "*ENGLISH COMPOSITION",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 327",
+                    "title": "*TECHNICAL WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 327H",
+                    "title": "*TECHNICAL WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 330",
+                    "title": "*UNDERSTANDING GRAMMAR",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 362",
+                    "title": "*SCIENCE WRITING",
+                    "credits": "3"
+                },
+                {
+                    "code": "WR 362H",
+                    "title": "*SCIENCE WRITING",
+                    "credits": "3"
+                }
+            ]
+        },
+        "Perspective Courses (24)": {
+            "BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)": [
+                {
+                    "code": "ANS 121",
+                    "title": "*INTRODUCTION TO ANIMAL SCIENCES",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANS 121H",
+                    "title": "*INTRODUCTION TO ANIMAL SCIENCES",
+                    "credits": "4"
+                },
+                {
+                    "code": "BHS 255",
+                    "title": "*ALLIED HEALTH MICROBIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 101",
+                    "title": "*ENVIRONMENTAL BIOLOGY: ECOLOGY, CONSERVATION, GLOBAL CHANGE",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 102",
+                    "title": "*ANIMAL BIOLOGY: GENES, BEHAVIOR AND EVOLUTION OF LIFE",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 103",
+                    "title": "*HUMAN BIOLOGY: ANATOMY, PHYSIOLOGY AND DISEASE",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 204",
+                    "title": "*INTRODUCTORY BIOLOGY I",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 205",
+                    "title": "*INTRODUCTORY BIOLOGY II",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 206",
+                    "title": "*INTRODUCTORY BIOLOGY III",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 211",
+                    "title": "*PRINCIPLES OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 211H",
+                    "title": "*PRINCIPLES OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 212",
+                    "title": "*PRINCIPLES OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 212H",
+                    "title": "*PRINCIPLES OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 213",
+                    "title": "*PRINCIPLES OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 213H",
+                    "title": "*PRINCIPLES OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 221",
+                    "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 221H",
+                    "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 222",
+                    "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 222H",
+                    "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 223",
+                    "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "BI 223H",
+                    "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "BOT 101",
+                    "title": "*BOTANY: A HUMAN CONCERN",
+                    "credits": "4"
+                },
+                {
+                    "code": "BOT 220",
+                    "title": "*INTRODUCTION TO PLANT BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "FES 240",
+                    "title": "*FOREST BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "FES 240H",
+                    "title": "*FOREST BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "MB 230",
+                    "title": "*INTRODUCTORY MICROBIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "MB 255",
+                    "title": "*ALLIED HEALTH MICROBIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "OC 202",
+                    "title": "*INTRODUCTION TO BIOLOGICAL OCEANOGRAPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "RNG 121",
+                    "title": "*INTRODUCTION TO WILDLAND ECOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "SUS 102",
+                    "title": "*INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY",
+                    "credits": "4"
+                }
+            ],
+            "BIOLOGICAL SCIENCE LECTURE (3)": [],
+            "CULTURAL DIVERSITY (3)": [
+                {
+                    "code": "AG 311",
+                    "title": "*NATIVE AMERICAN AGRICULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 209",
+                    "title": "*CULTURAL DIVERSITY STUDY ABROAD",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 210",
+                    "title": "*INTRODUCTION TO CULTURAL ANTHROPOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 311",
+                    "title": "*PEOPLES OF THE WORLD-NORTH AMERICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 311H",
+                    "title": "*PEOPLES WORLD-NORTH AMERICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 313",
+                    "title": "*PEOPLES OF THE WORLD-LATIN AMERICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 313H",
+                    "title": "*PEOPLES OF THE WORLD-LATIN AMERICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 314",
+                    "title": "*PEOPLES OF THE WORLD-MIDDLE EAST",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 314H",
+                    "title": "*PEOPLES OF THE WORLD-MIDDLE EAST",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 315",
+                    "title": "*PEOPLES OF THE WORLD-AFRICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 315H",
+                    "title": "*PEOPLES OF THE WORLD-AFRICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 316",
+                    "title": "*PEOPLES OF THE WORLD-SOUTH AND SOUTHEAST ASIA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 317",
+                    "title": "*PEOPLES OF THE WORLD-PACIFIC",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 318",
+                    "title": "*PEOPLES OF THE WORLD-CHINA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 318H",
+                    "title": "*PEOPLES OF THE WORLD-CHINA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 319",
+                    "title": "*PEOPLES OF THE WORLD-JAPAN AND KOREA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 320",
+                    "title": "*MARITIME CULTURES AND LIFE-WAYS",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 447",
+                    "title": "*ARCTIC PERSPECTIVES ON GLOBAL PROBLEMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 447H",
+                    "title": "*ARCTIC PERSPECTIVES ON GLOBAL PROBLEMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "ART 208",
+                    "title": "*INTRODUCTION TO ASIAN ART",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 310",
+                    "title": "*EARLY CHINESE ART AND ARCHAEOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 311",
+                    "title": "*LATE CHINESE ART AND CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 312",
+                    "title": "*CONTEMPORARY CHINESE ART",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 313",
+                    "title": "*ART OF JAPAN",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 210",
+                    "title": "*LITERATURES OF THE WORLD: ASIA",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 211",
+                    "title": "*LITERATURES OF THE WORLD: AFRICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 211H",
+                    "title": "*LITERATURES OF THE WORLD: AFRICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 212",
+                    "title": "*LITERATURES OF THE WORLD: MESO/SOUTH AMERICA, CARIBBEAN",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 213",
+                    "title": "*LITERATURES OF THE WORLD: MIDDLE EAST",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 213H",
+                    "title": "*LITERATURES OF THE WORLD: MIDDLE EAST",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 360",
+                    "title": "*NATIVE AMERICAN LITERATURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 101",
+                    "title": "*INTRODUCTION TO ETHNIC STUDIES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ES 211",
+                    "title": "*INTRODUCTION TO LATINO/A STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 231",
+                    "title": "*INTRODUCTION TO ASIAN AMERICAN STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 241",
+                    "title": "*INTRODUCTION TO NATIVE AMERICAN STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 241H",
+                    "title": "*INTRODUCTION TO NATIVE AMERICAN STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 360",
+                    "title": "*INDIGENOUS OCEAN AND COAST",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEOG 103",
+                    "title": "*THE HUMAN PLANET",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 103H",
+                    "title": "*THE HUMAN PLANET",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 105",
+                    "title": "*PEOPLE, PLACES, AND PERSPECTIVES IN THE GLOBAL SOUTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 311",
+                    "title": "*GEOGRAPHY OF AFRICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 313",
+                    "title": "*GEOGRAPHY OF ASIA",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 314",
+                    "title": "*GEOGRAPHY OF LATIN AMERICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 104",
+                    "title": "*WORLD HISTORY I: ANCIENT CIVILIZATIONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 105",
+                    "title": "*WORLD HISTORY II: MIDDLE AND EARLY MODERN AGES",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 105H",
+                    "title": "*WORLD HISTORY II: MIDDLE AND EARLY MODERN AGES",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 106",
+                    "title": "*WORLD HISTORY III: THE MODERN AND CONTEMPORARY WORLD",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 106H",
+                    "title": "*WORLD HISTORY III: THE MODERN AND CONTEMPORARY WORLD",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 215",
+                    "title": "*INTRODUCTION TO JEWISH TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 320",
+                    "title": "*ANCIENT NEAR EAST",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 324",
+                    "title": "*ANCIENT JEWISH HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 324H",
+                    "title": "*ANCIENT JEWISH HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 348",
+                    "title": "*INDIGENOUS HISTORY OF LATIN AMERICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 350",
+                    "title": "*EARLY LATIN AMERICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 350H",
+                    "title": "*EARLY LATIN AMERICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 351",
+                    "title": "*MODERN LATIN AMERICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 352",
+                    "title": "*AFRICANS IN LATIN AMERICAN HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 353",
+                    "title": "*SLAVERY IN THE AMERICAS",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 381",
+                    "title": "*HISTORY OF AFRICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 382",
+                    "title": "*HISTORY OF AFRICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 382H",
+                    "title": "*HISTORY OF AFRICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 387",
+                    "title": "*ISLAMIC CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 388",
+                    "title": "*ISLAMIC CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 391",
+                    "title": "*TRADITIONAL CHINA AND JAPAN",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 392",
+                    "title": "*MODERN CHINA AND JAPAN",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 397",
+                    "title": "*GENDER, FAMILY AND POLITICS IN MODERN CHINA",
+                    "credits": "4"
+                },
+                {
+                    "code": "LING 209",
+                    "title": "*CULTURAL DIVERSITY STUDY ABROAD",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 108",
+                    "title": "*MUSIC CULTURES OF THE WORLD",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 108H",
+                    "title": "*MUSIC CULTURES OF THE WORLD",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 331",
+                    "title": "*GENRE STUDIES: POPULAR MUSIC AND CULTURE IN LATIN AMERICA",
+                    "credits": "3"
+                },
+                {
+                    "code": "NUR 415",
+                    "title": "*NURSING PRACTICE IN A MULTICULTURAL SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "NUTR 216",
+                    "title": "*FOOD IN NON-WESTERN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 160",
+                    "title": "*QUESTS FOR MEANING: WORLD RELIGIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 160H",
+                    "title": "*QUESTS FOR MEANING: WORLD RELIGIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 213",
+                    "title": "*INTRODUCTION TO HINDU TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 214",
+                    "title": "*INTRODUCTION TO ISLAMIC TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 308",
+                    "title": "*INTRODUCTION TO CONTEMPLATIVE STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 315",
+                    "title": "*GANDHI AND NONVIOLENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 371",
+                    "title": "*PHILOSOPHIES OF CHINA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 371H",
+                    "title": "*PHILOSOPHIES OF CHINA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 343",
+                    "title": "*RUSSIAN POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 344",
+                    "title": "*LATIN AMERICAN POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 346",
+                    "title": "*MIDDLE EAST POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 348",
+                    "title": "*CHINESE POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 350",
+                    "title": "*JAPANESE POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "QS 462",
+                    "title": "*QUEER THEORIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 160",
+                    "title": "*QUESTS FOR MEANING: WORLD RELIGIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 160H",
+                    "title": "*QUESTS FOR MEANING: WORLD RELIGIONS",
+                    "credits": "0-4"
+                },
+                {
+                    "code": "REL 213",
+                    "title": "*INTRODUCTION TO HINDU TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 214",
+                    "title": "*INTRODUCTION TO ISLAMIC TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 215",
+                    "title": "*INTRODUCTION TO JEWISH TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 308",
+                    "title": "*INTRODUCTION TO CONTEMPLATIVE STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 315",
+                    "title": "*GANDHI AND NONVIOLENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 324",
+                    "title": "*ANCIENT JEWISH HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 324H",
+                    "title": "*ANCIENT JEWISH HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 350",
+                    "title": "*EARLY LATIN AMERICA",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 352",
+                    "title": "*AFRICANS IN LATIN AMERICAN HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 353",
+                    "title": "*SLAVERY IN THE AMERICAS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 371",
+                    "title": "*PHILOSOPHIES OF CHINA",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 387",
+                    "title": "*ISLAMIC CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 388",
+                    "title": "*ISLAMIC CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "WGSS 235",
+                    "title": "*WOMEN IN WORLD CINEMA",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 235H",
+                    "title": "*WOMEN IN WORLD CINEMA",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 280",
+                    "title": "*WOMEN WORLDWIDE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 280H",
+                    "title": "*WOMEN WORLDWIDE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 311",
+                    "title": "*GLOBAL EXPERIENCE: CULTURAL DIVERSITY",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 320",
+                    "title": "*FRANCOPHONE CULTURES IN FILM",
+                    "credits": "9-Mar"
+                },
+                {
+                    "code": "WLC 320H",
+                    "title": "*FRANCOPHONE CULTURES IN FILM",
+                    "credits": "9-Mar"
+                },
+                {
+                    "code": "WLC 331",
+                    "title": "*CHINESE CULTURE I",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 332",
+                    "title": "*CHINESE CULTURE II",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 333",
+                    "title": "*CHINESE CULTURE III",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 335",
+                    "title": "*JAPANESE CULTURE I",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 336",
+                    "title": "*JAPANESE CULTURE II",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 337",
+                    "title": "*JAPANESE CULTURE III",
+                    "credits": "3"
+                }
+            ],
+            "LITERATURE AND THE ARTS (3)": [
+                {
+                    "code": "ART 101",
+                    "title": "*INTRODUCTION TO THE VISUAL ARTS",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 206",
+                    "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 264",
+                    "title": "*PHOTOGRAPHY: HISTORY, TECHNOLOGY, CULTURE AND ART",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 320",
+                    "title": "*ANCIENT GREEK ART",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 321",
+                    "title": "*ANCIENT ROMAN ART AND ARCHITECTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 322",
+                    "title": "*MEDIEVAL ART AND ARCHITECTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 323",
+                    "title": "*ITALIAN RENAISSANCE ART AND ARCHITECTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 323H",
+                    "title": "*ITALIAN RENAISSANCE ART AND ARCHITECTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 352",
+                    "title": "*CREATIVE COLLABORATION: DESIGNING AND BUILDING",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 364",
+                    "title": "*NINETEENTH-CENTURY ART",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 365",
+                    "title": "*HISTORY OF MODERN ART 1900-1945",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 104",
+                    "title": "*INTRODUCTION TO LITERATURE: FICTION",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 104H",
+                    "title": "*INTRODUCTION TO LITERATURE: FICTION",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 105",
+                    "title": "*INTRODUCTION TO LITERATURE: DRAMA",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 106",
+                    "title": "*INTRODUCTION TO LITERATURE: POETRY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 106H",
+                    "title": "*INTRODUCTION TO LITERATURE: POETRY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 107",
+                    "title": "*INTRODUCTION TO LITERATURE: CREATIVE NONFICTION",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 108",
+                    "title": "*INTRODUCTION TO SCIENCE FICTION AND FANTASY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 109",
+                    "title": "*INTRODUCTION TO TRUE CRIME",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 201",
+                    "title": "*SHAKESPEARE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 201H",
+                    "title": "*SHAKESPEARE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 202",
+                    "title": "*SHAKESPEARE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 202H",
+                    "title": "*SHAKESPEARE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 216",
+                    "title": "*ILLUMINATING HAPPINESS",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 221",
+                    "title": "*AFRICAN-AMERICAN LITERATURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 221H",
+                    "title": "*AFRICAN-AMERICAN LITERATURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 240",
+                    "title": "*INTRODUCTION TO ENVIRONMENTAL LITERATURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 253",
+                    "title": "*SURVEY OF AMERICAN LITERATURE: COLONIAL TO 1900",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 254",
+                    "title": "*SURVEY OF AMERICAN LITERATURE: 1900 TO PRESENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 254H",
+                    "title": "*SURVEY OF AMERICAN LITERATURE: 1900 TO PRESENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 295",
+                    "title": "*FEMINISM AND THE BIBLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 295H",
+                    "title": "*FEMINISM AND THE BIBLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 317",
+                    "title": "*THE AMERICAN NOVEL: BEGINNINGS TO CHOPIN",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 318",
+                    "title": "*THE AMERICAN NOVEL: MODERNIST PERIOD",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 319",
+                    "title": "*THE AMERICAN NOVEL: POST-WORLD WAR II",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 320",
+                    "title": "*STUDIES IN PAGE, STAGE, AND SCREEN",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 321",
+                    "title": "*STUDIES IN WORD, OBJECT, AND IMAGE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 330",
+                    "title": "*THE HOLOCAUST IN LITERATURE AND FILM",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 362",
+                    "title": "*AMERICAN WOMEN WRITERS",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 374",
+                    "title": "*MODERN SHORT STORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 374H",
+                    "title": "*MODERN SHORT STORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENGR 352",
+                    "title": "*CREATIVE COLLABORATION: DESIGNING AND BUILDING",
+                    "credits": "3"
+                },
+                {
+                    "code": "FILM 110",
+                    "title": "*INTRODUCTION TO FILM STUDIES: 1895-1945",
+                    "credits": "3"
+                },
+                {
+                    "code": "FILM 125",
+                    "title": "*INTRODUCTION TO FILM STUDIES: 1945-PRESENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "FILM 145",
+                    "title": "*INTRODUCTION TO FILM STUDIES: 1968-1999",
+                    "credits": "3"
+                },
+                {
+                    "code": "FILM 245",
+                    "title": "*THE NEW AMERICAN CINEMA",
+                    "credits": "4"
+                },
+                {
+                    "code": "FILM 245H",
+                    "title": "*THE NEW AMERICAN CINEMA",
+                    "credits": "4"
+                },
+                {
+                    "code": "FILM 255",
+                    "title": "*WORLD CINEMA PART I: ORIGINS TO 1968",
+                    "credits": "4"
+                },
+                {
+                    "code": "FILM 256",
+                    "title": "*WORLD CINEMA PART II: 1968-PRESENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "FILM 265",
+                    "title": "*FILMS FOR THE FUTURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "FILM 265H",
+                    "title": "*FILMS FOR THE FUTURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "FILM 310",
+                    "title": "*FILM THEORY AND CRITICISM",
+                    "credits": "4"
+                },
+                {
+                    "code": "MUS 101",
+                    "title": "*MUSIC APPRECIATION I: SURVEY",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 101H",
+                    "title": "*MUSIC APPRECIATION I: SURVEY",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 102",
+                    "title": "*MUSIC APPRECIATION II: PERIODS AND GENRES",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 102H",
+                    "title": "*MUSIC APPRECIATION II: PERIODS AND GENRES",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 103",
+                    "title": "*MUSIC APPRECIATION III: GREAT COMPOSERS",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 309",
+                    "title": "*WOMEN IN WESTERN MUSIC",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 295",
+                    "title": "*FEMINISM AND THE BIBLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 295H",
+                    "title": "*FEMINISM AND THE BIBLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "TA 147",
+                    "title": "*INTRODUCTION TO THE THEATRE",
+                    "credits": "3"
+                },
+                {
+                    "code": "TA 147H",
+                    "title": "*INTRODUCTION TO THE THEATRE",
+                    "credits": "3"
+                },
+                {
+                    "code": "TA 330",
+                    "title": "*HISTORY OF THE THEATRE",
+                    "credits": "3"
+                },
+                {
+                    "code": "TA 331",
+                    "title": "*HISTORY OF THE THEATRE",
+                    "credits": "3"
+                },
+                {
+                    "code": "TA 332",
+                    "title": "*HISTORY OF THE THEATRE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 295",
+                    "title": "*FEMINISM AND THE BIBLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 295H",
+                    "title": "*FEMINISM AND THE BIBLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 222",
+                    "title": "*WOMEN IN ITALIAN CINEMA",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 321",
+                    "title": "*MODERN SPAIN THROUGH SPANISH CINEMA",
+                    "credits": "3"
+                },
+                {
+                    "code": "WSE 230",
+                    "title": "*HISTORY OF FURNITURE",
+                    "credits": "3"
+                }
+            ],
+            "PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)": [
+                {
+                    "code": "ATS 201",
+                    "title": "*CLIMATE SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 110",
+                    "title": "*ROYGBIV: THE CHEMISTRY OF COLORS",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 122",
+                    "title": "*GENERAL CHEMISTRY",
+                    "credits": "5"
+                },
+                {
+                    "code": "CH 123",
+                    "title": "*GENERAL CHEMISTRY",
+                    "credits": "5"
+                },
+                {
+                    "code": "CH 261",
+                    "title": "*LABORATORY FOR CHEMISTRY 231",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 261H",
+                    "title": "*LABORATORY FOR CHEMISTRY 231",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 262",
+                    "title": "*LABORATORY FOR CHEMISTRY 232",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 262H",
+                    "title": "*LABORATORY FOR CHEMISTRY 232",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 263",
+                    "title": "*LABORATORY FOR CHEMISTRY 233",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 263H",
+                    "title": "*LABORATORY FOR CHEMISTRY 233",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 271",
+                    "title": "*LABORATORY FOR CH 231 FOR CHEMISTRY MAJORS",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 272",
+                    "title": "*LABORATORY FOR CH 232 FOR CHEMISTRY MAJORS",
+                    "credits": "1"
+                },
+                {
+                    "code": "CH 273",
+                    "title": "*LABORATORY FOR CH 233 FOR CHEMISTRY MAJORS",
+                    "credits": "1"
+                },
+                {
+                    "code": "CSS 205",
+                    "title": "*SOIL SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "FOR 206",
+                    "title": "*FOREST SOILS LABORATORY FOR SOIL 205",
+                    "credits": "1"
+                },
+                {
+                    "code": "GEO 100",
+                    "title": "*NATURAL DISASTERS: HOLLYWOOD VERSUS REALITY",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 101",
+                    "title": "*PLANET EARTH",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 201",
+                    "title": "*PHYSICAL GEOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 202",
+                    "title": "*EARTH SYSTEMS SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 203",
+                    "title": "*EVOLUTION OF PLANET EARTH",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 221",
+                    "title": "*ENVIRONMENTAL GEOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEOG 102",
+                    "title": "*PHYSICAL GEOGRAPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEOG 201",
+                    "title": "*FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS",
+                    "credits": "4"
+                },
+                {
+                    "code": "OC 103",
+                    "title": "*EXPLORING THE DEEP: GEOGRAPHY OF THE WORLD'S OCEANS",
+                    "credits": "4"
+                },
+                {
+                    "code": "OC 201",
+                    "title": "*OCEANOGRAPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 104",
+                    "title": "*DESCRIPTIVE ASTRONOMY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 104H",
+                    "title": "*DESCRIPTIVE ASTRONOMY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 106",
+                    "title": "*PERSPECTIVES IN PHYSICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 107",
+                    "title": "*DESCRIPTIVE ASTRONOMY: STARS AND THE UNIVERSE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 111",
+                    "title": "*INQUIRING INTO PHYSICAL PHENOMENA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 201",
+                    "title": "*GENERAL PHYSICS",
+                    "credits": "5"
+                },
+                {
+                    "code": "PH 202",
+                    "title": "*GENERAL PHYSICS",
+                    "credits": "5"
+                },
+                {
+                    "code": "PH 203",
+                    "title": "*GENERAL PHYSICS",
+                    "credits": "5"
+                },
+                {
+                    "code": "PH 205",
+                    "title": "*SOLAR SYSTEM ASTRONOMY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 206",
+                    "title": "*STARS AND STELLAR EVOLUTION",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 207",
+                    "title": "*GALAXIES, COSMOLOGY, LIFE IN THE UNIVERSE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 211",
+                    "title": "*GENERAL PHYSICS WITH CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 211H",
+                    "title": "*GENERAL PHYSICS WITH CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 212",
+                    "title": "*GENERAL PHYSICS WITH CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 212H",
+                    "title": "*GENERAL PHYSICS WITH CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 213",
+                    "title": "*GENERAL PHYSICS WITH CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 213H",
+                    "title": "*GENERAL PHYSICS WITH CALCULUS",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOIL 206",
+                    "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
+                    "credits": "1"
+                },
+                {
+                    "code": "SUS 103",
+                    "title": "*INTRODUCTION TO CLIMATE CHANGE",
+                    "credits": "4"
+                }
+            ],
+            "PHYSICAL SCIENCE LECTURE (4)": [
+                {
+                    "code": "CH 231",
+                    "title": "GENERAL CHEMISTRY",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 231H",
+                    "title": "GENERAL CHEMISTRY",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 232",
+                    "title": "GENERAL CHEMISTRY",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 232H",
+                    "title": "GENERAL CHEMISTRY",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 233",
+                    "title": "GENERAL CHEMISTRY",
+                    "credits": "4"
+                },
+                {
+                    "code": "CH 233H",
+                    "title": "GENERAL CHEMISTRY",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOIL 205",
+                    "title": "SOIL SCIENCE",
+                    "credits": "3"
+                }
+            ],
+            "SOCIAL PROCESSES AND INSTITUTIONS (3)": [
+                {
+                    "code": "AEC 122",
+                    "title": "*INTRODUCTION TO CLIMATE CHANGE ECONOMICS AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 243",
+                    "title": "*GLOBAL POVERTY AND SUSTAINABLE DEVELOPMENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 250",
+                    "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 250H",
+                    "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 251",
+                    "title": "*INTRODUCTION TO AGRICULTURAL AND FOOD ECONOMICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "AG 455",
+                    "title": "*RISK AND CRISIS COMMUNICATIONS IN AG SCI & NATURAL RESOURCES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 101",
+                    "title": "*INTRODUCTION TO ANTHROPOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 110",
+                    "title": "*INTRODUCTION TO CULTURAL ANTHROPOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ECON 201",
+                    "title": "*INTRODUCTION TO MICROECONOMICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "ECON 202",
+                    "title": "*INTRODUCTION TO MACROECONOMICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 377",
+                    "title": "*HEALTH AND SOCIAL JUSTICE",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEOG 240",
+                    "title": "*HUMAN DIMENSIONS OF CLIMATE CHANGE",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 250",
+                    "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 251",
+                    "title": "*GEOGRAPHY OF DISASTER MANAGEMENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 210",
+                    "title": "*INTRODUCTION TO THE HEALTH CARE SYSTEM",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 225",
+                    "title": "*SOCIAL AND INDIVIDUAL HEALTH DETERMINANTS",
+                    "credits": "4"
+                },
+                {
+                    "code": "H 333",
+                    "title": "*GLOBAL PUBLIC HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 333H",
+                    "title": "*GLOBAL PUBLIC HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "HDFS 240",
+                    "title": "*HUMAN SEXUALITY",
+                    "credits": "3"
+                },
+                {
+                    "code": "HORT 217",
+                    "title": "*SOCIAL IMPACTS OF SCIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 431",
+                    "title": "*A HISTORY OF CHILDHOOD",
+                    "credits": "4"
+                },
+                {
+                    "code": "KIN 312",
+                    "title": "*SOCIOCULTURAL DIMENSIONS OF PHYSICAL ACTIVITY",
+                    "credits": "4"
+                },
+                {
+                    "code": "LEAD 342",
+                    "title": "*TEAM AND ORGANIZATIONAL LEADERSHIP",
+                    "credits": "3"
+                },
+                {
+                    "code": "NMC 100",
+                    "title": "*NEW MEDIA AND CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "NMC 101",
+                    "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "NMC 101H",
+                    "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 209",
+                    "title": "*SELF AND SOCIETY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 309",
+                    "title": "*SELF AND SOCIETY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 201",
+                    "title": "*INTRODUCTION TO UNITED STATES GOVERNMENT AND POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 204",
+                    "title": "*INTRODUCTION TO COMPARATIVE POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 205",
+                    "title": "*INTRODUCTION TO INTERNATIONAL RELATIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 315",
+                    "title": "*THE POLITICS OF MEDIA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 315H",
+                    "title": "*THE POLITICS OF MEDIA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 331",
+                    "title": "*STATE AND LOCAL POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 366",
+                    "title": "*FROM ATLANTIS TO UTOPIA: THE POLITICS OF THE IDEAL STATE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 366H",
+                    "title": "*FROM ATLANTIS TO UTOPIA: THE POLITICS OF THE IDEAL STATE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 374",
+                    "title": "*SUSTAINABLE LIVING: PRACTICES AND POLICIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "PSY 201",
+                    "title": "*GENERAL PSYCHOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PSY 201H",
+                    "title": "*GENERAL PSYCHOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PSY 202",
+                    "title": "*GENERAL PSYCHOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PSY 202H",
+                    "title": "*GENERAL PSYCHOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "QS 321",
+                    "title": "*QUEER POP CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "QS 362",
+                    "title": "*SERVING LGBTQ+ COMMUNITIES",
+                    "credits": "3"
+                },
+                {
+                    "code": "SOC 204",
+                    "title": "*INTRODUCTION TO SOCIOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "SOC 205",
+                    "title": "*INSTITUTIONS AND SOCIAL CHANGE",
+                    "credits": "3"
+                },
+                {
+                    "code": "SOC 471",
+                    "title": "*SOCIAL MOVEMENTS",
+                    "credits": "4"
+                },
+                {
+                    "code": "WGSS 111",
+                    "title": "*FEMINIST PERSPECTIVES ON CURRENT EVENTS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 224",
+                    "title": "*WOMEN: PERSONAL AND SOCIAL CHANGE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 240",
+                    "title": "*GENDER, RACE, AND SPORT",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 240H",
+                    "title": "*GENDER, RACE, AND SPORT",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 270",
+                    "title": "*RESISTING GENDER VIOLENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 321",
+                    "title": "*QUEER POP CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 324",
+                    "title": "*FEMINIST ACTIVISMS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 362",
+                    "title": "*SERVING LGBTQ+ COMMUNITIES",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 301",
+                    "title": "*INTRODUCTION TO WORLD LANGUAGE AND CULTURE STUDIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "WLC 338",
+                    "title": "*DEAF CULTURE",
+                    "credits": "4"
+                }
+            ],
+            "WESTERN CULTURE (3)": [
+                {
+                    "code": "AEC 240",
+                    "title": "*RURAL ECONOMICS OF PLACE AND PEOPLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 253",
+                    "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 208",
+                    "title": "*WESTERN CULTURE STUDY ABROAD",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 261",
+                    "title": "*FOOD IN AMERICAN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 312",
+                    "title": "*PEOPLES WORLD-EUROPE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 312H",
+                    "title": "*PEOPLES WORLD-EUROPE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 204",
+                    "title": "*INTRODUCTION TO WESTERN ART: PREHISTORY TO HIGH MIDDLE AGES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 205",
+                    "title": "*INTRODUCTION TO WESTERN ART: GOTHIC TO BAROQUE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 210",
+                    "title": "*HISTORY OF WESTERN ARCHITECTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "CROP 340",
+                    "title": "*PENS AND PLOWS: WRITINGS OF WORKING THE LAND",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 204",
+                    "title": "*SURVEY OF BRITISH LITERATURE: BEGINNINGS TO 1660",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 204H",
+                    "title": "*SURVEY OF BRITISH LITERATURE: BEGINNINGS TO 1660",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 205",
+                    "title": "*SURVEY OF BRITISH LITERATURE: RESTORATION TO ROMANTIC ERA",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 205H",
+                    "title": "*SURVEY OF BRITISH LITERATURE: RESTORATION TO ROMANTIC ERA",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 206",
+                    "title": "*SURVEY OF BRITISH LITERATURE: VICTORIAN ERA TO 20TH CENTURY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 214",
+                    "title": "*LITERATURE OF THE WORLD: EUROPE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 215",
+                    "title": "*CLASSICAL MYTHOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 275",
+                    "title": "*THE BIBLE AS LITERATURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 275H",
+                    "title": "*THE BIBLE AS LITERATURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "FCSJ 261",
+                    "title": "*FOOD IN AMERICAN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "FR 333",
+                    "title": "*FRENCH CULTURE AND SOCIETY SINCE THE REVOLUTION",
+                    "credits": "3"
+                },
+                {
+                    "code": "FST 260",
+                    "title": "*FOOD SCIENCE AND TECHNOLOGY IN WESTERN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "FST 273",
+                    "title": "*WINE IN THE WESTERN WORLD",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 106",
+                    "title": "*WESTERN TRADITION & EMERGING CHALLENGES IN THE GLOBAL NORTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 101",
+                    "title": "*HISTORY OF WESTERN CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 101H",
+                    "title": "*HISTORY OF WESTERN CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 102",
+                    "title": "*HISTORY OF WESTERN CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 103",
+                    "title": "*HISTORY OF WESTERN CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 202",
+                    "title": "*HISTORY OF THE UNITED STATES",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 202H",
+                    "title": "*HISTORY OF THE UNITED STATES",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 325",
+                    "title": "*EARLY CHRISTIANITY: ORIGINS TO 600",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 326",
+                    "title": "*HISTORY OF CHRISTIANITY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 335",
+                    "title": "*NINETEENTH-CENTURY EUROPE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 338",
+                    "title": "*HITLER'S EUROPE",
+                    "credits": "4"
+                },
+                {
+                    "code": "IT 331",
+                    "title": "*ITALIAN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "LING 208",
+                    "title": "*WESTERN CULTURE STUDY ABROAD",
+                    "credits": "3"
+                },
+                {
+                    "code": "MUS 104",
+                    "title": "*SURVEY OF JAZZ",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 150",
+                    "title": "*GREAT IDEAS IN PHILOSOPHY",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 170",
+                    "title": "*THE IDEA OF GOD",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 201",
+                    "title": "*INTRODUCTION TO PHILOSOPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 203",
+                    "title": "*THE MEANING OF EXISTENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 205",
+                    "title": "*ETHICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 205H",
+                    "title": "*ETHICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 206",
+                    "title": "*RELIGIOUS ETHICS AND MORAL PROBLEMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 207",
+                    "title": "*POLITICAL PHILOSOPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 220",
+                    "title": "*WORLD-VIEWS AND VALUES IN THE BIBLE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 234",
+                    "title": "*PHILOSOPHY OF HAPPINESS",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 251",
+                    "title": "*KNOWERS, KNOWING, AND THE KNOWN",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 251H",
+                    "title": "*KNOWERS, KNOWING, AND THE KNOWN",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 301",
+                    "title": "*HISTORY OF WESTERN PHILOSOPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 302",
+                    "title": "*HISTORY OF WESTERN PHILOSOPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 303",
+                    "title": "*HISTORY OF WESTERN PHILOSOPHY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 360",
+                    "title": "*PHILOSOPHY AND THE ARTS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 360H",
+                    "title": "*PHILOSOPHY AND THE ARTS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 365",
+                    "title": "*LAW IN PHILOSOPHICAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 206",
+                    "title": "*INTRODUCTION TO POLITICAL THOUGHT",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 349",
+                    "title": "*BRITISH POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 170",
+                    "title": "*THE IDEA OF GOD",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 206",
+                    "title": "*RELIGIOUS ETHICS AND MORAL PROBLEMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 212",
+                    "title": "*INTRODUCTION TO CATHOLICISM",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 220",
+                    "title": "*WORLD-VIEWS AND VALUES IN THE BIBLE",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 325",
+                    "title": "*EARLY CHRISTIANITY: ORIGINS TO 600",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 326",
+                    "title": "*HISTORY OF CHRISTIANITY",
+                    "credits": "4"
+                },
+                {
+                    "code": "SPAN 331",
+                    "title": "*THE CULTURES OF SPAIN AND PORTUGAL",
+                    "credits": "3"
+                },
+                {
+                    "code": "SPAN 332",
+                    "title": "*THE CULTURES OF SPAIN AND PORTUGAL",
+                    "credits": "3"
+                },
+                {
+                    "code": "SPAN 336",
+                    "title": "*LATIN AMERICAN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "SPAN 337",
+                    "title": "*LATIN AMERICAN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "SPAN 338",
+                    "title": "*LATIN AMERICAN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "TRAL 132",
+                    "title": "*FOUNDATIONS AND HISTORY OF OUTDOOR AND ADVENTURE PROFESSIONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 110",
+                    "title": "*GENDER, RACE, AND POP CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 312",
+                    "title": "*GLOBAL EXPERIENCE: WESTERN CULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 230",
+                    "title": "*FRANCE TODAY: CULTURES WITHIN AND BEYOND ITS BORDERS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 230H",
+                    "title": "*FRANCE TODAY: CULTURES WITHIN AND BEYOND ITS BORDERS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 231",
+                    "title": "*GERMAN DICTATORSHIPS: NAZIS AND COMMUNISTS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 231H",
+                    "title": "*GERMAN DICTATORSHIPS: NAZIS AND COMMUNISTS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 241",
+                    "title": "*GRIMMS' FAIRY TALES",
+                    "credits": "4"
+                },
+                {
+                    "code": "WLC 429",
+                    "title": "*FRENCH SOCIETY THROUGH ITS CINEMA",
+                    "credits": "3"
+                },
+                {
+                    "code": "WLC 429H",
+                    "title": "*FRENCH SOCIETY THROUGH ITS CINEMA",
+                    "credits": "3"
+                }
+            ]
+        },
+        "Difference, Power, and Discrimination Courses (3)": [
+            {
+                "code": "AG 301",
+                "title": "*ECOSYSTEM SCIENCE OF PACIFIC NW INDIANS",
+                "credits": "3"
+            },
+            {
+                "code": "ANTH 159",
+                "title": "*LANGUAGE, RACE AND RACISM IN THE US: AN INTRODUCTION",
+                "credits": "4"
+            },
+            {
+                "code": "ANTH 251",
+                "title": "*LANGUAGE IN THE USA",
+                "credits": "3"
+            },
+            {
+                "code": "ANTH 251H",
+                "title": "*LANGUAGE IN THE USA",
+                "credits": "3"
+            },
+            {
+                "code": "ANTH 345",
+                "title": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE",
+                "credits": "3"
+            },
+            {
+                "code": "ANTH 345H",
+                "title": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE",
+                "credits": "3"
+            },
+            {
+                "code": "ANTH 361",
+                "title": "*FOOD JUSTICE",
+                "credits": "4"
+            },
+            {
+                "code": "ART 359",
+                "title": "*PHOTOGRAPHY: ACTIVISM, AND SOCIAL CHANGE",
+                "credits": "3"
+            },
+            {
+                "code": "ART 432",
+                "title": "*GENDER, SEXUALITY, AND THE PHOTOGRAPHIC IMAGE",
+                "credits": "3"
+            },
+            {
+                "code": "BB 220",
+                "title": "*CANCER: SOCIETY'S MALIGNANT SHADOW",
+                "credits": "3"
+            },
+            {
+                "code": "BI 175",
+                "title": "*GENOMES, IDENTITIES AND SOCIETIES",
+                "credits": "3"
+            },
+            {
+                "code": "CS 175",
+                "title": "*COMMUNICATIONS SECURITY AND SOCIAL MOVEMENTS",
+                "credits": "3"
+            },
+            {
+                "code": "ECON 383",
+                "title": "*THE ECONOMICS OF DISCRIMINATION",
+                "credits": "4"
+            },
+            {
+                "code": "ED 216",
+                "title": "*PURPOSE, STRUCTURE, AND FUNCTION OF EDUCATION IN A DEMOCRACY",
+                "credits": "3"
+            },
+            {
+                "code": "ED 216H",
+                "title": "*PURPOSE, STRUCTURE, AND FUNCTION OF EDUCATION IN A DEMOCRACY",
+                "credits": "3"
+            },
+            {
+                "code": "ED 219",
+                "title": "*SOCIAL JUSTICE,CIVIL RIGHTS & MULTICULTURALISM IN EDUCATION",
+                "credits": "3"
+            },
+            {
+                "code": "ED 219H",
+                "title": "*SOCIAL JUSTICE,CIVIL RIGHTS & MULTICULTURALISM IN EDUCATION",
+                "credits": "3"
+            },
+            {
+                "code": "ENG 220",
+                "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 220H",
+                "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 260",
+                "title": "*LITERATURE OF AMERICAN MINORITIES",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 260H",
+                "title": "*LITERATURE OF AMERICAN MINORITIES",
+                "credits": "4"
+            },
+            {
+                "code": "ES 159",
+                "title": "*LANGUAGE, RACE AND RACISM IN THE US: AN INTRODUCTION",
+                "credits": "4"
+            },
+            {
+                "code": "ES 201",
+                "title": "*INVENTING ETHNIC AMERICA",
+                "credits": "3"
+            },
+            {
+                "code": "ES 213",
+                "title": "*LATINO/A IDENTITIES AND ACTIVISM",
+                "credits": "4"
+            },
+            {
+                "code": "ES 221",
+                "title": "*SURVEY OF AFRICAN AMERICAN STUDIES I",
+                "credits": "4"
+            },
+            {
+                "code": "ES 221H",
+                "title": "*SURVEY OF AFRICAN AMERICAN STUDIES I",
+                "credits": "3"
+            },
+            {
+                "code": "ES 223",
+                "title": "*SURVEY OF AFRICAN AMERICAN STUDIES II",
+                "credits": "4"
+            },
+            {
+                "code": "ES 223H",
+                "title": "*SURVEY OF AFRICAN AMERICAN STUDIES II",
+                "credits": "4"
+            },
+            {
+                "code": "ES 233",
+                "title": "*ASIAN PACIFIC AMERICAN ACTIVISM AND EMPOWERMENT",
+                "credits": "4"
+            },
+            {
+                "code": "ES 243",
+                "title": "*NATIVE AMERICAN ASSIMILATION AND ACTIVISM",
+                "credits": "4"
+            },
+            {
+                "code": "ES 260",
+                "title": "*INTRODUCTION TO PACIFIC ISLANDS STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "ES 351",
+                "title": "*ETHNIC MINORITIES IN OREGON",
+                "credits": "4"
+            },
+            {
+                "code": "ES 353",
+                "title": "*ENVIRONMENTAL RACISM",
+                "credits": "4"
+            },
+            {
+                "code": "ES 353H",
+                "title": "*ENVIRONMENTAL RACISM",
+                "credits": "4"
+            },
+            {
+                "code": "ES 355",
+                "title": "*RACE, SPACE, AND DIFFERENCE",
+                "credits": "4"
+            },
+            {
+                "code": "ES 355H",
+                "title": "*RACE, SPACE, AND DIFFERENCE",
+                "credits": "4"
+            },
+            {
+                "code": "ES 357",
+                "title": "*FARMWORKER JUSTICE MOVEMENTS",
+                "credits": "4"
+            },
+            {
+                "code": "ES 357H",
+                "title": "*FARMWORKER JUSTICE MOVEMENTS",
+                "credits": "4"
+            },
+            {
+                "code": "ES 375",
+                "title": "*ARTS AND SOCIAL JUSTICE",
+                "credits": "4"
+            },
+            {
+                "code": "ES 431",
+                "title": "*QUEER OF COLOR CRITIQUES",
+                "credits": "4"
+            },
+            {
+                "code": "ES 452",
+                "title": "*ETHNICITY IN FILM",
+                "credits": "4"
+            },
+            {
+                "code": "ES 453",
+                "title": "*ETHNOHISTORY METHODOLOGY",
+                "credits": "4"
+            },
+            {
+                "code": "ES 457",
+                "title": "*LITERATURE BY WOMEN OF COLOR IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "FCSJ 361",
+                "title": "*FOOD JUSTICE",
+                "credits": "4"
+            },
+            {
+                "code": "FILM 220",
+                "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION",
+                "credits": "4"
+            },
+            {
+                "code": "FILM 220H",
+                "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION",
+                "credits": "4"
+            },
+            {
+                "code": "FW 340",
+                "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
+                "credits": "3"
+            },
+            {
+                "code": "GEO 309",
+                "title": "*ENVIRONMENTAL JUSTICE",
+                "credits": "3"
+            },
+            {
+                "code": "GEOG 100",
+                "title": "*CLIMATE JUSTICE",
+                "credits": "3"
+            },
+            {
+                "code": "GEOG 203",
+                "title": "*HUMAN-ENVIRONMENT GEOGRAPHY",
+                "credits": "3"
+            },
+            {
+                "code": "GEOG 241",
+                "title": "*TRANSFORMING ENVIRONMENTAL CONFLICTS",
+                "credits": "3"
+            },
+            {
+                "code": "GEOG 332",
+                "title": "*CLIMATE AND HEALTH",
+                "credits": "3"
+            },
+            {
+                "code": "GEOG 333",
+                "title": "*ENVIRONMENTAL JUSTICE",
+                "credits": "3"
+            },
+            {
+                "code": "H 332",
+                "title": "*CLIMATE AND HEALTH",
+                "credits": "3"
+            },
+            {
+                "code": "H 465",
+                "title": "*PUBLIC HEALTH AND WOMEN: SOCIAL AND POLICY ISSUES",
+                "credits": "3"
+            },
+            {
+                "code": "HDFS 201",
+                "title": "*CONTEMPORARY FAMILIES IN THE U.S.",
+                "credits": "3"
+            },
+            {
+                "code": "HST 201",
+                "title": "*HISTORY OF THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 201H",
+                "title": "*HISTORY OF THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 202",
+                "title": "*HISTORY OF THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 202H",
+                "title": "*HISTORY OF THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 203",
+                "title": "*HISTORY OF THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 203H",
+                "title": "*HISTORY OF THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 210",
+                "title": "*RELIGION IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 210H",
+                "title": "*RELIGION IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 364",
+                "title": "*UNITED STATES RELIGION AND SOCIAL REFORM",
+                "credits": "4"
+            },
+            {
+                "code": "HST 365",
+                "title": "*THE CIVIL RIGHTS MOVEMENT IN THE MODERN U.S.",
+                "credits": "4"
+            },
+            {
+                "code": "HST 365H",
+                "title": "*THE CIVIL RIGHTS MOVEMENT IN THE MODERN U.S.",
+                "credits": "4"
+            },
+            {
+                "code": "HST 366",
+                "title": "*NATIVE NORTH AMERICA",
+                "credits": "4"
+            },
+            {
+                "code": "HST 367",
+                "title": "*HISTORY OF LATINA/OS IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "HST 368",
+                "title": "*LESBIAN AND GAY MOVEMENTS IN MODERN AMERICA",
+                "credits": "4"
+            },
+            {
+                "code": "HST 369",
+                "title": "*IMMIGRATION TO THE U.S. SINCE 1880",
+                "credits": "4"
+            },
+            {
+                "code": "HST 370",
+                "title": "*SOCIAL CHANGE AND AMERICAN POPULAR MUSIC",
+                "credits": "4"
+            },
+            {
+                "code": "HST 372",
+                "title": "*AFRICAN AMERICAN RELIGION",
+                "credits": "4"
+            },
+            {
+                "code": "HST 476",
+                "title": "*HISTORY OF WHITE SUPREMACY & WHITE NATIONALISM IN THE US & OR",
+                "credits": "4"
+            },
+            {
+                "code": "KIN 475",
+                "title": "*POWER AND PRIVILEGE IN SPORT",
+                "credits": "3"
+            },
+            {
+                "code": "LING 251",
+                "title": "*LANGUAGES OF OREGON",
+                "credits": "3"
+            },
+            {
+                "code": "MB 330",
+                "title": "*DISEASE AND SOCIETY",
+                "credits": "3"
+            },
+            {
+                "code": "NMC 493",
+                "title": "*MEDIA AND POWER",
+                "credits": "3"
+            },
+            {
+                "code": "PHL 210",
+                "title": "*RELIGION IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "PHL 210H",
+                "title": "*RELIGION IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "PHL 275",
+                "title": "*INTRODUCTION TO DISABILITY STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "PHL 275H",
+                "title": "*INTRODUCTION TO DISABILITY STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "PHL 280",
+                "title": "*ETHICS OF DIVERSITY",
+                "credits": "4"
+            },
+            {
+                "code": "PHL 280H",
+                "title": "*ETHICS OF DIVERSITY",
+                "credits": "4"
+            },
+            {
+                "code": "PHL 345",
+                "title": "*FIRST FREEDOM: RELIGIOUS LIBERTY AND INTOLERANCE",
+                "credits": "4"
+            },
+            {
+                "code": "PS 110",
+                "title": "*GOVERNING AFTER THE ZOMBIE APOCALYPSE",
+                "credits": "3"
+            },
+            {
+                "code": "PS 110H",
+                "title": "*GOVERNING AFTER THE ZOMBIE APOCALYPSE",
+                "credits": "3"
+            },
+            {
+                "code": "PS 322",
+                "title": "*CONSTITUTIONAL LAW: CIVIL RIGHTS AND LIBERTIES",
+                "credits": "4"
+            },
+            {
+                "code": "PS 325",
+                "title": "*GENDER AND THE LAW",
+                "credits": "4"
+            },
+            {
+                "code": "PS 363",
+                "title": "*GENDER AND RACE IN AMERICAN POLITICAL THOUGHT",
+                "credits": "4"
+            },
+            {
+                "code": "PS 375",
+                "title": "*THE CIVIL RIGHTS MOVEMENT AND POLICIES",
+                "credits": "4"
+            },
+            {
+                "code": "PS 375H",
+                "title": "*THE CIVIL RIGHTS MOVEMENT AND POLICIES",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 426",
+                "title": "*PSYCHOLOGY OF GENDER",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 466",
+                "title": "*FAT STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "QS 262",
+                "title": "*INTRODUCTION TO QUEER STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "QS 262H",
+                "title": "*INTRODUCTION TO QUEER STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "QS 364",
+                "title": "*TRANSGENDER POLITICS",
+                "credits": "3"
+            },
+            {
+                "code": "QS 364H",
+                "title": "*TRANSGENDER POLITICS",
+                "credits": "3"
+            },
+            {
+                "code": "QS 375",
+                "title": "*ARTS AND SOCIAL JUSTICE",
+                "credits": "4"
+            },
+            {
+                "code": "QS 431",
+                "title": "*QUEER OF COLOR CRITIQUES",
+                "credits": "4"
+            },
+            {
+                "code": "QS 432",
+                "title": "*GENDER, SEXUALITY, AND THE PHOTOGRAPHIC IMAGE",
+                "credits": "3"
+            },
+            {
+                "code": "REL 210",
+                "title": "*RELIGION IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "REL 210H",
+                "title": "*RELIGION IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "REL 345",
+                "title": "*FIRST FREEDOM: RELIGIOUS LIBERTY AND INTOLERANCE",
+                "credits": "4"
+            },
+            {
+                "code": "REL 364",
+                "title": "*UNITED STATES RELIGION AND SOCIAL REFORM",
+                "credits": "4"
+            },
+            {
+                "code": "REL 372",
+                "title": "*AFRICAN AMERICAN RELIGION",
+                "credits": "4"
+            },
+            {
+                "code": "REL 476",
+                "title": "*HISTORY OF WHITE SUPREMACY & WHITE NATIONALISM IN THE US & OR",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 206",
+                "title": "*SOCIAL PROBLEMS AND ISSUES",
+                "credits": "3"
+            },
+            {
+                "code": "SOC 312",
+                "title": "*SOCIOLOGY OF THE FAMILY",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 312H",
+                "title": "*SOCIOLOGY OF THE FAMILY",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 345",
+                "title": "*CRIMES AND VIOLENCE IN INTIMATE RELATIONSHIPS",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 351",
+                "title": "*SOCIOLOGY OF MENTAL ILLNESS",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 360",
+                "title": "*POPULATION TRENDS AND POLICY",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 372",
+                "title": "*POPULAR CULTURE",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 426",
+                "title": "*SOCIAL INEQUALITY",
+                "credits": "4"
+            },
+            {
+                "code": "SUS 331",
+                "title": "*SUSTAINABILITY, JUSTICE, AND ENGAGEMENT",
+                "credits": "3"
+            },
+            {
+                "code": "SUS 331H",
+                "title": "*SUSTAINABILITY, JUSTICE, AND ENGAGEMENT",
+                "credits": "3"
+            },
+            {
+                "code": "TA 360",
+                "title": "*MULTICULTURAL AMERICAN THEATRE",
+                "credits": "3"
+            },
+            {
+                "code": "TA 360H",
+                "title": "*MULTICULTURAL AMERICAN THEATRE",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 223",
+                "title": "*INTRODUCTION TO WOMEN, GENDER, AND SEXUALITY STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 223H",
+                "title": "*INTRODUCTION TO WOMEN, GENDER, AND SEXUALITY STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 230",
+                "title": "*WOMEN IN THE MOVIES",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 230H",
+                "title": "*WOMEN IN THE MOVIES",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 262",
+                "title": "*INTRODUCTION TO QUEER STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 262H",
+                "title": "*INTRODUCTION TO QUEER STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 325",
+                "title": "*DISNEY: GENDER, RACE, EMPIRE",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 325H",
+                "title": "*DISNEY: GENDER, RACE, EMPIRE",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 364",
+                "title": "*TRANSGENDER POLITICS",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 364H",
+                "title": "*TRANSGENDER POLITICS",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 375",
+                "title": "*ARTS AND SOCIAL JUSTICE",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 414",
+                "title": "*SYSTEMS OF OPPRESSION IN WOMEN'S LIVES",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 431",
+                "title": "*QUEER OF COLOR CRITIQUES",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 432",
+                "title": "*GENDER, SEXUALITY, AND THE PHOTOGRAPHIC IMAGE",
+                "credits": "3"
+            },
+            {
+                "code": "WGSS 462",
+                "title": "*QUEER THEORIES",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 466",
+                "title": "*FAT STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 496",
+                "title": "*FEMINIST THEOLOGIES IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 496H",
+                "title": "*FEMINIST THEOLOGIES IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "WLC 159",
+                "title": "*LANGUAGE, RACE AND RACISM IN THE US: AN INTRODUCTION",
+                "credits": "4"
+            },
+            {
+                "code": "WLC 339",
+                "title": "*DEAF HISTORY",
+                "credits": "4"
+            },
+            {
+                "code": "WR 220",
+                "title": "*STORIES OF THE US-MEXICO BORDER",
+                "credits": "4"
+            }
+        ],
+        "Synthesis Courses (6)": {
+            "CONTEMPORARY GLOBAL ISSUES (3)": [
+                {
+                    "code": "AEC 351",
+                    "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 352",
+                    "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "AG 351",
+                    "title": "*COMMUNICATING GLOBAL AGRICULTURE & NATURAL RESOURCES ISSUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "AMS 350",
+                    "title": "*AMERICAN CULTURE AND THE VIETNAM EXPERIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 374",
+                    "title": "*ANTHROPOLOGY AND GLOBAL HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 374H",
+                    "title": "*ANTHROPOLOGY AND GLOBAL HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 380",
+                    "title": "*GLOBAL CONFLICTS: ANTHROPOLOGICAL PERSPECTIVES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 380H",
+                    "title": "*GLOBAL CONFLICTS: ANTHROPOLOGICAL PERSPECTIVES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 466",
+                    "title": "*RURAL ANTHROPOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 473",
+                    "title": "*GENDER, ETHNICITY, AND CULTURE",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 478",
+                    "title": "*ANTHROPOLOGY OF TOURISM",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 482",
+                    "title": "*ANTHROPOLOGY OF INTERNATIONAL DEVELOPMENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 484",
+                    "title": "*WEALTH AND POVERTY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ATS 342",
+                    "title": "*FROZEN: OUR ICY PLANET IN CLIMATE AND SOCIETAL CONTEXT",
+                    "credits": "3"
+                },
+                {
+                    "code": "BA 432",
+                    "title": "*ENVIRONMENTAL LAW, SUSTAINABILITY AND BUSINESS",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 301",
+                    "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 306",
+                    "title": "*ENVIRONMENTAL ECOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 306H",
+                    "title": "*ENVIRONMENTAL ECOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "CROP 330",
+                    "title": "*WORLD FOOD CROPS",
+                    "credits": "3"
+                },
+                {
+                    "code": "DSGN 475",
+                    "title": "*GLOBAL SOURCING OF TEXTILES, APPAREL, AND FOOTWEAR",
+                    "credits": "4"
+                },
+                {
+                    "code": "ECON 352",
+                    "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENG 322",
+                    "title": "*STUDIES IN GLOBALISM, TEXT, AND EVENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENG 497",
+                    "title": "*INTERNATIONAL WOMEN'S VOICES",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENT 331",
+                    "title": "*POLLINATORS IN PERIL",
+                    "credits": "3"
+                },
+                {
+                    "code": "FCSJ 454",
+                    "title": "*INTERNATIONAL PERSPECTIVES ON FOOD SYSTEMS",
+                    "credits": "4"
+                },
+                {
+                    "code": "FE 456",
+                    "title": "*INTERNATIONAL FORESTRY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FES 365",
+                    "title": "*ISSUES IN NATURAL RESOURCES CONSERVATION",
+                    "credits": "3"
+                },
+                {
+                    "code": "FES 477",
+                    "title": "*AGROFORESTRY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FOR 456",
+                    "title": "*INTERNATIONAL FORESTRY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 324",
+                    "title": "*FOOD FROM THE SEA",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 325",
+                    "title": "*GLOBAL CRISES IN RESOURCE ECOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 345",
+                    "title": "*GLOBAL CHANGE BIOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 391",
+                    "title": "*RIDGE TO REEF: SUSTAINABLE RESOURCE MANAGEMENT IN PALAU",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 306",
+                    "title": "*MINERALS, ENERGY, WATER AND THE ENVIRONMENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEO 308",
+                    "title": "*GLOBAL CHANGE AND EARTH SCIENCES",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEO 332",
+                    "title": "*GLOBAL WARMING: SCIENCE, IMPACTS, AND SOLUTIONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 300",
+                    "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 300H",
+                    "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 330",
+                    "title": "*GEOGRAPHY OF INTERNATIONAL DEVELOPMENT AND GLOBALIZATION",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 331",
+                    "title": "*POPULATION, CONSUMPTION, AND ENVIRONMENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 350",
+                    "title": "*GEOGRAPHY OF NATURAL HAZARDS",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 312",
+                    "title": "*HIV/AIDS AND STIS IN MODERN SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 344",
+                    "title": "*FOUNDATIONS OF ENVIRONMENTAL HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 388",
+                    "title": "*GLOBAL ENVIRONMENTAL HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "HDFS 447",
+                    "title": "*FAMILIES AND POVERTY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HDFS 447H",
+                    "title": "*FAMILIES AND POVERTY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HORT 331",
+                    "title": "*POLLINATORS IN PERIL",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 317",
+                    "title": "*WHY WAR: A HISTORICAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 317H",
+                    "title": "*WHY WAR: A HISTORICAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 319",
+                    "title": "*THE HISTORY OF HUMAN RIGHTS IN THE MODERN WORLD",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 319H",
+                    "title": "*THE HISTORY OF HUMAN RIGHTS IN THE MODERN WORLD",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 375",
+                    "title": "*GLOBAL HISTORY OF SPORTS",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 378",
+                    "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 378H",
+                    "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 385",
+                    "title": "*THE ARAB-ISRAELI CONFLICT",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 385H",
+                    "title": "*THE ARAB-ISRAELI CONFLICT",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 386",
+                    "title": "*MODERN IRAN: REVOLUTION AND ITS AFTERMATH",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 386H",
+                    "title": "*MODERN IRAN: REVOLUTION AND ITS AFTERMATH",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 390",
+                    "title": "*MIDEAST WOMEN: IN THEIR OWN WORDS",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 390H",
+                    "title": "*MIDEAST WOMEN: IN THEIR OWN WORDS",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 425",
+                    "title": "*THE HOLOCAUST IN ITS HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 425H",
+                    "title": "*THE HOLOCAUST IN ITS HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 465",
+                    "title": "*AMERICAN DIPLOMATIC HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 465H",
+                    "title": "*AMERICAN DIPLOMATIC HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 485",
+                    "title": "*POLITICS AND RELIGION IN THE MODERN MIDDLE EAST",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 490",
+                    "title": "*ISRAELI SOCIETY AND PLURALISM",
+                    "credits": "4"
+                },
+                {
+                    "code": "NR 477",
+                    "title": "*AGROFORESTRY",
+                    "credits": "3"
+                },
+                {
+                    "code": "OC 333",
+                    "title": "*OCEANS, COASTS, AND PEOPLE",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 310",
+                    "title": "*CRITICS OF RELIGION",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 344",
+                    "title": "*PACIFISM, JUST WAR, AND TERRORISM",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 432",
+                    "title": "*YOGA AND TANTRIC TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 433",
+                    "title": "*THEORY AND PRACTICE OF MODERN YOGA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 434",
+                    "title": "*SPIRITUALITY AND ECOLOGY: GREEN YOGA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 434H",
+                    "title": "*SPIRITUALITY AND ECOLOGY: GREEN YOGA",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 440",
+                    "title": "*ENVIRONMENTAL ETHICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 440H",
+                    "title": "*ENVIRONMENTAL ETHICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 443",
+                    "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 443H",
+                    "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "PS 341",
+                    "title": "*EUROPEAN AND EU POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 345",
+                    "title": "*POLITICS OF DEVELOPING NATIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 354",
+                    "title": "*INTERNATIONAL ORGANIZATIONS AND GLOBAL POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "QS 476",
+                    "title": "*TRANSNATIONAL SEXUALITIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 310",
+                    "title": "*CRITICS OF RELIGION",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 344",
+                    "title": "*PACIFISM, JUST WAR, AND TERRORISM",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 378",
+                    "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 378H",
+                    "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 425",
+                    "title": "*THE HOLOCAUST IN ITS HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 425H",
+                    "title": "*THE HOLOCAUST IN ITS HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 432",
+                    "title": "*YOGA AND TANTRIC TRADITIONS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 433",
+                    "title": "*THEORY AND PRACTICE OF MODERN YOGA",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 434",
+                    "title": "*SPIRITUALITY AND ECOLOGY: GREEN YOGA",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 434H",
+                    "title": "*SPIRITUALITY AND ECOLOGY: GREEN YOGA",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 443",
+                    "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "REL 443H",
+                    "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "REL 485",
+                    "title": "*POLITICS AND RELIGION IN THE MODERN MIDDLE EAST",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOC 480",
+                    "title": "*ENVIRONMENTAL SOCIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "SUS 350",
+                    "title": "*SUSTAINABLE COMMUNITIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "TRAL 357",
+                    "title": "*PARKS AND PROTECTED AREAS MANAGEMENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "TRAL 479",
+                    "title": "*NATURE AND THE HUMAN EXPERIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 313",
+                    "title": "*GLOBAL EXPERIENCE: CONTEMPORARY GLOBAL ISSUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 350",
+                    "title": "*POLITICS OF MOTHERHOOD IN A GLOBAL CONTEXT",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 360",
+                    "title": "*MEN AND MASCULINITIES IN A GLOBAL CONTEXT",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 360H",
+                    "title": "*MEN AND MASCULINITIES IN A GLOBAL CONTEXT",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 378",
+                    "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE",
+                    "credits": "4"
+                },
+                {
+                    "code": "WGSS 380",
+                    "title": "*MUSLIM WOMEN",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 476",
+                    "title": "*TRANSNATIONAL SEXUALITIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "WGSS 480",
+                    "title": "*GENDER AND TRANSNATIONAL ACTIVISMS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 480H",
+                    "title": "*GENDER AND TRANSNATIONAL ACTIVISMS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 495",
+                    "title": "*GLOBAL FEMINIST THEOLOGIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "WGSS 495H",
+                    "title": "*GLOBAL FEMINIST THEOLOGIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "WSE 470",
+                    "title": "*FORESTS, WOOD, AND CIVILIZATION",
+                    "credits": "3"
+                },
+                {
+                    "code": "Z 349",
+                    "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION",
+                    "credits": "3"
+                }
+            ],
+            "SCIENCE, TECHNOLOGY, AND SOCIETY (3)": [
+                {
+                    "code": "AEC 353",
+                    "title": "*INTRODUCTION TO COASTAL AND MARINE RESOURCE ECONOMICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "AEC 411",
+                    "title": "*INTRODUCTION TO FOOD SYSTEMS: LOCAL TO GLOBAL",
+                    "credits": "3"
+                },
+                {
+                    "code": "AGRI 411",
+                    "title": "*INTRODUCTION TO FOOD SYSTEMS: LOCAL TO GLOBAL",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANS 315",
+                    "title": "*CONTENTIOUS SOCIAL ISSUES IN ANIMAL AGRICULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 330",
+                    "title": "*EVOLUTION OF PEOPLE, TECHNOLOGY, AND SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 330H",
+                    "title": "*EVOLUTION OF PEOPLE, TECHNOLOGY, AND SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 372",
+                    "title": "*SOCIAL NETWORKS AND SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 432",
+                    "title": "*DOMESTICATION, URBANIZATION, AND THE RISE OF CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 432H",
+                    "title": "*DOMESTICATION, URBANIZATION, AND THE RISE OF CIVILIZATION",
+                    "credits": "4"
+                },
+                {
+                    "code": "ANTH 481",
+                    "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ANTH 481H",
+                    "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+                    "credits": "3"
+                },
+                {
+                    "code": "ART 367",
+                    "title": "*HISTORY OF DESIGN",
+                    "credits": "3"
+                },
+                {
+                    "code": "ATS 341",
+                    "title": "*SNOW, SMOKE, AND STORMS: CLIMATE CHANGE IMPACTS IN THE PNW",
+                    "credits": "3"
+                },
+                {
+                    "code": "BB 331",
+                    "title": "*INTRODUCTION TO MOLECULAR BIOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "BB 332",
+                    "title": "*MOLECULAR MEDICINE",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 345",
+                    "title": "*INTRODUCTION TO EVOLUTION",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 347",
+                    "title": "*OCEANS IN PERIL",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 348",
+                    "title": "*HUMAN ECOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "BI 420",
+                    "title": "*VIRUSES IN MODERN SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "BOT 324",
+                    "title": "*FUNGI IN SOCIETY",
+                    "credits": "3"
+                },
+                {
+                    "code": "BOT 325",
+                    "title": "*INTERSECTIONS BETWEEN PLANTS AND HUMANITY",
+                    "credits": "3"
+                },
+                {
+                    "code": "BRR 325",
+                    "title": "*ENERGY TECHNOLOGY AND SOCIAL CHANGE",
+                    "credits": "3"
+                },
+                {
+                    "code": "CH 374",
+                    "title": "*TECHNOLOGY, ENERGY, AND RISK",
+                    "credits": "3"
+                },
+                {
+                    "code": "CS 391",
+                    "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "CS 391H",
+                    "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "EAH 411",
+                    "title": "*PERSPECTIVES IN ENVIRONMENTAL ARTS AND HUMANITIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "EAH 412",
+                    "title": "*ENVIRONMENTAL SCIENCE IN CONTEXT",
+                    "credits": "4"
+                },
+                {
+                    "code": "ENGR 350",
+                    "title": "*SUSTAINABLE ENGINEERING",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENGR 350H",
+                    "title": "*SUSTAINABLE ENGINEERING",
+                    "credits": "3"
+                },
+                {
+                    "code": "ENT 300",
+                    "title": "*PLAGUES, PESTS, AND POLITICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "ES 445",
+                    "title": "*NATIVE AMERICAN SCIENCE AND TECHNOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "ES 445H",
+                    "title": "*NATIVE AMERICAN SCIENCE AND TECHNOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "FES 435",
+                    "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
+                    "credits": "3"
+                },
+                {
+                    "code": "FES 485",
+                    "title": "*CONSENSUS AND NATURAL RESOURCES",
+                    "credits": "3"
+                },
+                {
+                    "code": "FST 421",
+                    "title": "*FOOD LAW",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 350",
+                    "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 356",
+                    "title": "*CITIZEN SCIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 360",
+                    "title": "*ORIGINS OF F&W MANAGEMENT-EVOLUTION, GENETICS, AND ECOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "FW 470",
+                    "title": "*ECOLOGY AND HISTORY: LANDSCAPES OF THE COLUMBIA BASIN",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEO 305",
+                    "title": "*LIVING WITH ACTIVE CASCADE VOLCANOES",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEO 307",
+                    "title": "*NATIONAL PARK GEOLOGY AND PRESERVATION",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEO 331",
+                    "title": "*ASTROBIOLOGY: LIFE BEYOND EARTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEO 352",
+                    "title": "*OREGON: GEOLOGY, PLACE, AND LIFE ON THE RING OF FIRE",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 352H",
+                    "title": "*OREGON: GEOLOGY, PLACE, AND LIFE ON THE RING OF FIRE",
+                    "credits": "4"
+                },
+                {
+                    "code": "GEO 380",
+                    "title": "*EARTHQUAKES IN THE PACIFIC NORTHWEST",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 340",
+                    "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 340H",
+                    "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY",
+                    "credits": "3"
+                },
+                {
+                    "code": "GEOG 432",
+                    "title": "*GEOGRAPHY OF FOOD AND AGRICULTURE",
+                    "credits": "3"
+                },
+                {
+                    "code": "H 445",
+                    "title": "*OCCUPATIONAL HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "HEST 310",
+                    "title": "*INTRO TO COMMUNITY ENGAGEMENT AND COMMUNITY-BASED DESIGN",
+                    "credits": "3"
+                },
+                {
+                    "code": "HEST 320",
+                    "title": "*ENGINEERING FOR GLOBAL HEALTH SOLUTIONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "HEST 412",
+                    "title": "*MULTIDISCIPLINARY CASE STUDIES IN HUMANITARIAN ENGINEERING, SCIENCE AND TECHNOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "HORT 330",
+                    "title": "*PLAGUES, PESTS, AND POLITICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "HST 416",
+                    "title": "*FOOD IN WORLD HISTORY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 417",
+                    "title": "*HISTORY OF BEER AND BREWING",
+                    "credits": "4"
+                },
+                {
+                    "code": "HST 481",
+                    "title": "*ENVIRONMENTAL HISTORY OF THE UNITED STATES",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 411",
+                    "title": "*HISTORY OF SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 412",
+                    "title": "*HISTORY OF SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 413",
+                    "title": "*HISTORY OF SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 414",
+                    "title": "*HISTORY OF TWENTIETH-CENTURY SCIENCE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 415",
+                    "title": "*THEORY OF EVOLUTION AND FOUNDATION OF MODERN BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 415H",
+                    "title": "*THEORY OF EVOLUTION AND FOUNDATION OF MODERN BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 416",
+                    "title": "*HISTORY OF MEDICINE PRE-1800",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 417",
+                    "title": "*HISTORY OF MEDICINE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 417H",
+                    "title": "*HISTORY OF MEDICINE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 419",
+                    "title": "*STUDIES IN SCIENTIFIC CONTROVERSY: METHODS AND PRACTICES",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 419H",
+                    "title": "*STUDIES IN SCIENTIFIC CONTROVERSY: METHODS AND PRACTICES",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 421",
+                    "title": "*TECHNOLOGY AND CHANGE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 423",
+                    "title": "*SCIENCE AND RELIGION",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 440",
+                    "title": "*HISTORY OF PSYCHOTHERAPY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 440H",
+                    "title": "*HISTORY OF PSYCHOTHERAPY",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 451",
+                    "title": "*THE HISTORY OF OUTER SPACE",
+                    "credits": "4"
+                },
+                {
+                    "code": "HSTS 452",
+                    "title": "*A WOMEN'S HISTORY OF OUTER SPACE",
+                    "credits": "4"
+                },
+                {
+                    "code": "IE 380",
+                    "title": "*THE RESPONSIBLE ENGINEER",
+                    "credits": "3"
+                },
+                {
+                    "code": "NMC 427",
+                    "title": "*DIGITAL PORNOGRAPHY",
+                    "credits": "3"
+                },
+                {
+                    "code": "NR 351",
+                    "title": "*WHEN SCIENCE ESCAPES THE LAB: SCIENCE AND RESOURCE MANAGEMENT",
+                    "credits": "3"
+                },
+                {
+                    "code": "NSE 319",
+                    "title": "*SOCIETAL ASPECTS OF NUCLEAR TECHNOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "NUTR 312",
+                    "title": "*ISSUES IN NUTRITION AND HEALTH",
+                    "credits": "3"
+                },
+                {
+                    "code": "PAX 301",
+                    "title": "*PEACE STRATEGIES",
+                    "credits": "4"
+                },
+                {
+                    "code": "PH 313",
+                    "title": "*ENERGY ALTERNATIVES",
+                    "credits": "3"
+                },
+                {
+                    "code": "PH 313H",
+                    "title": "*ENERGY ALTERNATIVES",
+                    "credits": "3"
+                },
+                {
+                    "code": "PH 331",
+                    "title": "*SOUND, HEARING, AND MUSIC",
+                    "credits": "3"
+                },
+                {
+                    "code": "PH 332",
+                    "title": "*LIGHT, VISION, AND COLOR",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 325",
+                    "title": "*SCIENTIFIC REASONING",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 330",
+                    "title": "*TECHNOLOGY AND ETHICS",
+                    "credits": "3"
+                },
+                {
+                    "code": "PHL 444",
+                    "title": "*BIOMEDICAL ETHICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 444H",
+                    "title": "*BIOMEDICAL ETHICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 456",
+                    "title": "*MINDS, BRAINS, AND MACHINES",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 474",
+                    "title": "*PHILOSOPHY OF BIOLOGY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PHL 475",
+                    "title": "*HUMAN TECHNOLOGICAL ENHANCEMENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "PPOL 441",
+                    "title": "*ENERGY, CLIMATE AND SOCIETY",
+                    "credits": "4"
+                },
+                {
+                    "code": "PS 476",
+                    "title": "*SCIENCE AND POLITICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 444",
+                    "title": "*BIOMEDICAL ETHICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 444H",
+                    "title": "*BIOMEDICAL ETHICS",
+                    "credits": "4"
+                },
+                {
+                    "code": "REL 475",
+                    "title": "*HUMAN TECHNOLOGICAL ENHANCEMENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOC 371",
+                    "title": "*SOCIAL MEDIA AND EVERYDAY LIFE",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOC 456",
+                    "title": "*SCIENCE AND TECHNOLOGY IN SOCIAL CONTEXT",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOC 481",
+                    "title": "*SOCIETY AND NATURAL RESOURCES",
+                    "credits": "4"
+                },
+                {
+                    "code": "SOC 482",
+                    "title": "*ENERGY, CLIMATE AND SOCIETY",
+                    "credits": "4"
+                },
+                {
+                    "code": "SUS 304",
+                    "title": "*SUSTAINABILITY ASSESSMENT",
+                    "credits": "4"
+                },
+                {
+                    "code": "TOX 360",
+                    "title": "*THE WORLD OF POISONS",
+                    "credits": "3"
+                },
+                {
+                    "code": "TOX 435",
+                    "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
+                    "credits": "3"
+                },
+                {
+                    "code": "TOX 435H",
+                    "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 319",
+                    "title": "*FEMINIST DECOLONIZING METHODOLOGIES: SOCIAL JUSTICE RESEARCH",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 320",
+                    "title": "*GENDER AND TECHNOLOGY",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 340",
+                    "title": "*GENDER AND SCIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 340H",
+                    "title": "*GENDER AND SCIENCE",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 440",
+                    "title": "*WOMEN AND NATURAL RESOURCES",
+                    "credits": "3"
+                },
+                {
+                    "code": "WGSS 440H",
+                    "title": "*WOMEN AND NATURAL RESOURCES",
+                    "credits": "3"
+                },
+                {
+                    "code": "WSE 385",
+                    "title": "*EVALUATING SUSTAINABILITY THROUGH LIFE CYCLE ANALYSIS",
+                    "credits": "3"
+                },
+                {
+                    "code": "WSE 392",
+                    "title": "*BAMBOOLOOZA: THE FASCINATING WORLD OF BAMBOO",
+                    "credits": "3"
+                }
+            ]
+        },
+        "Writing Intensive Courses (WIC) (3)": [
+            {
+                "code": "AEC 434",
+                "title": "^BENEFIT-COST ANALYSIS",
+                "credits": "4"
+            },
+            {
+                "code": "AEC 461",
+                "title": "^AGRICULTURAL AND FOOD POLICY ISSUES",
+                "credits": "4"
+            },
+            {
+                "code": "AG 421",
+                "title": "^WRITING IN AGRICULTURE",
+                "credits": "3"
+            },
+            {
+                "code": "AMS 407",
+                "title": "^SEMINAR",
+                "credits": "16-Jan"
+            },
+            {
+                "code": "ANS 420",
+                "title": "^ETHICAL ISSUES IN ANIMAL AGRICULTURE",
+                "credits": "3"
+            },
+            {
+                "code": "ANTH 370",
+                "title": "^ANTHROPOLOGICAL THEORIES",
+                "credits": "4"
+            },
+            {
+                "code": "ARE 418",
+                "title": "^ARCHITECTURAL ENGINEERING PROFESSIONAL PRACTICE",
+                "credits": "4"
+            },
+            {
+                "code": "ARE 419",
+                "title": "^ARCHITECTURAL ENGINEERING DESIGN",
+                "credits": "3"
+            },
+            {
+                "code": "ART 368",
+                "title": "^HISTORY OF PHOTOGRAPHY",
+                "credits": "3"
+            },
+            {
+                "code": "ART 411",
+                "title": "^ART IN CONTEXT HISTORICAL AND CRITICAL APPROACHES",
+                "credits": "3"
+            },
+            {
+                "code": "ART 469",
+                "title": "^METHODS AND THEORY OF ART HISTORY",
+                "credits": "3"
+            },
+            {
+                "code": "ATS 441",
+                "title": "^NORTHWEST CLIMATE AND WEATHER",
+                "credits": "4"
+            },
+            {
+                "code": "BA 354",
+                "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
+                "credits": "4"
+            },
+            {
+                "code": "BA 354H",
+                "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
+                "credits": "4"
+            },
+            {
+                "code": "BB 317",
+                "title": "^SCIENTIFIC THEORY AND PRACTICE",
+                "credits": "3"
+            },
+            {
+                "code": "BDS 411",
+                "title": "^ANALYSIS OF BIOLOGICAL DATA: CASE STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "BEE 469",
+                "title": "^ECOLOGICAL ENGINEERING DESIGN I",
+                "credits": "4"
+            },
+            {
+                "code": "BEE 481",
+                "title": "^ECOLOGICAL ENGINEERING DESIGN I",
+                "credits": "4"
+            },
+            {
+                "code": "BHS 323",
+                "title": "^MICROBIAL INFLUENCES ON HUMAN HEALTH",
+                "credits": "3"
+            },
+            {
+                "code": "BI 319",
+                "title": "^THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES",
+                "credits": "3"
+            },
+            {
+                "code": "BI 371",
+                "title": "^ECOLOGICAL METHODS",
+                "credits": "3"
+            },
+            {
+                "code": "BI 373",
+                "title": "^FIELD METHODS IN MARINE ECOLOGY",
+                "credits": "3"
+            },
+            {
+                "code": "BI 450",
+                "title": "^MARINE BIOLOGY AND ECOLOGY",
+                "credits": "15"
+            },
+            {
+                "code": "BIOE 495",
+                "title": "^BIOENGINEERING PRODUCT DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "BOT 323",
+                "title": "^FLOWERING PLANTS OF THE WORLD",
+                "credits": "3"
+            },
+            {
+                "code": "BRR 403",
+                "title": "^THESIS",
+                "credits": "4"
+            },
+            {
+                "code": "CBEE 414",
+                "title": "^PROCESS ENGINEERING LABORATORY",
+                "credits": "3"
+            },
+            {
+                "code": "CBEE 414H",
+                "title": "^PROCESS ENGINEERING LABORATORY",
+                "credits": "3"
+            },
+            {
+                "code": "CE 418",
+                "title": "^CIVIL ENGINEERING PROFESSIONAL PRACTICE",
+                "credits": "3"
+            },
+            {
+                "code": "CE 419",
+                "title": "^CIVIL INFRASTRUCTURE DESIGN",
+                "credits": "3"
+            },
+            {
+                "code": "CEM 443",
+                "title": "^PROJECT MANAGEMENT FOR CONSTRUCTION",
+                "credits": "4"
+            },
+            {
+                "code": "CH 462",
+                "title": "^EXPERIMENTAL CHEMISTRY II",
+                "credits": "3"
+            },
+            {
+                "code": "CH 462H",
+                "title": "^EXPERIMENTAL CHEMISTRY II",
+                "credits": "3"
+            },
+            {
+                "code": "CH 463",
+                "title": "^EXPERIMENTAL CHEMISTRY II",
+                "credits": "3"
+            },
+            {
+                "code": "CH 463H",
+                "title": "^ EXPERIMENTAL CHEMISTRY II",
+                "credits": "3"
+            },
+            {
+                "code": "CH 464",
+                "title": "^EXPERIMENTAL CHEMISTRY II",
+                "credits": "3"
+            },
+            {
+                "code": "CH 464H",
+                "title": "^EXPERIMENTAL CHEMISTRY II",
+                "credits": "3"
+            },
+            {
+                "code": "COMM 418",
+                "title": "^INTERPERSONAL COMMUNICATION THEORY AND RESEARCH",
+                "credits": "3"
+            },
+            {
+                "code": "COMM 422",
+                "title": "^SMALL-GROUP COMMUNICATION THEORY AND RESEARCH",
+                "credits": "3"
+            },
+            {
+                "code": "COMM 456",
+                "title": "^RHETORIC: 500 BC TO 500 AD",
+                "credits": "3"
+            },
+            {
+                "code": "COMM 458",
+                "title": "^RHETORIC: 500 AD TO 1900",
+                "credits": "3"
+            },
+            {
+                "code": "COMM 459",
+                "title": "^CONTEMPORARY THEORIES OF RHETORIC",
+                "credits": "3"
+            },
+            {
+                "code": "CROP 325",
+                "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH",
+                "credits": "3"
+            },
+            {
+                "code": "CS 461",
+                "title": "^SENIOR SOFTWARE ENGINEERING PROJECT I",
+                "credits": "3"
+            },
+            {
+                "code": "CS 462",
+                "title": "^SENIOR SOFTWARE ENGINEERING PROJECT II",
+                "credits": "3"
+            },
+            {
+                "code": "CSS 315",
+                "title": "^NUTRIENT MANAGEMENT AND CYCLING",
+                "credits": "4"
+            },
+            {
+                "code": "DSGN 330",
+                "title": "^FASHION FORECASTING AND MARKET ANALYSIS",
+                "credits": "4"
+            },
+            {
+                "code": "ECE 441",
+                "title": "^ENGINEERING DESIGN PROJECT",
+                "credits": "3"
+            },
+            {
+                "code": "ECE 442",
+                "title": "^ENGINEERING DESIGN PROJECT",
+                "credits": "3"
+            },
+            {
+                "code": "ECE 443",
+                "title": "^ENGINEERING DESIGN PROJECT",
+                "credits": "2"
+            },
+            {
+                "code": "ECON 428",
+                "title": "^INTRODUCTION TO ECONOMIC RESEARCH",
+                "credits": "4"
+            },
+            {
+                "code": "ECON 439",
+                "title": "^PUBLIC POLICY ANALYSIS",
+                "credits": "4"
+            },
+            {
+                "code": "ED 340",
+                "title": "^SUPPORTIVE DIFFERENTIATED ENVIRONMENTS",
+                "credits": "3"
+            },
+            {
+                "code": "ED 451",
+                "title": "^ASSESSMENT",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 302",
+                "title": "^WRITING ABOUT LITERATURE",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 311",
+                "title": "^STUDIES IN BRITISH PROSE",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 407",
+                "title": "^SEMINAR",
+                "credits": "16-Jan"
+            },
+            {
+                "code": "ENG 445",
+                "title": "^STUDIES IN NONFICTION",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 470",
+                "title": "^STUDIES IN POETRY",
+                "credits": "4"
+            },
+            {
+                "code": "ENG 485",
+                "title": "^STUDIES IN AMERICAN LITERATURE",
+                "credits": "4"
+            },
+            {
+                "code": "ENGR 415",
+                "title": "^ENGINEERING CAPSTONE DESIGN I",
+                "credits": "4"
+            },
+            {
+                "code": "ENGR 416",
+                "title": "^ENGINEERING CAPSTONE DESIGN II",
+                "credits": "4"
+            },
+            {
+                "code": "ENSC 479",
+                "title": "^ENVIRONMENTAL CASE STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "ES 350",
+                "title": "^PUBLIC DISCOURSE AND WRITINGS ON RACE",
+                "credits": "4"
+            },
+            {
+                "code": "ES 354",
+                "title": "^LITERATURE OF ETHNIC MINORITIES IN THE UNITED STATES",
+                "credits": "4"
+            },
+            {
+                "code": "ESC 497",
+                "title": "^MIME CAPSTONE DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "ESC 498",
+                "title": "^MIME CAPSTONE DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "ESE 497",
+                "title": "^MIME CAPSTONE DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "ESE 498",
+                "title": "^MIME CAPSTONE DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "FE 460",
+                "title": "^FOREST OPERATIONS REGULATIONS AND POLICY ISSUES",
+                "credits": "3"
+            },
+            {
+                "code": "FES 486",
+                "title": "^PUBLIC LANDS POLICY AND MANAGEMENT",
+                "credits": "3"
+            },
+            {
+                "code": "FILM 452",
+                "title": "^STUDIES IN FILM",
+                "credits": "4"
+            },
+            {
+                "code": "FILM 452H",
+                "title": "^STUDIES IN FILM",
+                "credits": "4"
+            },
+            {
+                "code": "FOR 460",
+                "title": "^FOREST POLICY",
+                "credits": "4"
+            },
+            {
+                "code": "FR 439",
+                "title": "^FRENCH/FRANCOPHONE STUDIES",
+                "credits": "3"
+            },
+            {
+                "code": "FST 385",
+                "title": "^COMMUNICATING FOOD AND FERMENTATION SCIENCE",
+                "credits": "3"
+            },
+            {
+                "code": "FW 435",
+                "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS",
+                "credits": "3"
+            },
+            {
+                "code": "FW 439",
+                "title": "^HUMAN DIMENSIONS OF FISHERIES AND WILDLIFE MANAGEMENT",
+                "credits": "3"
+            },
+            {
+                "code": "FW 454",
+                "title": "^FISHERY BIOLOGY",
+                "credits": "4"
+            },
+            {
+                "code": "FW 497",
+                "title": "^AQUACULTURE",
+                "credits": "3"
+            },
+            {
+                "code": "GD 312",
+                "title": "^CONTEMPORARY ISSUES IN DESIGN",
+                "credits": "3"
+            },
+            {
+                "code": "GEO 427",
+                "title": "^VOLCANOLOGY",
+                "credits": "4"
+            },
+            {
+                "code": "GEO 430",
+                "title": "^GEOCHEMISTRY",
+                "credits": "4"
+            },
+            {
+                "code": "GEO 463",
+                "title": "^GEOPHYSICS AND TECTONICS",
+                "credits": "4"
+            },
+            {
+                "code": "GEOG 323",
+                "title": "^CLIMATOLOGY",
+                "credits": "4"
+            },
+            {
+                "code": "GEOG 324",
+                "title": "^ECOLOGICAL BIOGEOGRAPHY",
+                "credits": "4"
+            },
+            {
+                "code": "GER 411",
+                "title": "^FOURTH-YEAR GERMAN",
+                "credits": "4"
+            },
+            {
+                "code": "H 434",
+                "title": "^HEALTH CARE LAW AND REGULATION",
+                "credits": "3"
+            },
+            {
+                "code": "H 476",
+                "title": "^PLANNING AND EVALUATING HEALTH PROMOTION PROGRAMS",
+                "credits": "4"
+            },
+            {
+                "code": "HDFS 430",
+                "title": "^CHILD DEVELOPMENT CENTER INTERNSHIP",
+                "credits": "12"
+            },
+            {
+                "code": "HDFS 461",
+                "title": "^PROGRAM DEVELOPMENT AND PROPOSAL WRITING",
+                "credits": "4"
+            },
+            {
+                "code": "HM 470",
+                "title": "^ADVANCED HOSPITALITY",
+                "credits": "4"
+            },
+            {
+                "code": "HORT 318",
+                "title": "^APPLIED ECOLOGY OF MANAGED ECOSYSTEMS",
+                "credits": "3"
+            },
+            {
+                "code": "HST 407",
+                "title": "^SEMINAR",
+                "credits": "5"
+            },
+            {
+                "code": "HST 407H",
+                "title": "^SEMINAR",
+                "credits": "5"
+            },
+            {
+                "code": "HST 480",
+                "title": "^PERSPECTIVES IN HUMANITIES",
+                "credits": "4"
+            },
+            {
+                "code": "HSTS 437",
+                "title": "^HISTORY OF ANIMALS IN SCIENCE",
+                "credits": "4"
+            },
+            {
+                "code": "JPN 411",
+                "title": "^FOURTH-YEAR JAPANESE",
+                "credits": "3"
+            },
+            {
+                "code": "KIN 481",
+                "title": "^ANALYSIS OF CRITICAL ISSUES IN KINESIOLOGY",
+                "credits": "3"
+            },
+            {
+                "code": "MB 311",
+                "title": "^MOLECULAR MICROBIOLOGY LAB: A WRITING INTENSIVE COURSE",
+                "credits": "3"
+            },
+            {
+                "code": "MB 385",
+                "title": "^EMERGING INFECTIOUS DISEASES AND EPIDEMICS",
+                "credits": "3"
+            },
+            {
+                "code": "MIME 497",
+                "title": "^MIME CAPSTONE DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "MIME 498",
+                "title": "^MIME CAPSTONE DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "MTH 323",
+                "title": "^MATHEMATICAL MODELING",
+                "credits": "3"
+            },
+            {
+                "code": "MTH 333",
+                "title": "^FUNDAMENTAL CONCEPTS OF TOPOLOGY",
+                "credits": "3"
+            },
+            {
+                "code": "MTH 338",
+                "title": "^NON-EUCLIDEAN GEOMETRY",
+                "credits": "3"
+            },
+            {
+                "code": "MUED 400",
+                "title": "^PROFESSIONAL WRITING IN MUSIC EDUCATION",
+                "credits": "3"
+            },
+            {
+                "code": "MUS 325",
+                "title": "^HISTORY OF WESTERN MUSIC",
+                "credits": "3"
+            },
+            {
+                "code": "MUS 400",
+                "title": "^STUDIES IN WRITING ABOUT MUSIC",
+                "credits": "3"
+            },
+            {
+                "code": "NMC 301",
+                "title": "^WRITING FOR THE MEDIA PROFESSIONAL",
+                "credits": "3"
+            },
+            {
+                "code": "NSE 474",
+                "title": "^NUCLEAR SYSTEMS DESIGN I",
+                "credits": "4"
+            },
+            {
+                "code": "NSE 475",
+                "title": "^NUCLEAR SYSTEMS DESIGN II",
+                "credits": "4"
+            },
+            {
+                "code": "NUR 420",
+                "title": "^NURSING RESEARCH AND EVIDENCE-BASED PRACTICE",
+                "credits": "4"
+            },
+            {
+                "code": "NUTR 416",
+                "title": "^CULTURAL ASPECTS OF FOODS",
+                "credits": "3"
+            },
+            {
+                "code": "NUTR 439",
+                "title": "^COMMUNICATIONS IN DIETETICS",
+                "credits": "3"
+            },
+            {
+                "code": "OC 334",
+                "title": "^POLAR OCEANOGRAPHY",
+                "credits": "3"
+            },
+            {
+                "code": "PH 317",
+                "title": "^EXPERIMENTAL PHYSICS",
+                "credits": "3"
+            },
+            {
+                "code": "PH 403",
+                "title": "^THESIS",
+                "credits": "16-Jan"
+            },
+            {
+                "code": "PHL 407",
+                "title": "^SEMINAR",
+                "credits": "16-Jan"
+            },
+            {
+                "code": "PHL 407H",
+                "title": "^SEMINAR",
+                "credits": "16-Jan"
+            },
+            {
+                "code": "PHL 480",
+                "title": "^PERSPECTIVES IN HUMANITIES",
+                "credits": "4"
+            },
+            {
+                "code": "PPOL 422",
+                "title": "^POLICY ANALYSIS",
+                "credits": "4"
+            },
+            {
+                "code": "PS 300",
+                "title": "^RESEARCH METHODS",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 434",
+                "title": "^BRAIN AND BEHAVIOR METHODS",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 440",
+                "title": "^COGNITION RESEARCH",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 450",
+                "title": "^EDUCATIONAL PSYCHOLOGY",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 460",
+                "title": "^ADVANCED SOCIAL RESEARCH METHODS",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 460H",
+                "title": "^ADVANCED SOCIAL RESEARCH METHODS",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 470",
+                "title": "^PSYCHOMETRICS AND PSYCHOLOGICAL TESTING",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 480",
+                "title": "^CLINICAL RESEARCH METHODS",
+                "credits": "4"
+            },
+            {
+                "code": "PSY 484",
+                "title": "^PSYCHOLOGY OF ADDICTION",
+                "credits": "4"
+            },
+            {
+                "code": "QS 472",
+                "title": "^INDIGENOUS TWO-SPIRIT AND QUEER STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "REL 407",
+                "title": "^SEMINAR",
+                "credits": "16-Jan"
+            },
+            {
+                "code": "RNG 491",
+                "title": "^RANGELAND MANAGEMENT PLANNING - PRINCIPLES AND PROCESSES",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 315",
+                "title": "^METHODS I: RESEARCH DESIGN",
+                "credits": "4"
+            },
+            {
+                "code": "SOC 318",
+                "title": "^QUALITATIVE RESEARCH METHODS",
+                "credits": "4"
+            },
+            {
+                "code": "SOIL 325",
+                "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH",
+                "credits": "3"
+            },
+            {
+                "code": "SOIL 395",
+                "title": "^WORLD SOIL RESOURCES",
+                "credits": "3"
+            },
+            {
+                "code": "SPAN 438",
+                "title": "^SELECTED TOPICS IN LUSO-HISPANIC CULTURE",
+                "credits": "3"
+            },
+            {
+                "code": "SSCI 301",
+                "title": "^QUALITATIVE RESEARCH METHODS FOR THE SOCIAL SCIENCES",
+                "credits": "4"
+            },
+            {
+                "code": "SUS 325",
+                "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH",
+                "credits": "3"
+            },
+            {
+                "code": "TA 444",
+                "title": "^THEORY AND CRITICISM OF THEATRE ARTS",
+                "credits": "3"
+            },
+            {
+                "code": "TRAL 375",
+                "title": "^EXPERIENTIAL EDUCATION",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 460",
+                "title": "^SEXUALITIES, FEMINISMS, WOMEN",
+                "credits": "4"
+            },
+            {
+                "code": "WGSS 472",
+                "title": "^INDIGENOUS TWO-SPIRIT AND QUEER STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "WR 411",
+                "title": "^THE TEACHING OF WRITING",
+                "credits": "4"
+            },
+            {
+                "code": "WR 462",
+                "title": "^ENVIRONMENTAL WRITING",
+                "credits": "4"
+            },
+            {
+                "code": "WR 495",
+                "title": "^INTRODUCTION TO LITERACY STUDIES",
+                "credits": "4"
+            },
+            {
+                "code": "WSE 453",
+                "title": "^FOREST PRODUCTS BUSINESS",
+                "credits": "3"
+            }
+        ]
+    }
+}
