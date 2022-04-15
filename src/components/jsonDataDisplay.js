@@ -265,8 +265,15 @@ class JsonDataDisplay extends React.Component {
   
   BasicModal(props) {
     // handling modal open
-
-    const handleOpen = () => this.setState({isOpen: true})
+    console.log(this.state.isOpenArr)
+    const handleOpen = () => {
+      let testArr = [...this.state.isOpenArr]
+      let testItem = {...testArr[props.idx]}
+      testItem = true
+      testArr[props.idx] = testItem
+      this.setState({isOpenArr: testArr})
+      // console.log(this.state.isOpenArr)
+    }
     // handling term dropdown selection; saves selection into term variable
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
 
@@ -276,20 +283,24 @@ class JsonDataDisplay extends React.Component {
   
     //handling modal closing and updating given course's term
     const handleClose = () => {
-      this.setState({isOpen: false})
+      let testArr = [...this.state.isOpenArr]
+      let testItem = {...testArr[props.idx]}
+      testItem = false
+      testArr[props.idx] = testItem
+      this.setState({isOpenArr: testArr})
       // makes new course with updated term number and deleted old course with outdated term number
       let idx = props.info.array.getIndex(props.id)
-      console.log(props.id)
+      // console.log(props.id)
       props.info.array.insertCourse(props.info.array.getId(idx), props.info.array.getName(idx), props.info.array.getCredits(idx), this.state.term);
       props.info.array.removeCourse(idx);
-      console.log(props.info.array)
+      // console.log(props.info.array)
     }
   
     return (
       <div>
         <Button onClick={handleOpen}>Change Term</Button>
         <Modal
-          open={this.state.isOpen}
+          open={this.state.isOpenArr[props.idx]}
           onClose={handleClose}
           aria-labelledby="modal-modal-title"
           aria-describedby="modal-modal-description"
@@ -401,10 +412,11 @@ class JsonDataDisplay extends React.Component {
   //brand new Table with json values
   render() {
     let info = this.assignTerms();
-    for(let i = 0; i <  info.array.degree.length; i++){
+    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+    for(let i = 0; i < info.array.degree.length; i++){
       this.state.isOpenArr.push(false)
     }
-    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+    // console.log(this.state.isOpenArr)
     return(
       <div key="tableParent">
         <div className="Tables" key="parentDiv">
@@ -420,5 +432,3 @@ class JsonDataDisplay extends React.Component {
 }
 
 export default JsonDataDisplay;
-
-
