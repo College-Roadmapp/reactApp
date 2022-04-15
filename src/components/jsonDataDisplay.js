@@ -128,68 +128,66 @@ const style = {
 };
 
 
-// ------------------ modal --------------------
-function BasicModal(props) {
-  // handling modal open
-  const [open, setOpen] = React.useState(false);
-  const handleOpen = () => setOpen(true);
+// // ------------------ modal --------------------
+// function BasicModal(props, deg) {
+//   // handling modal open
+//   const [open, setOpen] = React.useState(false);
+//   const handleOpen = () => setOpen(true);
 
-  // handling term dropdown selection; saves selection into term variable
-  const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-  const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
-  const handleTermChange = event => {
-    setTerm(event.target.value);
-  }
+//   // handling term dropdown selection; saves selection into term variable
+//   const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+//   // const [term, setTerm] = React.useState(props.array.getCourse(props.array.getIndex()))
+//   const [term, setTerm] = React.useState(0)
+//   const handleTermChange = event => {
+//     setTerm(event.target.value);
+//   }
 
-  //handling modal closing and updating given course's term
-  const handleClose = () => {
-    setOpen(false);
-    // makes new course with updated term number and deleted old course with outdated term number
-    let idx = props.deg.getIndex(props.id)
-    props.deg.insertCourse(props.deg.getId(idx), props.deg.getName(idx), props.deg.getCredits(idx), term);
-    props.deg.removeCourse(idx);
-    // console.log("-----")
-    // console.log(props.deg.getTermsArray())
-    // console.log(props.deg)
-    // console.log("-----")
-    // ------------------------------------------------------------------------------------
-            //somehow need to rerender everything based on term numbers here
-            //remove old table and make new one
-    // ------------------------------------------------------------------------------------
+//   //handling modal closing and updating given course's term
+//   const handleClose = () => {
+//     setOpen(false);
+//     // makes new course with updated term number and deleted old course with outdated term number
+//     // console.log(props.deg)
+//     let idx = props.array.getIndex(props.id)
+//     props.array.insertCourse(props.array.getId(idx), props.array.getName(idx), props.array.getCredits(idx), term);
+//     props.array.removeCourse(idx);
+//     // ------------------------------------------------------------------------------------
+//             //somehow need to rerender everything based on term numbers here
+//             //remove old table and make new one
+//     // ------------------------------------------------------------------------------------
 
-  }
+//   }
 
-  return (
-    <div>
-      <Button onClick={handleOpen}>Change Term</Button>
-      <Modal
-        open={open}
-        onClose={handleClose}
-        aria-labelledby="modal-modal-title"
-        aria-describedby="modal-modal-description"
-      >
-        <Box sx={style}>
-          <Typography id="modal-modal-title" variant="h6" component="h2">
-            Which term would you like to move this class to?
-          </Typography>
-          <FormControl sx={{ m: 1, minWidth: 120 }}>
-          <InputLabel id="demo-simple-select-helper-label">Term</InputLabel>
-            <Select
-            labelId="demo-simple-select-helper-label"
-            id="demo-simple-select-helper"
-            value={term}
-            label="Term"
-            onChange={handleTermChange}
-            >
-              {allTermNums.map((term) => <MenuItem value={term}>{term}</MenuItem>)}
-            </Select>
-          </FormControl>
-          <Button onClick={handleClose}>OK</Button>
-        </Box>
-      </Modal>
-    </div>
-  );
-}
+//   return (
+//     <div>
+//       <Button onClick={handleOpen}>Change Term</Button>
+//       <Modal
+//         open={open}
+//         onClose={handleClose}
+//         aria-labelledby="modal-modal-title"
+//         aria-describedby="modal-modal-description"
+//       >
+//         <Box sx={style}>
+//           <Typography id="modal-modal-title" variant="h6" component="h2">
+//             Which term would you like to move this class to?
+//           </Typography>
+//           <FormControl sx={{ m: 1, minWidth: 120 }}>
+//           <InputLabel id="demo-simple-select-helper-label">Term</InputLabel>
+//             <Select
+//             labelId="demo-simple-select-helper-label"
+//             id="demo-simple-select-helper"
+//             value={term}
+//             label="Term"
+//             onChange={handleTermChange}
+//             >
+//               {allTermNums.map((term) => <MenuItem value={term}>{term}</MenuItem>)}
+//             </Select>
+//           </FormControl>
+//           <Button onClick={handleClose}>OK</Button>
+//         </Box>
+//       </Modal>
+//     </div>
+//   );
+// }
 
 // ------------------ roadmap --------------------
 class Table  extends React.Component{
@@ -200,14 +198,133 @@ class Table  extends React.Component{
     this.size = props.numberCourses;
   }
 
-  getHtml(termNum){
+  // getHtml(termNum){
+  //   //empty array that will hold the current term's courses
+  //   var temp= [];
+  //   //setting temp array of courses based on term number of course components and termNum
+  //     //assigns values for each element from degree plan that is calling the function
+  //   for(let i=0; i < this.size; i++){
+  //     if(this.array.getTerm(i) === termNum){
+  //       temp.push(this.array.getCourse(i));
+  //     }
+  //   }
+  //   //creating html for each element of temp using json data
+  //   temp=temp.map(
+  //       (info, i)=>{
+  //           return(
+  //               <tr>
+  //                   <td>
+  //                     <ControlledCheckbox id={info.id} deg={this.array} idx={(termNum-1)*4 + i}/>
+  //                   </td>
+  //                   <td>{info.id}</td>
+  //                   <td>{info.name}</td>
+  //                   <td>{info.credits}</td>
+  //                   <td>
+  //                     <BasicModal id={info.id} deg={this.array}/>
+  //                   </td>
+  //               </tr>
+  //           );
+  //       }
+  //   );
+  //   //uses temp array to render a table with temp's html
+  //   return(
+  //       <div>
+  //           <table className="table table-striped">
+  //             <caption> Term {termNum} </caption>
+  //               <thead>
+  //                   <tr>
+  //                   <th>Course ID</th>
+  //                   <th>Course Name</th>
+  //                   <th>Credits</th>
+  //                   </tr>
+  //               </thead>
+  //               <tbody>
+  //                   {temp}
+  //               </tbody>
+  //           </table>
+  //       </div>
+  //   );
+  // }
+}
+
+
+// ------------------ creates initial roadmap --------------------
+class JsonDataDisplay extends React.Component {
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      termArray: [],
+      isOpenArr: [],
+      isOpen: false,
+      term: 0
+    };
+
+    this.BasicModal = this.BasicModal.bind(this);
+  }
+  
+  BasicModal(props) {
+    // handling modal open
+
+    const handleOpen = () => this.setState({isOpen: true})
+    // handling term dropdown selection; saves selection into term variable
+    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+
+    const handleTermChange = event => {
+      this.setState({term: event.target.value});
+    }
+  
+    //handling modal closing and updating given course's term
+    const handleClose = () => {
+      this.setState({isOpen: false})
+      // makes new course with updated term number and deleted old course with outdated term number
+      let idx = props.info.array.getIndex(props.id)
+      console.log(props.id)
+      props.info.array.insertCourse(props.info.array.getId(idx), props.info.array.getName(idx), props.info.array.getCredits(idx), this.state.term);
+      props.info.array.removeCourse(idx);
+      console.log(props.info.array)
+    }
+  
+    return (
+      <div>
+        <Button onClick={handleOpen}>Change Term</Button>
+        <Modal
+          open={this.state.isOpen}
+          onClose={handleClose}
+          aria-labelledby="modal-modal-title"
+          aria-describedby="modal-modal-description"
+        >
+          <Box sx={style}>
+            <Typography id="modal-modal-title" variant="h6" component="h2">
+              Which term would you like to move this class to?
+            </Typography>
+            <FormControl sx={{ m: 1, minWidth: 120 }}>
+            <InputLabel id="demo-simple-select-helper-label">Term</InputLabel>
+              <Select
+              labelId="demo-simple-select-helper-label"
+              id="demo-simple-select-helper"
+              value={props.idx}
+              label="Term"
+              onChange={handleTermChange}
+              >
+                {allTermNums.map((termNum) => <MenuItem value={termNum}>{termNum}</MenuItem>)}
+              </Select>
+            </FormControl>
+            <Button onClick={handleClose}>OK</Button>
+          </Box>
+        </Modal>
+      </div>
+    );
+  }
+
+  getHtml(termNum, info1){
     //empty array that will hold the current term's courses
     var temp= [];
     //setting temp array of courses based on term number of course components and termNum
       //assigns values for each element from degree plan that is calling the function
-    for(let i=0; i < this.size; i++){
-      if(this.array.getTerm(i) === termNum){
-        temp.push(this.array.getCourse(i));
+    for(let i=0; i < info1.size; i++){
+      if(info1.array.getTerm(i) === termNum){
+        temp.push(info1.array.getCourse(i));
       }
     }
     //creating html for each element of temp using json data
@@ -216,13 +333,13 @@ class Table  extends React.Component{
             return(
                 <tr>
                     <td>
-                      <ControlledCheckbox id={info.id} deg={this.array} idx={(termNum-1)*4 + i}/>
+                      <ControlledCheckbox id={info.id} deg={info.array} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td>{info.id}</td>
                     <td>{info.name}</td>
                     <td>{info.credits}</td>
                     <td>
-                      <BasicModal id={info.id} deg={this.array} idx={(termNum-1)*4 + i}/>
+                      <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
                     </td>
                 </tr>
             );
@@ -245,88 +362,6 @@ class Table  extends React.Component{
                 </tbody>
             </table>
         </div>
-    );
-  }
-}
-
-
-// ------------------ creates initial roadmap --------------------
-class JsonDataDisplay extends React.Component {
-
-  constructor(props) {
-    super(props);
-    this.state = {
-      termArray: [],
-      isOpen: false,
-      term: 0
-    };
-  }
-
-  BasicModal(props) {
-    // handling modal open
-    // const [open, setOpen] = React.useState(false);
-
-    // const handleOpen = () => setOpen(true);
-    const handleOpen = () => this.setState({isOpen: true});
-  
-    // handling term dropdown selection; saves selection into term variable
-    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-    // const [term, setTerm] = React.useState(props.deg.getCourse(props.idx).term)
-    this.setState({term: props.deg.getCourse(props.idx).term})
-
-    const handleTermChange = event => {
-      this.setState({term: event.target.value});
-    }
-  
-    //handling modal closing and updating given course's term
-    const handleClose = () => {
-      // setOpen(false);
-      this.setState({isOpen: false})
-
-      // makes new course with updated term number and deleted old course with outdated term number
-      let idx = props.deg.getIndex(props.id)
-      props.deg.insertCourse(props.deg.getId(idx), props.deg.getName(idx), props.deg.getCredits(idx), this.state.term);
-      props.deg.removeCourse(idx);
-      // console.log("-----")
-      // console.log(props.deg.getTermsArray())
-      // console.log(props.deg)
-      // console.log("-----")
-      // ------------------------------------------------------------------------------------
-              //somehow need to rerender everything based on term numbers here
-              //remove old table and make new one
-      // ------------------------------------------------------------------------------------
-  
-    }
-  
-    return (
-      <div>
-        <Button onClick={handleOpen}>Change Term</Button>
-        <Modal
-          open={this.state.isOpen}
-          onClose={handleClose}
-          aria-labelledby="modal-modal-title"
-          aria-describedby="modal-modal-description"
-        >
-          <Box sx={style}>
-            <Typography id="modal-modal-title" variant="h6" component="h2">
-              Which term would you like to move this class to?
-            </Typography>
-            <FormControl sx={{ m: 1, minWidth: 120 }}>
-            <InputLabel id="demo-simple-select-helper-label">Term</InputLabel>
-              <Select
-              labelId="demo-simple-select-helper-label"
-              id="demo-simple-select-helper"
-              value={this.state.term}
-              label="Term"
-              onChange={handleTermChange}
-              >
-                {allTermNums.map((term) => <MenuItem value={this.state.term}>{this.state.term}</MenuItem>)}
-              </Select>
-            </FormControl>
-            <Button onClick={handleClose}>OK</Button>
-          </Box>
-        </Modal>
-      </div>
     );
   }
 
@@ -366,19 +401,17 @@ class JsonDataDisplay extends React.Component {
   //brand new Table with json values
   render() {
     let info = this.assignTerms();
-    for(let i = 0; i < info.array.degree.length; i++){
-      console.log(info.array.degree[i].term)
+    for(let i = 0; i <  info.array.degree.length; i++){
+      this.state.isOpenArr.push(false)
     }
-    console.log(info.array.getTermsArray())
-    // this.setState({termsArray: info.array.getTermsArray()});
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     return(
       <div key="tableParent">
         <div className="Tables" key="parentDiv">
             {allTermNums.map((term) => 
-            <div className="classTable" key={term}>
-            {info.getHtml(term)}
-            </div>
+              <div className="classTable" key={term}>
+                {this.getHtml(term, info)}
+              </div>
             )}
         </div>
       </div>
@@ -387,3 +420,5 @@ class JsonDataDisplay extends React.Component {
 }
 
 export default JsonDataDisplay;
+
+
