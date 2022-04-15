@@ -265,8 +265,8 @@ class JsonDataDisplay extends React.Component {
   
   BasicModal(props) {
     // handling modal open
-    console.log(this.state.isOpenArr)
     const handleOpen = () => {
+      //workaround for updating a single element in a state array
       let testArr = [...this.state.isOpenArr]
       let testItem = {...testArr[props.idx]}
       testItem = true
@@ -283,6 +283,7 @@ class JsonDataDisplay extends React.Component {
   
     //handling modal closing and updating given course's term
     const handleClose = () => {
+      //workaround for updating a single element in a state array
       let testArr = [...this.state.isOpenArr]
       let testItem = {...testArr[props.idx]}
       testItem = false
@@ -314,7 +315,7 @@ class JsonDataDisplay extends React.Component {
               <Select
               labelId="demo-simple-select-helper-label"
               id="demo-simple-select-helper"
-              value={props.idx}
+              value={this.state.term}
               label="Term"
               onChange={handleTermChange}
               >
