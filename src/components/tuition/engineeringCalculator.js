@@ -1,8 +1,12 @@
 import React from 'react';
 
 
+
+
 function EngineeringCalculator(){
   //const num1 = parseInt(prompt('Enter the first number '));
+
+
   const getInputValue = (event)=>{
           // show the user input value to console
           const userValue = event.target.value;
@@ -10,10 +14,41 @@ function EngineeringCalculator(){
           console.log(userValue);
 
           var tuitionNum = parseInt(userValue);
-          tuitionNum*=303;
+          if(!checked){
+            tuitionNum*=303;
+          }else{
+            tuitionNum*=800;
+          }
 
-          document.getElementById("tuitionTotal").innerHTML = ('$' + tuitionNum);
+          document.getElementById("tuitionTotal").innerHTML = (tuitionNum);
       };
+
+      const [checked, setChecked] = React.useState(false);
+      const boxChecked = (event)=>{
+              setChecked(!checked);
+
+              var tuitionNum = document.getElementById("tuitionTotal").innerHTML;
+
+
+              if(!checked){
+                tuitionNum/=303;
+                tuitionNum*=800;
+              }else{
+                tuitionNum/=800;
+                tuitionNum*=303;
+              }
+
+              document.getElementById("tuitionTotal").innerHTML = (tuitionNum);
+          };
+
+          const Checkbox = ({ label, value, onChange }) => {
+                  return (
+                  <label>
+                    <input type="checkbox" checked={value} onChange={boxChecked} />
+                    {label}
+                  </label>
+                )
+          };
 
 
   return(
@@ -22,9 +57,17 @@ function EngineeringCalculator(){
 
     <h3> Tuition Calculator: </h3>
     <p> Enter credits: <input type="text" onChange={getInputValue} /> </p>
-    <p> *(checkbox for selecting out of state tuition costs)</p>
+    <p> *(disclaimer for estimate and fees)</p>
+    <Checkbox
+    label = "Out-of-state"
+    value = {checked}
+    onChange = {boxChecked}
+    />
 
-    <p id="tuitionTotal"> 0</p>
+    <div className = "tuitionAmount">
+      <p> $ </p>
+      <p id="tuitionTotal"> 0</p>
+    </div>
 
 
     </div>
@@ -32,5 +75,6 @@ function EngineeringCalculator(){
 
   )
 }
+
 
 export default EngineeringCalculator;

@@ -8,20 +8,21 @@ import Roadmap from './components/roadmap'
 import reportWebVitals from './reportWebVitals';
 import {
   BrowserRouter,
+  HashRouter,
   Routes,
   Route
 } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
     <Routes>
         <Route path="/about" element={<About/>}/>
         <Route path="/roadmap" element={<Roadmap/>}/>
         <Route path="/resources" element={<Resources/>}/>
         <Route path="/" element={<App/>}/>
     </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
