@@ -17,12 +17,13 @@ let totalCoursesTaken = [];
 
 // ------------------ class --------------------
 class Course {
-  constructor(id, name, credits, term) {
+  constructor(id, name, credits, term, newIndex) {
     this.id = id;
     this.name = name;
     this.credits = credits;
     this.term = term;
     this.completed = 0;
+    this.newIndex = newIndex;
   }
 }
 
@@ -31,8 +32,8 @@ class Degree {
   constructor(){
     this.degree = [];
   }
-  insertCourse(id, name, credits, term){
-    let c = new Course(id, name, credits, term);
+  insertCourse(id, name, credits, term, newIndex){
+    let c = new Course(id, name, credits, term, newIndex);
     this.degree.push(c);
   }
   removeCourse(idx){
@@ -59,6 +60,7 @@ class Degree {
   getTerm(index){
     return (this.degree[index].term);
   }
+  //doesn't work once you move stuff around
   getIndex(courseId){
     for(let i = 0; i < this.degree.length; i++){
       if(this.degree[i].id === courseId)
@@ -71,6 +73,12 @@ class Degree {
       termArray.push(this.degree[i].term)
     }
     return termArray;
+  }
+  setNewIndex(index, newIndex){
+    this.degree[index].newIndex = newIndex
+  }
+  getNewIndex(index){
+    return (this.degree[index].newIndex);
   }
 }
 
@@ -159,6 +167,7 @@ class JsonDataDisplay extends React.Component {
   BasicModal(props) {
     // handling modal open
     const handleOpen = () => {
+      this.setState({term: props.info.array.getTerm(props.info.array.getIndex(props.id))})
       //workaround for updating a single element in a state array
       let testArr = [...this.state.isOpenArr]
       let testItem = {...testArr[props.idx]}
@@ -321,7 +330,7 @@ class JsonDataDisplay extends React.Component {
     let newDegree = new Degree();
     //loop through each course found in the json file and add it to the Degree Class component
     for(let i=0; i < result.length; i++){
-      newDegree.insertCourse(result[i].code, result[i].title, 4);
+      newDegree.insertCourse(result[i].code, result[i].title, 4, 0, 0);
     }
     return newDegree;
   }
