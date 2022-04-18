@@ -153,7 +153,10 @@ function DropDowns(){
         <div></div>
         }
         {college === "engineering" && major === "comp-sci" &&
-        <JsonDataDisplay key="json"/>
+        <JsonDataDisplay key="json" major={major.value}/>
+        }
+        {college === "engineering" && major === "civil" &&
+        <JsonDataDisplay key="json" major={major.value}/>
         }
         <EngineeringCalculator/>
       </div>

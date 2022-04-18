@@ -149,7 +149,8 @@ class JsonDataDisplay extends React.Component {
       term: 0,
       firstRun: true,
       test: null,
-      previousTest: null
+      previousTest: null,
+      major: null
     };
 
     this.BasicModal = this.BasicModal.bind(this);
@@ -303,7 +304,18 @@ class JsonDataDisplay extends React.Component {
 
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
-    const parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+    var curMajor;
+    console.log('=== major', curMajor);
+    var parsedJSON;
+    if (curMajor === 'comp-sci'){
+      parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'civil') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else {
+      parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
     var result = parsedJSON.Courses;
     //create new degree plan to put the json in
     let newDegree = new Degree();
