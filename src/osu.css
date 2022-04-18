@@ -264,6 +264,28 @@ header .dropdown-menu a:hover {
   color: white;
 }
 
+.homepageDisclaimer{
+  background: #d73f09;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+  clear: left;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.disclaimerPic{
+  width: 100px;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.disclaimerText{
+  padding-left: 30px;
+  color: #ffffff;
+}
+
 .homeText {
   margin-bottom:1em;
   font-family: "Open+Sans", sans-serif;
@@ -321,6 +343,23 @@ header .dropdown-menu a:hover {
 
 .tuitionAmount{
   display: flex;
+}
+
+.teammateProfiles{
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+  clear: left;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.profilePics{
+  width: 150px;
+}
+
+.profileText{
+  padding-left: 30px;
 }
 
 footer {
