@@ -152,12 +152,10 @@ function DropDowns(){
         :
         <div></div>
         }
-        {college === "engineering" &&
+        {college === "engineering" && major === "comp-sci" &&
         <JsonDataDisplay key="json"/>
         }
-        {college === "engineering" &&
         <EngineeringCalculator/>
-        }
       </div>
   );
 }
