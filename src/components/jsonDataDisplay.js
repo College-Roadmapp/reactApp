@@ -192,8 +192,7 @@ class JsonDataDisplay extends React.Component {
       this.setState({isOpenArr: testArr})
       // makes new course with updated term number and deleted old course with outdated term number
       let idx = props.info.array.getIndex(props.id)
-      props.info.array.insertCourse(props.info.array.getId(idx), props.info.array.getName(idx), props.info.array.getCredits(idx), this.state.term);
-      props.info.array.removeCourse(idx);
+      props.info.array.getCourse(idx).term = this.state.term
       this.setState({firstRun: false})
       this.setState({previousTest: props.info})
     }
