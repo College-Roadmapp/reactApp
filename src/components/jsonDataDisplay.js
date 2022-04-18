@@ -319,7 +319,304 @@ class JsonDataDisplay extends React.Component {
     if (curMajor === 'comp-sci'){
       parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
+    else if (curMajor === 'ag-food-bus-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'agSci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'an-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bio-data') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bioresource') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'botany') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'crop-soil') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'eco-eng') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'enviro-eco-policy') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'fish-wild') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'food-sci-tech') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'horticulture') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'range-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'sus-double') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'acct') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'app-des') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bus-admin') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bus-analytics') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bus-info-sys') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'des-inn-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'finance') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'hosp-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'inn-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'int-des') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'marketing') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'merch-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'supply-chain-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'climate-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'enviro-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'geo-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'geo') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'ocean-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'ed-double-deg') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'elem-ed') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'clin-elem-ed') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'arch') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bio') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'chem') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
     else if (curMajor === 'civil') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'comp-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }    
+    else if (curMajor === 'construction-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }    
+    else if (curMajor === 'eco') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'electric') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'energy-sys') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'enviro') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'industrial') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'manufacturing') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'mechanical') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'nuclear') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'radiation') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'forestry') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'nat-resources') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'for-eng-civil-eng') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'ren-materials') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'tour-rec-adv-leader') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'amer-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'anthro') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'art-history') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'art-media-tech') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'creative-writing') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'dig-comm-art') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'economics') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'english') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'ethnic-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'french') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'german') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'graphic-design') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'history') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'inter-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'lib-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'marine-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'music') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'music-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'new-media-comm') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'philosophy') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'political-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'psychology') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'public-policy') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'religious-studies') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'social-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'sociology') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'spanish') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'speech-comm') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'women-gender-sex') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'pharmd') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'health-mgmt-policy') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'health-promo-behavior') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'human-dev-fam-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'kin') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'nutrition') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'biochem-biophys') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'biochem-molbio') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'biohealth-sci') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'bio') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'chem') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'math') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'microbio') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'physics') {
+      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
+    else if (curMajor === 'zoology') {
       parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else {
