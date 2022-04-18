@@ -473,7 +473,7 @@ class JsonDataDisplay extends React.Component {
       parsedJSON = require('./../parseHTML/FailedGrab/Radiation Health Physics Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'forestry') {
-      parsedJSON = require('./../parseHTML/failedGrab/Forestry Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../parseHTML/FailedGrab/Forestry Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'nat-resources') {
       parsedJSON = require('./../parseHTML/Success/Natural Resources Undergraduate Major (BS, HBS).json');
