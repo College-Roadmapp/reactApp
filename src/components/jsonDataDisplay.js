@@ -82,58 +82,6 @@ class Degree {
   }
 }
 
-// ------------------ checkbox --------------------
-function ControlledCheckbox(props) {
-  const [checked, setChecked] = React.useState(false);
-
-  const handleChange = (event) => {
-    setChecked(event.target.checked);
-    //user has clicked the checkbox indicating the have taken the corresponding course
-    if(event.target.checked === true){
-      //setting 'completed' of course to 1 to keep track of status
-      props.deg.getCourse(props.idx).completed = 1;
-      //adding the course to the array of all courses completed by user
-      if(!totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-        totalCoursesTaken.push(props.deg.getCourse(props.idx).id);
-        //adding the credits out of the pool of total credits completed
-        totalProgress += props.deg.getCourse(props.idx).credits;
-      }
-    }
-    //user has unclicked the checkbox indicating the have not taken the corresponding course
-    else if(event.target.checked === false){
-      //setting 'completed' of course to 0 to keep track of status
-      props.deg.getCourse(props.idx).completed = 0;
-      //remove the course from the array of all courses completed by user
-      if(totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-        var idx = totalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
-        totalCoursesTaken.splice(idx, 1);
-        //taking the credits out of the pool of total credits completed
-        totalProgress -= props.deg.getCourse(props.idx).credits;
-      }
-    }
-    //********  this is where we will want to update progress bar and mark a course as completed ******
-  };
-  return (
-      <Checkbox
-        checked={checked}
-        onChange={handleChange}
-        inputProps={{ 'aria-label': 'controlled' }}
-      />
-  );
-}
-
-
-const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
-  width: 400,
-  bgcolor: 'background.paper',
-  border: '2px solid #000',
-  boxShadow: 24,
-  p: 4,
-};
 
 // ------------------ roadmap --------------------
 class Table  extends React.Component{
@@ -158,11 +106,64 @@ class JsonDataDisplay extends React.Component {
       firstRun: true,
       test: null,
       previousTest: null,
-      major: null
+      isCheckedArr: [],
+      isChecked: false,
+      major: null,
     };
 
     this.BasicModal = this.BasicModal.bind(this);
+    this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
   }
+
+  //----------------------------------------------------------------------------------------------
+  ControlledCheckbox(props) {
+    const handleChange = (event) => {
+      console.log(props.deg)
+
+      let testArr = [...this.state.isCheckedArr]
+      let testItem = {...testArr[props.idx]}
+      testItem = true
+      testArr[props.idx] = testItem
+      this.setState({isCheckedArr: testArr})
+
+
+      //user has clicked the checkbox indicating the have taken the corresponding course
+      if(event.target.checked === true){
+        //setting 'completed' of course to 1 to keep track of status
+        props.deg.getCourse(props.idx).completed = 1;
+        //adding the course to the array of all courses completed by user
+        if(!totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
+          totalCoursesTaken.push(props.deg.getCourse(props.idx).id);
+          //adding the credits out of the pool of total credits completed
+          totalProgress += props.deg.getCourse(props.idx).credits;
+        }
+      }
+      //user has unclicked the checkbox indicating the have not taken the corresponding course
+      else if(event.target.checked === false){
+        //setting 'completed' of course to 0 to keep track of status
+        props.deg.getCourse(props.idx).completed = 0;
+        //remove the course from the array of all courses completed by user
+        if(totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
+          var idx = totalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
+          totalCoursesTaken.splice(idx, 1);
+          //taking the credits out of the pool of total credits completed
+          totalProgress -= props.deg.getCourse(props.idx).credits;
+        }
+      }
+      //********  this is where we will want to update progress bar and mark a course as completed ******
+    };
+    return (
+        <Checkbox
+          checked={this.state.isCheckedArr[props.idx]}
+          onChange={handleChange}
+          inputProps={{ 'aria-label': 'controlled' }}
+        />
+    );
+  }
+
+//----------------------------------------------------------------------------------------------
+
+
   
   BasicModal(props) {
     // handling modal open
@@ -206,7 +207,7 @@ class JsonDataDisplay extends React.Component {
           aria-labelledby="modal-modal-title"
           aria-describedby="modal-modal-description"
         >
-          <Box sx={style}>
+          <Box>
             <Typography id="modal-modal-title" variant="h6" component="h2">
               Which term would you like to move this class to?
             </Typography>
@@ -277,7 +278,7 @@ class JsonDataDisplay extends React.Component {
             return(
                 <tr>
                     <td>
-                      <ControlledCheckbox id={info.id} deg={info.array} idx={(termNum-1)*4 + i}/>
+                      <this.ControlledCheckbox id={info.id} deg={info1.array} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td>{info.id}</td>
                     <td>{info.name}</td>
