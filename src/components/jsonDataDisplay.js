@@ -8,12 +8,8 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import InputLabel from '@mui/material/InputLabel';
+import ProgressBar from "@ramonak/react-progress-bar";
 
-
-
-// ------------- variables for keeping track of progress ---------------
-let totalProgress = 0;
-let totalCoursesTaken = [];
 
 // ------------------ class --------------------
 class Course {
@@ -109,6 +105,8 @@ class JsonDataDisplay extends React.Component {
       isCheckedArr: [],
       isChecked: false,
       major: null,
+      totalProgress: 0,
+      totalCoursesTaken: []
     };
 
     this.BasicModal = this.BasicModal.bind(this);
@@ -116,6 +114,7 @@ class JsonDataDisplay extends React.Component {
   }
 
   //----------------------------------------------------------------------------------------------
+  //partially working- bug where if you click the same course over and over weird things happen
   ControlledCheckbox(props) {
     const handleChange = (event) => {
       console.log(props.deg)
@@ -127,30 +126,44 @@ class JsonDataDisplay extends React.Component {
       this.setState({isCheckedArr: testArr})
 
 
+
+      let copyOfTotalCoursesTaken = [...this.state.totalCoursesTaken]
       //user has clicked the checkbox indicating the have taken the corresponding course
       if(event.target.checked === true){
         //setting 'completed' of course to 1 to keep track of status
         props.deg.getCourse(props.idx).completed = 1;
+
+
         //adding the course to the array of all courses completed by user
-        if(!totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-          totalCoursesTaken.push(props.deg.getCourse(props.idx).id);
+        if(!copyOfTotalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
+          copyOfTotalCoursesTaken.push(props.deg.getCourse(props.idx).id)
+          this.setState({totalCoursesTaken: copyOfTotalCoursesTaken});
           //adding the credits out of the pool of total credits completed
-          totalProgress += props.deg.getCourse(props.idx).credits;
+          let tempProgress = this.state.totalProgress
+          this.setState({totalProgress: tempProgress + props.deg.getCourse(props.idx).credits});
         }
+
+
       }
       //user has unclicked the checkbox indicating the have not taken the corresponding course
       else if(event.target.checked === false){
         //setting 'completed' of course to 0 to keep track of status
         props.deg.getCourse(props.idx).completed = 0;
+
+
         //remove the course from the array of all courses completed by user
-        if(totalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-          var idx = totalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
-          totalCoursesTaken.splice(idx, 1);
+        if(copyOfTotalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
+          var idx = copyOfTotalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
+          this.setState({totalCoursesTaken: copyOfTotalCoursesTaken.splice(idx, 1)});
           //taking the credits out of the pool of total credits completed
-          totalProgress -= props.deg.getCourse(props.idx).credits;
+          let tempProgress = this.state.totalProgress
+          this.setState({totalProgress: tempProgress - props.deg.getCourse(props.idx).credits});
         }
+
+
       }
       //********  this is where we will want to update progress bar and mark a course as completed ******
+      console.log(this.state.totalProgress)
     };
     return (
         <Checkbox
@@ -656,15 +669,16 @@ class JsonDataDisplay extends React.Component {
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     return(
-      <div key="tableParent">
-        <div className="Tables" key="parentDiv">
-            {allTermNums.map((term) => 
-              <div className="classTable" key={term}>
-                {this.getHtml(term)}
-              </div>
-            )}
+        <div key="tableParent">
+          <div className="Tables" key="parentDiv">
+              {allTermNums.map((term) => 
+                <div className="classTable" key={term}>
+                  {this.getHtml(term)}
+                </div>
+              )}
+          </div>
+          <ProgressBar completed={this.state.totalProgress}/>
         </div>
-      </div>
     )
   }
 }
