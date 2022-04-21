@@ -14,14 +14,19 @@ function AppInfo(){
           </div>
         </div>
 
-        <div className="instructions"> [instructions for app] </div>
+        <div className="instructions">
+          <div className="homeText">
+            To simulate your college roadmap, follow the tab labeled “roadmap”. From there, you will be able to select your major’s college, followed by your degree. That degree’s required courses will be allocated across twelve tables to represent four years worth of academic terms. Select “change term” to move a course into a different table. Mark off completed courses using the checkboxes and view your overall progress using the progress bar. The tuition calculator will automatically produce an estimate for your tuition cost.
+            
+          </div>
+        </div>
       </div>
     </div>
     <div className="homepageDisclaimer">
       <img className="disclaimerPic" src="https://cdn-icons-png.flaticon.com/512/0/101.png" alt="alternatetext"/>
       <div className="disclaimerText">
-        <p> Disclaimer </p>
-        <p> [disclaimer] </p>
+        <p className="bold"> Disclaimer </p>
+        <p> myOSURoadmap was built by a group of OSU seniors for a year-long design project. Our team's motive is to help students envision their potential required courses and facilitate a place to customize an approximated degree map. For precise degree requirements and other specific questions, students should contact their academic advisor or their major’s college. </p>
       </div>
     </div>
   </div>

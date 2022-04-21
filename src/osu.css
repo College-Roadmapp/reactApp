@@ -25,6 +25,16 @@ p {
   font-size: 18px;
 }
 
+.bold{
+  font-weight: bold;
+}
+
+.noBreak{
+  display: flex;
+  float: left;
+
+}
+
 caption {
   width:450px;
   text-align: center;
@@ -255,35 +265,13 @@ header .dropdown-menu a:hover {
 .instructions {
   float: right;
   width: 48%;
-  height: 280px;
-  padding-left: 50px;
+  height: auto;
+  padding-left: 10px;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.8);
   display: flex;
   justify-content: center;
   color: white;
-}
-
-.homepageDisclaimer{
-  background: #d73f09;
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  float: left;
-  clear: left;
-  padding-left: 30px;
-  padding-top: 10px;
-}
-
-.disclaimerPic{
-  width: 100px;
-  padding: 10px;
-  padding-left: 30px;
-}
-
-.disclaimerText{
-  padding-left: 30px;
-  color: #ffffff;
 }
 
 .homeText {
@@ -294,6 +282,33 @@ header .dropdown-menu a:hover {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
+}
+
+.homepageDisclaimer{
+  background: #d73f09;
+  width: 100%;
+  flex-wrap: wrap;
+  float: left;
+  clear: left;
+  padding-left: 30px;
+  padding-top: 10px;
+  overflow: hidden;
+https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information}
+
+.disclaimerPic{
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.disclaimerText{
+  display: inline-block;
+  padding-left: 30px;
+  color: #ffffff;
+  width: 78%;
+  overflow: hidden;
 }
 
 .displayApp {

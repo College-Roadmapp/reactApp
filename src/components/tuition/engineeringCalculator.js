@@ -55,9 +55,8 @@ function EngineeringCalculator(){
 
     <div className="tuitionTable">
 
-    <h3> Tuition Calculator: </h3>
+    <h3> Tuition Calculator*: </h3>
     <p> Enter credits: <input type="text" onChange={getInputValue} /> </p>
-    <p> *(disclaimer for estimate and fees)</p>
     <Checkbox
     label = "Out-of-state"
     value = {checked}
@@ -68,6 +67,8 @@ function EngineeringCalculator(){
       <p> $ </p>
       <p id="tuitionTotal"> 0</p>
     </div>
+
+    <p> *This is an estimate of your college’s tuition prices and does not include additional fees. For exact rates and additional info, follow this <a href="https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information"> link. </a></p>
 
 
     </div>
