@@ -76,6 +76,13 @@ class Degree {
   getNewIndex(index){
     return (this.degree[index].newIndex);
   }
+  getTotalCredits(){
+    let credits = 0;
+    for(let i =0; i < this.degree.length; i++){
+      credits += this.degree[i].credits;
+    }
+    return credits;
+  }
 }
 
 const style = {
@@ -130,58 +137,40 @@ class JsonDataDisplay extends React.Component {
   //everything seems to be delayed by a 'round' of clicking
   ControlledCheckbox(props) {
     const handleChange = (event) => {
-
-      let testArr = [...this.state.isCheckedArr]
-      // let testItem = {...testArr[props.idx]}
-      // testItem = true
-      testArr[props.idx] = true
-      console.log(testArr)
-      console.log(this.state.isOpenArr)
-      this.setState({isCheckedArr: [...testArr]})
-      console.log(this.state.isCheckedArr)
-
-
-
       let copyOfTotalCoursesTaken = [...this.state.totalCoursesTaken]
       //user has clicked the checkbox indicating the have taken the corresponding course
       if(event.target.checked === true){
-        console.log("in true statement for check")
+        //set index in isCheckedArr to true at same index of course in degree array
+        let testArr = [...this.state.isCheckedArr]
+        testArr[props.idx] = true
+        this.setState({isCheckedArr: testArr})
         //setting 'completed' of course to 1 to keep track of status
         props.deg.getCourse(props.idx).completed = 1;
-
-
         //adding the course to the array of all courses completed by user
         if(!copyOfTotalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-          copyOfTotalCoursesTaken.push(props.deg.getCourse(props.idx).id)
-          this.setState({totalCoursesTaken: copyOfTotalCoursesTaken});
+          this.state.totalCoursesTaken.push(props.deg.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
           let tempProgress = this.state.totalProgress
-          this.setState({totalProgress: tempProgress + props.deg.getCourse(props.idx).credits});
+          this.state.totalProgress = ((tempProgress + props.deg.getCourse(props.idx).credits) * 100) / props.deg.getTotalCredits();
         }
-
-
       }
       //user has unclicked the checkbox indicating the have not taken the corresponding course
       else if(event.target.checked === false){
-        console.log("in false statement for check")
+        //set index in isCheckedArr to false at same index of course in degree array
+        let testArr = [...this.state.isCheckedArr]
+        testArr[props.idx] = false
+        this.setState({isCheckedArr: testArr})
         //setting 'completed' of course to 0 to keep track of status
         props.deg.getCourse(props.idx).completed = 0;
-
-
         //remove the course from the array of all courses completed by user
         if(copyOfTotalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
           var idx = copyOfTotalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
-          this.setState({totalCoursesTaken: copyOfTotalCoursesTaken.splice(idx, 1)});
+          this.state.totalCoursesTaken.splice(idx, 1)
           //taking the credits out of the pool of total credits completed
           let tempProgress = this.state.totalProgress
-          this.setState({totalProgress: tempProgress - props.deg.getCourse(props.idx).credits});
+          this.state.totalProgress = ((tempProgress - props.deg.getCourse(props.idx).credits)*100) / props.deg.getTotalCredits();
         }
-
-
       }
-      //********  this is where we will want to update progress bar and mark a course as completed ******
-      console.log(this.state.totalProgress)
-      console.log(this.state.totalCoursesTaken)
     };
     return (
         <Checkbox
@@ -287,14 +276,15 @@ class JsonDataDisplay extends React.Component {
     }
 
     //-------------------------------------------------------------------
-    console.log(info1.array.degree.length)
-      for(let i = 0; i < info1.array.degree.length; i++){
-        if(this.state.isOpenArr.length < info1.array.degree.length){
-          this.state.isOpenArr.push(false)
-        }
-        if(this.state.isCheckedArr.length < info1.array.degree.length){
-          this.state.isCheckedArr.push(false)
-        }
+    for(let i = 0; i < info1.array.degree.length; i++){
+      if(this.state.isOpenArr.length < info1.array.degree.length){
+        this.state.isOpenArr.push(false)
+      }
+      if(this.state.isCheckedArr.length < info1.array.degree.length){
+        this.state.isCheckedArr.push(false)
+      }
+    }
+
 
     //------------------------ start of original getHtml ---------------------------
 
@@ -343,8 +333,8 @@ class JsonDataDisplay extends React.Component {
             </table>
         </div>
     );
-  }
-  }
+}
+  
 
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
@@ -699,7 +689,7 @@ class JsonDataDisplay extends React.Component {
                 </div>
               )}
           </div>
-          {/* <ProgressBar completed={this.state.totalProgress}/> */}
+          <ProgressBar completed={Math.round(this.state.totalProgress)}/>
         </div>
     )
   }
