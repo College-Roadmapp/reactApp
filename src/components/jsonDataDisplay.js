@@ -78,6 +78,17 @@ class Degree {
   }
 }
 
+const style = {
+  position: 'absolute',
+  top: '50%',
+  left: '50%',
+  transform: 'translate(-50%, -50%)',
+  width: 400,
+  bgcolor: 'background.paper',
+  border: '2px solid #000',
+  boxShadow: 24,
+  p: 4,
+};
 
 // ------------------ roadmap --------------------
 class Table  extends React.Component{
@@ -115,21 +126,26 @@ class JsonDataDisplay extends React.Component {
 
   //----------------------------------------------------------------------------------------------
   //partially working- bug where if you click the same course over and over weird things happen
+  //once something is checked, then unchecked, it will not check again
+  //everything seems to be delayed by a 'round' of clicking
   ControlledCheckbox(props) {
     const handleChange = (event) => {
-      console.log(props.deg)
 
       let testArr = [...this.state.isCheckedArr]
-      let testItem = {...testArr[props.idx]}
-      testItem = true
-      testArr[props.idx] = testItem
-      this.setState({isCheckedArr: testArr})
+      // let testItem = {...testArr[props.idx]}
+      // testItem = true
+      testArr[props.idx] = true
+      console.log(testArr)
+      console.log(this.state.isOpenArr)
+      this.setState({isCheckedArr: [...testArr]})
+      console.log(this.state.isCheckedArr)
 
 
 
       let copyOfTotalCoursesTaken = [...this.state.totalCoursesTaken]
       //user has clicked the checkbox indicating the have taken the corresponding course
       if(event.target.checked === true){
+        console.log("in true statement for check")
         //setting 'completed' of course to 1 to keep track of status
         props.deg.getCourse(props.idx).completed = 1;
 
@@ -147,6 +163,7 @@ class JsonDataDisplay extends React.Component {
       }
       //user has unclicked the checkbox indicating the have not taken the corresponding course
       else if(event.target.checked === false){
+        console.log("in false statement for check")
         //setting 'completed' of course to 0 to keep track of status
         props.deg.getCourse(props.idx).completed = 0;
 
@@ -164,6 +181,7 @@ class JsonDataDisplay extends React.Component {
       }
       //********  this is where we will want to update progress bar and mark a course as completed ******
       console.log(this.state.totalProgress)
+      console.log(this.state.totalCoursesTaken)
     };
     return (
         <Checkbox
@@ -220,7 +238,7 @@ class JsonDataDisplay extends React.Component {
           aria-labelledby="modal-modal-title"
           aria-describedby="modal-modal-description"
         >
-          <Box>
+          <Box sx={style}>
             <Typography id="modal-modal-title" variant="h6" component="h2">
               Which term would you like to move this class to?
             </Typography>
@@ -269,9 +287,13 @@ class JsonDataDisplay extends React.Component {
     }
 
     //-------------------------------------------------------------------
+    console.log(info1.array.degree.length)
       for(let i = 0; i < info1.array.degree.length; i++){
         if(this.state.isOpenArr.length < info1.array.degree.length){
           this.state.isOpenArr.push(false)
+        }
+        if(this.state.isCheckedArr.length < info1.array.degree.length){
+          this.state.isCheckedArr.push(false)
         }
 
     //------------------------ start of original getHtml ---------------------------
@@ -677,7 +699,7 @@ class JsonDataDisplay extends React.Component {
                 </div>
               )}
           </div>
-          <ProgressBar completed={this.state.totalProgress}/>
+          {/* <ProgressBar completed={this.state.totalProgress}/> */}
         </div>
     )
   }
