@@ -61,7 +61,7 @@ function DropDowns(){
   };
   return (
       <div key="roadmap">
-        <FormControl sx={{ m: 1, minWidth: 120 }}>
+        <FormControl className="degreeSelection" sx={{ m: 1, minWidth: 120 }}>
           <InputLabel id="demo-simple-select-helper-label">College</InputLabel>
           <Select
             labelId="demo-simple-select-helper-label"
@@ -79,7 +79,7 @@ function DropDowns(){
         {college !== '' ?
         <div>
           <div>
-              <FormControl sx={{ m: 1, minWidth: 120 }}>
+              <FormControl className="degreeSelection" sx={{ m: 1, minWidth: 120 }}>
                 <InputLabel id="demo-simple-select-helper-label">Major</InputLabel>
                   <Select
                   labelId="demo-simple-select-helper-label"

@@ -184,7 +184,7 @@ class JsonDataDisplay extends React.Component {
 //----------------------------------------------------------------------------------------------
 
 
-  
+
   BasicModal(props) {
     // handling modal open
     const handleOpen = () => {
@@ -202,7 +202,7 @@ class JsonDataDisplay extends React.Component {
     const handleTermChange = event => {
       this.setState({term: event.target.value});
     }
-  
+
     //handling modal closing and updating given course's term
     const handleClose = () => {
       //workaround for updating a single element in a state array
@@ -217,10 +217,10 @@ class JsonDataDisplay extends React.Component {
       this.setState({firstRun: false})
       this.setState({previousTest: props.info})
     }
-  
+
     return (
       <div>
-        <Button onClick={handleOpen}>Change Term</Button>
+        <Button onClick={handleOpen} className="changeTerm">Change Term</Button>
         <Modal
           open={this.state.isOpenArr[props.idx]}
           onClose={handleClose}
@@ -305,9 +305,9 @@ class JsonDataDisplay extends React.Component {
                     <td>
                       <this.ControlledCheckbox id={info.id} deg={info1.array} idx={(termNum-1)*4 + i}/>
                     </td>
-                    <td>{info.id}</td>
-                    <td>{info.name}</td>
-                    <td>{info.credits}</td>
+                    <td className="courseId">{info.id}</td>
+                    <td className="courseName">{info.name}</td>
+                    <td className="courseCredits">{info.credits}</td>
                     <td>
                       <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
                     </td>
@@ -322,9 +322,10 @@ class JsonDataDisplay extends React.Component {
               <caption> Term {termNum} </caption>
                 <thead>
                     <tr>
-                    <th>Course ID</th>
-                    <th>Course Name</th>
-                    <th>Credits</th>
+                    <th></th>
+                    <th className="tableLabels"> Course ID  </th>
+                    <th className="tableLabels"> Course Name </th>
+                    <th className="tableLabels"> Credits </th>
                     </tr>
                 </thead>
                 <tbody>
@@ -334,7 +335,7 @@ class JsonDataDisplay extends React.Component {
         </div>
     );
 }
-  
+
 
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
@@ -466,10 +467,10 @@ class JsonDataDisplay extends React.Component {
     }
     else if (curMajor === 'comp-sci') {
       parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
-    }    
+    }
     else if (curMajor === 'construction-mgmt') {
       parsedJSON = require('./../parseHTML/Success/Construction Engineering Management Undergraduate Major (BA, BS, HBA, HBS).json');
-    }    
+    }
     else if (curMajor === 'eco') {
       parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
     }
@@ -675,7 +676,7 @@ class JsonDataDisplay extends React.Component {
     }
     return newTable;
   }
-  
+
 
   //brand new Table with json values
   render() {
@@ -683,7 +684,7 @@ class JsonDataDisplay extends React.Component {
     return(
         <div key="tableParent">
           <div className="Tables" key="parentDiv">
-              {allTermNums.map((term) => 
+              {allTermNums.map((term) =>
                 <div className="classTable" key={term}>
                   {this.getHtml(term)}
                 </div>

@@ -32,11 +32,16 @@ p {
 .noBreak{
   display: flex;
   float: left;
+}
 
+.degreeSelection {
+  display: flex;
+  float: left;
+  padding-bottom: 20px;
 }
 
 caption {
-  width:450px;
+  width:350px;
   text-align: center;
   font-size: 18px;
   font-weight: bold;
@@ -45,10 +50,36 @@ caption {
   border-width: thin;
 }
 
-td {
-  padding: 5px;
-  padding-left: 15px;
+
+
+.tableLabels{
+  padding-right: 12px;
+  white-space: nowrap;
+}
+
+.courseId{
+  max-width: auto;
   text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.courseName{
+  max-width: 10px;
+  text-align: left;
+  white-space: nowrap;
+  overflow: scroll;
+  font-size: 11px;
+}
+
+.courseCredits {
+  padding-left: 20px;
+}
+
+.changeTerm {
+  font-size: 5px;
+  color: #ff00ff;
 }
 
 ul{
@@ -85,6 +116,7 @@ header #site-title h1 {
   font-size:1.35rem;
 }
 
+
 header button {
   position:absolute;
   top:25px;
@@ -97,7 +129,8 @@ header button {
 }
 
 header button:hover, header button:focus {
-  color:#000;
+  color:#ff00ff;
+
 }
 
 header button i {
@@ -293,7 +326,7 @@ header .dropdown-menu a:hover {
   padding-left: 30px;
   padding-top: 10px;
   overflow: hidden;
-https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information}
+}
 
 .disclaimerPic{
   display: inline-block;
@@ -319,16 +352,18 @@ https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information}
 }
 
 .classTable{
-  width: 500px;
+  width: 400px;
   height: auto;
   box-sizing: border-box;
   background-color: rgb(247, 245, 245);
   justify-content: center;
-  padding: 30px;
-  text-align: center;
+  padding: 15px;
+  text-align: left;
+  font-size: 14px;
   margin: 20px;
   float: left;
   clear: left;
+
 }
 
 .Tables{
@@ -337,6 +372,7 @@ https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information}
   flex-wrap: wrap;
   float: left;
   clear: left;
+
 }
 
 .content {
