@@ -11,6 +11,7 @@ import InputLabel from '@mui/material/InputLabel';
 import ProgressBar from "@ramonak/react-progress-bar";
 
 
+
 // ------------------ class --------------------
 class Course {
   constructor(id, name, credits, term, newIndex) {
@@ -690,7 +691,17 @@ class JsonDataDisplay extends React.Component {
                 </div>
               )}
           </div>
-          <ProgressBar completed={Math.round(this.state.totalProgress)}/>
+          <div className="containerBar">
+            <ProgressBar
+            completed={Math.round(this.state.totalProgress)}
+            height="60px"
+            width="80%"
+            margin="20px"
+            labelAlignment="right"
+            baseBgColor="rgba(0, 0, 0, 0.35)"
+            bgColor="#d73f09"
+            />
+          </div>
         </div>
     )
   }

@@ -51,7 +51,7 @@ caption {
 }
 
 
-
+x
 .tableLabels{
   padding-right: 12px;
   white-space: nowrap;
@@ -325,7 +325,11 @@ header .dropdown-menu a:hover {
   clear: left;
   padding-left: 30px;
   padding-top: 10px;
-  overflow: hidden;
+
+  max-height: 200px;
+  min-width: 500px;
+  white-space: nowrap;
+
 }
 
 .disclaimerPic{
@@ -342,6 +346,8 @@ header .dropdown-menu a:hover {
   color: #ffffff;
   width: 78%;
   overflow: hidden;
+  white-space: normal;
+  min-width: 800px;
 }
 
 .displayApp {
@@ -385,15 +391,22 @@ header .dropdown-menu a:hover {
   width: 500px;
   box-sizing: border-box;
   padding-left: 30px;
-
   margin: 20px;
   background-color: rgb(247, 245, 245);
   float: left;
   clear: left;
+  padding-bottom: 80px;
 }
 
 .tuitionAmount{
   display: flex;
+}
+
+.containerBar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin: auto;
 }
 
 .teamDesciption{

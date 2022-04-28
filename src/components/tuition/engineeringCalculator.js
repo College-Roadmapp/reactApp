@@ -12,8 +12,14 @@ function EngineeringCalculator(){
           const userValue = event.target.value;
 
           console.log(userValue);
+          console.log("num credits: ");
+
 
           var tuitionNum = parseInt(userValue);
+
+          //tuitionNum = this.state.getTotalCredits();
+          //console.log("num credits: ");
+
           if(!checked){
             tuitionNum*=303;
           }else{
