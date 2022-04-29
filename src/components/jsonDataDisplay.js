@@ -125,6 +125,7 @@ class JsonDataDisplay extends React.Component {
       isChecked: false,
       major: null,
       totalProgress: 0,
+      totalCredits: 0,
       totalCoursesTaken: []
     };
 
@@ -140,19 +141,20 @@ class JsonDataDisplay extends React.Component {
     const handleChange = (event) => {
       let copyOfTotalCoursesTaken = [...this.state.totalCoursesTaken]
       //user has clicked the checkbox indicating the have taken the corresponding course
+      console.log(props.deg.array)
       if(event.target.checked === true){
         //set index in isCheckedArr to true at same index of course in degree array
         let testArr = [...this.state.isCheckedArr]
         testArr[props.idx] = true
         this.setState({isCheckedArr: testArr})
         //setting 'completed' of course to 1 to keep track of status
-        props.deg.getCourse(props.idx).completed = 1;
+        props.deg.array.getCourse(props.idx).completed = 1;
         //adding the course to the array of all courses completed by user
-        if(!copyOfTotalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-          this.state.totalCoursesTaken.push(props.deg.getCourse(props.idx).id)
+        if(!copyOfTotalCoursesTaken.includes(props.deg.array.getCourse(props.idx).id)){
+          this.state.totalCoursesTaken.push(props.deg.array.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
-          let tempProgress = this.state.totalProgress
-          this.state.totalProgress = ((tempProgress + props.deg.getCourse(props.idx).credits) * 100) / props.deg.getTotalCredits();
+          this.state.totalCredits += props.deg.array.getCourse(props.idx).credits
+          this.state.totalProgress = this.state.totalCredits/props.deg.array.getTotalCredits() * 100
         }
       }
       //user has unclicked the checkbox indicating the have not taken the corresponding course
@@ -162,14 +164,14 @@ class JsonDataDisplay extends React.Component {
         testArr[props.idx] = false
         this.setState({isCheckedArr: testArr})
         //setting 'completed' of course to 0 to keep track of status
-        props.deg.getCourse(props.idx).completed = 0;
+        props.deg.array.getCourse(props.idx).completed = 0;
         //remove the course from the array of all courses completed by user
-        if(copyOfTotalCoursesTaken.includes(props.deg.getCourse(props.idx).id)){
-          var idx = copyOfTotalCoursesTaken.indexOf(props.deg.getCourse(props.idx).id)
+        if(copyOfTotalCoursesTaken.includes(props.deg.array.getCourse(props.idx).id)){
+          var idx = copyOfTotalCoursesTaken.indexOf(props.deg.array.getCourse(props.idx).id)
           this.state.totalCoursesTaken.splice(idx, 1)
           //taking the credits out of the pool of total credits completed
-          let tempProgress = this.state.totalProgress
-          this.state.totalProgress = ((tempProgress - props.deg.getCourse(props.idx).credits)*100) / props.deg.getTotalCredits();
+          this.state.totalCredits -= props.deg.array.getCourse(props.idx).credits
+          this.state.totalProgress = this.state.totalCredits/props.deg.array.getTotalCredits() * 100
         }
       }
     };
@@ -304,7 +306,7 @@ class JsonDataDisplay extends React.Component {
             return(
                 <tr>
                     <td>
-                      <this.ControlledCheckbox id={info.id} deg={info1.array} idx={(termNum-1)*4 + i}/>
+                      <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td className="courseId">{info.id}</td>
                     <td className="courseName">{info.name}</td>
@@ -341,7 +343,6 @@ class JsonDataDisplay extends React.Component {
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
     var curMajor;
-    console.log('=== major', curMajor);
     var parsedJSON;
     if (curMajor === 'comp-sci'){
       parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
@@ -673,9 +674,8 @@ class JsonDataDisplay extends React.Component {
     let newDegree = new Degree();
     //---------------------------temporary baccore solution---------------------------------
     var tempBaccCore = require('./../parseHTML/BaccCore/temporaryBaccCore.json')
-    console.log(tempBaccCore.BaccCoreCourses)
     for(let i = 0; i < tempBaccCore.BaccCoreCourses.length; i++){
-      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "<Select course from category>", tempBaccCore.BaccCoreCourses[i].credits, 0)
+      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i].credits, 0)
     }
     //--------------------------------------------------------------------------------------
     // console.log(tempBaccCore)
