@@ -252,6 +252,31 @@ class JsonDataDisplay extends React.Component {
     );
   }
 
+
+  CourseDropdown(props){
+    const handleChange = () => {
+      //set selection here
+    }
+    return (
+      <Box sx={{ minWidth: 120 }}>
+        <FormControl fullWidth>
+          <InputLabel id="demo-simple-select-label">Courses</InputLabel>
+          <Select
+            labelId="demo-simple-select-label"
+            id="demo-simple-select"
+            value={0}
+            label="Courses"
+            onChange={handleChange}
+          >
+            <MenuItem value={10}>test1</MenuItem>
+            <MenuItem value={20}>test2</MenuItem>
+            <MenuItem value={30}>test3</MenuItem>
+          </Select>
+        </FormControl>
+      </Box>
+    )
+  }
+
   getHtml(termNum){
     //---------------------- assignTerms --------------------------------
     let info1 = null;
@@ -299,21 +324,58 @@ class JsonDataDisplay extends React.Component {
         temp.push(info1.array.getCourse(i));
       }
     }
+
+
+    //---------------------------- baccore arrays -----------------------------
+    var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
+    var fitnessBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['Fitness (3)']
+    var mathBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['MATHEMATICS (3)']
+    var speechBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['SPEECH (3)']
+    var write1Bacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['WRITING I (4)']
+    var write2Bacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['WRITING II (3)']
+    var bioBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)']
+    var cultDivBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['CULTURAL DIVERSITY (3)']
+    var litArtsBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['LITERATURE AND THE ARTS (3)']
+    var physBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)']
+    var westCultBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['WESTERN CULTURE (3)']
+    var socProcBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['SOCIAL PROCESSES AND INSTITUTIONS (3)']
+    var diffPowerBacc = baccore.BaccalaureateCoreCourses['Difference, Power, and Discrimination Courses (3)']
+    var sciTechSocBacc = baccore.BaccalaureateCoreCourses['Synthesis Courses (6)']['SCIENCE, TECHNOLOGY, AND SOCIETY (3)']
+    var contGlobIssBacc = baccore.BaccalaureateCoreCourses['Synthesis Courses (6)']['CONTEMPORARY GLOBAL ISSUES (3)']
+    //--------------------------------------------------------------------------
+
+
     //creating html for each element of temp using json data
     temp=temp.map(
         (info, i)=>{
             return(
+              <tbody>
+              {info.name === "BACC*" ?
                 <tr>
                     <td>
                       <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td className="courseId">{info.id}</td>
-                    <td className="courseName">{info.name}</td>
+                    <this.CourseDropdown/>
                     <td className="courseCredits">{info.credits}</td>
                     <td>
                       <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
                     </td>
                 </tr>
+                :
+                <tr>
+                  <td>
+                    <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                  </td>
+                  <td className="courseId">{info.id}</td>
+                  <td className="courseName">{info.name}</td>
+                  <td className="courseCredits">{info.credits}</td>
+                  <td>
+                    <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                  </td>
+                  </tr>
+              }
+              </tbody>
             );
         }
     )
@@ -330,9 +392,9 @@ class JsonDataDisplay extends React.Component {
                     <th className="tableLabels"> Credits </th>
                     </tr>
                 </thead>
-                <tbody>
+                {/* <tbody> */}
                     {temp}
-                </tbody>
+                {/* </tbody> */}
             </table>
         </div>
     );
