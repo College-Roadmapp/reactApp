@@ -123,12 +123,11 @@ class JsonDataDisplay extends React.Component {
       previousTest: null,
       isCheckedArr: [],
       isChecked: false,
-      major: null,
       totalProgress: 0,
       totalCredits: 0,
       totalCoursesTaken: []
     };
-
+    this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
     this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
   }
@@ -342,7 +341,8 @@ class JsonDataDisplay extends React.Component {
 
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
-    var curMajor;
+    var curMajor = this.props.major;
+    console.log('=== major', curMajor);
     var parsedJSON;
     if (curMajor === 'comp-sci'){
       parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
