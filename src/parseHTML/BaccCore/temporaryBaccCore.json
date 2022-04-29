@@ -1,0 +1,60 @@
+{
+    "BaccCoreCourses": [
+        {
+            "name": "Writing 1*",
+            "credits": 4
+        },
+        {
+            "name": "Writing 2*",
+            "credits": 3
+        },
+        {
+            "name": "Mathematics*",
+            "credits": 3
+        },
+        {
+            "name": "Speech*",
+            "credits": 3
+        },
+        {
+            "name": "Fitness*",
+            "credits": 3
+        },
+        {
+            "name": "Biological Sciences*",
+            "credits": 8
+        },
+        {
+            "name": "Cultural Diversity*",
+            "credits": 3
+        },
+        {
+            "name": "Literature and the Arts*",
+            "credits": 3
+        },
+        {
+            "name": "Physical Sciences*",
+            "credits": 4
+        },
+        {
+            "name": "Social Processes and Institutions*",
+            "credits": 3
+        },
+        {
+            "name": "Western Culture*",
+            "credits": 3
+        },
+        {
+            "name": "Difference, Power, and Discrimination*",
+            "credits": 3
+        },
+        {
+            "name": "Contemporary Global Issues*",
+            "credits": 3
+        },
+        {
+            "name": "Science, Technology, and Society*",
+            "credits": 3
+        }
+    ]
+}

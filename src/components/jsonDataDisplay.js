@@ -650,8 +650,37 @@ class JsonDataDisplay extends React.Component {
       parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     var result = parsedJSON.Courses;
-    //create new degree plan to put the json in
+    
+    //---------------------------- baccore arrays -----------------------------
+    var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
+    // var fitnessBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['Fitness (3)']
+    // var mathBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['MATHEMATICS (3)']
+    // var speechBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['SPEECH (3)']
+    // var write1Bacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['WRITING I (4)']
+    // var write2Bacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['WRITING II (3)']
+    // var bioBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)']
+    // var cultDivBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['CULTURAL DIVERSITY (3)']
+    // var litArtsBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['LITERATURE AND THE ARTS (3)']
+    // var physBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)']
+    // var westCultBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['WESTERN CULTURE (3)']
+    // var socProcBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['SOCIAL PROCESSES AND INSTITUTIONS (3)']
+    // var diffPowerBacc = baccore.BaccalaureateCoreCourses['Difference, Power, and Discrimination Courses (3)']
+    // var sciTechSocBacc = baccore.BaccalaureateCoreCourses['Synthesis Courses (6)']['SCIENCE, TECHNOLOGY, AND SOCIETY (3)']
+    // var contGlobIssBacc = baccore.BaccalaureateCoreCourses['Synthesis Courses (6)']['CONTEMPORARY GLOBAL ISSUES (3)']
+    //--------------------------------------------------------------------------
+
+
     let newDegree = new Degree();
+    //---------------------------temporary baccore solution---------------------------------
+    var tempBaccCore = require('./../parseHTML/BaccCore/temporaryBaccCore.json')
+    console.log(tempBaccCore.BaccCoreCourses)
+    for(let i = 0; i < tempBaccCore.BaccCoreCourses.length; i++){
+      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "<Select course from category>", tempBaccCore.BaccCoreCourses[i].credits, 0)
+    }
+    //--------------------------------------------------------------------------------------
+    // console.log(tempBaccCore)
+
+    //create new degree plan to put the json in
     //loop through each course found in the json file and add it to the Degree Class component
     for(let i=0; i < result.length; i++){
       newDegree.insertCourse(result[i].code, result[i].title, 4, 0, 0);
