@@ -9,58 +9,50 @@ function About(){
       <body>
         {Header()}
 
+        <div className="profiles">
+          <div className="teammateProfiles">
+            <img src={isabellePic} className="profilePics" alt="portrait" />
+            <div>
+              <h3 className="center">Isabelle Bretl</h3>
+              <p className="profileText">Computer Science, Cybersecurity</p>
+              <p className="profileText">LinkedIn</p>
+            </div>
+          </div>
+
+          <div className="teammateProfiles">
+            <img src={userPic} className="profilePics" alt="portrait" />
+            <div>
+              <h3 className="center">Trey Husko</h3>
+              <p className="profileText">Computer Science</p>
+              <p className="profileText">LinkedIn</p>
+            </div>
+          </div>
+
+
+
+          <div className="teammateProfiles">
+            <img src={userPic} className="profilePics" alt="portrait" />
+            <div>
+              <h3 className="center">Weixian Yi</h3>
+              <p className="profileText">Computer Science</p>
+              <p className="profileText">LinkedIn</p>
+            </div>
+          </div>
+
+
+
+          <div className="teammateProfiles">
+            <img src={cadenPic} className="profilePics" alt="portrait" />
+            <div>
+              <h3 className="center">Caden Verzino</h3>
+              <p className="profileText">Computer Science, Systems</p>
+              <p className="profileText">LinkedIn</p>
+            </div>
+          </div>
+        </div>
+
         <div className = "teamDesciption">
           <p>[description of how this project started]</p>
-        </div>
-
-        <div>
-          <div className="teammateProfiles">
-          <img src={isabellePic} className="profilePics" alt="portrait" />
-            <div className="profileText">
-              <p>Isabelle Bretl</p>
-              <p>Computer Science, Cybersecurity</p>
-            </div>
-          </div>
-        </div>
-
-        <div>
-          <div className="teammateProfiles">
-          <img src={userPic} className="profilePics" alt="portrait" />
-            <div className="profileText">
-              <p>Trey Husko</p>
-              <p>Computer Science</p>
-            </div>
-          </div>
-        </div>
-
-        <div>
-          <div className="teammateProfiles">
-          <img src={userPic} className="profilePics" alt="portrait" />
-            <div className="profileText">
-              <p>Weixian Yi</p>
-              <p>Computer Science</p>
-            </div>
-          </div>
-        </div>
-
-        <div>
-          <div className="teammateProfiles">
-          <img src={cadenPic} className="profilePics" alt="portrait" />
-            <div className="profileText">
-              <p>Caden Verzino</p>
-              <p>Computer Science, Systems</p>
-            </div>
-          </div>
-        </div>
-
-        <div>
-          <div className="teammateProfiles">
-          <img src={userPic} className="profilePics" alt="portrait" />
-            <div className="profileText">
-              <p>Robert Collines</p>
-              <p>Computer Science</p>
-            </div>
-          </div>
         </div>
 
       </body>
