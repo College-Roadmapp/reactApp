@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './header';
 import cadenPic from './images/caden.jpg';
 import isabellePic from './images/isabelle.jpg';
+import weixianPic from './images/weixian.png';
 import userPic from './images/userIcon.png'
 
 function About(){
@@ -28,18 +29,14 @@ function About(){
             </div>
           </div>
 
-
-
           <div className="teammateProfiles">
-            <img src={userPic} className="profilePics" alt="portrait" />
+            <img src={weixianPic} className="profilePics" alt="portrait" />
             <div>
               <h3 className="center">Weixian Yi</h3>
               <p className="profileText">Computer Science</p>
               <p className="profileText">LinkedIn</p>
             </div>
           </div>
-
-
 
           <div className="teammateProfiles">
             <img src={cadenPic} className="profilePics" alt="portrait" />
