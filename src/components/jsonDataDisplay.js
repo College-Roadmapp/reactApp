@@ -9,8 +9,37 @@ import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import InputLabel from '@mui/material/InputLabel';
 import ProgressBar from "@ramonak/react-progress-bar";
+import { makeStyles } from '@mui/styles';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { black } from '@mui/material/colors';
 
+// ------------------ style for change term buttons --------------------
 
+const useStyles = makeStyles({
+  root: {
+    background: 'black',
+    border: 0,
+    borderRadius: 3,
+    boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
+    color: 'white',
+    height: 48,
+    padding: '0 30px',
+  },
+});
+
+const theme = createTheme({
+  palette: {
+    primary: {
+      // black
+      main: '#373737',
+      disableElevation: 1,
+    },
+    secondary: {
+      // This is green.A700 as hex.
+      main: '#11cb5f',
+    },
+  },
+});
 
 // ------------------ class --------------------
 class Course {
@@ -222,7 +251,9 @@ class JsonDataDisplay extends React.Component {
 
     return (
       <div>
-        <Button onClick={handleOpen} className="changeTerm">Change Term</Button>
+        <ThemeProvider theme={theme}>
+          <Button onClick={handleOpen} size="small" >Move </Button>
+        </ThemeProvider>
         <Modal
           open={this.state.isOpenArr[props.idx]}
           onClose={handleClose}
@@ -713,7 +744,7 @@ class JsonDataDisplay extends React.Component {
       parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     var result = parsedJSON.Courses;
-    
+
     //---------------------------- baccore arrays -----------------------------
     var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
     // var fitnessBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['Fitness (3)']
