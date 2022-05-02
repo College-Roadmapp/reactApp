@@ -324,6 +324,11 @@ header .dropdown-menu a:hover {
   padding-top: 20px;
 }
 
+.clickLink{
+  color: white;
+  text-decoration: underline;
+}
+
 .homepageDisclaimer{
   background: #d73f09;
   width: 100%;
@@ -425,10 +430,10 @@ header .dropdown-menu a:hover {
   margin-left: auto;
   margin-right: auto;
   background-color: rgb(247, 245, 245);
-  text-align: center;
+  text-align: left;
   margin-top: 50px;
-
   bottom: -2em;
+  padding: 10px;
 }
 
 .profiles{

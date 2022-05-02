@@ -2,6 +2,8 @@ import React from 'react';
 import './osu.css';
 import Header from './components/header';
 import warningPic from './components/images/warning.png'
+import Resources from './components/resources';
+import { Link } from "react-router-dom";
 
 function AppInfo(){
   return(
@@ -27,7 +29,8 @@ function AppInfo(){
       <img src={warningPic} className="disclaimerPic"/>
       <div className="disclaimerText">
         <p className="bold"> Disclaimer </p>
-        <p> myOSURoadmap was built by a group of OSU seniors for a year-long design project. Our team's motive is to help students envision their potential required courses and facilitate a place to customize an approximated degree map. For precise degree requirements and other specific questions, students should contact their academic advisor or their major’s college. </p>
+        <p> Are you trying to navigate your exact roadmap that is particular to your degree(s)? MyOSURoadmap was built by a group of OSU seniors for a year-long design project that generates general degree maps. For precise degree requirements and other specific questions, students should contact their academic advisor.
+        Follow your college’s website <Link className="clickLink" to="/resources">here</Link> to locate your advising resources. </p>
       </div>
     </div>
   </div>

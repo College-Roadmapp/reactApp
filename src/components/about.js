@@ -49,7 +49,7 @@ function About(){
         </div>
 
         <div className = "teamDesciption">
-          <p>[description of how this project started]</p>
+          <p>MyOSURoadmap is a product of Oregon State's Capstone Senior Projects program. We are a team of senior computer science undergraduates who applied to work on this year-long project in partnership with OSU project instructor, Ingrid Scheel. (more about what we completed when finally done, where the project could go, technical info, goals, why we chose project)</p>
         </div>
 
       </body>
