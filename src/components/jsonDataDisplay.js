@@ -43,13 +43,15 @@ const theme = createTheme({
 
 // ------------------ class --------------------
 class Course {
-  constructor(id, name, credits, term, newIndex) {
+  constructor(id, name, bacc, baccIndex, credits, term, newIndex) {
     this.id = id;
     this.name = name;
     this.credits = credits;
     this.term = term;
     this.completed = 0;
     this.newIndex = newIndex;
+    this.bacc = bacc;
+    this.baccIndex = baccIndex;
   }
 }
 
@@ -58,8 +60,8 @@ class Degree {
   constructor(){
     this.degree = [];
   }
-  insertCourse(id, name, credits, term, newIndex){
-    let c = new Course(id, name, credits, term, newIndex);
+  insertCourse(id, name, bacc, baccIndex, credits, term, newIndex){
+    let c = new Course(id, name, bacc, baccIndex, credits, term, newIndex);
     this.degree.push(c);
   }
   removeCourse(idx){
@@ -154,7 +156,8 @@ class JsonDataDisplay extends React.Component {
       isChecked: false,
       totalProgress: 0,
       totalCredits: 0,
-      totalCoursesTaken: []
+      totalCoursesTaken: [],
+      course: "None",
     };
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
@@ -285,8 +288,9 @@ class JsonDataDisplay extends React.Component {
 
 
   CourseDropdown(props){
-    const handleChange = () => {
-      //set selection here
+    const handleChange = event => {
+      //what we are after is the array props.name.courses
+      console.log(props.id, props.credits, props.name.courses)
     }
     return (
       <Box sx={{ minWidth: 120 }}>
@@ -299,6 +303,7 @@ class JsonDataDisplay extends React.Component {
             label="Courses"
             onChange={handleChange}
           >
+            {/* {props.name.courses.map((course) => <MenuItem value={course}>{course}</MenuItem>)} */}
             <MenuItem value={10}>test1</MenuItem>
             <MenuItem value={20}>test2</MenuItem>
             <MenuItem value={30}>test3</MenuItem>
@@ -358,23 +363,22 @@ class JsonDataDisplay extends React.Component {
 
 
     //---------------------------- baccore arrays -----------------------------
-    var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
-    var fitnessBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['Fitness (3)']
-    var mathBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['MATHEMATICS (3)']
-    var speechBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['SPEECH (3)']
-    var write1Bacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['WRITING I (4)']
-    var write2Bacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['WRITING II (3)']
-    var bioBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)']
-    var cultDivBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['CULTURAL DIVERSITY (3)']
-    var litArtsBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['LITERATURE AND THE ARTS (3)']
-    var physBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)']
-    var westCultBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['WESTERN CULTURE (3)']
-    var socProcBacc = baccore.BaccalaureateCoreCourses['Perspective Courses (24)']['SOCIAL PROCESSES AND INSTITUTIONS (3)']
-    var diffPowerBacc = baccore.BaccalaureateCoreCourses['Difference, Power, and Discrimination Courses (3)']
-    var sciTechSocBacc = baccore.BaccalaureateCoreCourses['Synthesis Courses (6)']['SCIENCE, TECHNOLOGY, AND SOCIETY (3)']
-    var contGlobIssBacc = baccore.BaccalaureateCoreCourses['Synthesis Courses (6)']['CONTEMPORARY GLOBAL ISSUES (3)']
+    // var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
+    // var fitnessBacc = baccore.BaccalaureateCoreCourses.SkillCourses['Fitness (3)']
+    // var mathBacc = baccore.BaccalaureateCoreCourses.SkillCourses['MATHEMATICS (3)']
+    // var speechBacc = baccore.BaccalaureateCoreCourses.SkillCourses['SPEECH (3)']
+    // var write1Bacc = baccore.BaccalaureateCoreCourses.SkillCourses['WRITING I (4)']
+    // var write2Bacc = baccore.BaccalaureateCoreCourses.SkillCourses['WRITING II (3)']
+    // var bioBacc = baccore.BaccalaureateCoreCourses.Perspective['BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)']
+    // var cultDivBacc = baccore.BaccalaureateCoreCourses.Perspective['CULTURAL DIVERSITY (3)']
+    // var litArtsBacc = baccore.BaccalaureateCoreCourses.Perspective['LITERATURE AND THE ARTS (3)']
+    // var physBacc = baccore.BaccalaureateCoreCourses.Perspective['PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)']
+    // var westCultBacc = baccore.BaccalaureateCoreCourses.Perspective['WESTERN CULTURE (3)']
+    // var socProcBacc = baccore.BaccalaureateCoreCourses.Perspective['SOCIAL PROCESSES AND INSTITUTIONS (3)']
+    // var diffPowerBacc = baccore.BaccalaureateCoreCourses.DiffPowerDiscrimination
+    // var sciTechSocBacc = baccore.BaccalaureateCoreCourses.Synthesis['SCIENCE, TECHNOLOGY, AND SOCIETY (3)']
+    // var contGlobIssBacc = baccore.BaccalaureateCoreCourses.Synthesis['CONTEMPORARY GLOBAL ISSUES (3)']
     //--------------------------------------------------------------------------
-
 
     //creating html for each element of temp using json data
     temp=temp.map(
@@ -387,7 +391,7 @@ class JsonDataDisplay extends React.Component {
                       <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td className="courseId">{info.id}</td>
-                    <this.CourseDropdown/>
+                    <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc}/>
                     <td className="courseCredits">{info.credits}</td>
                     <td>
                       <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
@@ -746,7 +750,7 @@ class JsonDataDisplay extends React.Component {
     var result = parsedJSON.Courses;
 
     //---------------------------- baccore arrays -----------------------------
-    var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
+    // var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
     // var fitnessBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['Fitness (3)']
     // var mathBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['MATHEMATICS (3)']
     // var speechBacc = baccore.BaccalaureateCoreCourses['Skill Courses (16)']['SPEECH (3)']
@@ -768,7 +772,7 @@ class JsonDataDisplay extends React.Component {
     //---------------------------temporary baccore solution---------------------------------
     var tempBaccCore = require('./../parseHTML/BaccCore/temporaryBaccCore.json')
     for(let i = 0; i < tempBaccCore.BaccCoreCourses.length; i++){
-      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i].credits, 0)
+      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i], i, tempBaccCore.BaccCoreCourses[i].credits, 0)
     }
     //--------------------------------------------------------------------------------------
     // console.log(tempBaccCore)
@@ -776,7 +780,7 @@ class JsonDataDisplay extends React.Component {
     //create new degree plan to put the json in
     //loop through each course found in the json file and add it to the Degree Class component
     for(let i=0; i < result.length; i++){
-      newDegree.insertCourse(result[i].code, result[i].title, 4, 0, 0);
+      newDegree.insertCourse(result[i].code, result[i].title, null, null, 4, 0, 0);
     }
     return newDegree;
   }

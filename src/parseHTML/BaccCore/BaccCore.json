@@ -1,6 +1,6 @@
 {
     "BaccalaureateCoreCourses": {
-        "Skill Courses (16)": {
+        "SkillCourses": {
             "Fitness (3)": [
                 {
                     "code": "PAC",
@@ -222,7 +222,7 @@
                 }
             ]
         },
-        "Perspective Courses (24)": {
+        "Perspective": {
             "BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)": [
                 {
                     "code": "ANS 121",
@@ -2234,7 +2234,7 @@
                 }
             ]
         },
-        "Difference, Power, and Discrimination Courses (3)": [
+        "DiffPowerDiscrimination": [
             {
                 "code": "AG 301",
                 "title": "*ECOSYSTEM SCIENCE OF PACIFIC NW INDIANS",
@@ -2936,7 +2936,7 @@
                 "credits": "4"
             }
         ],
-        "Synthesis Courses (6)": {
+        "Synthesis": {
             "CONTEMPORARY GLOBAL ISSUES (3)": [
                 {
                     "code": "AEC 351",
@@ -4057,7 +4057,7 @@
                 }
             ]
         },
-        "Writing Intensive Courses (WIC) (3)": [
+        "WIC": [
             {
                 "code": "AEC 434",
                 "title": "^BENEFIT-COST ANALYSIS",
