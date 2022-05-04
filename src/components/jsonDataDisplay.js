@@ -158,10 +158,12 @@ class JsonDataDisplay extends React.Component {
       totalCredits: 0,
       totalCoursesTaken: [],
       course: "None",
+      baccoreCourses: []
     };
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
     this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
+    this.CourseDropdown = this.CourseDropdown.bind(this);
   }
 
   //----------------------------------------------------------------------------------------------
@@ -287,26 +289,28 @@ class JsonDataDisplay extends React.Component {
   }
 
 
+
   CourseDropdown(props){
+    //make state array and put value of chosen course for each dropdown as 'value'
+    //in handleChange:
+    //this.setState({choiceArr[1]: event.target.value});
+    //in return:
+    //value={this.state.choiceArr[1]}
     const handleChange = event => {
-      //what we are after is the array props.name.courses
-      console.log(props.id, props.credits, props.name.courses)
+      console.log("placeholder")
     }
     return (
-      <Box sx={{ minWidth: 120 }}>
-        <FormControl fullWidth>
+      <Box sx={{ minWidth: 120}}>
+        <FormControl fullWidth >
           <InputLabel id="demo-simple-select-label">Courses</InputLabel>
           <Select
             labelId="demo-simple-select-label"
             id="demo-simple-select"
-            value={0}
+            value={props.id}
             label="Courses"
             onChange={handleChange}
           >
-            {/* {props.name.courses.map((course) => <MenuItem value={course}>{course}</MenuItem>)} */}
-            <MenuItem value={10}>test1</MenuItem>
-            <MenuItem value={20}>test2</MenuItem>
-            <MenuItem value={30}>test3</MenuItem>
+            {props.name.courses.map(({code, title, credits}) => <MenuItem value={code}>{code}</MenuItem>)}
           </Select>
         </FormControl>
       </Box>
@@ -775,7 +779,6 @@ class JsonDataDisplay extends React.Component {
       newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i], i, tempBaccCore.BaccCoreCourses[i].credits, 0)
     }
     //--------------------------------------------------------------------------------------
-    // console.log(tempBaccCore)
 
     //create new degree plan to put the json in
     //loop through each course found in the json file and add it to the Degree Class component
