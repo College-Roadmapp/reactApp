@@ -68,8 +68,7 @@ caption {
   min-width: 8px;
   max-width: 12px;
   text-align: left;
-  white-space: nowrap;
-  overflow: scroll;
+  
   font-size: 11px;
 }
 
@@ -384,8 +383,10 @@ header .dropdown-menu a:hover {
 
 .Tables{
 
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
   float: left;
   clear: left;
 
