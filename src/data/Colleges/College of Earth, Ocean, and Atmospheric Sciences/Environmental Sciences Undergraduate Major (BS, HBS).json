@@ -1,0 +1,730 @@
+{"$program_name":[
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 204",
+        "title": "*INTRODUCTORY BIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "BI 205",
+        "title": "*INTRODUCTORY BIOLOGY II",
+        "credits": "4"
+    },
+    {
+        "code": "BI 206",
+        "title": "*INTRODUCTORY BIOLOGY III",
+        "credits": "4"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 202",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ENSC 101",
+        "title": "ENVIRONMENTAL SCIENCES ORIENTATION 1",
+        "credits": "1"
+    },
+    {
+        "code": "ENSC 452/GEOG 452",
+        "title": "ENVIRONMENTAL ASSESSMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ATS 201",
+        "title": "*CLIMATE SCIENCE 1",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 310",
+        "title": "METEOROLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 420",
+        "title": "CLIMATE PHYSICS",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 323",
+        "title": "^CLIMATOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 370",
+        "title": "ECOLOGY 1",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 324",
+        "title": "^ECOLOGICAL BIOGEOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "CSS 205",
+        "title": "*SOIL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 201",
+        "title": "*PHYSICAL GEOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 202",
+        "title": "*EARTH SYSTEMS SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 221",
+        "title": "*ENVIRONMENTAL GEOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 322",
+        "title": "SURFACE PROCESSES",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 102",
+        "title": "*PHYSICAL GEOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "SOIL 205",
+        "title": "SOIL SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
+        "credits": "1"
+    },
+    {
+        "code": "SOIL 395",
+        "title": "^WORLD SOIL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 456",
+        "title": "FRESHWATER ECOLOGY AND CONSERVATION",
+        "credits": "5"
+    },
+    {
+        "code": "GEO 487",
+        "title": "HYDROGEOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 340",
+        "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY 1",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 424",
+        "title": "HYDROLOGY FOR WATER RESOURCES MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "OC 201",
+        "title": "*OCEANOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY 1"
+    },
+    {
+        "code": "AEC 432",
+        "title": "ENVIRONMENTAL LAW",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS 1",
+        "credits": "4"
+    },
+    {
+        "code": "FES 486",
+        "title": "^PUBLIC LANDS POLICY AND MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FOR 462",
+        "title": "NATURAL RESOURCE POLICY AND LAW",
+        "credits": "3"
+    },
+    {
+        "code": "FW 324",
+        "title": "*FOOD FROM THE SEA",
+        "credits": "3"
+    },
+    {
+        "code": "FW 415",
+        "title": "FISHERIES AND WILDLIFE LAW AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 422",
+        "title": "INTRODUCTION TO OCEAN LAW",
+        "credits": "3"
+    },
+    {
+        "code": "FW 462",
+        "title": "ECOSYSTEM SERVICES",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 340",
+        "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 450",
+        "title": "LAND USE IN THE AMERICAN WEST",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 451",
+        "title": "PLANNING PRINCIPLES AND PRACTICES FOR RESILIENT COMMUNITIES",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 446",
+        "title": "THE POLICY AND LAW OF U.S. COASTAL GOVERNANCE",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 447",
+        "title": "INTEGRATED POLICY: FOOD, ENERGY, WATER, CLIMATE",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 448",
+        "title": "MARINE POLICY IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 473",
+        "title": "US ENERGY POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY 1",
+        "credits": "4"
+    },
+    {
+        "code": "PS 476",
+        "title": "*SCIENCE AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 360",
+        "title": "*POPULATION TRENDS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "CH 374",
+        "title": "*TECHNOLOGY, ENERGY, AND RISK",
+        "credits": "3"
+    },
+    {
+        "code": "ES 353",
+        "title": "*ENVIRONMENTAL RACISM",
+        "credits": "4"
+    },
+    {
+        "code": "ES 448/PHL 448/REL 448",
+        "title": "NATIVE AMERICAN PHILOSOPHIES",
+        "credits": "4"
+    },
+    {
+        "code": "FES 435/TOX 435",
+        "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
+        "credits": "3"
+    },
+    {
+        "code": "FES 485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 309",
+        "title": "*ENVIRONMENTAL JUSTICE 1",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 325",
+        "title": "*SCIENTIFIC REASONING",
+        "credits": "4"
+    },
+    {
+        "code": "PHL 440",
+        "title": "*ENVIRONMENTAL ETHICS",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 443/REL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "PPOL 441/SOC 482",
+        "title": "*ENERGY, CLIMATE AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 447",
+        "title": "INTEGRATED POLICY: FOOD, ENERGY, WATER, CLIMATE",
+        "credits": "4"
+    },
+    {
+        "code": "PS 461",
+        "title": "ENVIRONMENTAL POLITICAL THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 456",
+        "title": "*SCIENCE AND TECHNOLOGY IN SOCIAL CONTEXT",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 331",
+        "title": "*SUSTAINABILITY, JUSTICE, AND ENGAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "AG 301",
+        "title": "*ECOSYSTEM SCIENCE OF PACIFIC NW INDIANS",
+        "credits": "3"
+    },
+    {
+        "code": "BI 301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "BI 347",
+        "title": "*OCEANS IN PERIL",
+        "credits": "3"
+    },
+    {
+        "code": "BI 348",
+        "title": "*HUMAN ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "EAH 411",
+        "title": "*PERSPECTIVES IN ENVIRONMENTAL ARTS AND HUMANITIES",
+        "credits": "4"
+    },
+    {
+        "code": "ENSC 479",
+        "title": "^ENVIRONMENTAL CASE STUDIES 1",
+        "credits": "3"
+    },
+    {
+        "code": "FW 324",
+        "title": "*FOOD FROM THE SEA",
+        "credits": "3"
+    },
+    {
+        "code": "FW 325",
+        "title": "*GLOBAL CRISES IN RESOURCE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 470",
+        "title": "*ECOLOGY AND HISTORY: LANDSCAPES OF THE COLUMBIA BASIN",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 308",
+        "title": "*GLOBAL CHANGE AND EARTH SCIENCES",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 203",
+        "title": "*HUMAN-ENVIRONMENT GEOGRAPHY",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 300",
+        "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 350",
+        "title": "*GEOGRAPHY OF NATURAL HAZARDS",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 431",
+        "title": "GLOBAL RESOURCES AND DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "HST 481",
+        "title": "*ENVIRONMENTAL HISTORY OF THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "OC 333",
+        "title": "*OCEANS, COASTS, AND PEOPLE",
+        "credits": "3"
+    },
+    {
+        "code": "SUS 102",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY 1",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 350",
+        "title": "*SUSTAINABLE COMMUNITIES 1",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "WR 462",
+        "title": "^ENVIRONMENTAL WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "Z 349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION 1",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 413/FOR 413",
+        "title": "FOREST PATHOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ENT 331/HORT 331",
+        "title": "*POLLINATORS IN PERIL",
+        "credits": "3"
+    },
+    {
+        "code": "FES 350/HORT 350",
+        "title": "URBAN FORESTRY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 355",
+        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "FES 365",
+        "title": "*ISSUES IN NATURAL RESOURCES CONSERVATION 1",
+        "credits": "3"
+    },
+    {
+        "code": "FES 412",
+        "title": "FOREST ENTOMOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 445/FW 445",
+        "title": "ECOLOGICAL RESTORATION"
+    },
+    {
+        "code": "FOR 346",
+        "title": "TOPICS IN WILDLAND FIRE",
+        "credits": "3"
+    },
+    {
+        "code": "FW 251",
+        "title": "PRINCIPLES OF FISH AND WILDLIFE CONSERVATION",
+        "credits": "3"
+    },
+    {
+        "code": "FW 323",
+        "title": "MANAGEMENT PRINCIPLES OF PACIFIC SALMON IN THE NORTHWEST",
+        "credits": "3"
+    },
+    {
+        "code": "FW 326",
+        "title": "INTEGRATED WATERSHED MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "FW 464",
+        "title": "MARINE CONSERVATION BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 306",
+        "title": "*MINERALS, ENERGY, WATER, AND THE ENVIRONMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 430",
+        "title": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 440",
+        "title": "CONFLICT, COOPERATION, AND CONTROL OF WATER IN THE US",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 441",
+        "title": "THE WORLD'S WATER",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 452",
+        "title": "ENVIRONMENTAL ASSESSMENT",
+        "credits": "3"
+    },
+    {
+        "code": "NR 455",
+        "title": "NATURAL RESOURCE DECISION MAKING 1",
+        "credits": "4"
+    },
+    {
+        "code": "RNG 341",
+        "title": "RANGELAND ECOLOGY AND MANAGEMENT 1",
+        "credits": "3"
+    },
+    {
+        "code": "RNG 355",
+        "title": "DESERT WATERSHED MANAGEMENT 1",
+        "credits": "4"
+    },
+    {
+        "code": "RNG 421",
+        "title": "WILDLAND RESTORATION AND ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "RNG 455",
+        "title": "RIPARIAN ECOHYDROLOGY AND MANAGEMENT 1",
+        "credits": "4"
+    },
+    {
+        "code": "RNG 490",
+        "title": "RANGELAND MANAGEMENT PLANNING",
+        "credits": "4"
+    },
+    {
+        "code": "TRAL 352",
+        "title": "WILDERNESS MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ENSC 401",
+        "title": "RESEARCH AND SCHOLARSHIP",
+        "credits": "1-16"
+    },
+    {
+        "code": "ENSC 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "ENSC 410",
+        "title": "ENVIRONMENTAL SCIENCE INTERNSHIP",
+        "credits": "1-12"
+    },
+    {
+        "code": "BI 371",
+        "title": "^ECOLOGICAL METHODS",
+        "credits": "3"
+    },
+    {
+        "code": "BI 373",
+        "title": "^FIELD METHODS IN MARINE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 375",
+        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 321",
+        "title": "PLANT SYSTEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 440",
+        "title": "FIELD METHODS IN PLANT ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "RNG 441",
+        "title": "RANGELAND ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "SOIL 466",
+        "title": "SOIL MORPHOLOGY AND CLASSIFICATION",
+        "credits": "4"
+    }
+]}

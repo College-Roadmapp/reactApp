@@ -1,0 +1,284 @@
+{
+    "Courses": [
+        {
+            "code": "ART 210",
+            "title": "*HISTORY OF WESTERN ARCHITECTURE",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits":  "4"
+        },
+        {
+            "code": "PHL 205",
+            "title": "*ETHICS",
+            "credits":  "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits":  "4"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits":  "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits":  "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits":  "4"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits":  "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        {
+            "code": "MTH 265",
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits":  "4"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits":  "4"
+        },
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "CCE 201",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "CCE 207",
+            "title": "CCE SEMINAR",
+            "credits": "1"
+        },
+        {
+            "code": "CCE 203",
+            "title": "INTRODUCTION TO VIRTUAL DESIGN AND CONSTRUCTION",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 212",
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 213",
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "CE 381",
+            "title": "STRUCTURAL THEORY I",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 382",
+            "title": "STRUCTURAL THEORY II",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 383",
+            "title": "DESIGN OF STEEL STRUCTURES",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 481",
+            "title": "REINFORCED CONCRETE I",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 484",
+            "title": "WOOD DESIGN",
+            "credits":  "4"
+        },
+        {
+            "code": "CEM 341",
+            "title": "CONSTRUCTION ESTIMATING I",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 420",
+            "title": "ENGINEERING PLANNING",
+            "credits":  "4"
+        },
+        {
+            "code": "CEM 442",
+            "title": "BUILDING CONSTRUCTION MANAGEMENT",
+            "credits":  "4"
+        },
+        {
+            "code": "ARE 451",
+            "title": "ADVANCED BUILDING CONSTRUCTION METHODS",
+            "credits":  "4"
+        },
+        {
+            "code": "ENGR 201",
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        {
+            "code": "CEM 471",
+            "title": "ELECTRICAL FACILITIES",
+            "credits":  "4"
+        },
+        {
+            "code": "ARE 352",
+            "title": "DESIGN OF ELECTRICAL AND ILLUMINATION SYSTEMS FOR BUILDINGS",
+            "credits":  "4"
+        },
+        {
+            "code": "CEM 311",
+            "title": "HYDRAULICS",
+            "credits":  "4"
+        },
+        {
+            "code": "CEM 472",
+            "title": "MECHANICAL FACILITIES",
+            "credits": "3"
+        },
+        {
+            "code": "ARE 353",
+            "title": "DESIGN OF HVAC SYSTEMS FOR BUILDINGS",
+            "credits":  "4"
+        },
+        {
+            "code": "CCE 321",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 372",
+            "title": "GEOTECHNICAL ENGINEERING I",
+            "credits":  "4"
+        },
+        {
+            "code": "CCE 422",
+            "title": "GREEN BUILDING MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "ARE 418",
+            "title": "^ARCHITECTURAL ENGINEERING PROFESSIONAL PRACTICE (Capstone)",
+            "credits":  "4"
+        },
+        {
+            "code": "ARE 419",
+            "title": "^ARCHITECTURAL ENGINEERING DESIGN (Capstone)",
+            "credits": "3"
+        },
+        {
+            "code": "CE 482",
+            "title": "MASONRY DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "CE 427",
+            "title": "TEMPORARY CONSTRUCTION STRUCTURES",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 373",
+            "title": "GEOTECHNICAL ENGINEERING II",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 580",
+            "title": "SELECTED TOPICS IN STRUCTURAL DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "WSE 592",
+            "title": "ADVANCED WOOD DESIGN",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 424",
+            "title": "CONTRACTS AND SPECIFICATIONS",
+            "credits":  "4"
+        },
+        {
+            "code": "CEM 431",
+            "title": "OBTAINING CONSTRUCTION CONTRACTS",
+            "credits":  "4"
+        },
+        {
+            "code": "CEM 443",
+            "title": "^PROJECT MANAGEMENT FOR CONSTRUCTION",
+            "credits":  "4"
+        },
+        {
+            "code": "CE 594",
+            "title": "TRANSPORT FACILITY DESIGN",
+            "credits":  "4"
+        }
+    ]
+}

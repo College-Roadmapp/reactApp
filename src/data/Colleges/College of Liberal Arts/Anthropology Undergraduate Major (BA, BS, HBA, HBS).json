@@ -1,0 +1,42 @@
+{"$program_name":[
+    {
+        "code": "ANTH 101",
+        "title": "*INTRODUCTION TO ANTHROPOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 210",
+        "title": "*COMPARATIVE CULTURES",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 230",
+        "title": "TIME TRAVELERS",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 240",
+        "title": "INTRODUCTION TO BIOLOGICAL ANTHROPOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 345",
+        "title": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 350",
+        "title": "LANGUAGE, CULTURE AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 370",
+        "title": "^ANTHROPOLOGICAL THEORIES",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 475",
+        "title": "ANTHROPOLOGY IN PRACTICE",
+        "credits": "4"
+    }
+]}

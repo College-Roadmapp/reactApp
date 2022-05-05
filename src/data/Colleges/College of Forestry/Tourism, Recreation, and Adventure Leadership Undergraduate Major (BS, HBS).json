@@ -1,0 +1,92 @@
+{"$program_name":[
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "FES 422",
+        "title": "RESEARCH METHODS IN SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "FES 485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
+        "credits": "3"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FES 202",
+        "title": "SOFTWARE TOOLS IN QUANTITATIVE SOCIAL SCIENCE RESEARCH",
+        "credits": "3"
+    },
+    {
+        "code": "TRAL 493",
+        "title": "ENVIRONMENTAL INTERPRETATION",
+        "credits": "4"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 350",
+        "title": "*SUSTAINABLE COMMUNITIES",
+        "credits": "4"
+    },
+    {
+        "code": "TRAL 353",
+        "title": "NATURE, ECO, AND ADVENTURE TOURISM",
+        "credits": "4"
+    },
+    {
+        "code": "TRAL 357",
+        "title": "*PARKS AND PROTECTED AREAS MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FES 444",
+        "title": "ECOLOGICAL ASPECTS OF PARK MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "TRAL 352",
+        "title": "WILDERNESS MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "4"
+    }
+]}

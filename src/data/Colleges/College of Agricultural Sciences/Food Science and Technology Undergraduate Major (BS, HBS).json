@@ -1,0 +1,357 @@
+{"$program_name":[
+    {
+        "code": "BEE 472",
+        "title": "INTRODUCTION TO FOOD ENGINEERING PRINCIPLES",
+        "credits": "5"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "FST 420",
+        "title": "SENSORY EVALUATION OF FOOD",
+        "credits": "3"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "FST 422",
+        "title": "FOOD CHEMISTRY FUNDAMENTALS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "FST 460",
+        "title": "CHEMISTRY AND BIOCHEMISTRY OF BEER",
+        "credits": "3"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "FST 466",
+        "title": "CHEMISTRY AND BIOCHEMISTRY OF WINE",
+        "credits": "3"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "FST 479",
+        "title": "FERMENTATION MICROBIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 350",
+        "title": "ELEMENTARY BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "CH 324",
+        "title": "QUANTITATIVE ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 337",
+        "title": "ORGANIC CHEMISTRY LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MB 302",
+        "title": "GENERAL MICROBIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MB 303",
+        "title": "GENERAL MICROBIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "WR 362",
+        "title": "*SCIENCE WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "BEE 472",
+        "title": "INTRODUCTION TO FOOD ENGINEERING PRINCIPLES",
+        "credits": "5"
+    },
+    {
+        "code": "BEE 473",
+        "title": "INTRODUCTION TO FOOD ENGINEERING PROCESS DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "FST 360",
+        "title": "FOOD SAFETY AND SANITATION",
+        "credits": "3"
+    },
+    {
+        "code": "FST 370",
+        "title": "INDUSTRY PREPARATION/HACCP",
+        "credits": "3"
+    },
+    {
+        "code": "FST 385",
+        "title": "^COMMUNICATING FOOD AND FERMENTATION SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "FST 407",
+        "title": "SENIOR SEMINAR",
+        "credits": "1"
+    },
+    {
+        "code": "FST 421",
+        "title": "*FOOD LAW",
+        "credits": "3"
+    },
+    {
+        "code": "FST 422",
+        "title": "FOOD CHEMISTRY FUNDAMENTALS",
+        "credits": "4"
+    },
+    {
+        "code": "FST 425",
+        "title": "FOOD SYSTEMS CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    }
+]}

@@ -1,0 +1,372 @@
+{"$program_name":[
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "HHS 241",
+        "title": "*LIFETIME FITNESS (or PAC course)",
+        "credits": "1"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION (Must be taken in first 45 credits)",
+        "credits": "4"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY (recommended)",
+        "credits": "3"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 100",
+        "title": "ORIENTATION TO ANIMAL AND RANGELAND SCIENCES",
+        "credits": "1"
+    },
+    {
+        "code": "ANS 121",
+        "title": "*INTRODUCTION TO ANIMAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 207",
+        "title": "SOPHOMORE SEMINAR",
+        "credits": "2"
+    },
+    {
+        "code": "ANS 251",
+        "title": "PRINCIPLES OF ANIMAL FOODS TECHNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 311",
+        "title": "PRINCIPLES OF ANIMAL NUTRITION",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 313",
+        "title": "APPLIED ANIMAL NUTRITION: FEEDS AND RATION FORMULATION",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 314",
+        "title": "ANIMAL PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 316",
+        "title": "REPRODUCTION IN DOMESTIC ANIMALS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 317",
+        "title": "REPRODUCTION IN DOMESTIC ANIMALS LABORATORY",
+        "credits": "1"
+    },
+    {
+        "code": "ANS 378",
+        "title": "ANIMAL GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 420",
+        "title": "^ETHICAL ISSUES IN ANIMAL AGRICULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 215",
+        "title": "BEEF/DAIRY INDUSTRIES",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 216",
+        "title": "SMALL RUMINANT/SWINE INDUSTRIES",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 217",
+        "title": "POULTRY INDUSTRIES",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 220",
+        "title": "INTRODUCTORY HORSE SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 280",
+        "title": "COMPANION ANIMAL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 430",
+        "title": "EQUINE SYSTEMS I: EXERCISE SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 431",
+        "title": "APPLIED EQUINE NUTRITION",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 432",
+        "title": "EQUINE SYSTEMS III: REPRODUCTION",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 433",
+        "title": "POULTRY MEAT PRODUCTION SYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 434",
+        "title": "EGG PRODUCTION SYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 436",
+        "title": "SHEEP PRODUCTION SYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 439",
+        "title": "DAIRY PRODUCTION SYSTEMS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 445",
+        "title": "BEEF PRODUCTION SYSTEMS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 456",
+        "title": "COMPANION ANIMAL PRODUCTION SYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 460",
+        "title": "SWINE PRODUCTION SYSTEMS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 315",
+        "title": "*CONTENTIOUS SOCIAL ISSUES IN ANIMAL AGRICULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 321",
+        "title": "AVIAN EMBRYO",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 333",
+        "title": "EQUINE STABLE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 341",
+        "title": "ANIMAL BEHAVIOR AND COGNITION",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 351",
+        "title": "ADVANCED PRINCIPLES OF ANIMAL FOODS TECHNOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 380",
+        "title": "PRINCIPLES OF ANIMAL ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 385",
+        "title": "FOUNDATIONS OF MAMMALIAN HISTOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 390",
+        "title": "GROSS ANATOMY OF DOMESTIC ANIMALS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 401",
+        "title": "RESEARCH",
+        "credits": "1-16"
+    },
+    {
+        "code": "ANS 410",
+        "title": "ANIMAL SCIENCE INTERNSHIP (3 credit maximum will count toward the two-class requirement)",
+        "credits": "1-12"
+    },
+    {
+        "code": "ANS 427",
+        "title": "APPLIED PHYSIOLOGY OF REPRODUCTION",
+        "credits": "5"
+    },
+    {
+        "code": "ANS 435",
+        "title": "APPLIED ANIMAL BEHAVIOR",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 441",
+        "title": "TOPICS IN ANIMAL LEARNING",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 446",
+        "title": "GRAZING LIVESTOCK PRODUCTION",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 452",
+        "title": "LIVESTOCK HOUSING AND WASTE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 511",
+        "title": "DIGESTIVE PHYSIOLOGY AND NUTRITION OF RUMINANT ANIMALS",
+        "credits": "4"
+    },
+    {
+        "code": "ANS 512",
+        "title": "MONOGASTRIC AND POULTRY NUTRITION",
+        "credits": "3"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 331",
+        "title": "*INTRODUCTION TO MOLECULAR BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MB 230",
+        "title": "*INTRODUCTORY MICROBIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 211",
+        "title": "AGRICULTURAL AND FOOD MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 221",
+        "title": "AGRICULTURAL AND FOOD MARKETING",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 388",
+        "title": "AGRICULTURAL LAW",
+        "credits": "4"
+    },
+    {
+        "code": "BA 260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+        "credits": "4"
+    }
+]}

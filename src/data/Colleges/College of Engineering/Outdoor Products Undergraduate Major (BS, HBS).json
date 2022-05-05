@@ -1,0 +1,174 @@
+{
+    "Courses": [
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "CH 121",
+            "title": "GENERAL CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 248",
+            "title": "ENGINEERING GRAPHICS AND 3-D MODELING",
+            "credits": "3"
+        },
+        {
+            "code": "ST 201",
+            "title": "PRINCIPLES OF STATISTICS",
+            "credits": "4"
+        },
+        {
+            "code": "ST 202",
+            "title": "PRINCIPLES OF STATISTICS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "BA 161",
+            "title": "INNOVATION NATION--AWARENESS TO ACTION",
+            "credits": "3"
+        },
+        {
+            "code": "BA 162",
+            "title": "INNOVATION NATION--IDEAS TO REALITY",
+            "credits": "3"
+        },
+        {
+            "code": "BA 260",
+            "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+            "credits": "4"
+        },
+        {
+            "code": "BA 390",
+            "title": "PRINCIPLES OF MARKETING",
+            "credits": "4"
+        },
+        {
+            "code": "BA 357",
+            "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "DSGN 341",
+            "title": "DESIGN THINKING AND PROCESS INNOVATION",
+            "credits": "4"
+        },
+        {
+            "code": "OP 101",
+            "title": "INTRODUCTION TO THE OUTDOOR PRODUCTS INDUSTRY",
+            "credits": "4"
+        },
+        {
+            "code": "OP 231",
+            "title": "EXPERIENCE OUTDOOR PRODUCTS - WATER",
+            "credits": "2"
+        },
+        {
+            "code": "OP 232",
+            "title": "EXPERIENCE OUTDOOR PRODUCTS - WINTER",
+            "credits": "2"
+        },
+        {
+            "code": "OP 233",
+            "title": "EXPERIENCE OUTDOOR PRODUCTS - LAND",
+            "credits": "2"
+        },
+        {
+            "code": "OP 301",
+            "title": "OUTDOOR PRODUCTS PROCESS CONNECTIONS",
+            "credits": "4"
+        },
+        {
+            "code": "OP 351",
+            "title": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT I",
+            "credits": "4"
+        },
+        {
+            "code": "OP 352",
+            "title": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT II",
+            "credits": "4"
+        },
+        {
+            "code": "OP 353",
+            "title": "OUTDOOR PRODUCTS FAILURE",
+            "credits": "4"
+        },
+        {
+            "code": "OP 360",
+            "title": "OUTDOOR PRODUCTS BRANDING, MERCHANDISING AND SALES",
+            "credits": "4"
+        },
+        {
+            "code": "AEC 352",
+            "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+            "credits": "3"
+        },
+        {
+            "code": "GEO 309",
+            "title": "*ENVIRONMENTAL JUSTICE",
+            "credits": "3"
+        },
+        {
+            "code": "SUS 102",
+            "title": "*INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY",
+            "credits": "4"
+        },
+        {
+            "code": "SUS 304",
+            "title": "*SUSTAINABILITY ASSESSMENT",
+            "credits": "4"
+        },
+        {
+            "code": "TRAL 251",
+            "title": "RECREATION RESOURCE MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "TRAL 132",
+            "title": "*FOUNDATIONS AND HISTORY OF OUTDOOR AND ADVENTURE PROFESSIONS",
+            "credits": "3"
+        },
+        {
+            "code": "TRAL 352",
+            "title": "WILDERNESS MANAGEMENT",
+            "credits": "3"
+        },
+        {
+            "code": "OP 307",
+            "title": "OUTDOOR PRODUCTS PRE-PRACTICUM SEMINAR",
+            "credits": "1"
+        },
+        {
+            "code": "OP 309",
+            "title": "OUTDOOR PRODUCTS PRACTICUM",
+            "credits": "3"
+        },
+        {
+            "code": "OP 410",
+            "title": "OUTDOOR PRODUCTS INTERNSHIP",
+            "credits": "4"
+        },
+        {
+            "code": "OP 450",
+            "title": "^OUTDOOR PRODUCTS CAPSTONE I",
+            "credits": "4"
+        },
+        {
+            "code": "OP 451",
+            "title": "^OUTDOOR PRODUCTS CAPSTONE II",
+            "credits": "4"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{"$program_name":[
+    {
+        "code": "BA 275",
+        "title": "FOUNDATIONS OF STATISTICAL INFERENCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 375",
+        "title": "APPLIED QUANTITATIVE METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 474",
+        "title": "DATA MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "BA 475",
+        "title": "DATA EXPLORATION AND VISUALIZATION",
+        "credits": "3"
+    },
+    {
+        "code": "BA 476",
+        "title": "DATA AND TEXT MINING",
+        "credits": "3"
+    },
+    {
+        "code": "BA 481",
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS",
+        "credits": "4"
+    }
+]}

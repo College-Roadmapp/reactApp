@@ -1,0 +1,422 @@
+{"$program_name":[
+    {
+        "code": "PS 331",
+        "title": "*STATE AND LOCAL POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 371",
+        "title": "PUBLIC POLICY PROBLEMS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 372",
+        "title": "PUBLIC ADMINISTRATION",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 407",
+        "title": "SEMINAR",
+        "credits": "1-6"
+    },
+    {
+        "code": "PPOL 413",
+        "title": "ETHICS IN PUBLIC POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 435",
+        "title": "PUBLIC ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 458",
+        "title": "INTERNATIONAL POLITICAL ECONOMY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 360",
+        "title": "*POPULATION TRENDS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 421",
+        "title": "INTRODUCTION TO POLICY RESEARCH",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 422",
+        "title": "^POLICY ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "PPOL 410",
+        "title": "INTERNSHIP/WORK EXPERIENCE",
+        "credits": "1-12"
+    },
+    {
+        "code": "AEC 253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 243",
+        "title": "*GLOBAL POVERTY AND SUSTAINABLE DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 432",
+        "title": "ENVIRONMENTAL LAW",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "ECON 439",
+        "title": "^PUBLIC POLICY ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 466",
+        "title": "ECONOMICS OF TRADITIONAL AND RENEWABLE ENERGY",
+        "credits": "4"
+    },
+    {
+        "code": "FES 485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FOR 460",
+        "title": "^FOREST POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "FOR 462",
+        "title": "NATURAL RESOURCE POLICY AND LAW",
+        "credits": "3"
+    },
+    {
+        "code": "FW 323",
+        "title": "MANAGEMENT PRINCIPLES OF PACIFIC SALMON IN THE NORTHWEST",
+        "credits": "3"
+    },
+    {
+        "code": "FW 326",
+        "title": "INTEGRATED WATERSHED MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 324",
+        "title": "*FOOD FROM THE SEA",
+        "credits": "3"
+    },
+    {
+        "code": "FW 350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 415",
+        "title": "FISHERIES AND WILDLIFE LAW AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 422",
+        "title": "INTRODUCTION TO OCEAN LAW",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 309",
+        "title": "*ENVIRONMENTAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 440",
+        "title": "*ENVIRONMENTAL ETHICS",
+        "credits": "3"
+    },
+    {
+        "code": "PS 361",
+        "title": "CLASSICAL POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 374",
+        "title": "*SUSTAINABLE LIVING: PRACTICES AND POLICIES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 455",
+        "title": "*THE POLITICS OF CLIMATE CHANGE",
+        "credits": "4"
+    },
+    {
+        "code": "PS 470",
+        "title": "GLOBAL FOOD POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 473",
+        "title": "US ENERGY POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 476",
+        "title": "*SCIENCE AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 478",
+        "title": "RENEWABLE ENERGY POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 381",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 240",
+        "title": "*RURAL ECONOMICS OF PLACE AND PEOPLE",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 388",
+        "title": "AGRICULTURAL LAW",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 421",
+        "title": "ECONOMICS OF RURAL POVERTY AND THE U.S. SOCIAL SAFETY NET",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 454",
+        "title": "RURAL DEVELOPMENT ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 466",
+        "title": "*RURAL ANTHROPOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "ECON 455",
+        "title": "ECONOMIC DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "FES 485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "PS 470",
+        "title": "GLOBAL FOOD POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 381",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 475",
+        "title": "RURAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 484",
+        "title": "*WEALTH AND POVERTY",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 383",
+        "title": "*THE ECONOMICS OF DISCRIMINATION",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 414",
+        "title": "BEHAVIORAL ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 439",
+        "title": "^PUBLIC POLICY ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 440",
+        "title": "ECONOMICS OF GLOBALIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 455",
+        "title": "ECONOMIC DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 480",
+        "title": "LABOR ECONOMICS AND SOCIAL POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "NR 351",
+        "title": "*WHEN SCIENCE ESCAPES THE LAB: SCIENCE AND RESOURCE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "PS 317",
+        "title": "GENDER AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 345",
+        "title": "*POLITICS OF DEVELOPING NATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 363",
+        "title": "*GENDER AND RACE IN AMERICAN POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 375",
+        "title": "*THE CIVIL RIGHTS MOVEMENT AND POLICIES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 470",
+        "title": "GLOBAL FOOD POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 312",
+        "title": "*SOCIOLOGY OF THE FAMILY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 350",
+        "title": "HEALTH, ILLNESS AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 355",
+        "title": "DEATH AND DYING",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 426",
+        "title": "*SOCIAL INEQUALITY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 430",
+        "title": "GENDER AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 437",
+        "title": "RACE AND ETHNIC RELATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 438",
+        "title": "US IMMIGRATION ISSUES IN THE 21ST CENTURY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 439",
+        "title": "WELFARE AND SOCIAL SERVICES",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 450",
+        "title": "SOCIOLOGY OF EDUCATION",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 454",
+        "title": "LEISURE AND CULTURE",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 460",
+        "title": "THE SOCIOLOGY OF GLOBALIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 470",
+        "title": "COLLECTIVE BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 471",
+        "title": "*SOCIAL MOVEMENTS",
+        "credits": "4"
+    }
+]}

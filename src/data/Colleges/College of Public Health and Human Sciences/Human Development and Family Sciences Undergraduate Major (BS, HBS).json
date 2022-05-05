@@ -1,0 +1,92 @@
+{"$program_name":[
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "H 100",
+        "title": "INTRODUCTION TO PUBLIC HEALTH",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 240",
+        "title": "*HUMAN SEXUALITY",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 311",
+        "title": "INFANT AND CHILD DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 313",
+        "title": "ADOLESCENT DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 314",
+        "title": "ADULT DEVELOPMENT AND AGING",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 341",
+        "title": "FAMILY STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 360",
+        "title": "CRITICAL THINKING IN HUMAN DEVELOPMENT AND FAMILY SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 361",
+        "title": "APPLIED RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 225",
+        "title": "GENERAL HUMAN NUTRITION",
+        "credits": "3"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 204",
+        "title": "*INTRODUCTION TO SOCIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "H 220",
+        "title": "INTRODUCTION TO HEALTH DATA ANALYSIS",
+        "credits": "3"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 202",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    }
+]}

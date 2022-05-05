@@ -1,0 +1,302 @@
+{"$program_name":[
+    {
+        "code": "BA 223",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 396",
+        "title": "FUNDAMENTALS OF MARKETING RESEARCH",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 323",
+        "title": "ADVANCED APPLICATION OF MARKETING PRINCIPLES",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 489",
+        "title": "PERSONAL SELLING SKILLS AND TECHNIQUES",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 492",
+        "title": "CONSUMER BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 499",
+        "title": "MARKETING STRATEGY",
+        "credits": "4"
+    },
+    {
+        "code": "BA 481",
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 486",
+        "title": "CUSTOMER RELATIONSHIP MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 491",
+        "title": "QUALITATIVE RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 496",
+        "title": "MARKETING RESEARCH PRACTICUM",
+        "credits": "4"
+    },
+    {
+        "code": "BA 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 406",
+        "title": "PROJECTS (e.g., C2C Participation)",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 410",
+        "title": "BUSINESS INTERNSHIP",
+        "credits": "1-12"
+    },
+    {
+        "code": "BA 348",
+        "title": "INTERNATIONAL EXCHANGE ORIENTATION",
+        "credits": "1"
+    },
+    {
+        "code": "BA 349",
+        "title": "IMPACT OF CULTURE ON BUSINESS",
+        "credits": "1"
+    },
+    {
+        "code": "MRKT 484",
+        "title": "DIGITAL MARKETING PLATFORMS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 485",
+        "title": "SEARCH MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 493",
+        "title": "INTEGRATED MARKETING COMMUNICATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 410",
+        "title": "BUSINESS INTERNSHIP (e.g., Participate in DAM Chic or OSU Fashion Organization or Related Internship))",
+        "credits": "1-12"
+    },
+    {
+        "code": "BA 348",
+        "title": "INTERNATIONAL EXCHANGE ORIENTATION",
+        "credits": "1"
+    },
+    {
+        "code": "BA 349",
+        "title": "IMPACT OF CULTURE ON BUSINESS",
+        "credits": "1"
+    },
+    {
+        "code": "MGMT 455",
+        "title": "INFLUENCE AND NEGOTIATION",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 486",
+        "title": "CUSTOMER RELATIONSHIP MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 488",
+        "title": "PROFESSIONAL SALES",
+        "credits": "4"
+    },
+    {
+        "code": "BA 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 410",
+        "title": "BUSINESS INTERNSHIP (e.g., AIGA Participation or Related Internship)",
+        "credits": "1-12"
+    },
+    {
+        "code": "BA 348",
+        "title": "INTERNATIONAL EXCHANGE ORIENTATION",
+        "credits": "1"
+    },
+    {
+        "code": "BA 349",
+        "title": "IMPACT OF CULTURE ON BUSINESS",
+        "credits": "1"
+    },
+    {
+        "code": "MRKT 484",
+        "title": "DIGITAL MARKETING PLATFORMS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 485",
+        "title": "SEARCH MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 486",
+        "title": "CUSTOMER RELATIONSHIP MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 488",
+        "title": "PROFESSIONAL SALES",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 491",
+        "title": "QUALITATIVE RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 493",
+        "title": "INTEGRATED MARKETING COMMUNICATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 495",
+        "title": "RETAIL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 496",
+        "title": "MARKETING RESEARCH PRACTICUM",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 497",
+        "title": "GLOBAL MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 498",
+        "title": "SERVICES MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "BA 410",
+        "title": "BUSINESS INTERNSHIP",
+        "credits": "1-12"
+    },
+    {
+        "code": "BA 348",
+        "title": "INTERNATIONAL EXCHANGE ORIENTATION",
+        "credits": "1"
+    },
+    {
+        "code": "BA 349",
+        "title": "IMPACT OF CULTURE ON BUSINESS",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 323",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    }
+]}

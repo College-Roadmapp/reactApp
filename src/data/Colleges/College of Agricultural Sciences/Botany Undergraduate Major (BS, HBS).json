@@ -1,0 +1,297 @@
+{"$program_name":[
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "HHS 241",
+        "title": "*LIFETIME FITNESS (or any PAC course)",
+        "credits": "1"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "4"
+    },
+    {
+        "code": "BB 314",
+        "title": "CELL AND MOLECULAR BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 204",
+        "title": "*INTRODUCTORY BIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "BI 205",
+        "title": "*INTRODUCTORY BIOLOGY II",
+        "credits": "4"
+    },
+    {
+        "code": "BI 206",
+        "title": "*INTRODUCTORY BIOLOGY III",
+        "credits": "4"
+    },
+    {
+        "code": "BI 311",
+        "title": "GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "PBG 430",
+        "title": "PLANT GENETICS",
+        "credits": "3"
+    },
+    {
+        "code": "PBG 431",
+        "title": "PLANT GENETICS RECITATION",
+        "credits": "1"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 350",
+        "title": "ELEMENTARY BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 450",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 451",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 470",
+        "title": "INTRODUCTION TO COMPUTING IN THE LIFE SCIENCES",
+        "credits": "3"
+    },
+    {
+        "code": "CS 161",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE I",
+        "credits": "4"
+    },
+    {
+        "code": "CS 162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 361",
+        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 411",
+        "title": "METHODS OF DATA ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 371",
+        "title": "^ECOLOGICAL METHODS",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 323",
+        "title": "^FLOWERING PLANTS OF THE WORLD",
+        "credits": "3"
+    },
+    {
+        "code": "HSTS 415",
+        "title": "*THEORY OF EVOLUTION AND FOUNDATION OF MODERN BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "HSTS 419",
+        "title": "*STUDIES IN SCIENTIFIC CONTROVERSY: METHODS AND PRACTICES",
+        "credits": "4"
+    },
+    {
+        "code": "MB 311",
+        "title": "^MOLECULAR MICROBIOLOGY LAB: A WRITING INTENSIVE COURSE",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 220",
+        "title": "*INTRODUCTION TO PLANT BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 313",
+        "title": "PLANT STRUCTURE",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 321",
+        "title": "PLANT SYSTEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 331",
+        "title": "PLANT PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 332",
+        "title": "LABORATORY TECHNIQUES IN PLANT BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 341",
+        "title": "PLANT ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 407",
+        "title": "SEMINAR",
+        "credits": "1"
+    },
+    {
+        "code": "BOT 416",
+        "title": "AQUATIC BOTANY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 461",
+        "title": "MYCOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 465",
+        "title": "LICHENOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 466",
+        "title": "BRYOLOGY",
+        "credits": "4"
+    }
+]}

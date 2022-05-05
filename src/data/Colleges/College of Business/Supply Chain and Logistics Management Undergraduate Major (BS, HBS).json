@@ -1,0 +1,242 @@
+{"$program_name":[
+    {
+        "code": "BA 160",
+        "title": "B-ENGAGED",
+        "credits": "3"
+    },
+    {
+        "code": "BA 163",
+        "title": "B-ENGAGED",
+        "credits": "3"
+    },
+    {
+        "code": "BA 161",
+        "title": "INNOVATION NATION--AWARENESS TO ACTION",
+        "credits": "3"
+    },
+    {
+        "code": "BA 162",
+        "title": "INNOVATION NATION--IDEAS TO REALITY",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 281",
+        "title": "PROFESSIONAL DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "BA 282",
+        "title": "DRAFTING YOUR CAREER BLUEPRINT",
+        "credits": "1"
+    },
+    {
+        "code": "BA 283",
+        "title": "CREATIVITY, CULTURE, AND THE WORKPLACE",
+        "credits": "1"
+    },
+    {
+        "code": "BA 284",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE I",
+        "credits": "1"
+    },
+    {
+        "code": "BA 211",
+        "title": "FINANCIAL ACCOUNTING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 213",
+        "title": "MANAGERIAL ACCOUNTING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 223",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 230",
+        "title": "BUSINESS LAW I",
+        "credits": "4"
+    },
+    {
+        "code": "BA 240",
+        "title": "FINANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 360",
+        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+        "credits": "4"
+    },
+    {
+        "code": "BA 270",
+        "title": "BUSINESS PROCESS MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 275",
+        "title": "FOUNDATIONS OF STATISTICAL INFERENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 311",
+        "title": "FRAMING YOUR CAREER PLAN",
+        "credits": "1"
+    },
+    {
+        "code": "BA 312",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE II",
+        "credits": "1"
+    },
+    {
+        "code": "BA 313",
+        "title": "THE ORANGE AND BLACK CASE COMPETITION",
+        "credits": "1"
+    },
+    {
+        "code": "BA 347",
+        "title": "INTERNATIONAL BUSINESS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 354",
+        "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
+        "credits": "4"
+    },
+    {
+        "code": "BA 370",
+        "title": "BUSINESS INFORMATION SYSTEMS OVERVIEW",
+        "credits": "4"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 323",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "BA 411",
+        "title": "NAVIGATING YOUR WORKPLACE",
+        "credits": "1"
+    },
+    {
+        "code": "BA 412",
+        "title": "FINANCIAL PLANNING I",
+        "credits": "1"
+    },
+    {
+        "code": "BA 413",
+        "title": "FINANCIAL PLANNING II",
+        "credits": "1"
+    },
+    {
+        "code": "BA 466",
+        "title": "INTEGRATIVE STRATEGIC EXPERIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 357",
+        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 456",
+        "title": "TECHNOLOGY APPLICATIONS IN SUPPLY CHAIN MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 375",
+        "title": "APPLIED QUANTITATIVE METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 453",
+        "title": "SUPPLY CHAIN MODELING AND DECISION ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 451",
+        "title": "SUPPLY AND SOURCING MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "BA 454",
+        "title": "SUPPLY CHAIN AND LOGISTICS MANAGEMENT CAPSTONE",
+        "credits": "3"
+    },
+    {
+        "code": "BA 478",
+        "title": "SUPPLY CHAIN ANALYTICS",
+        "credits": "3"
+    },
+    {
+        "code": "MGMT 455",
+        "title": "INFLUENCE AND NEGOTIATION",
+        "credits": "4"
+    },
+    {
+        "code": "MGMT 457",
+        "title": "SUPPLY CHAIN STRATEGY",
+        "credits": "4"
+    },
+    {
+        "code": "BA 459",
+        "title": "SERVICE OPERATIONS MANAGEMENT",
+        "credits": "3"
+    }
+]}

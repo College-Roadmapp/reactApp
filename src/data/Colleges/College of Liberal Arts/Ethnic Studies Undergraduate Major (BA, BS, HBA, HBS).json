@@ -1,0 +1,232 @@
+{"$program_name":[
+    {
+        "code": "ES 101",
+        "title": "*INTRODUCTION TO ETHNIC STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "ES 201",
+        "title": "*INVENTING ETHNIC AMERICA",
+        "credits": "3"
+    },
+    {
+        "code": "ES 350",
+        "title": "^PUBLIC DISCOURSE AND WRITINGS ON RACE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 354",
+        "title": "^LITERATURE OF ETHNIC MINORITIES IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 451",
+        "title": "THEORIES OF RACE AND ETHNICITY",
+        "credits": "4"
+    },
+    {
+        "code": "ES 211",
+        "title": "*INTRODUCTION TO LATINO/A STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 213",
+        "title": "*LATINO/A IDENTITIES AND ACTIVISM",
+        "credits": "4"
+    },
+    {
+        "code": "ES 221",
+        "title": "*SURVEY OF AFRICAN AMERICAN STUDIES I",
+        "credits": "4"
+    },
+    {
+        "code": "ES 223",
+        "title": "*SURVEY OF AFRICAN AMERICAN STUDIES II",
+        "credits": "4"
+    },
+    {
+        "code": "ES 231",
+        "title": "*INTRODUCTION TO ASIAN AMERICAN STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 233",
+        "title": "*ASIAN PACIFIC AMERICAN ACTIVISM AND EMPOWERMENT",
+        "credits": "4"
+    },
+    {
+        "code": "ES 241",
+        "title": "*INTRODUCTION TO NATIVE AMERICAN STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 243",
+        "title": "*NATIVE AMERICAN ASSIMILATION AND ACTIVISM",
+        "credits": "4"
+    },
+    {
+        "code": "ES 260",
+        "title": "*INTRODUCTION TO PACIFIC ISLANDS STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 270",
+        "title": "MAKING ALLIANCES AND SOLIDARITIES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 311",
+        "title": "NARRATIVES OF LATINO MIGRATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "ES 321",
+        "title": "AFRICAN AMERICAN POLITICAL AND SOCIAL THOUGHT: 20TH CENTURY",
+        "credits": "4"
+    },
+    {
+        "code": "ES 323",
+        "title": "CONTEMPORARY AFRICAN AMERICAN SOCIAL DISCOURSE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 332",
+        "title": "ASIAN PACIFIC AMERICANS AND THE MEDIA",
+        "credits": "4"
+    },
+    {
+        "code": "ES 334",
+        "title": "ASIAN PACIFIC AMERICAN LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 345",
+        "title": "NATIVE AMERICANS IN OREGON",
+        "credits": "4"
+    },
+    {
+        "code": "ES 351",
+        "title": "*ETHNIC MINORITIES IN OREGON",
+        "credits": "4"
+    },
+    {
+        "code": "ES 353",
+        "title": "*ENVIRONMENTAL RACISM",
+        "credits": "4"
+    },
+    {
+        "code": "ES 355",
+        "title": "*RACE, SPACE, AND DIFFERENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 357",
+        "title": "*FARMWORKER JUSTICE MOVEMENTS",
+        "credits": "4"
+    },
+    {
+        "code": "ES 360",
+        "title": "*INDIGENOUS OCEAN AND COAST",
+        "credits": "4"
+    },
+    {
+        "code": "ES 373",
+        "title": "APPROACHES TO SOCIAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "ES 377",
+        "title": "*HEALTH AND SOCIAL JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 375/QS 375/WGSS 375",
+        "title": "*ARTS AND SOCIAL JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 399",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "ES 416",
+        "title": "MIGRANT HEALTH",
+        "credits": "4"
+    },
+    {
+        "code": "ES 431/QS 431/WGSS 431",
+        "title": "*QUEER OF COLOR CRITIQUES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 444",
+        "title": "NATIVE AMERICAN LAW: TRIBES, TREATIES, AND THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 445",
+        "title": "*NATIVE AMERICAN SCIENCE AND TECHNOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ES 448/PHL 448/REL 448",
+        "title": "NATIVE AMERICAN PHILOSOPHIES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 452",
+        "title": "*ETHNICITY IN FILM",
+        "credits": "4"
+    },
+    {
+        "code": "ES 453",
+        "title": "*ETHNOHISTORY METHODOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ES 457",
+        "title": "*LITERATURE BY WOMEN OF COLOR IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 458",
+        "title": "RACIAL PATTERNS OF URBANIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "ES 459/ANTH 459/WLC 459",
+        "title": "LANGUAGE, RACE AND RACISM IN THE U.S.: ADVANCED STUDY",
+        "credits": "4"
+    },
+    {
+        "code": "ES 460",
+        "title": "ETHNICITY AND SOCIAL JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 461",
+        "title": "RACISM AND THE PRISON INDUSTRIAL COMPLEX",
+        "credits": "4"
+    },
+    {
+        "code": "ES 463",
+        "title": "US EMPIRE/IMPERIALISM, SETTLER/COLONIALISM, CAPITALISM/RACE",
+        "credits": "4"
+    },
+    {
+        "code": "ES 464/FCSJ 464",
+        "title": "FOOD AND ETHNIC IDENTITY: DECOLONIZING FOOD AND OUR BODY",
+        "credits": "3"
+    },
+    {
+        "code": "ES 477/QS 477/WGSS 477",
+        "title": "QUEER/TRANS PEOPLE OF COLOR ARTS AND ACTIVISM",
+        "credits": "4"
+    },
+    {
+        "code": "ES 499",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    }
+]}

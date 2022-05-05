@@ -1,0 +1,77 @@
+{"$program_name":[
+    {
+        "code": "DSGN 226",
+        "title": "SPECIFICATION BUYING",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ART 101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS",
+        "credits": "3"
+    },
+    {
+        "code": "ART 206",
+        "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY",
+        "credits": "3"
+    },
+    {
+        "code": "ART 205",
+        "title": "*INTRODUCTION TO WESTERN ART: GOTHIC TO BAROQUE",
+        "credits": "3"
+    },
+    {
+        "code": "ART 204",
+        "title": "*INTRODUCTION TO WESTERN ART: PREHISTORY TO HIGH MIDDLE AGES",
+        "credits": "3"
+    },
+    {
+        "code": "ART 367",
+        "title": "*HISTORY OF DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 323",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    }
+]}

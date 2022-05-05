@@ -1,0 +1,242 @@
+{"$program_name":[
+    {
+        "code": "AEC 121",
+        "title": "DISCOVERING AGRICULTURAL AND RESOURCE ECONOMICS",
+        "credits": "1"
+    },
+    {
+        "code": "AEC 211",
+        "title": "AGRICULTURAL AND FOOD MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 221",
+        "title": "AGRICULTURAL AND FOOD MARKETING",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 251",
+        "title": "*INTRODUCTION TO AGRICULTURAL AND FOOD ECONOMICS",
+        "credits": "3"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 311",
+        "title": "INTERMEDIATE APPLIED ECONOMICS I: PRODUCERS AND CONSUMERS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 442",
+        "title": "AGRICULTURAL BUSINESS MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 461",
+        "title": "^AGRICULTURAL AND FOOD POLICY ISSUES",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 465",
+        "title": "AGRICULTURAL AND FOOD FINANCIAL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 466",
+        "title": "AGRICULTURAL AND FOOD MARKETING MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "AEC 410",
+        "title": "INTERNSHIP",
+        "credits": "1-6"
+    },
+    {
+        "code": "BA 211",
+        "title": "FINANCIAL ACCOUNTING +",
+        "credits": "4"
+    },
+    {
+        "code": "BA 213",
+        "title": "MANAGERIAL ACCOUNTING +",
+        "credits": "4"
+    },
+    {
+        "code": "BA 330",
+        "title": "LEGAL ENVIRONMENT OF BUSINESS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 302",
+        "title": "BUSINESS PROCESS MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 347",
+        "title": "INTERNATIONAL BUSINESS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 351",
+        "title": "MANAGING ORGANIZATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 357",
+        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 360",
+        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 463",
+        "title": "FAMILY ENTERPRISE GOVERNANCE",
+        "credits": "4"
+    },
+    {
+        "code": "FIN 441",
+        "title": "FINANCIAL INSTITUTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 492",
+        "title": "CONSUMER BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 493",
+        "title": "INTEGRATED MARKETING COMMUNICATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 495",
+        "title": "RETAIL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 497",
+        "title": "GLOBAL MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "AG 111",
+        "title": "INFORMATION TECHNOLOGY IN AGRICULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "CS 101",
+        "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 446",
+        "title": "INTRODUCTION TO APPLIED ECONOMETRICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 447",
+        "title": "AGRICULTURAL PRICE AND MARKET ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 424",
+        "title": "INTRODUCTION TO ECONOMETRICS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "WR 323",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION +",
+        "credits": "4"
+    },
+    {
+        "code": "WR 214",
+        "title": "*WRITING IN BUSINESS",
+        "credits": "3"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "HHS 241",
+        "title": "*LIFETIME FITNESS (or any PAC course)",
+        "credits": "1"
+    }
+]}

@@ -1,0 +1,259 @@
+{
+    "Courses": [
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 202",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 205",
+            "title": "LABORATORY FOR CH 202",
+            "credits": "1"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "4"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        {
+            "code": "CS 162",
+            "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 212",
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 201",
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 202",
+            "title": "ELECTRICAL FUNDAMENTALS II",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 203",
+            "title": "ELECTRICAL FUNDAMENTALS III",
+            "credits": "3"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 213",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "ECE 271",
+            "title": "DIGITAL LOGIC DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "ECE 272",
+            "title": "DIGITAL LOGIC DESIGN LABORATORY",
+            "credits": "1"
+        },
+        {
+            "code": "ENGR 390",
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        {
+            "code": "ESC 340",
+            "title": "INTRO TO EXPERIMENTATION",
+            "credits": "4"
+        },
+        {
+            "code": "ESC 350",
+            "title": "ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        {
+            "code": "ESC 497",
+            "title": "^MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "ESC 498",
+            "title": "^MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "ESE 330",
+            "title": "MODELING AND ANALYSIS OF DYNAMIC SYSTEMS",
+            "credits": "4"
+        },
+        {
+            "code": "IE 471",
+            "title": "PROJECT MANAGEMENT IN ENGINEERING",
+            "credits": "3"
+        },
+        {
+            "code": "ME 311",
+            "title": "INTRODUCTION TO THERMAL-FLUID SCIENCES",
+            "credits": "4"
+        },
+        {
+            "code": "CS 261",
+            "title": "DATA STRUCTURES",
+            "credits": "4"
+        },
+        {
+            "code": "CS 290",
+            "title": "WEB DEVELOPMENT",
+            "credits": "4"
+        },
+        {
+            "code": "CS 325",
+            "title": "ANALYSIS OF ALGORITHMS",
+            "credits": "4"
+        },
+        {
+            "code": "CS 340",
+            "title": "INTRODUCTION TO DATABASES",
+            "credits": "4"
+        },
+        {
+            "code": "CS 434",
+            "title": "MACHINE LEARNING AND DATA MINING",
+            "credits": "4"
+        },
+        {
+            "code": "ECE 322",
+            "title": "ELECTRONICS I",
+            "credits": "3"
+        },
+        {
+            "code": "ESE 355",
+            "title": "ENERGY REGULATION",
+            "credits": "4"
+        },
+        {
+            "code": "ESE 430",
+            "title": "FEEDBACK CONTROL SYSTEMS",
+            "credits": "4"
+        },
+        {
+            "code": "ESE 450",
+            "title": "ENERGY GENERATION SYSTEMS",
+            "credits": "4"
+        },
+        {
+            "code": "ESE 470",
+            "title": "ENERGY DISTRIBUTION SYSTEMS",
+            "credits": "4"
+        },
+        {
+            "code": "ESE 471",
+            "title": "ENERGY STORAGE SYSTEMS",
+            "credits": "4"
+        },
+        {
+            "code": "ESE 499",
+            "title": "SPECIAL TOPICS",
+            "credits": "4"
+        },
+        {
+            "code": "ME 331",
+            "title": "INTRODUCTORY FLUID MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 231",
+            "title": "ELEMENTS OF DISCRETE MATHEMATICS",
+            "credits": "4"
+        },
+        {
+            "code": "IE 415",
+            "title": "SIMULATION AND DECISION SUPPORT SYSTEMS",
+            "credits": "4"
+        },
+        {
+            "code": "IE 425",
+            "title": "INDUSTRIAL SYSTEMS OPTIMIZATION",
+            "credits": "4"
+        }
+    ]
+}

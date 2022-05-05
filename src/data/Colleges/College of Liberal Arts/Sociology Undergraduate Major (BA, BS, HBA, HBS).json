@@ -1,0 +1,22 @@
+{"$program_name":[
+    {
+        "code": "SOC 204",
+        "title": "*INTRODUCTION TO SOCIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "SOC 315",
+        "title": "INTRODUCTION TO RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 316",
+        "title": "QUANTITATIVE DATA ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 413",
+        "title": "SOCIOLOGICAL THEORY",
+        "credits": "4"
+    }
+]}

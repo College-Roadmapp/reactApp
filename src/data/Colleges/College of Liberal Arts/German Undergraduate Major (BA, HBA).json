@@ -1,0 +1,32 @@
+{"$program_name":[
+    {
+        "code": "GER 311",
+        "title": "THIRD-YEAR GERMAN",
+        "credits": "4"
+    },
+    {
+        "code": "GER 312",
+        "title": "THIRD-YEAR GERMAN",
+        "credits": "4"
+    },
+    {
+        "code": "GER 313",
+        "title": "THIRD-YEAR GERMAN",
+        "credits": "4"
+    },
+    {
+        "code": "GER 411",
+        "title": "^FOURTH-YEAR GERMAN",
+        "credits": "4"
+    },
+    {
+        "code": "GER 412",
+        "title": "FOURTH-YEAR GERMAN",
+        "credits": "4"
+    },
+    {
+        "code": "GER 413",
+        "title": "FOURTH-YEAR GERMAN",
+        "credits": "4"
+    }
+]}

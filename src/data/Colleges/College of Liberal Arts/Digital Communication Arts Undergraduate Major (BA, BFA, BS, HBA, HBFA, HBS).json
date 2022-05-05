@@ -1,0 +1,287 @@
+{"$program_name":[
+    {
+        "code": "NMC 100",
+        "title": "*NEW MEDIA AND CULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 101",
+        "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 260",
+        "title": "NEW MEDIA FUTURES",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 301",
+        "title": "^WRITING FOR THE MEDIA PROFESSIONAL",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 324",
+        "title": "COMMUNICATION IN ORGANIZATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 368",
+        "title": "PROPAGANDA AND SOCIAL CONTROL",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 372",
+        "title": "VISUAL RHETORIC",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 385",
+        "title": "COMMUNICATION AND CULTURE IN CYBERSPACE",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 440",
+        "title": "THEORIES OF CONFLICT AND CONFLICT MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 476",
+        "title": "ISSUES IN THE FREEDOM OF SPEECH",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 484",
+        "title": "MEDIA CRITICISM",
+        "credits": "3"
+    },
+    {
+        "code": "ART 121",
+        "title": "DIGITAL CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 100",
+        "title": "*NEW MEDIA AND CULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 101",
+        "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 260",
+        "title": "NEW MEDIA FUTURES",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 301",
+        "title": "^WRITING FOR THE MEDIA PROFESSIONAL",
+        "credits": "3"
+    },
+    {
+        "code": "ART 101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS",
+        "credits": "3"
+    },
+    {
+        "code": "ART 115",
+        "title": "2-D CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "ART 131",
+        "title": "DRAWING CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "ART 263",
+        "title": "DIGITAL PHOTOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 322",
+        "title": "LANDMARKS IN MEDIA CONTENT",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 351",
+        "title": "NEW MEDIA VISUALIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "TA 242",
+        "title": "VISUAL PRINCIPLES OF THEATRE",
+        "credits": "3"
+    },
+    {
+        "code": "TA 346",
+        "title": "SCENE AND STAGE DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "WR 407",
+        "title": "SEMINAR",
+        "credits": "1-16"
+    },
+    {
+        "code": "ART 206",
+        "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY",
+        "credits": "3"
+    },
+    {
+        "code": "FILM 125",
+        "title": "*INTRODUCTION TO FILM STUDIES: 1945-PRESENT",
+        "credits": "3"
+    },
+    {
+        "code": "FILM 245",
+        "title": "*THE NEW AMERICAN CINEMA",
+        "credits": "4"
+    },
+    {
+        "code": "FILM 265",
+        "title": "*FILMS FOR THE FUTURE",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 240",
+        "title": "SURVEY OF SOCIAL MEDIA",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 321",
+        "title": "HISTORY OF BROADCASTING",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 330",
+        "title": "THE MEANING OF VIDEO GAMES",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 340",
+        "title": "SOCIAL MEDIA STRATEGY",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 388/COMM 388",
+        "title": "SOCIAL MEDIA AND INTERPERSONAL RELATIONSHIPS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 399",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "NMC 421",
+        "title": "DIFFUSION OF INNOVATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 427",
+        "title": "*DIGITAL PORNOGRAPHY",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 430",
+        "title": "MEDIA THEORY",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 435",
+        "title": "MEDIA EFFECTS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 437",
+        "title": "NEW MEDIA AND SOCIETY",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 490",
+        "title": "MEDIA ETHICS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 499",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "MUS 493",
+        "title": "BASIC RECORDING TECHNIQUES",
+        "credits": "3"
+    },
+    {
+        "code": "MUS 494",
+        "title": "INTERMEDIATE RECORDING TECHNIQUES",
+        "credits": "3"
+    },
+    {
+        "code": "MUS 495",
+        "title": "ADVANCED RECORDING TECHNIQUES",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 255",
+        "title": "APPLIED SOUND DESIGN",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 349/ART 349",
+        "title": "VIDEO ART",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 355",
+        "title": "SOUND DESIGN FOR VISUAL MEDIA",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 380",
+        "title": "PRE-PRODUCTION",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 383",
+        "title": "FIELD PRODUCTION",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 409",
+        "title": "PRACTICUM 2",
+        "credits": "1-16"
+    },
+    {
+        "code": "NMC 410",
+        "title": "INTERNSHIP",
+        "credits": "1-16"
+    },
+    {
+        "code": "NMC 481",
+        "title": "COMPOSITING AND DIGITAL EFFECTS",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 482",
+        "title": "DOCUMENTARY",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 483",
+        "title": "NEW MEDIA 3-D",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 484",
+        "title": "NEW MEDIA ANIMATION",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 498",
+        "title": "ADVANCED COLLABORATIVE EXPERIENCE",
+        "credits": "3-4"
+    }
+]}

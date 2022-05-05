@@ -1,0 +1,312 @@
+{"$program_name":[
+    {
+        "code": "REL 160/PHL 160",
+        "title": "*QUESTS FOR MEANING: WORLD RELIGIONS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 407",
+        "title": "^SEMINAR",
+        "credits": "1-16"
+    },
+    {
+        "code": "REL 206/PHL 206",
+        "title": "*RELIGIOUS ETHICS AND MORAL PROBLEMS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 208/PHL 208",
+        "title": "INTRODUCTION TO BUDDHIST TRADITIONS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 210/PHL 210/HST 210",
+        "title": "*RELIGION IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "REL 213/PHL 213",
+        "title": "*INTRODUCTION TO HINDU TRADITIONS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 214/PHL 214",
+        "title": "*INTRODUCTION TO ISLAMIC TRADITIONS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 215/HST 215",
+        "title": "*INTRODUCTION TO JEWISH TRADITIONS",
+        "credits": "4"
+    },
+    {
+        "code": "HST 486",
+        "title": "A HISTORY OF CHRISTIANITY IN AFRICA",
+        "credits": "4"
+    },
+    {
+        "code": "HSTS 423",
+        "title": "*SCIENCE AND RELIGION",
+        "credits": "4"
+    },
+    {
+        "code": "REL 170/PHL 170",
+        "title": "*THE IDEA OF GOD",
+        "credits": "4"
+    },
+    {
+        "code": "REL 199",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-4"
+    },
+    {
+        "code": "REL 201/PAX 201",
+        "title": "STUDY OF PEACE AND THE CAUSES OF CONFLICT",
+        "credits": "3"
+    },
+    {
+        "code": "REL 299",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-4"
+    },
+    {
+        "code": "REL 310/PHL 310",
+        "title": "*CRITICS OF RELIGION",
+        "credits": "4"
+    },
+    {
+        "code": "REL 315/PHL 315",
+        "title": "*GANDHI AND NONVIOLENCE",
+        "credits": "4"
+    },
+    {
+        "code": "REL 316/PHL 316",
+        "title": "INTELLECTUAL ISSUES OF MEXICO AND MEXICAN AMERICANS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 324/HST 324",
+        "title": "*ANCIENT JEWISH HISTORY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 325/HST 325",
+        "title": "*EARLY CHRISTIANITY: ORIGINS TO 600",
+        "credits": "4"
+    },
+    {
+        "code": "REL 327/HST 327",
+        "title": "HISTORY OF MEDIEVAL EUROPE",
+        "credits": "4"
+    },
+    {
+        "code": "REL 328/HST 328",
+        "title": "HISTORY OF MEDIEVAL EUROPE",
+        "credits": "4"
+    },
+    {
+        "code": "REL 330/HST 330",
+        "title": "HISTORY OF EARLY MODERN EUROPE",
+        "credits": "4"
+    },
+    {
+        "code": "REL 333/HST 333",
+        "title": "MEDIEVAL AND EARLY MODERN SPANISH HISTORY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 344/PHL 344",
+        "title": "*PACIFISM, JUST WAR, AND TERRORISM",
+        "credits": "4"
+    },
+    {
+        "code": "REL 345/PHL 345",
+        "title": "*FIRST FREEDOM: RELIGIOUS LIBERTY AND INTOLERANCE",
+        "credits": "4"
+    },
+    {
+        "code": "REL 350/HST 350",
+        "title": "*EARLY LATIN AMERICA",
+        "credits": "4"
+    },
+    {
+        "code": "REL 352/HST 352",
+        "title": "*AFRICANS IN LATIN AMERICAN HISTORY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 364/HST 364",
+        "title": "*UNITED STATES RELIGION AND SOCIAL REFORM",
+        "credits": "4"
+    },
+    {
+        "code": "REL 371/PHL 371",
+        "title": "*PHILOSOPHIES OF CHINA",
+        "credits": "4"
+    },
+    {
+        "code": "REL 387/HST 387",
+        "title": "*ISLAMIC CIVILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "REL 388/HST 388",
+        "title": "*ISLAMIC CIVILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "REL 399",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-4"
+    },
+    {
+        "code": "REL 402",
+        "title": "INDEPENDENT STUDY",
+        "credits": "1-12"
+    },
+    {
+        "code": "REL 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-4"
+    },
+    {
+        "code": "REL 411/PHL 411",
+        "title": "GREAT FIGURES IN PHILOSOPHY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 415",
+        "title": "SELECTED TOPICS",
+        "credits": "1-4"
+    },
+    {
+        "code": "REL 425/HST 425",
+        "title": "*THE HOLOCAUST IN ITS HISTORY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 430/PHL 430",
+        "title": "HISTORY OF BUDDHIST PHILOSOPHY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 431/PHL 431",
+        "title": "BUDDHISM, NON-VIOLENCE, AND SOCIAL JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "REL 432/PHL 432",
+        "title": "*YOGA AND TANTRIC TRADITIONS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 433/PHL 433",
+        "title": "*THEORY AND PRACTICE OF MODERN YOGA",
+        "credits": "4"
+    },
+    {
+        "code": "REL 434/PHL 434",
+        "title": "*SPIRITUALITY AND ECOLOGY: GREEN YOGA",
+        "credits": "4"
+    },
+    {
+        "code": "REL 436/PHL 436",
+        "title": "PHILOSOPHY AND RELIGION",
+        "credits": "4"
+    },
+    {
+        "code": "REL 443/PHL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+        "credits": "4"
+    },
+    {
+        "code": "REL 444/PHL 444",
+        "title": "*BIOMEDICAL ETHICS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 448/PHL 448/ES 448",
+        "title": "NATIVE AMERICAN PHILOSOPHIES",
+        "credits": "4"
+    },
+    {
+        "code": "REL 455/PHL 455",
+        "title": "DEATH AND DYING",
+        "credits": "4"
+    },
+    {
+        "code": "REL 461/PHL 461",
+        "title": "ART AND MORALITY",
+        "credits": "4"
+    },
+    {
+        "code": "REL 466/HST 466",
+        "title": "RELIGION AND U.S. FOREIGN RELATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "REL 470/HST 470",
+        "title": "RELIGION IN THE AMERICAN WEST",
+        "credits": "4"
+    },
+    {
+        "code": "REL 485/HST 485",
+        "title": "*POLITICS AND RELIGION IN THE MODERN MIDDLE EAST",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 452",
+        "title": "FOLKLORE AND EXPRESSIVE CULTURE",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 472",
+        "title": "CONTEMPORARY NATIVE ISSUES",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 275",
+        "title": "*THE BIBLE AS LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 330",
+        "title": "*THE HOLOCAUST IN LITERATURE AND FILM",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 360",
+        "title": "*NATIVE AMERICAN LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "PS 361",
+        "title": "CLASSICAL POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 452",
+        "title": "SOCIOLOGY OF RELIGION",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 223",
+        "title": "*INTRODUCTION TO WOMEN, GENDER, AND SEXUALITY STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 380",
+        "title": "*MUSLIM WOMEN",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 495",
+        "title": "*GLOBAL FEMINIST THEOLOGIES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 496",
+        "title": "*FEMINIST THEOLOGIES IN THE UNITED STATES",
+        "credits": "4"
+    }
+]}

@@ -1,0 +1,856 @@
+{"$program_name":[
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "HHS 241",
+        "title": "*LIFETIME FITNESS (or approved PAC course)",
+        "credits": "1"
+    },
+    {
+        "code": "FW 435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "FW 439",
+        "title": "^HUMAN DIMENSIONS OF FISHERIES AND WILDLIFE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 454",
+        "title": "^FISHERY BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FW 497",
+        "title": "^AQUACULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "HC 199",
+        "title": "*HONORS WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "WR 362",
+        "title": "*SCIENCE WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 204",
+        "title": "*INTRODUCTORY BIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "BI 205",
+        "title": "*INTRODUCTORY BIOLOGY II",
+        "credits": "4"
+    },
+    {
+        "code": "BI 206",
+        "title": "*INTRODUCTORY BIOLOGY III",
+        "credits": "4"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "BI 370",
+        "title": "ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 107",
+        "title": "ORIENTATION TO FISHERIES AND WILDLIFE",
+        "credits": "1"
+    },
+    {
+        "code": "FW 209",
+        "title": "CAREER SKILLS IN FISHERIES AND WILDLIFE SCIENCES",
+        "credits": "1"
+    },
+    {
+        "code": "FW 251",
+        "title": "PRINCIPLES OF FISH AND WILDLIFE CONSERVATION",
+        "credits": "3"
+    },
+    {
+        "code": "FW 255",
+        "title": "FIELD SAMPLING OF FISH AND WILDLIFE",
+        "credits": "3"
+    },
+    {
+        "code": "FW 289",
+        "title": "COMMUNICATION SKILLS FOR FISHERIES AND WILDLIFE PROFESSIONALS",
+        "credits": "4"
+    },
+    {
+        "code": "FW 307",
+        "title": "SPECIALIZATION DEVELOPMENT",
+        "credits": "1"
+    },
+    {
+        "code": "FW 320",
+        "title": "INTRODUCTORY POPULATION DYNAMICS",
+        "credits": "4"
+    },
+    {
+        "code": "FW 321",
+        "title": "APPLIED COMMUNITY AND ECOSYSTEM ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 410",
+        "title": "INTERNSHIP",
+        "credits": "1-6"
+    },
+    {
+        "code": "FW 488",
+        "title": "PROBLEM SOLVING IN FISHERIES AND WILDLIFE SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "FW 302",
+        "title": "BIOLOGY AND CONSERVATION OF MARINE MAMMALS",
+        "credits": "4"
+    },
+    {
+        "code": "FW 311",
+        "title": "ORNITHOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 315",
+        "title": "ICHTHYOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 317",
+        "title": "MAMMALOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 331",
+        "title": "ECOLOGY OF MARINE AND ESTUARINE BIRDS",
+        "credits": "4"
+    },
+    {
+        "code": "Z 473",
+        "title": "HERPETOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FW 312",
+        "title": "SYSTEMATICS OF BIRDS",
+        "credits": "3"
+    },
+    {
+        "code": "FW 316",
+        "title": "SYSTEMATICS OF FISHES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 318",
+        "title": "SYSTEMATICS OF MAMMALS",
+        "credits": "2"
+    },
+    {
+        "code": "ANS 378",
+        "title": "ANIMAL GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 311",
+        "title": "GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 345",
+        "title": "*INTRODUCTION TO EVOLUTION",
+        "credits": "3"
+    },
+    {
+        "code": "FW 370",
+        "title": "CONSERVATION GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "PBG 430",
+        "title": "PLANT GENETICS",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 311",
+        "title": "PRINCIPLES OF ANIMAL NUTRITION",
+        "credits": "3"
+    },
+    {
+        "code": "ANS 314",
+        "title": "ANIMAL PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FW 469",
+        "title": "METHODS IN PHYSIOLOGY AND BEHAVIOR OF MARINE MEGAFAUNA",
+        "credits": "4"
+    },
+    {
+        "code": "FW 471",
+        "title": "ENVIRONMENTAL PHYSIOLOGY OF FISHES",
+        "credits": "4"
+    },
+    {
+        "code": "FW 475",
+        "title": "WILDLIFE BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "FW 476",
+        "title": "FISH PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "Z 350",
+        "title": "ANIMAL BEHAVIOR",
+        "credits": "3"
+    },
+    {
+        "code": "Z 423",
+        "title": "ENVIRONMENTAL PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "Z 431",
+        "title": "VERTEBRATE PHYSIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "Z 432",
+        "title": "VERTEBRATE PHYSIOLOGY II",
+        "credits": "3"
+    },
+    {
+        "code": "BI 351",
+        "title": "MARINE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 341",
+        "title": "FOREST ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 342",
+        "title": "FOREST TYPES OF THE NORTHWEST",
+        "credits": "3"
+    },
+    {
+        "code": "FES 440",
+        "title": "WILDLAND FIRE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 345",
+        "title": "*GLOBAL CHANGE BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 418",
+        "title": "URBAN ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 426",
+        "title": "COASTAL ECOLOGY AND RESOURCE MANAGEMENT",
+        "credits": "5"
+    },
+    {
+        "code": "FW 434/OC 434",
+        "title": "ESTUARINE ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FW 435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "FW 445/FES 445",
+        "title": "ECOLOGICAL RESTORATION",
+        "credits": "4"
+    },
+    {
+        "code": "FW 452/FES 452",
+        "title": "BIODIVERSITY CONSERVATION IN MANAGED FORESTS",
+        "credits": "4"
+    },
+    {
+        "code": "FW 456",
+        "title": "FRESHWATER ECOLOGY AND CONSERVATION",
+        "credits": "5"
+    },
+    {
+        "code": "FW 462",
+        "title": "ECOSYSTEM SERVICES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 467",
+        "title": "ANTARCTIC SCIENCE AND CONSERVATION",
+        "credits": "4"
+    },
+    {
+        "code": "FW 479",
+        "title": "WETLANDS AND RIPARIAN ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "RNG 341",
+        "title": "RANGELAND ECOLOGY AND MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 419",
+        "title": "THE NATURAL HISTORY OF WHALES AND WHALING",
+        "credits": "3"
+    },
+    {
+        "code": "FW 421",
+        "title": "AQUATIC BIOLOGICAL INVASIONS",
+        "credits": "4"
+    },
+    {
+        "code": "FW 427",
+        "title": "PRINCIPLES OF WILDLIFE DISEASES",
+        "credits": "4"
+    },
+    {
+        "code": "FW 451",
+        "title": "AVIAN CONSERVATION AND MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 454",
+        "title": "^FISHERY BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FW 458",
+        "title": "MAMMAL CONSERVATION AND MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "FW 464",
+        "title": "MARINE CONSERVATION BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 473",
+        "title": "FISH ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FW 474",
+        "title": "EARLY LIFE HISTORY OF FISHES",
+        "credits": "4"
+    },
+    {
+        "code": "FW 481",
+        "title": "WILDLIFE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 491/MB 491",
+        "title": "FISH DISEASES IN CONSERVATION BIOLOGY AND AQUACULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 313",
+        "title": "PLANT STRUCTURE",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 321",
+        "title": "PLANT SYSTEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 323",
+        "title": "^FLOWERING PLANTS OF THE WORLD",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 331",
+        "title": "PLANT PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 341",
+        "title": "PLANT ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 416",
+        "title": "AQUATIC BOTANY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 440",
+        "title": "FIELD METHODS IN PLANT ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 442",
+        "title": "PLANT POPULATION ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 488",
+        "title": "ENVIRONMENTAL PHYSIOLOGY OF PLANTS",
+        "credits": "3"
+    },
+    {
+        "code": "RNG 353",
+        "title": "WILDLAND PLANT IDENTIFICATION",
+        "credits": "4"
+    },
+    {
+        "code": "CH 130",
+        "title": "GENERAL CHEMISTRY OF LIVING SYSTEMS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 390",
+        "title": "ENVIRONMENTAL CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 241",
+        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "OC 450",
+        "title": "CHEMICAL OCEANOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 202",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 205",
+        "title": "*SOLAR SYSTEM ASTRONOMY",
+        "credits": "4"
+    },
+    {
+        "code": "PH 206",
+        "title": "*STARS AND STELLAR EVOLUTION",
+        "credits": "4"
+    },
+    {
+        "code": "PH 207",
+        "title": "*GALAXIES, QUASARS, AND COSMOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PH 211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 331",
+        "title": "*SOUND, HEARING, AND MUSIC",
+        "credits": "3"
+    },
+    {
+        "code": "PH 332",
+        "title": "*LIGHT, VISION, AND COLOR",
+        "credits": "3"
+    },
+    {
+        "code": "ATS 201",
+        "title": "*CLIMATE SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 201",
+        "title": "*PHYSICAL GEOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 202",
+        "title": "*EARTH SYSTEMS SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 203",
+        "title": "*EVOLUTION OF PLANET EARTH",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 221",
+        "title": "*ENVIRONMENTAL GEOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 305",
+        "title": "*LIVING WITH ACTIVE CASCADE VOLCANOES",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 306",
+        "title": "*MINERALS, ENERGY, WATER, AND THE ENVIRONMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 307",
+        "title": "*NATIONAL PARK GEOLOGY AND PRESERVATION",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 308",
+        "title": "*GLOBAL CHANGE AND EARTH SCIENCES",
+        "credits": "3"
+    },
+    {
+        "code": "OC 201",
+        "title": "*OCEANOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "OC 332",
+        "title": "COASTAL OCEANOGRAPHY",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 205",
+        "title": "SOIL SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
+        "credits": "1"
+    },
+    {
+        "code": "CSS 205",
+        "title": "*SOIL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "CSS 305",
+        "title": "PRINCIPLES OF SOIL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "AG 301",
+        "title": "*ECOSYSTEM SCIENCE OF PACIFIC NW INDIANS",
+        "credits": "3"
+    },
+    {
+        "code": "FW 340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 309",
+        "title": "*ENVIRONMENTAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY"
+    },
+    {
+        "code": "AEC 432",
+        "title": "ENVIRONMENTAL LAW",
+        "credits": "4"
+    },
+    {
+        "code": "FOR 462",
+        "title": "NATURAL RESOURCE POLICY AND LAW",
+        "credits": "3"
+    },
+    {
+        "code": "FW 350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 415",
+        "title": "FISHERIES AND WILDLIFE LAW AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 422",
+        "title": "INTRODUCTION TO OCEAN LAW",
+        "credits": "3"
+    },
+    {
+        "code": "PPOL 448",
+        "title": "MARINE POLICY IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 477",
+        "title": "ECOLOGICAL ANTHROPOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "BOT 322",
+        "title": "ECONOMIC AND ETHNOBOTANY: ROLE OF PLANTS IN HUMAN CULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "FES 355",
+        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "FES 422",
+        "title": "RESEARCH METHODS IN SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "FES 485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 324",
+        "title": "*FOOD FROM THE SEA",
+        "credits": "3"
+    },
+    {
+        "code": "FW 325",
+        "title": "*GLOBAL CRISES IN RESOURCE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 360",
+        "title": "*ORIGINS OF F&W MANAGEMENT-EVOLUTION, GENETICS, AND ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 391",
+        "title": "*RIDGE TO REEF: SUSTAINABLE RESOURCE MANAGEMENT IN PALAU",
+        "credits": "4"
+    },
+    {
+        "code": "FW 439",
+        "title": "^HUMAN DIMENSIONS OF FISHERIES AND WILDLIFE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 340",
+        "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "HST 481",
+        "title": "*ENVIRONMENTAL HISTORY OF THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "PHL 440",
+        "title": "*ENVIRONMENTAL ETHICS",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 443/REL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "PS 461",
+        "title": "ENVIRONMENTAL POLITICAL THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 476",
+        "title": "*SCIENCE AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    }
+]}

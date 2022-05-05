@@ -1,0 +1,52 @@
+{"$program_name":[
+    {
+        "code": "H 100",
+        "title": "INTRODUCTION TO PUBLIC HEALTH",
+        "credits": "4"
+    },
+    {
+        "code": "H 206",
+        "title": "PROJECTS (take 3 times)",
+        "credits": "1-16"
+    },
+    {
+        "code": "H 210",
+        "title": "*INTRODUCTION TO THE HEALTH CARE SYSTEM",
+        "credits": "3"
+    },
+    {
+        "code": "H 220",
+        "title": "INTRODUCTION TO HEALTH DATA ANALYSIS",
+        "credits": "3"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "H 225",
+        "title": "*SOCIAL AND INDIVIDUAL HEALTH DETERMINANTS",
+        "credits": "4"
+    },
+    {
+        "code": "H 319",
+        "title": "INTRODUCTION TO HEALTH POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "H 320",
+        "title": "INTRODUCTION TO HUMAN DISEASE",
+        "credits": "3"
+    },
+    {
+        "code": "H 344",
+        "title": "FOUNDATIONS OF ENVIRONMENTAL HEALTH",
+        "credits": "3"
+    },
+    {
+        "code": "H 425",
+        "title": "FOUNDATIONS OF EPIDEMIOLOGY",
+        "credits": "3"
+    }
+]}

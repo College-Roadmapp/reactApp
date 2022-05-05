@@ -1,0 +1,137 @@
+{"$program_name":[
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 204",
+        "title": "*INTRODUCTORY BIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "BI 205",
+        "title": "*INTRODUCTORY BIOLOGY II",
+        "credits": "4"
+    },
+    {
+        "code": "BI 206",
+        "title": "*INTRODUCTORY BIOLOGY III",
+        "credits": "4"
+    },
+    {
+        "code": "BI 311",
+        "title": "GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 445",
+        "title": "EVOLUTION",
+        "credits": "3"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 231",
+        "title": "ELEMENTS OF DISCRETE MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 254",
+        "title": "VECTOR CALCULUS I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 341",
+        "title": "LINEAR ALGEBRA I",
+        "credits": "3"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 411",
+        "title": "METHODS OF DATA ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 412",
+        "title": "METHODS OF DATA ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "CS 161",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE I",
+        "credits": "4"
+    },
+    {
+        "code": "CS 162",
+        "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+        "credits": "4"
+    },
+    {
+        "code": "CS 261",
+        "title": "DATA STRUCTURES",
+        "credits": "4"
+    },
+    {
+        "code": "BDS 211",
+        "title": "USE AND ABUSE OF DATA: CRITICAL THINKING IN SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "BDS 311",
+        "title": "COMPUTATIONAL APPROACHES FOR BIOLOGICAL DATA",
+        "credits": "3"
+    },
+    {
+        "code": "BDS 406",
+        "title": "SPECIAL PROJECTS",
+        "credits": "1-99"
+    },
+    {
+        "code": "BDS 411",
+        "title": "*ANALYSIS OF BIOLOGICAL DATA: CASE STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "BDS 491",
+        "title": "CAPSTONE PROJECTS IN BIOLOGICAL DATA SCIENCE I",
+        "credits": "3"
+    },
+    {
+        "code": "BDS 492",
+        "title": "CAPSTONE PROJECTS IN BIOLOGICAL DATA SCIENCE II",
+        "credits": "3"
+    }
+]}

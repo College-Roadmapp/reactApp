@@ -1,0 +1,242 @@
+{"$program_name":[
+    {
+        "code": "PS 201",
+        "title": "*INTRODUCTION TO UNITED STATES GOVERNMENT AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 204",
+        "title": "*INTRODUCTION TO COMPARATIVE POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 205",
+        "title": "*INTRODUCTION TO INTERNATIONAL RELATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 206",
+        "title": "*INTRODUCTION TO POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 300",
+        "title": "^RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 311",
+        "title": "CONGRESSIONAL POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 312",
+        "title": "PRESIDENTIAL POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 313",
+        "title": "CAMPAIGNS AND ELECTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 314",
+        "title": "INTEREST GROUP POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 315",
+        "title": "*THE POLITICS OF MEDIA",
+        "credits": "4"
+    },
+    {
+        "code": "PS 317",
+        "title": "GENDER AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 321",
+        "title": "CONSTITUTIONAL LAW: GOVERNMENT POWERS AND CONSTRAINTS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 322",
+        "title": "*CONSTITUTIONAL LAW: CIVIL RIGHTS AND LIBERTIES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 323",
+        "title": "CONSTITUTIONAL LAW: RIGHTS OF THE ACCUSED",
+        "credits": "4"
+    },
+    {
+        "code": "PS 326",
+        "title": "JUDICIAL PROCESS AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 328",
+        "title": "SPORTS AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 331",
+        "title": "*STATE AND LOCAL POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 371",
+        "title": "PUBLIC POLICY PROBLEMS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 374",
+        "title": "*SUSTAINABLE LIVING: PRACTICES AND POLICIES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 375",
+        "title": "*THE CIVIL RIGHTS MOVEMENT AND POLICIES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 455",
+        "title": "*THE POLITICS OF CLIMATE CHANGE",
+        "credits": "4"
+    },
+    {
+        "code": "PS 473",
+        "title": "US ENERGY POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 476",
+        "title": "*SCIENCE AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 478",
+        "title": "RENEWABLE ENERGY POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 341",
+        "title": "*EUROPEAN AND EU POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 343",
+        "title": "*RUSSIAN POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 344",
+        "title": "*LATIN AMERICAN POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 345",
+        "title": "*POLITICS OF DEVELOPING NATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 348",
+        "title": "*CHINESE POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 350",
+        "title": "*JAPANESE POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 441",
+        "title": "DEMOCRATIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "PS 446",
+        "title": "EAST ASIAN POLITICAL ECONOMY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 351",
+        "title": "AMERICAN FOREIGN POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 356",
+        "title": "INTERNATIONAL POLITICS OF ASIA PACIFIC",
+        "credits": "4"
+    },
+    {
+        "code": "PS 454",
+        "title": "INTERNATIONAL LAW AND ORGANIZATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 455",
+        "title": "*THE POLITICS OF CLIMATE CHANGE",
+        "credits": "4"
+    },
+    {
+        "code": "PS 457",
+        "title": "US-CHINA RELATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 458",
+        "title": "INTERNATIONAL POLITICAL ECONOMY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 470",
+        "title": "GLOBAL FOOD POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 361",
+        "title": "CLASSICAL POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 362",
+        "title": "MODERN POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 363",
+        "title": "*GENDER AND RACE IN AMERICAN POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 365",
+        "title": "AMERICAN POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PS 461",
+        "title": "ENVIRONMENTAL POLITICAL THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 462",
+        "title": "THEORIES OF LAW",
+        "credits": "4"
+    }
+]}

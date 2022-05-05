@@ -1,0 +1,746 @@
+{"$program_name":[
+    {
+        "code": "SUS 304",
+        "title": "*SUSTAINABILITY ASSESSMENT",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 350",
+        "title": "*SUSTAINABLE COMMUNITIES",
+        "credits": "4"
+    },
+    {
+        "code": "BI 301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "BI 306H",
+        "title": "*ENVIRONMENTAL ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "SUS 102",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY +",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 381",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY (Ecampus only)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 331",
+        "title": "*SUSTAINABILITY, JUSTICE, AND ENGAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "SUS 420",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY (Ecampus ",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 434",
+        "title": "^BENEFIT-COST ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 401",
+        "title": "RESEARCH",
+        "credits": "1-16"
+    },
+    {
+        "code": "SUS 410",
+        "title": "INTERNSHIP 3",
+        "credits": "1-16"
+    },
+    {
+        "code": "SUS 499",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "AEC 243",
+        "title": "*GLOBAL POVERTY AND SUSTAINABLE DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "BA 302",
+        "title": "BUSINESS PROCESS MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 314",
+        "title": "SUSTAINABLE BUSINESS OPERATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 351",
+        "title": "MANAGING ORGANIZATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 362",
+        "title": "SOCIAL ENTREPRENEURSHIP AND SOCIAL INITIATIVES",
+        "credits": "4"
+    },
+    {
+        "code": "BA 432",
+        "title": "*ENVIRONMENTAL LAW, SUSTAINABILITY AND BUSINESS",
+        "credits": "3"
+    },
+    {
+        "code": "BA 466",
+        "title": "INTEGRATIVE STRATEGIC EXPERIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 311",
+        "title": "INTERMEDIATE MICROECONOMIC THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 315",
+        "title": "INTERMEDIATE MACROECONOMIC THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "MGMT 452",
+        "title": "LEADERSHIP",
+        "credits": "4"
+    },
+    {
+        "code": "BEE 221",
+        "title": "FUNDAMENTALS OF ECOLOGICAL ENGINEERING",
+        "credits": "3"
+    },
+    {
+        "code": "BEE 320",
+        "title": "BIOSYSTEMS ANALYSIS AND MODELING",
+        "credits": "4"
+    },
+    {
+        "code": "BEE 322",
+        "title": "ECOLOGICAL ENGINEERING THERMODYNAMICS AND TRANSFER PROCESS",
+        "credits": "4"
+    },
+    {
+        "code": "CCE 422",
+        "title": "GREEN BUILDING MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "CHE 450",
+        "title": "CONVENTIONAL AND ALTERNATIVE ENERGY SYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "CHE 451",
+        "title": "SOLAR ENERGY TECHNOLOGIES",
+        "credits": "3"
+    },
+    {
+        "code": "ECE 438",
+        "title": "ELECTRIC AND HYBRID ELECTRIC VEHICLES",
+        "credits": "4"
+    },
+    {
+        "code": "ENGR 350",
+        "title": "*SUSTAINABLE ENGINEERING",
+        "credits": "3"
+    },
+    {
+        "code": "ENVE 321",
+        "title": "ENVIRONMENTAL ENGINEERING FUNDAMENTALS",
+        "credits": "4"
+    },
+    {
+        "code": "HEST 310",
+        "title": "*INTRO TO COMMUNITY ENGAGEMENT AND COMMUNITY-BASED DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "AGRI 411/AEC 411",
+        "title": "*INTRODUCTION TO FOOD SYSTEMS: LOCAL TO GLOBAL"
+    },
+    {
+        "code": "BI 301",
+        "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "BI 306",
+        "title": "*ENVIRONMENTAL ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 347",
+        "title": "*OCEANS IN PERIL",
+        "credits": "3"
+    },
+    {
+        "code": "BI 348",
+        "title": "*HUMAN ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 351",
+        "title": "MARINE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 370",
+        "title": "ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BRR 325",
+        "title": "*ENERGY TECHNOLOGY AND SOCIAL CHANGE",
+        "credits": "3"
+    },
+    {
+        "code": "CH 374",
+        "title": "*TECHNOLOGY, ENERGY, AND RISK",
+        "credits": "3"
+    },
+    {
+        "code": "CH 390",
+        "title": "ENVIRONMENTAL CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 341",
+        "title": "FOREST ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 355",
+        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "FES 365",
+        "title": "*ISSUES IN NATURAL RESOURCES CONSERVATION",
+        "credits": "3"
+    },
+    {
+        "code": "FES 435/TOX 435",
+        "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
+        "credits": "3"
+    },
+    {
+        "code": "FES 445/FW 445",
+        "title": "ECOLOGICAL RESTORATION",
+        "credits": "4"
+    },
+    {
+        "code": "FES 455/HORT 455",
+        "title": "URBAN FOREST PLANNING, POLICY AND MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "FES 485",
+        "title": "*CONSENSUS AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FES 486",
+        "title": "^PUBLIC LANDS POLICY AND MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FOR 462",
+        "title": "NATURAL RESOURCE POLICY AND LAW",
+        "credits": "3"
+    },
+    {
+        "code": "FW 251",
+        "title": "PRINCIPLES OF FISH AND WILDLIFE CONSERVATION",
+        "credits": "3"
+    },
+    {
+        "code": "FW 303",
+        "title": "SURVEY OF GEOGRAPHIC INFORMATION SYSTEMS IN NATURAL RESOURCE",
+        "credits": "3"
+    },
+    {
+        "code": "FW 321",
+        "title": "APPLIED COMMUNITY AND ECOSYSTEM ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 324",
+        "title": "*FOOD FROM THE SEA",
+        "credits": "3"
+    },
+    {
+        "code": "FW 325",
+        "title": "*GLOBAL CRISES IN RESOURCE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FW 326",
+        "title": "INTEGRATED WATERSHED MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 419",
+        "title": "THE NATURAL HISTORY OF WHALES AND WHALING",
+        "credits": "3"
+    },
+    {
+        "code": "FW 435",
+        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "FW 462",
+        "title": "ECOSYSTEM SERVICES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 489",
+        "title": "EFFECTIVE COMMUNICATIONS IN FISHERIES AND WILDLIFE SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 306",
+        "title": "*MINERALS, ENERGY, WATER, AND THE ENVIRONMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 309",
+        "title": "*ENVIRONMENTAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 250",
+        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 300",
+        "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 324",
+        "title": "^ECOLOGICAL BIOGEOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 330",
+        "title": "*GEOGRAPHY OF INTERNATIONAL DEVELOPMENT AND GLOBALIZATION",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 331",
+        "title": "*POPULATION, CONSUMPTION, AND ENVIRONMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 430",
+        "title": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 431",
+        "title": "GLOBAL RESOURCES AND DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 441",
+        "title": "THE WORLD'S WATER",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 450",
+        "title": "LAND USE IN THE AMERICAN WEST",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 451",
+        "title": "PLANNING PRINCIPLES AND PRACTICES FOR RESILIENT COMMUNITIES",
+        "credits": "4"
+    },
+    {
+        "code": "GEOG 452",
+        "title": "ENVIRONMENTAL ASSESSMENT",
+        "credits": "3"
+    },
+    {
+        "code": "HORT 260",
+        "title": "ORGANIC FARMING AND GARDENING",
+        "credits": "3"
+    },
+    {
+        "code": "NR 201",
+        "title": "MANAGING NATURAL RESOURCES FOR THE FUTURE",
+        "credits": "3"
+    },
+    {
+        "code": "NR 202",
+        "title": "NATURAL RESOURCE PROBLEMS AND SOLUTIONS",
+        "credits": "3"
+    },
+    {
+        "code": "NR 312",
+        "title": "CRITICAL THINKING FOR NATURAL RESOURCE CHALLENGES",
+        "credits": "3"
+    },
+    {
+        "code": "NR 351",
+        "title": "*WHEN SCIENCE ESCAPES THE LAB: SCIENCE AND RESOURCE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "OC 333",
+        "title": "*OCEANS, COASTS, AND PEOPLE",
+        "credits": "3"
+    },
+    {
+        "code": "PH 313",
+        "title": "*ENERGY ALTERNATIVES",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 499",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "SUS 103",
+        "title": "*INTRODUCTION TO CLIMATE CHANGE",
+        "credits": "4"
+    },
+    {
+        "code": "TRAL 351",
+        "title": "OUTDOOR RECREATION MANAGEMENT ON PUBLIC LANDS",
+        "credits": "3"
+    },
+    {
+        "code": "TRAL 352",
+        "title": "WILDERNESS MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "TRAL 354",
+        "title": "COMMUNITIES, NATURAL AREAS, AND SUSTAINABLE TOURISM",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 111",
+        "title": "RENEWABLE MATERIALS FOR A GREEN PLANET",
+        "credits": "2"
+    },
+    {
+        "code": "WSE 210",
+        "title": "*RENEWABLE MATERIALS TECHNOLOGY AND UTILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "WSE 266",
+        "title": "INDUSTRIAL HEMP",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 320",
+        "title": "ANATOMY OF RENEWABLE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 321",
+        "title": "CHEMISTRY OF RENEWABLE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 385",
+        "title": "*EVALUATING SUSTAINABILITY THROUGH LIFE CYCLE ANALYSIS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 392",
+        "title": "*BAMBOOLOOZA: THE FASCINATING WORLD OF BAMBOO",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 453",
+        "title": "^FOREST PRODUCTS BUSINESS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 455",
+        "title": "INDUSTRIAL MARKETING IN THE FOREST SECTOR",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 470",
+        "title": "*FORESTS, WOOD, AND CIVILIZATION",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 473",
+        "title": "BIOENERGY AND ENVIRONMENTAL IMPACT",
+        "credits": "3"
+    },
+    {
+        "code": "Z 349",
+        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 253",
+        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 352/ECON 352",
+        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "3"
+    },
+    {
+        "code": "AEC 434",
+        "title": "^BENEFIT-COST ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "AGRI 411",
+        "title": "*INTRODUCTION TO FOOD SYSTEMS: LOCAL TO GLOBAL",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 352",
+        "title": "*ANTHROPOLOGY, HEALTH, AND ENVIRONMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 361",
+        "title": "*FOOD JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 477",
+        "title": "ECOLOGICAL ANTHROPOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 481",
+        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 482",
+        "title": "*ANTHROPOLOGY OF INTERNATIONAL DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "COMM 408",
+        "title": "WORKSHOP",
+        "credits": "1-16"
+    },
+    {
+        "code": "COMM 440",
+        "title": "THEORIES OF CONFLICT AND CONFLICT MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 442",
+        "title": "BARGAINING AND NEGOTIATION PROCESSES",
+        "credits": "3"
+    },
+    {
+        "code": "ENG 482",
+        "title": "STUDIES IN AMERICAN LITERATURE, CULTURE, AND THE ENVIRONMENT",
+        "credits": "4"
+    },
+    {
+        "code": "FES 486",
+        "title": "^PUBLIC LANDS POLICY AND MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "FW 340",
+        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "FW 350",
+        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 309",
+        "title": "*ENVIRONMENTAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 250",
+        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES",
+        "credits": "3"
+    },
+    {
+        "code": "HEST 310",
+        "title": "*INTRO TO COMMUNITY ENGAGEMENT AND COMMUNITY-BASED DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "HORT 217",
+        "title": "*SOCIAL IMPACTS OF SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "MB 330",
+        "title": "*DISEASE AND SOCIETY",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 325",
+        "title": "*SCIENTIFIC REASONING",
+        "credits": "4"
+    },
+    {
+        "code": "PHL 390",
+        "title": "MORAL THEORIES",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 440",
+        "title": "*ENVIRONMENTAL ETHICS",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 443/REL 443",
+        "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
+        "credits": "3"
+    },
+    {
+        "code": "PS 331",
+        "title": "*STATE AND LOCAL POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 374",
+        "title": "*SUSTAINABLE LIVING: PRACTICES AND POLICIES",
+        "credits": "4"
+    },
+    {
+        "code": "PS 455",
+        "title": "*THE POLITICS OF CLIMATE CHANGE",
+        "credits": "4"
+    },
+    {
+        "code": "PS 461",
+        "title": "ENVIRONMENTAL POLITICAL THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "PS 477",
+        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 360",
+        "title": "*POPULATION TRENDS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 325",
+        "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 450",
+        "title": "ECOFEMINISM",
+        "credits": "3"
+    }
+]}

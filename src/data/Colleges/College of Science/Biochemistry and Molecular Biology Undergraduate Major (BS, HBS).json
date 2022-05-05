@@ -1,0 +1,212 @@
+{"$program_name":[
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "BB 111",
+        "title": "INTRODUCTION TO BIOCHEMISTRY AND BIOPHYSICS RESEARCH",
+        "credits": "1"
+    },
+    {
+        "code": "BB 314",
+        "title": "CELL AND MOLECULAR BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 315",
+        "title": "MOLECULAR BIOLOGY LABORATORY",
+        "credits": "3"
+    },
+    {
+        "code": "BB 317",
+        "title": "^SCIENTIFIC THEORY AND PRACTICE",
+        "credits": "3"
+    },
+    {
+        "code": "BB 481",
+        "title": "MACROMOLECULAR STRUCTURE",
+        "credits": "3"
+    },
+    {
+        "code": "BB 486",
+        "title": "ADVANCED MOLECULAR GENETICS",
+        "credits": "3"
+    },
+    {
+        "code": "BB 490",
+        "title": "BIOCHEMISTRY 1: STRUCTURE AND FUNCTION",
+        "credits": "3"
+    },
+    {
+        "code": "BB 491",
+        "title": "BIOCHEMISTRY 2: METABOLISM",
+        "credits": "3"
+    },
+    {
+        "code": "BB 492",
+        "title": "BIOCHEMISTRY 3: GENETIC BIOCHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "BB 494",
+        "title": "BIOCHEMISTRY LABORATORY MOLECULAR TECHNIQUES 2",
+        "credits": "3"
+    },
+    {
+        "code": "BB 498",
+        "title": "ASBMB CERTIFICATION EXAM",
+        "credits": "0"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "CH 334",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 335",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 336",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 337",
+        "title": "ORGANIC CHEMISTRY LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 324",
+        "title": "QUANTITATIVE ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 202",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 203",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    }
+]}

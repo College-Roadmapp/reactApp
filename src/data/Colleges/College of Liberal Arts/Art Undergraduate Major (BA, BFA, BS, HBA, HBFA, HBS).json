@@ -1,0 +1,17 @@
+{"$program_name":[
+    {
+        "code": "ART 101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS",
+        "credits": "3"
+    },
+    {
+        "code": "ART 115",
+        "title": "2-D CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "ART 131",
+        "title": "DRAWING CORE STUDIO",
+        "credits": "4"
+    }
+]}

@@ -1,0 +1,557 @@
+{"$program_name":[
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 204",
+        "title": "*INTRODUCTORY BIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "BI 205",
+        "title": "*INTRODUCTORY BIOLOGY II",
+        "credits": "4"
+    },
+    {
+        "code": "BI 206",
+        "title": "*INTRODUCTORY BIOLOGY III",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "BHS 110",
+        "title": "BIOHEALTH SCIENCES ORIENTATION",
+        "credits": "1"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 227",
+        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 228",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 202",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "PH 203",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 337",
+        "title": "ORGANIC CHEMISTRY LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 314",
+        "title": "CELL AND MOLECULAR BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 450",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 451",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "BHS 329",
+        "title": "MECHANISMS OF DISEASE: INTRODUCTION TO GENERAL PATHOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 204",
+        "title": "*INTRODUCTORY BIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "BI 205",
+        "title": "*INTRODUCTORY BIOLOGY II",
+        "credits": "4"
+    },
+    {
+        "code": "BI 206",
+        "title": "*INTRODUCTORY BIOLOGY III",
+        "credits": "4"
+    },
+    {
+        "code": "MB 302",
+        "title": "GENERAL MICROBIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MB 303",
+        "title": "GENERAL MICROBIOLOGY LABORATORY 1",
+        "credits": "2"
+    },
+    {
+        "code": "BHS 305",
+        "title": "LABORATORY AND COMPUTATIONAL SKILLS IN MICROBIOLOGY",
+        "credits": "2"
+    },
+    {
+        "code": "MB 310",
+        "title": "BACTERIAL MOLECULAR GENETICS",
+        "credits": "3"
+    },
+    {
+        "code": "BI 311",
+        "title": "GENETICS",
+        "credits": "4"
+    },
+    {
+        "code": "MB 416",
+        "title": "IMMUNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BHS 316",
+        "title": "PRINCIPLES OF IMMUNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BHS 490",
+        "title": "BIOHEALTH SCIENCES CAPSTONE EXPERIENCE",
+        "credits": "2"
+    },
+    {
+        "code": "BHS 323",
+        "title": "^MICROBIAL INFLUENCES ON HUMAN HEALTH",
+        "credits": "3"
+    },
+    {
+        "code": "MB 385",
+        "title": "^EMERGING INFECTIOUS DISEASES AND EPIDEMICS",
+        "credits": "3"
+    },
+    {
+        "code": "H 210",
+        "title": "*INTRODUCTION TO THE HEALTH CARE SYSTEM",
+        "credits": "3"
+    },
+    {
+        "code": "H 225",
+        "title": "*SOCIAL AND INDIVIDUAL HEALTH DETERMINANTS",
+        "credits": "4"
+    },
+    {
+        "code": "PHAR 210",
+        "title": "TERMINOLOGY OF THE HEALTH SCIENCES",
+        "credits": "2"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 240",
+        "title": "INTRODUCTION TO BIOLOGICAL ANTHROPOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 345",
+        "title": "*BIOLOGICAL AND CULTURAL CONSTRUCTIONS OF RACE",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 361/FCSJ 361",
+        "title": "*FOOD JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 383",
+        "title": "*THE ECONOMICS OF DISCRIMINATION",
+        "credits": "4"
+    },
+    {
+        "code": "ES 351",
+        "title": "*ETHNIC MINORITIES IN OREGON",
+        "credits": "4"
+    },
+    {
+        "code": "ES 353",
+        "title": "*ENVIRONMENTAL RACISM",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 201",
+        "title": "*CONTEMPORARY FAMILIES IN THE U.S.",
+        "credits": "3"
+    },
+    {
+        "code": "MB 330",
+        "title": "*DISEASE AND SOCIETY",
+        "credits": "3"
+    },
+    {
+        "code": "PHL 280",
+        "title": "*ETHICS OF DIVERSITY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 426",
+        "title": "*PSYCHOLOGY OF GENDER",
+        "credits": "4"
+    },
+    {
+        "code": "QS 262/WGSS 262",
+        "title": "*INTRODUCTION TO QUEER STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "SOC 426",
+        "title": "*SOCIAL INEQUALITY",
+        "credits": "4"
+    },
+    {
+        "code": "SPAN 221",
+        "title": "SPANISH FOR MEDICAL PROFESSIONS I",
+        "credits": "4"
+    },
+    {
+        "code": "SPAN 222",
+        "title": "SPANISH FOR MEDICAL PROFESSIONS II",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 414",
+        "title": "*SYSTEMS OF OPPRESSION IN WOMEN'S LIVES",
+        "credits": "4"
+    },
+    {
+        "code": "BB 331",
+        "title": "*INTRODUCTION TO MOLECULAR BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BB 332",
+        "title": "*MOLECULAR MEDICINE",
+        "credits": "3"
+    },
+    {
+        "code": "BB 360",
+        "title": "INTRODUCTION TO NEUROSCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "BB 460",
+        "title": "ADVANCED CELL BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BB 481",
+        "title": "MACROMOLECULAR STRUCTURE",
+        "credits": "3"
+    },
+    {
+        "code": "BB 485",
+        "title": "APPLIED BIOINFORMATICS",
+        "credits": "3"
+    },
+    {
+        "code": "BHS 320",
+        "title": "HUMAN BACTERIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BHS 340",
+        "title": "HUMAN VIROLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 309",
+        "title": "TEACHING PRACTICUM",
+        "credits": "1-6"
+    },
+    {
+        "code": "BI 409",
+        "title": "ADVANCED TEACHING PRACTICUM",
+        "credits": "1-6"
+    },
+    {
+        "code": "BI 483",
+        "title": "POPULATION BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "Z 350",
+        "title": "ANIMAL BEHAVIOR",
+        "credits": "3"
+    },
+    {
+        "code": "Z 423",
+        "title": "ENVIRONMENTAL PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "Z 431",
+        "title": "VERTEBRATE PHYSIOLOGY I",
+        "credits": "4"
+    },
+    {
+        "code": "Z 432",
+        "title": "VERTEBRATE PHYSIOLOGY II",
+        "credits": "3"
+    },
+    {
+        "code": "Z 438",
+        "title": "BEHAVIORAL NEUROBIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 309",
+        "title": "TEACHING PRACTICUM",
+        "credits": "1-6"
+    },
+    {
+        "code": "BI 409",
+        "title": "ADVANCED TEACHING PRACTICUM",
+        "credits": "1-6"
+    },
+    {
+        "code": "CH 401",
+        "title": "RESEARCH",
+        "credits": "1-16"
+    },
+    {
+        "code": "CH 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "CH 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "CH 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "CH 407",
+        "title": "SEMINAR",
+        "credits": "1-16"
+    },
+    {
+        "code": "CH 410",
+        "title": "INTERNSHIP",
+        "credits": "1-16"
+    },
+    {
+        "code": "MB 401",
+        "title": "RESEARCH",
+        "credits": "1-16"
+    },
+    {
+        "code": "MB 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "MB 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "MB 406",
+        "title": "SPECIAL PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "MB 407",
+        "title": "SEMINAR",
+        "credits": "1-16"
+    },
+    {
+        "code": "MB 410",
+        "title": "OCCUPATIONAL INTERNSHIP",
+        "credits": "1-10"
+    }
+]}

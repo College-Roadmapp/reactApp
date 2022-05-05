@@ -1,0 +1,359 @@
+{
+    "$program_name": [
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 202",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 205",
+            "title": "LABORATORY FOR CH",
+            "credits": "1"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "FE 101",
+            "title": "INTRODUCTION TO FOREST ENGINEERING",
+            "credits": "2"
+        },
+        {
+            "code": "FE 102",
+            "title": "FOREST ENGINEERING PROBLEM SOLVING AND TECHNOLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "4"
+        },
+        {
+            "code": "FES 240",
+            "title": "*FOREST BIOLOGY",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "CCE 201",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 212",
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 213",
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "FE 208",
+            "title": "FOREST SURVEYING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 361",
+            "title": "SURVEYING THEORY",
+            "credits": "4"
+        },
+        {
+            "code": "FE 257",
+            "title": "GIS AND FOREST ENGINEERING APPLICATIONS",
+            "credits": "3"
+        },
+        {
+            "code": "FES 241",
+            "title": "DENDROLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 265",
+            "title": "MATRIX AND POWER SERIES METHODS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 213",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "SOIL 205",
+            "title": "SOIL SCIENCE",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 206",
+            "title": "*FOREST SOILS LABORATORY FOR SOIL",
+            "credits": "4"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "FE 310",
+            "title": "FOREST ROUTE SURVEYING",
+            "credits": "4"
+        },
+        {
+            "code": "FE 312/FOR 312",
+            "title": "FORESTRY FIELD SCHOOL",
+            "credits": "2"
+        },
+        {
+            "code": "FE 315",
+            "title": "SOIL ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "FE 316",
+            "title": "SOIL MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 371",
+            "title": "HARVESTING PROCESS ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "FE 434",
+            "title": "FOREST WATERSHED MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "FE 440",
+            "title": "FOREST OPERATIONS ANALYSIS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 470",
+            "title": "LOGGING MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 321",
+            "title": "FOREST MENSURATION",
+            "credits": "5"
+        },
+        {
+            "code": "FOR 329",
+            "title": "FOREST RESOURCE ECONOMICS I",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 441",
+            "title": "SILVICULTURE PRINCIPLES",
+            "credits": "4"
+        },
+        {
+            "code": "GEOG 300",
+            "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+            "credits": "3"
+        },
+        {
+            "code": "FW 350",
+            "title": "*ENDANGERED SPECIES SOCIETY AND SUSTAINABILITY",
+            "credits": "4"
+        },
+        {
+            "code": "CCE 321",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        {
+            "code": "CE 311",
+            "title": "FLUID MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "CE 313",
+            "title": "HYDRAULIC ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 381",
+            "title": "STRUCTURAL THEORY I",
+            "credits": "4"
+        },
+        {
+            "code": "CE 382",
+            "title": "STRUCTURAL THEORY II",
+            "credits": "4"
+        },
+        {
+            "code": "CE 392",
+            "title": "INTRODUCTION TO HIGHWAY ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 481",
+            "title": "REINFORCED CONCRETE I",
+            "credits": "4"
+        },
+        {
+            "code": "CE 491",
+            "title": "TRANSPORTATION ENGINEERING",
+            "credits": "3"
+        },
+        {
+            "code": "ENVE 321",
+            "title": "ENVIRONMENTAL ENGINEERING FUNDAMENTALS",
+            "credits": "4"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "HHS 241",
+            "title": "*LIFETIME FITNESS",
+            "credits": "1"
+        },
+        {
+            "code": "CE 383",
+            "title": "DESIGN OF STEEL STRUCTURES",
+            "credits": "4"
+        },
+        {
+            "code": "CE 418",
+            "title": "^CIVIL ENGINEERING PROFESSIONAL PRACTICE",
+            "credits": "3"
+        },
+        {
+            "code": "CE 419",
+            "title": "^CIVIL INFRASTRUCTURE DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "FE 415",
+            "title": "FOREST ROAD ENGINEERING",
+            "credits": "3"
+        },
+        {
+            "code": "FE 416",
+            "title": "FOREST ROAD SYSTEM MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "FE 444",
+            "title": "FOREST REMOTE SENSING AND PHOTOGRAMMETRY",
+            "credits": "4"
+        },
+        {
+            "code": "FE 457/FOR 457",
+            "title": "TECHNIQUES FOR FOREST RESOURCE ANALYSIS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 459/FOR 459",
+            "title": "FOREST MANAGEMENT PLANNING AND DESIGN I",
+            "credits": "4"
+        },
+        {
+            "code": "FE 460",
+            "title": "^FOREST OPERATIONS REGULATIONS AND POLICY ISSUES",
+            "credits": "3"
+        },
+        {
+            "code": "FOR 460",
+            "title": "^FOREST POLICY",
+            "credits": "3"
+        },
+        {
+            "code": "FE 469/FOR 469",
+            "title": "FOREST MANAGEMENT PLANNING AND DESIGN II",
+            "credits": "4"
+        },
+        {
+            "code": "FE 480",
+            "title": "FOREST ENGINEERING PRACTICE AND PROFESSIONALISM",
+            "credits": "1"
+        },
+        {
+            "code": "FOR 330",
+            "title": "FOREST RESOURCE ECONOMICS II",
+            "credits": "4"
+        }
+    ]
+}

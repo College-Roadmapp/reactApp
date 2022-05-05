@@ -1,0 +1,317 @@
+{"$program_name":[
+    {
+        "code": "BI 102",
+        "title": "*ANIMAL BIOLOGY: GENES, BEHAVIOR AND EVOLUTION OF LIFE",
+        "credits": "4"
+    },
+    {
+        "code": "BI 103",
+        "title": "*HUMAN BIOLOGY: ANATOMY, PHYSIOLOGY AND DISEASE",
+        "credits": "4"
+    },
+    {
+        "code": "BI 212",
+        "title": "*PRINCIPLES OF BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 213",
+        "title": "*PRINCIPLES OF BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 301",
+        "title": "RESEARCH METHODS IN PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 330",
+        "title": "BRAIN AND BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 340",
+        "title": "COGNITIVE PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 350",
+        "title": "HUMAN LIFESPAN DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 360",
+        "title": "SOCIAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 370",
+        "title": "PERSONALITY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 381",
+        "title": "ABNORMAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 426",
+        "title": "*PSYCHOLOGY OF GENDER",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 428",
+        "title": "PSYCHOLOGY AND THE LAW",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 432",
+        "title": "PHYSIOLOGICAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 433",
+        "title": "PSYCHOPHARMACOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 437",
+        "title": "MOTIVATION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 442",
+        "title": "PERCEPTION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 444",
+        "title": "LEARNING AND MEMORY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 446",
+        "title": "PSYCHOLOGY OF HUMAN COMPUTER INTERACTION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 448",
+        "title": "CONSCIOUSNESS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 452",
+        "title": "CROSS-CULTURAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 454",
+        "title": "COGNITIVE DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 456",
+        "title": "SOCIAL DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 458",
+        "title": "LANGUAGE ACQUISITION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 462",
+        "title": "PSYCHOLOGY OF DISABILITY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 463",
+        "title": "JUDGMENT AND DECISION MAKING",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 464",
+        "title": "SOCIAL COGNITION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 467",
+        "title": "POLITICAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 468",
+        "title": "THE PSYCHOLOGY OF CLOSE RELATIONSHIPS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 476",
+        "title": "NONVERBAL BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 482",
+        "title": "PSYCHOTHERAPY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 483",
+        "title": "DEVELOPMENTAL PSYCHOPATHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 485",
+        "title": "BEHAVIOR MODIFICATION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 492",
+        "title": "CONSERVATION PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 493",
+        "title": "POSITIVE PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 494",
+        "title": "ENGINEERING PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 495",
+        "title": "PSYCHOLOGY OF MEDITATION",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 496",
+        "title": "INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 497",
+        "title": "EVOLUTIONARY PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 498",
+        "title": "HEALTH PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 499",
+        "title": "SPECIAL TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 401",
+        "title": "RESEARCH",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 402",
+        "title": "INDEPENDENT STUDY",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 405",
+        "title": "READING AND CONFERENCE",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 406",
+        "title": "PROJECTS",
+        "credits": "0-16"
+    },
+    {
+        "code": "PSY 407",
+        "title": "SEMINAR",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 408",
+        "title": "WORKSHOP",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 410",
+        "title": "PSYCHOLOGY INTERNSHIP",
+        "credits": "1-16"
+    },
+    {
+        "code": "PSY 434",
+        "title": "^BRAIN AND BEHAVIOR METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 440",
+        "title": "^COGNITION RESEARCH",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 450",
+        "title": "^EDUCATIONAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 460",
+        "title": "^ADVANCED SOCIAL RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 470",
+        "title": "^PSYCHOMETRICS AND PSYCHOLOGICAL TESTING",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 480",
+        "title": "^CLINICAL RESEARCH METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 484",
+        "title": "^PSYCHOLOGY OF ADDICTION",
+        "credits": "4"
+    }
+]}

@@ -1,0 +1,172 @@
+{"$program_name":[
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "HHS 241",
+        "title": "*LIFETIME FITNESS (or any PAC course)",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 350",
+        "title": "*SUSTAINABLE COMMUNITIES",
+        "credits": "4"
+    },
+    {
+        "code": "HM 101",
+        "title": "INTRODUCTION TO HOSPITALITY",
+        "credits": "4"
+    },
+    {
+        "code": "HM 210",
+        "title": "HOSPITALITY INTERNSHIP",
+        "credits": "3"
+    },
+    {
+        "code": "HM 230",
+        "title": "LODGING MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "HM 235",
+        "title": "HOSPITALITY LAW AND LABOR RELATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "HM 310",
+        "title": "INTERNSHIP II",
+        "credits": "3"
+    },
+    {
+        "code": "HM 320",
+        "title": "SERVICE AUTOMATION AND TECHNOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "HM 321",
+        "title": "HOSPITALITY TECHNOLOGY LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "HM 410",
+        "title": "HOSPITALITY INTERNSHIP III",
+        "credits": "3"
+    },
+    {
+        "code": "HM 420",
+        "title": "REVENUE MANAGEMENT AND PRICING",
+        "credits": "4"
+    },
+    {
+        "code": "HM 430",
+        "title": "SERVICE MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "HM 470",
+        "title": "^ADVANCED HOSPITALITY",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "BA 230",
+        "title": "BUSINESS LAW I",
+        "credits": "4"
+    },
+    {
+        "code": "BA 260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+        "credits": "4"
+    },
+    {
+        "code": "BA 314",
+        "title": "SUSTAINABLE BUSINESS OPERATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 315",
+        "title": "ACCOUNTING FOR DECISION MAKING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 351",
+        "title": "MANAGING ORGANIZATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 360",
+        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS (credits count towards Bacc Core)",
+        "credits": "4"
+    },
+    {
+        "code": "HM 325",
+        "title": "ONLINE MARKETING AND REPUTATION MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "HM 340",
+        "title": "VACATION PROPERTY MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "HM 425",
+        "title": "ADVANCED RESTAURANT MANAGEMENT AND OWNERSHIP",
+        "credits": "4"
+    },
+    {
+        "code": "TRAL 353",
+        "title": "NATURE, ECO, AND ADVENTURE TOURISM",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 350",
+        "title": "*SUSTAINABLE COMMUNITIES",
+        "credits": "4"
+    },
+    {
+        "code": "SUS 420",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY",
+        "credits": "3"
+    }
+]}

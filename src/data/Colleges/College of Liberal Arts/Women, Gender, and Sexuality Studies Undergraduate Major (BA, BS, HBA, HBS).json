@@ -1,0 +1,397 @@
+{"$program_name":[
+    {
+        "code": "WGSS 223",
+        "title": "*INTRODUCTION TO WOMEN, GENDER, AND SEXUALITY STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 262/QS 262",
+        "title": "*INTRODUCTION TO QUEER STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 319",
+        "title": "*FEMINIST DECOLONIZING METHODOLOGIES: SOCIAL JUSTICE RESEARCH",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 410",
+        "title": "INTERNSHIP",
+        "credits": "1-16"
+    },
+    {
+        "code": "WGSS 414",
+        "title": "*SYSTEMS OF OPPRESSION IN WOMEN'S LIVES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 416",
+        "title": "THEORIES OF FEMINISM",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 460",
+        "title": "^SEXUALITIES, FEMINISMS, WOMEN",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 472/QS 472",
+        "title": "^INDIGENOUS TWO-SPIRIT AND QUEER STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 480",
+        "title": "*GENDER AND TRANSNATIONAL ACTIVISMS",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 498",
+        "title": "FEMINIST PRACTICE",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 110",
+        "title": "*GENDER, RACE, AND POP CULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 111",
+        "title": "*FEMINIST PERSPECTIVES ON CURRENT EVENTS",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 199",
+        "title": "SPECIAL STUDIES",
+        "credits": "1-3"
+    },
+    {
+        "code": "WGSS 224",
+        "title": "*WOMEN: PERSONAL AND SOCIAL CHANGE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 230",
+        "title": "*WOMEN IN THE MOVIES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 235",
+        "title": "*WOMEN IN WORLD CINEMA",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 240",
+        "title": "*GENDER AND SPORT",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 270",
+        "title": "*RESISTING GENDER VIOLENCE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 280",
+        "title": "*WOMEN WORLDWIDE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 295",
+        "title": "*FEMINISM AND THE BIBLE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 299",
+        "title": "TOPICS IN WOMEN, GENDER, AND SEXUALITY STUDIES",
+        "credits": "1-6"
+    },
+    {
+        "code": "WGSS 311",
+        "title": "*GLOBAL EXPERIENCE: CULTURAL DIVERSITY",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 312",
+        "title": "*GLOBAL EXPERIENCE: WESTERN CULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 313",
+        "title": "*GLOBAL EXPERIENCE: CONTEMPORARY GLOBAL ISSUES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 320",
+        "title": "*GENDER AND TECHNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 321/QS 321",
+        "title": "*QUEER POP CULTURE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 324",
+        "title": "*FEMINIST ACTIVISMS",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 325",
+        "title": "*DISNEY: GENDER, RACE, EMPIRE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 340",
+        "title": "*GENDER AND SCIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 350",
+        "title": "*POLITICS OF MOTHERHOOD IN A GLOBAL CONTEXT",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 360",
+        "title": "*MEN AND MASCULINITIES IN A GLOBAL CONTEXT",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 362/QS 362",
+        "title": "*SERVING LGBTQ+ COMMUNITIES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 364/QS 364",
+        "title": "*TRANSGENDER POLITICS",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 373/ANTH 373/ES 373/WLC 373",
+        "title": "APPROACHES TO SOCIAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 375/ES 375/QS 375",
+        "title": "*ARTS AND SOCIAL JUSTICE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 378/REL 378",
+        "title": "*RELIGION AND GENDER: A GLOBAL PERSPECTIVE",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 380",
+        "title": "*MUSLIM WOMEN",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 399",
+        "title": "TOPICS IN WOMEN, GENDER, AND SEXUALITY STUDIES",
+        "credits": "1-6"
+    },
+    {
+        "code": "WGSS 402",
+        "title": "INDEPENDENT STUDY",
+        "credits": "1-16"
+    },
+    {
+        "code": "WGSS 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "WGSS 430",
+        "title": "WOMEN OF COLOR FEMINISMS",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 431/ES 431/QS 431",
+        "title": "*QUEER OF COLOR CRITIQUES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 432/ART 432/QS 432",
+        "title": "*GENDER, SEXUALITY, AND THE PHOTOGRAPHIC IMAGE",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 440",
+        "title": "*WOMEN AND NATURAL RESOURCES",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 450",
+        "title": "ECOFEMINISM",
+        "credits": "3"
+    },
+    {
+        "code": "WGSS 460",
+        "title": "^SEXUALITIES, FEMINISMS, WOMEN (if not used above)",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 462/QS 462",
+        "title": "*QUEER THEORIES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 466/PSY 466",
+        "title": "*FAT STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 472/QS 472",
+        "title": "^INDIGENOUS TWO-SPIRIT AND QUEER STUDIES (if not used above)",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 473/QS 473",
+        "title": "TRANSGENDER LIVES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 477/ES 477/QS 477",
+        "title": "QUEER/TRANS PEOPLE OF COLOR ARTS AND ACTIVISM",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 482",
+        "title": "GLOBAL PERSPECTIVES ON WOMEN'S HEALTH",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 483",
+        "title": "RACE, GENDER, AND HEALTH JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 485/ANTH 485/ES 485/WLC 485",
+        "title": "CAPSTONE IN SOCIAL JUSTICE",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 486",
+        "title": "GLOBAL EXPERIENCE I",
+        "credits": "1"
+    },
+    {
+        "code": "WGSS 487",
+        "title": "GLOBAL EXPERIENCE II",
+        "credits": "1"
+    },
+    {
+        "code": "WGSS 495",
+        "title": "*GLOBAL FEMINIST THEOLOGIES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 496",
+        "title": "*FEMINIST THEOLOGIES IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "WGSS 499",
+        "title": "TOPICS",
+        "credits": "1-6"
+    },
+    {
+        "code": "ANTH 473",
+        "title": "*GENDER, ETHNICITY, AND CULTURE",
+        "credits": "4"
+    },
+    {
+        "code": "COMM 432",
+        "title": "GENDER AND COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "ENG 362",
+        "title": "*AMERICAN WOMEN WRITERS",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 416",
+        "title": "POWER AND REPRESENTATION",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 497",
+        "title": "*INTERNATIONAL WOMEN'S VOICES",
+        "credits": "4"
+    },
+    {
+        "code": "ES 457",
+        "title": "*LITERATURE BY WOMEN OF COLOR IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 444",
+        "title": "FAMILY VIOLENCE AND NEGLECT",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 447",
+        "title": "*FAMILIES AND POVERTY",
+        "credits": "4"
+    },
+    {
+        "code": "HST 362",
+        "title": "WOMEN IN UNITED STATES HISTORY",
+        "credits": "4"
+    },
+    {
+        "code": "HST 368",
+        "title": "*LESBIAN AND GAY MOVEMENTS IN MODERN AMERICA",
+        "credits": "4"
+    },
+    {
+        "code": "HST 390",
+        "title": "*MIDEAST WOMEN: IN THEIR OWN WORDS",
+        "credits": "4"
+    },
+    {
+        "code": "HST 432",
+        "title": "THE HISTORY OF SEXUALITY",
+        "credits": "4"
+    },
+    {
+        "code": "PHL 417",
+        "title": "FEMINIST PHILOSOPHIES",
+        "credits": "3"
+    },
+    {
+        "code": "PS 317",
+        "title": "GENDER AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "PS 363",
+        "title": "*GENDER AND RACE IN AMERICAN POLITICAL THOUGHT",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 426",
+        "title": "*PSYCHOLOGY OF GENDER",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 456",
+        "title": "SOCIAL DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 312",
+        "title": "*SOCIOLOGY OF THE FAMILY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 430",
+        "title": "GENDER AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY",
+        "credits": "4"
+    }
+]}

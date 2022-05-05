@@ -1,0 +1,32 @@
+{"$program_name":[
+    {
+        "code": "SSCI 211",
+        "title": "CAREER DEVELOPMENT IN THE SOCIAL SCIENCES",
+        "credits": "1"
+    },
+    {
+        "code": "SSCI 301",
+        "title": "^QUALITATIVE RESEARCH METHODS FOR THE SOCIAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "SSCI 406",
+        "title": "PROJECTS",
+        "credits": "1-4"
+    },
+    {
+        "code": "COMM 321",
+        "title": "INTRODUCTION TO COMMUNICATION THEORY",
+        "credits": "3"
+    },
+    {
+        "code": "ANTH 352",
+        "title": "*ANTHROPOLOGY, HEALTH, AND ENVIRONMENT",
+        "credits": "3"
+    },
+    {
+        "code": "SUS 420",
+        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY",
+        "credits": "3"
+    }
+]}

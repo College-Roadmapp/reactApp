@@ -1,0 +1,149 @@
+{
+    "$program_name": [
+        {
+            "code": "AEC 250",
+            "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+            "credits": "3-4"
+        },
+        {
+            "code": "ECON 201",
+            "title": " *INTRODUCTION TO MICROECONOMICS",
+            "credits": ""
+        },
+        {
+            "code": "CH 231",
+            "title": "GENERAL CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "CH 261",
+            "title": "*LABORATORY FOR CHEMISTRY",
+            "credits": "1"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": " *ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "FES 240",
+            "title": "*FOREST BIOLOGY",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 111",
+            "title": "INTRODUCTION TO FORESTRY",
+            "credits": "3"
+        },
+        {
+            "code": "NR 201",
+            "title": " MANAGING NATURAL RESOURCES FOR THE FUTURE",
+            "credits": "3"
+        },
+        {
+            "code": "FOR 112",
+            "title": "COMPUTING APPLICATIONS IN FORESTRY",
+            "credits": "3"
+        },
+        {
+            "code": "FE 102",
+            "title": " FOREST ENGINEERING PROBLEM SOLVING AND TECHNOLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "HHS 241",
+            "title": "*LIFETIME FITNESS ( any PAC course)",
+            "credits": "1"
+        },
+        {
+            "code": "MTH 111",
+            "title": "*COLLEGE ALGEBRA",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 112",
+            "title": "*ELEMENTARY FUNCTIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 241",
+            "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "BI 204",
+            "title": "*INTRODUCTORY BIOLOGY I",
+            "credits": "4"
+        },
+        {
+            "code": "BI 212",
+            "title": " *PRINCIPLES OF BIOLOGY",
+            "credits": "4"
+        },
+        {
+            "code": "BI 221",
+            "title": " *PRINCIPLES OF BIOLOGY: CELLS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 208",
+            "title": "FOREST SURVEYING",
+            "credits": "4"
+        },
+        {
+            "code": "FE 257",
+            "title": "GIS AND FOREST ENGINEERING APPLICATIONS",
+            "credits": "3"
+        },
+        {
+            "code": "FES 241",
+            "title": "DENDROLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "PH 201",
+            "title": "*GENERAL PHYSICS",
+            "credits": "5"
+        },
+        {
+            "code": "SOIL 205",
+            "title": "SOIL SCIENCE",
+            "credits": "3"
+        },
+        {
+            "code": "FOR 206",
+            "title": "*FOREST SOILS LABORATORY FOR SOIL",
+            "credits": "1"
+        },
+        {
+            "code": "ST 201",
+            "title": "PRINCIPLES OF STATISTICS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "WR 362",
+            "title": " *SCIENCE WRITING",
+            "credits": "3"
+        }
+    ]
+}

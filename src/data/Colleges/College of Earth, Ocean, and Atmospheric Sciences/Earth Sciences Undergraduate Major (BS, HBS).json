@@ -1,0 +1,77 @@
+{"$program_name":[
+    {
+        "code": "ATS 201",
+        "title": "*CLIMATE SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "PH 211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
+        "credits": "5"
+    },
+    {
+        "code": "GEO 201",
+        "title": "*PHYSICAL GEOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 202",
+        "title": "*EARTH SYSTEMS SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "OC 201",
+        "title": "*OCEANOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "CBEE 102",
+        "title": "ENGINEERING PROBLEM SOLVING AND COMPUTATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "ENGR 112",
+        "title": "INTRODUCTION TO ENGINEERING COMPUTING",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 360",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "ST 352",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    }
+]}

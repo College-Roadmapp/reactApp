@@ -1,0 +1,182 @@
+{"$program_name":[
+    {
+        "code": "KIN 131",
+        "title": "INTRODUCTION TO KINESIOLOGY",
+        "credits": "1"
+    },
+    {
+        "code": "KIN 206",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "KIN 311",
+        "title": "MOTOR BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "KIN 312",
+        "title": "*SOCIOCULTURAL DIMENSIONS OF PHYSICAL ACTIVITY",
+        "credits": "4"
+    },
+    {
+        "code": "KIN 314",
+        "title": "INTRODUCTION TO ADAPTED PHYSICAL ACTIVITY",
+        "credits": "3"
+    },
+    {
+        "code": "KIN 321",
+        "title": "BIOMECHANICS OF HUMAN MOVEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "KIN 324",
+        "title": "EXERCISE PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "KIN 370",
+        "title": "PSYCHOLOGY OF SPORT AND PHYSICAL ACTIVITY",
+        "credits": "3"
+    },
+    {
+        "code": "KIN 481",
+        "title": "^ANALYSIS OF CRITICAL ISSUES IN KINESIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 231",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 232",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 233",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 241",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BI 242",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BI 243",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BI 331",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 332",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 333",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 341",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BI 342",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BI 343",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BI 254",
+        "title": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "5"
+    },
+    {
+        "code": "BI 255",
+        "title": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "5"
+    },
+    {
+        "code": "BI 256",
+        "title": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 231",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 261",
+        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "credits": "1"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 232",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 262",
+        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "credits": "1"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 233",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 263",
+        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "credits": "1"
+    },
+    {
+        "code": "H 100",
+        "title": "INTRODUCTION TO PUBLIC HEALTH",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 240",
+        "title": "HUMAN NUTRITION",
+        "credits": "3"
+    }
+]}

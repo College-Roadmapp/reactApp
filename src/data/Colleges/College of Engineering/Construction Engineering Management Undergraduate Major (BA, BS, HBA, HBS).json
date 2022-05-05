@@ -1,0 +1,249 @@
+{
+    "Courses": [
+        {
+            "code": "CH 201",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        {
+            "code": "CH 231",
+            "title": "GENERAL CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "CH 261",
+            "title": "*LABORATORY FOR CHEMISTRY 231",
+            "credits": "1"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ECON 201",
+            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        {
+            "code": "ECON 202",
+            "title": "*INTRODUCTION TO MACROECONOMICS",
+            "credits": "4"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "WR 121",
+            "title": "*ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "BA 315",
+            "title": "ACCOUNTING FOR DECISION MAKING",
+            "credits": "4"
+        },
+        {
+            "code": "BA330",
+            "title": "LEGAL ENVIRONMENT OF BUSINESS",
+            "credits": "4"
+        },
+        {
+            "code": "CCE 201",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "CCE 203",
+            "title": "INTRODUCTION TO VIRTUAL DESIGN AND CONSTRUCTION",
+            "credits": "3"
+        },
+        {
+            "code": "CCE 207",
+            "title": "CCE SEMINAR",
+            "credits": "1"
+        },
+        {
+            "code": "CEM 263",
+            "title": "PLANE SURVEYING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 213",
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 390",
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PHL 205",
+            "title": "*ETHICS",
+            "credits": "4"
+        },
+        {
+            "code": "ST 314",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "BA 351",
+            "title": "MANAGING ORGANIZATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "CCE 321",
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        {
+            "code": "CE 365",
+            "title": "HIGHWAY LOCATION AND DESIGN",
+            "credits": "3"
+        },
+        {
+            "code": "CE 424",
+            "title": "CONTRACTS AND SPECIFICATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 341",
+            "title": "CONSTRUCTION ESTIMATING I",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 381",
+            "title": "STRUCTURES I",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 441",
+            "title": "HEAVY CIVIL CONSTRUCTION MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 442",
+            "title": "BUILDING CONSTRUCTION MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 471",
+            "title": "ELECTRICAL FACILITIES",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 472",
+            "title": "MECHANICAL FACILITIES",
+            "credits": "3"
+        },
+        {
+            "code": "FE 315",
+            "title": "SOIL ENGINEERING",
+            "credits": "4"
+        },
+        {
+            "code": "CE 372",
+            "title": "GEOTECHNICAL ENGINEERING I",
+            "credits": "4"
+        },
+        {
+            "code": "CE 427",
+            "title": "TEMPORARY CONSTRUCTION STRUCTURES",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 326",
+            "title": "CONSTRUCTION SAFETY",
+            "credits": "3"
+        },
+        {
+            "code": "CEM 342",
+            "title": "CONSTRUCTION ESTIMATING II",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 343",
+            "title": "CONSTRUCTION PLANNING AND SCHEDULING",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 383",
+            "title": "STRUCTURES II",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 431",
+            "title": "OBTAINING CONSTRUCTION CONTRACTS",
+            "credits": "4"
+        },
+        {
+            "code": "CEM 432",
+            "title": "CONSTRUCTION PROJECT PLANNING",
+            "credits": "3"
+        },
+        {
+            "code": "CEM 443",
+            "title": "^PROJECT MANAGEMENT FOR CONSTRUCTION",
+            "credits": "4"
+        },
+        {
+            "code": "MGMT 453",
+            "title": "HUMAN RESOURCES MANAGEMENT",
+            "credits": "4"
+        }
+    ]
+}

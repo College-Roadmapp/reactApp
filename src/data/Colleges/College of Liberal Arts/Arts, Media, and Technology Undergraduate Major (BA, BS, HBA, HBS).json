@@ -1,0 +1,127 @@
+{"$program_name":[
+    {
+        "code": "ART 101",
+        "title": "*INTRODUCTION TO THE VISUAL ARTS",
+        "credits": "3"
+    },
+    {
+        "code": "ART 115",
+        "title": "2-D CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "ART 117",
+        "title": "3-D CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "ART 121",
+        "title": "DIGITAL CORE STUDIO",
+        "credits": "4"
+    },
+    {
+        "code": "ART 222",
+        "title": "INTRODUCTION TO TIME-BASED ART",
+        "credits": "4"
+    },
+    {
+        "code": "ART 215",
+        "title": "COLOR IN THE VISUAL ARTS",
+        "credits": "4"
+    },
+    {
+        "code": "ART 263",
+        "title": "DIGITAL PHOTOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "ART 339",
+        "title": "PROFESSIONAL PRACTICES FOR ARTISTS",
+        "credits": "3"
+    },
+    {
+        "code": "ART 349",
+        "title": "VIDEO ART",
+        "credits": "4"
+    },
+    {
+        "code": "ART 366",
+        "title": "ART SINCE 1945 1",
+        "credits": "3"
+    },
+    {
+        "code": "ART 367",
+        "title": "*HISTORY OF DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "ART 411",
+        "title": "^ART IN CONTEXT HISTORICAL AND CRITICAL APPROACHES",
+        "credits": "3"
+    },
+    {
+        "code": "ART 422",
+        "title": "NEW MEDIA: INTERACTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ART 451",
+        "title": "INTRODUCTION TO ARTS ENTREPRENEURSHIP",
+        "credits": "3"
+    },
+    {
+        "code": "ART 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "ART 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "ART 410",
+        "title": "INTERNSHIP",
+        "credits": "1-16"
+    },
+    {
+        "code": "GD 110",
+        "title": "GRAPHIC DESIGN TOOLS AND TECHNIQUES",
+        "credits": "4"
+    },
+    {
+        "code": "GD 210",
+        "title": "GRAPHIC DESIGN I",
+        "credits": "4"
+    },
+    {
+        "code": "GD 310",
+        "title": "GRAPHIC DESIGN 2: INTERMEDIATE GRAPHIC DESIGN",
+        "credits": "4"
+    },
+    {
+        "code": "GD 430",
+        "title": "GRAPHIC DESIGN PRACTICUM",
+        "credits": "2"
+    },
+    {
+        "code": "GD 440",
+        "title": "USER RESEARCH FOR GRAPHIC DESIGNERS",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 101",
+        "title": "*INTRODUCTION TO NEW MEDIA COMMUNICATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "NMC 351",
+        "title": "NEW MEDIA VISUALIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "NMC 484",
+        "title": "NEW MEDIA ANIMATION",
+        "credits": "4"
+    }
+]}

@@ -1,0 +1,112 @@
+{"$program_name":[
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "HHS 241",
+        "title": "*LIFETIME FITNESS (or any PAC course)",
+        "credits": "1"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "4"
+    },
+    {
+        "code": "WR 214",
+        "title": "*WRITING IN BUSINESS",
+        "credits": "3"
+    },
+    {
+        "code": "WR 327",
+        "title": "*TECHNICAL WRITING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 111",
+        "title": "*PUBLIC SPEAKING",
+        "credits": "3"
+    },
+    {
+        "code": "COMM 114",
+        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "credits": "3"
+    },
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "FES 240",
+        "title": "*FOREST BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "FOR 111",
+        "title": "INTRODUCTION TO FORESTRY",
+        "credits": "3"
+    },
+    {
+        "code": "FOR 112",
+        "title": "COMPUTING APPLICATIONS IN FORESTRY",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 111",
+        "title": "RENEWABLE MATERIALS FOR A GREEN PLANET",
+        "credits": "2"
+    },
+    {
+        "code": "WSE 210",
+        "title": "*RENEWABLE MATERIALS TECHNOLOGY AND UTILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "WSE 225",
+        "title": "DEVELOPMENTS OF BUILDING DESIGN WITH RENEWABLE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 250",
+        "title": "CAD: COMPUTER AIDED DESIGN",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 320",
+        "title": "ANATOMY OF RENEWABLE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 321",
+        "title": "CHEMISTRY OF RENEWABLE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 322",
+        "title": "PHYSICAL AND MECHANICAL PROPERTIES OF RENEWABLE MATERIALS",
+        "credits": "4"
+    },
+    {
+        "code": "WSE 324",
+        "title": "RENEWABLE MATERIALS LABORATORY",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 453",
+        "title": "^FOREST PRODUCTS BUSINESS",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 465",
+        "title": "RENEWABLE MATERIALS MANUFACTURING EXPERIENCE",
+        "credits": "2"
+    }
+]}

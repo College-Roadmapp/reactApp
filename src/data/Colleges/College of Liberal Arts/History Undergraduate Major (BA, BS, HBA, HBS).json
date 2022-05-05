@@ -1,0 +1,62 @@
+{"$program_name":[
+    {
+        "code": "HST 101",
+        "title": "*HISTORY OF WESTERN CIVILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "HST 102",
+        "title": "*HISTORY OF WESTERN CIVILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "HST 103",
+        "title": "*HISTORY OF WESTERN CIVILIZATION",
+        "credits": "4"
+    },
+    {
+        "code": "HST 104",
+        "title": "*WORLD HISTORY I: ANCIENT CIVILIZATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "HST 105",
+        "title": "*WORLD HISTORY II: MIDDLE AND EARLY MODERN AGES",
+        "credits": "3"
+    },
+    {
+        "code": "HST 106",
+        "title": "*WORLD HISTORY III: THE MODERN AND CONTEMPORARY WORLD",
+        "credits": "3"
+    },
+    {
+        "code": "HST 201",
+        "title": "*HISTORY OF THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "HST 202",
+        "title": "*HISTORY OF THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "HST 203",
+        "title": "*HISTORY OF THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "HST 210/PHL 210",
+        "title": "*RELIGION IN THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "HST 310",
+        "title": "THE HISTORIAN'S CRAFT 2",
+        "credits": "4"
+    },
+    {
+        "code": "HST 407",
+        "title": "^SEMINAR 2,3",
+        "credits": "5"
+    }
+]}

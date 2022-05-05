@@ -1,0 +1,264 @@
+{
+    "Courses": [
+        {
+            "code": "CH 231",
+            "title": "GENERAL CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "CH 261",
+            "title": "*LABORATORY FOR CHEMISTRY 231",
+            "credits": "1"
+        },
+        {
+            "code": "CH 232",
+            "title": "GENERAL CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "CH 262",
+            "title": "*LABORATORY FOR CHEMISTRY 232",
+            "credits": "1"
+        },
+        {
+            "code": "CH 233",
+            "title": "*LABORATORY FOR CHEMISTRY 233",
+            "credits": "4"
+        },
+        {
+            "code": "CH 263",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "1"
+        },
+        {
+            "code": "ENGR 100",
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 102",
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 103",
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        {
+            "code": "HHS 231",
+            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        {
+            "code": "HHS 241",
+            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "credits": "1"
+        },
+        {
+            "code": "MTH 251",
+            "title": "*DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 252",
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        {
+            "code": "PH 211",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "BI 231",
+            "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "BI 233",
+            "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 240",
+            "title": "A PRACTICAL INTRODUCTION TO BIOMEDICAL SIGNALS AND SENSORS",
+            "credits": "3"
+        },
+        {
+            "code": "CBEE 211",
+            "title": "MATERIAL BALANCES AND STOICHIOMETRY",
+            "credits": "3"
+        },
+        {
+            "code": "CBEE 212",
+            "title": "ENERGY BALANCES",
+            "credits": "3"
+        },
+        {
+            "code": "CBEE 213",
+            "title": "PROCESS DATA ANALYSIS",
+            "credits": "4"
+        },
+        {
+            "code": "CH 331",
+            "title": "ORGANIC CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "CH 332",
+            "title": "ORGANIC CHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "COMM 111",
+            "title": "*PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        {
+            "code": "COMM 114",
+            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 201",
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        {
+            "code": "ENGR 211",
+            "title": "STATICS",
+            "credits": "3"
+        },
+        {
+            "code": "MTH 256",
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "4"
+        },
+        {
+            "code": "PH 212",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "PH 213",
+            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        {
+            "code": "BB 450",
+            "title": "GENERAL BIOCHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "BB 451",
+            "title": "GENERAL BIOCHEMISTRY",
+            "credits": "4"
+        },
+        {
+            "code": "BI 221",
+            "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+            "credits": "4"
+        },
+        {
+            "code": "BI 241",
+            "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+            "credits": "2"
+        },
+        {
+            "code": "MB 230",
+            "title": "*INTRODUCTORY MICROBIOLOGY",
+            "credits": "4"
+        },
+        {
+            "code": "BIOE 311",
+            "title": "BIOENGINEERING THERMODYNAMICS",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 331",
+            "title": "BIOTRANSPORT I",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 332",
+            "title": "BIOTRANSPORT II",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 340",
+            "title": "BIOMEDICAL ENGINEERING PRINCIPLES",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 350",
+            "title": "MATHEMATICAL AND NUMERICAL METHODS FOR BIOENGINEERS",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 351",
+            "title": "BIOMATERIALS AND BIOINTERFACES",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 420",
+            "title": "SOCIAL JUSTICE, ETHICS, AND ENGINEERING",
+            "credits": "3"
+        },
+        {
+            "code": "CBEE 320",
+            "title": "PROFESSIONALISM AND ENGINEERING ETHICS",
+            "credits": "3"
+        },
+        {
+            "code": "WR 327",
+            "title": "*TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "BB 453",
+            "title": "BIOCHEMISTRY AND MOLECULAR BIOLOGY LABORATORY TECHNIQUES",
+            "credits": "4"
+        },
+        {
+            "code": "BIOE 457",
+            "title": "BIOREACTORS",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 462",
+            "title": "BIOSEPARATIONS",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 465",
+            "title": "BIOMEDICAL IMAGE PROCESSING",
+            "credits": "3"
+        },
+        {
+            "code": "BIOE 490",
+            "title": "BIOENGINEERING PROCESS DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "BIOE 492",
+            "title": "BIOENGINEERING CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "BIOE 495",
+            "title": "^BIOENGINEERING PRODUCT DESIGN",
+            "credits": "4"
+        }
+    ]
+}

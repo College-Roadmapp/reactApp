@@ -1,0 +1,62 @@
+{"$program_name":[
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 411",
+        "title": "ADVANCED MICROECONOMIC THEORY 1",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 311",
+        "title": "INTERMEDIATE MICROECONOMIC THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 415",
+        "title": "ADVANCED MACROECONOMIC THEORY 1",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 315",
+        "title": "INTERMEDIATE MACROECONOMIC THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 423",
+        "title": "PRE-ECONOMETRICS 1, 2",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 427",
+        "title": "INTRODUCTION TO ECONOMETRICS WITH CALCULUS 1",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 424",
+        "title": "INTRODUCTION TO ECONOMETRICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 428",
+        "title": "^INTRODUCTION TO ECONOMIC RESEARCH",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 439",
+        "title": "^PUBLIC POLICY ANALYSIS",
+        "credits": "4"
+    }
+]}

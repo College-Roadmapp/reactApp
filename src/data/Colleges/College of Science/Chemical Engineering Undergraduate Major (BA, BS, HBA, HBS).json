@@ -1,0 +1,252 @@
+{"$program_name":[
+    {
+        "code": "CH 411",
+        "title": "INORGANIC CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 412",
+        "title": "INORGANIC CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 418",
+        "title": "NUCLEAR CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 421",
+        "title": "ANALYTICAL CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 422",
+        "title": "ANALYTICAL CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 424",
+        "title": "BIOANALYTICAL CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "CH 435",
+        "title": "STRUCTURE DETERMINATION BY SPECTROSCOPIC METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 450",
+        "title": "INTRODUCTORY QUANTUM CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "WSE 321",
+        "title": "CHEMISTRY OF RENEWABLE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "ATS 413",
+        "title": "ATMOSPHERIC CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "BB 350",
+        "title": "ELEMENTARY BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BB 450",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "OEAS 540",
+        "title": "THE BIOGEOCHEMICAL EARTH",
+        "credits": "4"
+    },
+    {
+        "code": "OC 450",
+        "title": "CHEMICAL OCEANOGRAPHY",
+        "credits": "4"
+    },
+    {
+        "code": "OC 499",
+        "title": "SPECIAL TOPICS IN OCEANOGRAPHY",
+        "credits": "0-4"
+    },
+    {
+        "code": "CH 324",
+        "title": "QUANTITATIVE ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "CH 337",
+        "title": "ORGANIC CHEMISTRY LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 417",
+        "title": "INSTRUMENTATION IN CHEMICAL, BIOLOGICAL, AND ENVIRONMENTAL ENGINEERING",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 444",
+        "title": "THIN FILM MATERIALS PROCESSING",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 445",
+        "title": "POLYMER ENGINEERING AND SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 450",
+        "title": "CONVENTIONAL AND ALTERNATIVE ENERGY SYSTEMS",
+        "credits": "3"
+    },
+    {
+        "code": "CHE 451",
+        "title": "SOLAR ENERGY TECHNOLOGIES",
+        "credits": "3"
+    },
+    {
+        "code": "CHE 499",
+        "title": "SPECIAL TOPICS",
+        "credits": "0-4"
+    },
+    {
+        "code": "CHE 514",
+        "title": "FLUID FLOW",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 520",
+        "title": "MASS TRANSFER I",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 525",
+        "title": "CHEMICAL ENGINEERING ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "CHE 537",
+        "title": "CHEMICAL ENGINEERING THERMODYNAMICS I",
+        "credits": "4"
+    },
+    {
+        "code": "BIOE 351",
+        "title": "BIOMATERIALS AND BIOINTERFACES",
+        "credits": "3"
+    },
+    {
+        "code": "BIOE 440",
+        "title": "BIOCONJUGATION",
+        "credits": "3"
+    },
+    {
+        "code": "BIOE 445",
+        "title": "SURFACE ANALYSIS",
+        "credits": "3"
+    },
+    {
+        "code": "BIOE 457",
+        "title": "BIOREACTORS",
+        "credits": "3"
+    },
+    {
+        "code": "BIOE 459",
+        "title": "CELL ENGINEERING",
+        "credits": "3"
+    },
+    {
+        "code": "BIOE 462",
+        "title": "BIOSEPARATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "ENVE 322",
+        "title": "FUNDAMENTALS OF ENVIRONMENTAL ENGINEERING",
+        "credits": "4"
+    },
+    {
+        "code": "ENVE 421",
+        "title": "DRINKING WATER TREATMENT PROCESSES",
+        "credits": "4"
+    },
+    {
+        "code": "ENVE 422",
+        "title": "WASTEWATER TREATMENT PROCESSES",
+        "credits": "4"
+    },
+    {
+        "code": "ENVE 425",
+        "title": "AIR POLLUTION CONTROL",
+        "credits": "3"
+    },
+    {
+        "code": "ENVE 431",
+        "title": "FATE AND TRANSPORT OF CHEMICALS IN ENVIRONMENTAL SYSTEMS",
+        "credits": "4"
+    },
+    {
+        "code": "ENVE 456",
+        "title": "SUSTAINABLE WATER RESOURCES DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "CE 412",
+        "title": "HYDROLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ECE 415",
+        "title": "MATERIAL SCIENCE OF NANOTECHNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "ECE 416",
+        "title": "ELECTRONIC MATERIALS AND DEVICES",
+        "credits": "4"
+    },
+    {
+        "code": "ECE 417",
+        "title": "BASIC SEMICONDUCTOR DEVICES",
+        "credits": "4"
+    },
+    {
+        "code": "ECE 418",
+        "title": "SEMICONDUCTOR PROCESSING",
+        "credits": "4"
+    },
+    {
+        "code": "ENGR 221",
+        "title": "THE SCIENCE, ENGINEERING AND SOCIAL IMPACT OF NANOTECHNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "IE 355",
+        "title": "STATISTICAL QUALITY CONTROL",
+        "credits": "4"
+    },
+    {
+        "code": "IE 356",
+        "title": "EXPERIMENTAL DESIGN FOR INDUSTRIAL PROCESSES",
+        "credits": "4"
+    },
+    {
+        "code": "MATS 321",
+        "title": "INTRODUCTION TO MATERIALS SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MATS 322",
+        "title": "MECHANICAL PROPERTIES OF MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "CBEE 416",
+        "title": "CBEE LABORATORY II",
+        "credits": "3"
+    }
+]}

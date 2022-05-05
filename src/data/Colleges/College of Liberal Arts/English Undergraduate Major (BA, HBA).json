@@ -1,0 +1,432 @@
+{"$program_name":[
+    {
+        "code": "ENG 201",
+        "title": "*SHAKESPEARE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 202",
+        "title": "*SHAKESPEARE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 204",
+        "title": "*SURVEY OF BRITISH LITERATURE: BEGINNINGS TO 1660",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 205",
+        "title": "*SURVEY OF BRITISH LITERATURE: RESTORATION TO ROMANTIC ERA",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 206",
+        "title": "*SURVEY OF BRITISH LITERATURE: VICTORIAN ERA TO 20TH CENTURY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 207",
+        "title": "LITERATURE OF WESTERN CIVILIZATION: CLASSICAL-RENAISSANCE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 208",
+        "title": "LITERATURE OF WESTERN CIVILIZATION: 18TH CENTURY TO PRESENT",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 210",
+        "title": "*LITERATURES OF THE WORLD: ASIA",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 211",
+        "title": "*LITERATURES OF THE WORLD: AFRICA",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 212",
+        "title": "*LITERATURES OF THE WORLD: MESO/SOUTH AMERICA, CARIBBEAN",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 213",
+        "title": "*LITERATURES OF THE WORLD: MIDDLE EAST",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 214",
+        "title": "*LITERATURE OF THE WORLD: EUROPE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 220",
+        "title": "*TOPICS IN DIFFERENCE, POWER, AND DISCRIMINATION",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 221",
+        "title": "*AFRICAN-AMERICAN LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 222",
+        "title": "CHILDREN'S LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 240",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 253",
+        "title": "*SURVEY OF AMERICAN LITERATURE: COLONIAL TO 1900",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 254",
+        "title": "*SURVEY OF AMERICAN LITERATURE: 1900 TO PRESENT",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 260",
+        "title": "*LITERATURE OF AMERICAN MINORITIES",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 275",
+        "title": "*THE BIBLE AS LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 301",
+        "title": "WAYS OF READING",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 302",
+        "title": "^WRITING ABOUT LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 200",
+        "title": "LIBRARY SKILLS FOR LITERARY STUDY",
+        "credits": "1"
+    },
+    {
+        "code": "ENG 345",
+        "title": "INTRODUCTION TO LITERARY CRITICISM AND THEORY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 304",
+        "title": "CAREER PREPARATION FOR ENGLISH MAJORS",
+        "credits": "2"
+    },
+    {
+        "code": "ED 309",
+        "title": "FIELD PRACTICUM",
+        "credits": "3-6"
+    },
+    {
+        "code": "ENG 317",
+        "title": "*THE AMERICAN NOVEL: BEGINNINGS TO CHOPIN",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 318",
+        "title": "*THE AMERICAN NOVEL: MODERNIST PERIOD",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 319",
+        "title": "*THE AMERICAN NOVEL: POST-WORLD WAR II",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 320",
+        "title": "*STUDIES IN PAGE, STAGE, AND SCREEN",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 321",
+        "title": "*STUDIES IN WORD, OBJECT, AND IMAGE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 322",
+        "title": "*STUDIES IN GLOBALISM, TEXT, AND EVENT",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 330",
+        "title": "*THE HOLOCAUST IN LITERATURE AND FILM",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 360",
+        "title": "*NATIVE AMERICAN LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 362",
+        "title": "*AMERICAN WOMEN WRITERS",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 374",
+        "title": "*MODERN SHORT STORY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 375",
+        "title": "CHILDREN'S LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 386",
+        "title": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART I",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 387",
+        "title": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART II",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 388",
+        "title": "A CULTURAL HISTORY OF AMERICAN ART AND LITERATURE: PART III",
+        "credits": "4"
+    },
+    {
+        "code": "FILM 310",
+        "title": "*FILM THEORY AND CRITICISM",
+        "credits": "4"
+    },
+    {
+        "code": "WR 324",
+        "title": "SHORT STORY WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 340",
+        "title": "CREATIVE NONFICTION WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 341",
+        "title": "POETRY WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 383",
+        "title": "FOOD WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 425",
+        "title": "STUDIES IN MEDIEVAL LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 430",
+        "title": "STUDIES IN PRE-1700 LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 435",
+        "title": "STUDIES IN SHAKESPEARE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 490",
+        "title": "HISTORY OF THE ENGLISH LANGUAGE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 418",
+        "title": "THE ENGLISH NOVEL: VICTORIAN PERIOD",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 434",
+        "title": "STUDIES IN ROMANTICISM",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 438",
+        "title": "STUDIES IN MODERNISM",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 440",
+        "title": "STUDIES IN MODERN IRISH LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 403",
+        "title": "THESIS",
+        "credits": "1-16"
+    },
+    {
+        "code": "ENG 406",
+        "title": "PROJECTS",
+        "credits": "1-16"
+    },
+    {
+        "code": "ENG 412",
+        "title": "STUDIES IN BRITISH THEATER AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 416",
+        "title": "POWER AND REPRESENTATION",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 445",
+        "title": "^STUDIES IN NONFICTION",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 454",
+        "title": "MAJOR AUTHORS",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 460",
+        "title": "STUDIES IN DRAMA",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 465",
+        "title": "STUDIES IN THE NOVEL",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 470",
+        "title": "^STUDIES IN POETRY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 475",
+        "title": "STUDIES IN CRITICISM",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 480",
+        "title": "STUDIES IN LITERATURE, CULTURE AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 482",
+        "title": "STUDIES IN AMERICAN LITERATURE, CULTURE, AND THE ENVIRONMENT",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 485",
+        "title": "^STUDIES IN AMERICAN LITERATURE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 488",
+        "title": "LITERATURE AND PEDAGOGY",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 489",
+        "title": "WRITING, LITERATURE AND MEDICINE",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 497",
+        "title": "*INTERNATIONAL WOMEN'S VOICES",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 499",
+        "title": "SELECTED TOPICS",
+        "credits": "1-16"
+    },
+    {
+        "code": "FILM 445",
+        "title": "DOCUMENTARY FILM STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "FILM 452",
+        "title": "^STUDIES IN FILM",
+        "credits": "4"
+    },
+    {
+        "code": "FILM 480",
+        "title": "STUDIES IN FILM, CULTURE AND SOCIETY",
+        "credits": "4"
+    },
+    {
+        "code": "WR 411",
+        "title": "^THE TEACHING OF WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 414",
+        "title": "ADVERTISING AND PUBLIC RELATIONS WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 420",
+        "title": "STUDIES IN WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 424",
+        "title": "ADVANCED FICTION WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 440",
+        "title": "ADVANCED CREATIVE NONFICTION WRITING",
+        "credits": "4-8"
+    },
+    {
+        "code": "WR 441",
+        "title": "ADVANCED POETRY WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 448",
+        "title": "MAGAZINE ARTICLE WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 449",
+        "title": "CRITICAL REVIEWING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 462",
+        "title": "^ENVIRONMENTAL WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 466",
+        "title": "^ADVANCED TECHNICAL WRITING",
+        "credits": "4"
+    },
+    {
+        "code": "WR 475",
+        "title": "RHETORICS OF RACE",
+        "credits": "4"
+    },
+    {
+        "code": "WR 495",
+        "title": "^INTRODUCTION TO LITERACY STUDIES",
+        "credits": "4"
+    },
+    {
+        "code": "WR 497",
+        "title": "DIGITAL LITERACY AND CULTURE",
+        "credits": "4"
+    }
+]}

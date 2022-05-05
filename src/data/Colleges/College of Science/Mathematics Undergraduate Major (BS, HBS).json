@@ -1,0 +1,232 @@
+{"$program_name":[
+    {
+        "code": "MTH 251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 253",
+        "title": "INFINITE SERIES AND SEQUENCES",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 254",
+        "title": "VECTOR CALCULUS I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 255",
+        "title": "VECTOR CALCULUS II",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 311",
+        "title": "ADVANCED CALCULUS I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 312",
+        "title": "ADVANCED CALCULUS II",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 341",
+        "title": "LINEAR ALGEBRA I",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 342",
+        "title": "LINEAR ALGEBRA II",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 343",
+        "title": "INTRODUCTION TO MODERN ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 355",
+        "title": "DISCRETE MATHEMATICS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 323",
+        "title": "^MATHEMATICAL MODELING",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 333",
+        "title": "^FUNDAMENTAL CONCEPTS OF TOPOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 338",
+        "title": "^NON-EUCLIDEAN GEOMETRY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 321",
+        "title": "INTRODUCTORY APPLICATIONS OF MATHEMATICAL SOFTWARE",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 351",
+        "title": "INTRODUCTION TO NUMERICAL ANALYSIS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 440",
+        "title": "COMPUTATIONAL NUMBER THEORY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 441",
+        "title": "APPLIED AND COMPUTATIONAL ALGEBRA",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 451",
+        "title": "NUMERICAL LINEAR ALGEBRA",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 452",
+        "title": "NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 440",
+        "title": "COMPUTATIONAL NUMBER THEORY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 441",
+        "title": "APPLIED AND COMPUTATIONAL ALGEBRA",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 442",
+        "title": "APPLIED AND COMPUTATIONAL ALGEBRA",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 443",
+        "title": "ABSTRACT LINEAR ALGEBRA (cannot be used in a pair to satisfy (a))",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 411",
+        "title": "REAL ANALYSIS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 419",
+        "title": "MULTIVARIABLE ADVANCED CALCULUS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 483",
+        "title": "COMPLEX VARIABLES",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 420",
+        "title": "MODELS AND METHODS OF APPLIED MATHEMATICS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 427",
+        "title": "INTRODUCTION TO MATHEMATICAL BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 428",
+        "title": "STOCHASTIC ELEMENTS IN MATHEMATICAL BIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 480",
+        "title": "SYSTEMS OF ORDINARY DIFFERENTIAL EQUATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 481",
+        "title": "APPLIED ORDINARY DIFFERENTIAL EQUATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 482",
+        "title": "APPLIED PARTIAL DIFFERENTIAL EQUATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 430",
+        "title": "METRIC SPACES AND TOPOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 434",
+        "title": "INTRODUCTION TO DIFFERENTIAL GEOMETRY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 435",
+        "title": "DIFFERENTIAL GEOMETRY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 437",
+        "title": "GENERAL RELATIVITY",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 451",
+        "title": "NUMERICAL LINEAR ALGEBRA",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 452",
+        "title": "NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 453",
+        "title": "NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 463",
+        "title": "PROBABILITY I",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 464",
+        "title": "PROBABILITY II",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 465",
+        "title": "PROBABILITY III",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 467",
+        "title": "ACTUARIAL MATHEMATICS",
+        "credits": "3"
+    }
+]}
