@@ -158,12 +158,13 @@ class JsonDataDisplay extends React.Component {
       totalCredits: 0,
       totalCoursesTaken: [],
       course: "None",
-      baccoreCourses: []
+      baccoreCourses: ["None","None","None","None","None","None","None","None","None","None","None","None","None","None"]
     };
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
     this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
     this.CourseDropdown = this.CourseDropdown.bind(this);
+    this.IntoClassObjects = this.IntoClassObjects.bind(this);
   }
 
   //----------------------------------------------------------------------------------------------
@@ -297,7 +298,12 @@ class JsonDataDisplay extends React.Component {
     //in return:
     //value={this.state.choiceArr[1]}
     const handleChange = event => {
-      console.log("placeholder")
+      console.log(props.idx)
+      console.log(this.state.baccoreCourses)
+      let tempArr = [...this.state.baccoreCourses]
+      tempArr[props.idx] = event.target.value
+      this.setState({baccoreCourses: tempArr})
+      console.log(this.state.baccoreCourses)
     }
     return (
       <Box sx={{ minWidth: 120}}>
@@ -306,7 +312,7 @@ class JsonDataDisplay extends React.Component {
           <Select
             labelId="demo-simple-select-label"
             id="demo-simple-select"
-            value={props.id}
+            value={this.state.baccoreCourses[props.idx]}
             label="Courses"
             onChange={handleChange}
           >
@@ -395,7 +401,7 @@ class JsonDataDisplay extends React.Component {
                       <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
                     </td>
                     <td className="courseId">{info.id}</td>
-                    <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc}/>
+                    <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
                     <td className="courseCredits">{info.credits}</td>
                     <td>
                       <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
@@ -776,7 +782,7 @@ class JsonDataDisplay extends React.Component {
     //---------------------------temporary baccore solution---------------------------------
     var tempBaccCore = require('./../parseHTML/BaccCore/temporaryBaccCore.json')
     for(let i = 0; i < tempBaccCore.BaccCoreCourses.length; i++){
-      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i], i, tempBaccCore.BaccCoreCourses[i].credits, 0)
+      newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i], i, tempBaccCore.BaccCoreCourses[i].credits, 0, i)
     }
     //--------------------------------------------------------------------------------------
 
