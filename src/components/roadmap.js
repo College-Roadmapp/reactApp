@@ -152,6 +152,7 @@ function DropDowns(){
         :
         <div></div>
         }
+        <h1 className='printme'>
         {college === "ag-sci" && major === "ag-food-bus-mgmt" &&
         <JsonDataDisplay key="json" major={major}/>
         }
@@ -463,6 +464,8 @@ function DropDowns(){
 
 
         <EngineeringCalculator/>
+        </h1>
+        <button className='printButton' onClick={() => window.print()}>PRINT/SAVE AS PDF</button>
       </div>
   );
 }

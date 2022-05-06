@@ -460,6 +460,12 @@ header .dropdown-menu a:hover {
   margin: 20px;
 }
 
+/* .printme { display: none;}
+@media print { 
+    .no-printme  { display: none;}
+    .printme  { display: contents;}
+} */
+
 footer {
   background: #000;
   color: #fff;
