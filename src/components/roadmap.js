@@ -274,7 +274,7 @@ function DropDowns(){
         {college === "engineering" && major === "arch" &&
         <JsonDataDisplay key="json" major={major}/>
         }
-        {college === "engineering" && major === "bio" &&
+        {college === "engineering" && major === "bio-eng" &&
         <JsonDataDisplay key="json" major={major}/>
         }
         {college === "engineering" && major === "construction-mgmt" &&

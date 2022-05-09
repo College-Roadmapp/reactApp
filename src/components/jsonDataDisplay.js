@@ -452,265 +452,265 @@ class JsonDataDisplay extends React.Component {
     console.log('=== major', curMajor);
     var parsedJSON;
     if (curMajor === 'comp-sci'){
-      parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'ag-food-bus-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Agricultural and Food Business Management Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Agricultural and Food Business Management Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'agSci') {
-      parsedJSON = require('./../parseHTML/Success/Agricultural Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Agricultural Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'an-sci') {
-      parsedJSON = require('./../parseHTML/Success/Animal Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Animal Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'bio-data') {
-      parsedJSON = require('./../parseHTML/Success/Biological Data Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Biological Data Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'bioresource') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Bioresource Research Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Biological Data Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'botany') {
-      parsedJSON = require('./../parseHTML/Success/Botany Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Botany Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'crop-soil') {
-      parsedJSON = require('./../parseHTML/Success/Crop and Soil Science Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Crop and Soil Science Undergraduate Major (BS, HBS).json');
     }
-    else if (curMajor === 'eco-eng') {
-      parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
-    }
-    else if (curMajor === 'enviro-eco-policy') {
-      parsedJSON = require('./../parseHTML/Success/Environmental Economics and Policy Undergraduate Major (BS, HBS).json');
-    }
+    // else if (curMajor === 'eco-eng') {
+    //   parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
+    // }
+    // else if (curMajor === 'enviro-eco-policy') {
+    //   parsedJSON = require('./../parseHTML/Success/Environmental Economics and Policy Undergraduate Major (BS, HBS).json');
+    // }
     else if (curMajor === 'fish-wild') {
-      parsedJSON = require('./../parseHTML/Success/Fisheries and Wildlife Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Fisheries and Wildlife Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'food-sci-tech') {
-      parsedJSON = require('./../parseHTML/Success/Food Science and Technology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Food Science and Technology Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'horticulture') {
-      parsedJSON = require('./../parseHTML/Success/Horticulture Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Horticulture Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'range-sci') {
-      parsedJSON = require('./../parseHTML/Success/Rangeland Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Rangeland Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'sus-double') {
-      parsedJSON = require('./../parseHTML/Success/Sustainability Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Sustainability Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'acct') {
-      parsedJSON = require('./../parseHTML/Success/Accountancy Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Accountancy Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'app-des') {
-      parsedJSON = require('./../parseHTML/Success/Apparel Design Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Apparel Design Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'bus-admin') {
-      parsedJSON = require('./../parseHTML/Success/Business Administration Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Business Administration Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'bus-analytics') {
-      parsedJSON = require('./../parseHTML/Success/Business Analytics Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Business Analytics Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'bus-info-sys') {
-      parsedJSON = require('./../parseHTML/Success/Business Information Systems Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Business Information Systems Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'des-inn-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Design and Innovation Management Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Design and Innovation Management Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'finance') {
-      parsedJSON = require('./../parseHTML/Success/Finance Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Finance Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'hosp-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Hospitality Management Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Hospitality Management Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    else if (curMajor === 'inn-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Innovation Management Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
+    // else if (curMajor === 'inn-mgmt') {
+    //   parsedJSON = require('./../parseHTML/Success/Innovation Management Undergraduate Major (BA, BS, HBA, HBS).json');
+    // }
     else if (curMajor === 'int-des') {
-      parsedJSON = require('./../parseHTML/Success/Interior Design Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Interior Design Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Management Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Management Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'marketing') {
-      parsedJSON = require('./../parseHTML/Success/Marketing Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Marketing Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'merch-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Merchandising Management Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Merchandising Management Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'supply-chain-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Supply Chain and Logistics Management Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Business/Supply Chain and Logistics Management Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'climate-sci') {
-      parsedJSON = require('./../parseHTML/Success/Climate Science Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Earth, Ocean, and Atmospheric Sciences/Climate Science Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'enviro-sci') {
-      parsedJSON = require('./../parseHTML/Success/Environmental Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Earth, Ocean, and Atmospheric Sciences/Environmental Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'geo-sci') {
-      parsedJSON = require('./../parseHTML/Success/Geography and Geospatial Science Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Earth, Ocean, and Atmospheric Sciences/Geography and Geospatial Science Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'geo') {
-      parsedJSON = require('./../parseHTML/Success/Geology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Earth, Ocean, and Atmospheric Sciences/Geology Undergraduate Major (BS, HBS).json');
     }
     // else if (curMajor === 'ocean-sci') {
     //   parsedJSON = require('./../parseHTML/Success/');
     // }
     else if (curMajor === 'ed-double-deg') {
-      parsedJSON = require('./../parseHTML/Success/Education Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Education/Education Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    // else if (curMajor === 'elem-ed') {
-    //   parsedJSON = require('./../parseHTML/F');
-    // }
+    else if (curMajor === 'elem-ed') {
+      parsedJSON = require('./../data/Colleges/College of Education/Teaching Undergraduate Major (BS, HBS).json');
+    }
     // else if (curMajor === 'clin-elem-ed') {
     //   parsedJSON = require('./../parseHTML/Success/Clin');
     // }
     else if (curMajor === 'arch') {
-      parsedJSON = require('./../parseHTML/Success/Architectural Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Architectural Engineering Undergraduate Major (BS, HBS).json');
     }
-    // else if (curMajor === 'bio') {
-    //   parsedJSON = require('./../parseHTML/Success/bio');
-    // }
+    else if (curMajor === 'bio-eng') {
+      parsedJSON = require('./../data/Colleges/College of Engineering/Bioengineering Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
     else if (curMajor === 'chem') {
-      parsedJSON = require('./../parseHTML/Success/Chemical Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Chemical Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'civil') {
-      parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'comp-sci') {
-      parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'construction-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Construction Engineering Management Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Construction Engineering Management Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'eco') {
-      parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Ecological Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'electric') {
-      parsedJSON = require('./../parseHTML/Success/Electrical and Computer Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Electrical and Computer Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'energy-sys') {
-      parsedJSON = require('./../parseHTML/Success/Energy Systems Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Engineering Science Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'enviro') {
-      parsedJSON = require('./../parseHTML/Success/Environmental Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Environmental Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'industrial') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Industrial Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Industrial Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'manufacturing') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Manufacturing Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Manufacturing Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'mechanical') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Mechanical Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Mechanical Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'nuclear') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Nuclear Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Nuclear Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'radiation') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Radiation Health Physics Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Engineering/Radiation Health Physics Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'forestry') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Forestry Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Forestry/Forestry Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'nat-resources') {
-      parsedJSON = require('./../parseHTML/Success/Natural Resources Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Forestry/Natural Resources Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'for-eng-civil-eng') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Forest Engineering - Civil Engineering Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Forestry/Forest Engineering - Civil Engineering Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'ren-materials') {
-      parsedJSON = require('./../parseHTML/Success/Renewable Materials Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Forestry/Renewable Materials Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'tour-rec-adv-leader') {
-      parsedJSON = require('./../parseHTML/Success/Tourism, Recreation, and Adventure Leadership Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Forestry/Tourism, Recreation, and Adventure Leadership Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'amer-studies') {
-      parsedJSON = require('./../parseHTML/Success/American Studies Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/American Studies Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'anthro') {
-      parsedJSON = require('./../parseHTML/Success/Anthropology Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Anthropology Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'art-history') {
-      parsedJSON = require('./../parseHTML/Success/Art Undergraduate Major (BA, BFA, BS, HBA, HBFA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Art Undergraduate Major (BA, BFA, BS, HBA, HBFA, HBS).json');
     }
     else if (curMajor === 'art-media-tech') {
-      parsedJSON = require('./../parseHTML/Success/Arts, Media, and Technology Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Arts, Media, and Technology Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'creative-writing') {
-      parsedJSON = require('./../parseHTML/Success/Creative Writing Undergraduate Major (BA, HBA).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Creative Writing Undergraduate Major (BA, HBA).json');
     }
     else if (curMajor === 'dig-comm-art') {
-      parsedJSON = require('./../parseHTML/Success/Digital Communication Arts Undergraduate Major (BA, BFA, BS, HBA, HBFA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Digital Communication Arts Undergraduate Major (BA, BFA, BS, HBA, HBFA, HBS).json');
     }
     else if (curMajor === 'economics') {
-      parsedJSON = require('./../parseHTML/Success/Economics Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Economics Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'english') {
-      parsedJSON = require('./../parseHTML/Success/English Undergraduate Major (BA, HBA).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/English Undergraduate Major (BA, HBA).json');
     }
     else if (curMajor === 'ethnic-studies') {
-      parsedJSON = require('./../parseHTML/Success/Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'french') {
-      parsedJSON = require('./../parseHTML/Success/French Undergraduate Major (BA, HBA).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/French Undergraduate Major (BA, HBA).json');
     }
     else if (curMajor === 'german') {
-      parsedJSON = require('./../parseHTML/Success/German Undergraduate Major (BA, HBA).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/German Undergraduate Major (BA, HBA).json');
     }
     else if (curMajor === 'graphic-design') {
-      parsedJSON = require('./../parseHTML/Success/Graphic Design Undergraduate Major (BFA, HBFA).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Graphic Design Undergraduate Major (BFA, HBFA).json');
     }
     else if (curMajor === 'history') {
-      parsedJSON = require('./../parseHTML/Success/History Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/History Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    else if (curMajor === 'inter-studies') {
-      parsedJSON = require('./../parseHTML/Success/Interior Design Undergraduate Major (BS, HBS).json');
-    }
-    else if (curMajor === 'lib-studies') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Liberal Studies Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
+    // else if (curMajor === 'inter-studies') {
+    //   parsedJSON = require('./../parseHTML/Success/Interior Design Undergraduate Major (BS, HBS).json');
+    // }
+    // else if (curMajor === 'lib-studies') {
+    //   parsedJSON = require('./../parseHTML/FailedGrab/Liberal Studies Undergraduate Major (BA, BS, HBA, HBS).json');
+    // }
     else if (curMajor === 'marine-studies') {
-      parsedJSON = require('./../parseHTML/Success/Marine Studies Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Marine Studies Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'music') {
-      parsedJSON = require('./../parseHTML/Success/Music Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Music Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'music-studies') {
-      parsedJSON = require('./../parseHTML/Success/Music Studies Undergraduate Major (BM, HBM).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Music Studies Undergraduate Major (BM, HBM).json');
     }
     // else if (curMajor === 'new-media-comm') {
-    //   parsedJSON = require('./../parseHTML/Success/media');
+    //   parsedJSON = require('./../data/Colleges/College of Liberal Arts/');
     // }
     else if (curMajor === 'philosophy') {
-      parsedJSON = require('./../parseHTML/Success/Philosophy Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Philosophy Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'political-sci') {
-      parsedJSON = require('./../parseHTML/Success/Political Science Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Political Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'psychology') {
-      parsedJSON = require('./../parseHTML/Success/Psychology Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Psychology Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'public-policy') {
-      parsedJSON = require('./../parseHTML/Success/Public Policy Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Public Policy Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'religious-studies') {
-      parsedJSON = require('./../parseHTML/Success/Religious Studies Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Religious Studies Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'social-sci') {
-      parsedJSON = require('./../parseHTML/Success/Social Science Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Social Science Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'sociology') {
-      parsedJSON = require('./../parseHTML/Success/Sociology Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Sociology Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'spanish') {
-      parsedJSON = require('./../parseHTML/Success/Spanish Undergraduate Major (BA, HBA).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Spanish Undergraduate Major (BA, HBA).json');
     }
-    else if (curMajor === 'speech-comm') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Speech Communication Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
+    // else if (curMajor === 'speech-comm') {
+    //   parsedJSON = require('./../parseHTML/FailedGrab/Speech Communication Undergraduate Major (BA, BS, HBA, HBS).json');
+    // }
     else if (curMajor === 'women-gender-sex') {
-      parsedJSON = require('./../parseHTML/Success/Women, Gender, and Sexuality Studies Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Liberal Arts/Women, Gender, and Sexuality Studies Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     // else if (curMajor === 'pharmd') {
-    //   parsedJSON = require('./../parseHTML/Success/Phar');
+    //   parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/');
     // }
     // else if (curMajor === 'health-mgmt-policy') {
     //   parsedJSON = require('./../parseHTML/Success/hea');
@@ -719,45 +719,50 @@ class JsonDataDisplay extends React.Component {
     //   parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
     // }
     else if (curMajor === 'human-dev-fam-sci') {
-      parsedJSON = require('./../parseHTML/Success/Human Development and Family Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/Human Development and Family Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'kin') {
-      parsedJSON = require('./../parseHTML/Success/Kinesiology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/Kinesiology Undergraduate Major (BS, HBS).json');
     }
-    else if (curMajor === 'nutrition') {
-      parsedJSON = require('./../parseHTML/FailedGrab/Nutrition Undergraduate Major (BS, HBS).json');
-    }
+    // else if (curMajor === 'nutrition') {
+    //   parsedJSON = require('./../parseHTML/FailedGrab/Nutrition Undergraduate Major (BS, HBS).json');
+    // }
     else if (curMajor === 'biochem-biophys') {
-      parsedJSON = require('./../parseHTML/Success/Biochemistry and Biophysics Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Biochemistry and Biophysics Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'biochem-molbio') {
-      parsedJSON = require('./../parseHTML/Success/Biochemistry and Molecular Biology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Biochemistry and Molecular Biology Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'biohealth-sci') {
-      parsedJSON = require('./../parseHTML/Success/BioHealth Sciences Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/BioHealth Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'bio') {
-      parsedJSON = require('./../parseHTML/Success/Biology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Biology Undergraduate Major (BS, HBS).json');
     }
-    else if (curMajor === 'chem') {
-      parsedJSON = require('./../parseHTML/Success/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
+    // else if (curMajor === 'chem') {
+    //   parsedJSON = require('./../parseHTML/Success/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
+    // }
     else if (curMajor === 'math') {
-      parsedJSON = require('./../parseHTML/Success/Mathematics Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Mathematics Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'microbio') {
-      parsedJSON = require('./../parseHTML/Success/Microbiology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Microbiology Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'physics') {
-      parsedJSON = require('./../parseHTML/Success/Physics Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Physics Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'zoology') {
-      parsedJSON = require('./../parseHTML/Success/Zoology Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Zoology Undergraduate Major (BS, HBS).json');
     }
     else {
-      parsedJSON = require('./../parseHTML/Success/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Fail/fail.json');
+      console.log('Failed');
     }
     var result = parsedJSON.Courses;
+    console.log(result.Courses);
+    console.log(result.length);
+
+    
 
     //---------------------------- baccore arrays -----------------------------
     // var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
@@ -788,8 +793,9 @@ class JsonDataDisplay extends React.Component {
 
     //create new degree plan to put the json in
     //loop through each course found in the json file and add it to the Degree Class component
+
     for(let i=0; i < result.length; i++){
-      newDegree.insertCourse(result[i].code, result[i].title, null, null, 4, 0, 0);
+      newDegree.insertCourse(result[i].code, result[i].title, null, null, result[i].credits, 0, 0);
     }
     return newDegree;
   }
