@@ -13,6 +13,7 @@ import { makeStyles } from '@mui/styles';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { black } from '@mui/material/colors';
 
+
 // ------------------ style for change term buttons --------------------
 
 const useStyles = makeStyles({
@@ -259,7 +260,7 @@ class JsonDataDisplay extends React.Component {
     return (
       <div>
         <ThemeProvider theme={theme}>
-          <Button onClick={handleOpen} size="small" >Move </Button>
+        <Button onClick={handleOpen} size="small" >change term </Button>
         </ThemeProvider>
         <Modal
           open={this.state.isOpenArr[props.idx]}
@@ -432,10 +433,11 @@ class JsonDataDisplay extends React.Component {
               <caption> Term {termNum} </caption>
                 <thead>
                     <tr>
-                    <th></th>
+                    <th className="tableLabels"> Complete </th>
                     <th className="tableLabels"> Course ID  </th>
                     <th className="tableLabels"> Course Name </th>
                     <th className="tableLabels"> Credits </th>
+                    <th className="tableLabels"> Relocate </th>
                     </tr>
                 </thead>
                 {/* <tbody> */}
@@ -763,7 +765,7 @@ class JsonDataDisplay extends React.Component {
     console.log(result.Courses);
     console.log(result.length);
 
-    
+
 
     //---------------------------- baccore arrays -----------------------------
     // var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
