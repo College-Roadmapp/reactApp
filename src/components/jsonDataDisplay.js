@@ -260,7 +260,7 @@ class JsonDataDisplay extends React.Component {
     return (
       <div>
         <ThemeProvider theme={theme}>
-        <Button onClick={handleOpen} size="small" >change term </Button>
+        <Button onClick={handleOpen} size="small" sx={{fontSize: 11}} >change term </Button>
         </ThemeProvider>
         <Modal
           open={this.state.isOpenArr[props.idx]}
@@ -308,17 +308,18 @@ class JsonDataDisplay extends React.Component {
       console.log(this.state.baccoreCourses)
     }
     return (
-      <Box sx={{ minWidth: 120}}>
+      <Box sx={{ minWidth: 90, maxHeight: 40, fontSize: 11, lineHeigh: 0, pt:1}}>
         <FormControl fullWidth >
-          <InputLabel id="demo-simple-select-label">Courses</InputLabel>
+          <InputLabel id="demo-simple-select-label"></InputLabel>
           <Select
             labelId="demo-simple-select-label"
             id="demo-simple-select"
             value={this.state.baccoreCourses[props.idx]}
-            label="Courses"
             onChange={handleChange}
+            size="small"
+            style={{fontSize: 11}}
           >
-            {props.name.courses.map(({code, title, credits}) => <MenuItem value={code}>{code}</MenuItem>)}
+            {props.name.courses.map(({code, title, credits}) => <MenuItem value={code} sx={{fontSize: 11}}>{code}</MenuItem>)}
           </Select>
         </FormControl>
       </Box>
@@ -335,24 +336,13 @@ class JsonDataDisplay extends React.Component {
       let newTable = new Table(newDegree);
       //start with term 1
       let termNumber = 1;
-      let extra = newTable.size - 48;
+      //assigns term values; 4 classes per term based on order they appear in json
       for(let i=0; i < newTable.size; i++){
         //setting each course's term number based on which term we are rendering it
         newTable.props.getCourse(i).term = termNumber
         //increments the term number after 4 classes have been added
         if((i + 1) % 4 === 0){
           termNumber += 1
-        }
-      }
-      //accounting for baccore overlap by putting more courses in each term due to overflow
-      termNumber = 0
-      if(extra > 0){
-        for(let i = 48; i < 48 + extra; i++){
-          newTable.props.getCourse(i).term = termNumber
-          termNumber += 1
-          if(termNumber === 13){
-            termNumber = 0
-          }
         }
       }
       info1 = newTable
@@ -384,58 +374,62 @@ class JsonDataDisplay extends React.Component {
       }
     }
 
+
+    //---------------------------- baccore arrays -----------------------------
+    // var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
+    // var fitnessBacc = baccore.BaccalaureateCoreCourses.SkillCourses['Fitness (3)']
+    // var mathBacc = baccore.BaccalaureateCoreCourses.SkillCourses['MATHEMATICS (3)']
+    // var speechBacc = baccore.BaccalaureateCoreCourses.SkillCourses['SPEECH (3)']
+    // var write1Bacc = baccore.BaccalaureateCoreCourses.SkillCourses['WRITING I (4)']
+    // var write2Bacc = baccore.BaccalaureateCoreCourses.SkillCourses['WRITING II (3)']
+    // var bioBacc = baccore.BaccalaureateCoreCourses.Perspective['BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)']
+    // var cultDivBacc = baccore.BaccalaureateCoreCourses.Perspective['CULTURAL DIVERSITY (3)']
+    // var litArtsBacc = baccore.BaccalaureateCoreCourses.Perspective['LITERATURE AND THE ARTS (3)']
+    // var physBacc = baccore.BaccalaureateCoreCourses.Perspective['PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)']
+    // var westCultBacc = baccore.BaccalaureateCoreCourses.Perspective['WESTERN CULTURE (3)']
+    // var socProcBacc = baccore.BaccalaureateCoreCourses.Perspective['SOCIAL PROCESSES AND INSTITUTIONS (3)']
+    // var diffPowerBacc = baccore.BaccalaureateCoreCourses.DiffPowerDiscrimination
+    // var sciTechSocBacc = baccore.BaccalaureateCoreCourses.Synthesis['SCIENCE, TECHNOLOGY, AND SOCIETY (3)']
+    // var contGlobIssBacc = baccore.BaccalaureateCoreCourses.Synthesis['CONTEMPORARY GLOBAL ISSUES (3)']
+    //--------------------------------------------------------------------------
+
     //creating html for each element of temp using json data
     temp=temp.map(
         (info, i)=>{
             return(
-                <tbody>
-                  {info.name === "BACC*" ?
-                    <tr>
-                        <td>
-                          <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
-                        </td>
-                        <td className="courseId">{info.id}</td>
-                        <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
-                        <td className="courseCredits">{info.credits}</td>
-                        <td>
-                          <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
-                        </td>
-                    </tr>
-                    :
-                    <tr>
-                      <td>
-                        <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
-                      </td>
-                      <td className="courseId">{info.id}</td>
-                      <td className="courseName">{info.name}</td>
-                      <td className="courseCredits">{info.credits}</td>
-                      <td>
-                        <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
-                      </td>
-                    </tr>
-                  }
-                </tbody>
-              // }
+              <tbody>
+              {info.name === "BACC*" ?
+                <tr>
+                    <td>
+                      <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                    </td>
+                    <td className="courseId">{info.id}</td>
+                    <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
+                    <td className="courseCredits">{info.credits}</td>
+                    <td>
+                      <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                    </td>
+                </tr>
+                :
+                <tr>
+                  <td>
+                    <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                  </td>
+                  <td className="courseId">{info.id}</td>
+                  <td className="courseName">{info.name}</td>
+                  <td className="courseCredits">{info.credits}</td>
+                  <td>
+                    <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                  </td>
+                  </tr>
+              }
+              </tbody>
             );
         }
     )
     //uses temp array to render a table with temp's html
     return(
         <div>
-          {termNum === 13 ?
-            <table className="table table-striped">
-            <caption> Course Holder </caption>
-              <thead>
-                  <tr>
-                  <th className="tableLabels"> Complete </th>
-                  <th className="tableLabels"> Course ID  </th>
-                  <th className="tableLabels"> Course Name </th>
-                  <th className="tableLabels"> Credits </th>
-                  <th className="tableLabels"> Relocate </th>
-                  </tr>
-              </thead>
-          </table>
-          :
             <table className="table table-striped">
               <caption> Term {termNum} </caption>
                 <thead>
@@ -451,7 +445,6 @@ class JsonDataDisplay extends React.Component {
                     {temp}
                 {/* </tbody> */}
             </table>
-          }
         </div>
     );
 }
@@ -842,9 +835,6 @@ class JsonDataDisplay extends React.Component {
                   {this.getHtml(term)}
                 </div>
               )}
-              <div className="classTable" key={13}>
-                {this.getHtml(13)}    
-              </div>
           </div>
           <div className="containerBar">
 
