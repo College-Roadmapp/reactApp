@@ -111,7 +111,8 @@ class Degree {
   getTotalCredits(){
     let credits = 0;
     for(let i =0; i < this.degree.length; i++){
-      credits += this.degree[i].credits;
+      credits += Number(this.degree[i].credits);
+      console.log(credits)
     }
     return credits;
   }
@@ -175,7 +176,7 @@ class JsonDataDisplay extends React.Component {
     const handleChange = (event) => {
       let copyOfTotalCoursesTaken = [...this.state.totalCoursesTaken]
       //user has clicked the checkbox indicating the have taken the corresponding course
-      console.log(props.deg.array)
+      // console.log(props.deg.array)
       if(event.target.checked === true){
         //set index in isCheckedArr to true at same index of course in degree array
         let testArr = [...this.state.isCheckedArr]
@@ -833,6 +834,8 @@ class JsonDataDisplay extends React.Component {
               )}
           </div>
           <div className="containerBar">
+
+          {console.log(this.state.totalProgress)}
             <ProgressBar
             completed={Math.round(this.state.totalProgress)}
             height="60px"
