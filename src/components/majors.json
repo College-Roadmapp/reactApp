@@ -47,7 +47,7 @@
             "engineeringMajors":[
                 {"label": "Architectual Engineering", "value": "arch"},
                 {"label": "Bioengineering", "value": "bio-eng"},
-                {"label": "Chemical Engineering", "value": "chem"},
+                {"label": "Chemical Engineering", "value": "chem-eng"},
                 {"label": "Civil Engineering", "value": "civil"},
                 {"label": "Computer Science", "value": "comp-sci"},
                 {"label": "Construction Engineering Management", "value": "construction-mgmt"},

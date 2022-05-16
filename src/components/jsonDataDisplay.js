@@ -569,7 +569,7 @@ class JsonDataDisplay extends React.Component {
     else if (curMajor === 'bio-eng') {
       parsedJSON = require('./../data/Colleges/College of Engineering/Bioengineering Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    else if (curMajor === 'chem') {
+    else if (curMajor === 'chem-eng') {
       parsedJSON = require('./../data/Colleges/College of Engineering/Chemical Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'civil') {
@@ -740,9 +740,9 @@ class JsonDataDisplay extends React.Component {
     else if (curMajor === 'bio') {
       parsedJSON = require('./../data/Colleges/College of Science/Biology Undergraduate Major (BS, HBS).json');
     }
-    // else if (curMajor === 'chem') {
-    //   parsedJSON = require('./../parseHTML/Success/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
-    // }
+    else if (curMajor === 'chem') {
+      parsedJSON = require('./../parseHTML/Success/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
     else if (curMajor === 'math') {
       parsedJSON = require('./../data/Colleges/College of Science/Mathematics Undergraduate Major (BS, HBS).json');
     }
@@ -796,7 +796,7 @@ class JsonDataDisplay extends React.Component {
     //loop through each course found in the json file and add it to the Degree Class component
 
     for(let i=0; i < result.length; i++){
-      newDegree.insertCourse(result[i].code, result[i].title, null, null, result[i].credits, 0, 0);
+      newDegree.insertCourse(result[i].code, result[i].title, null, null, result[i].credits || 4, 0, 0);
     }
     return newDegree;
   }
