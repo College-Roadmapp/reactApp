@@ -4,6 +4,7 @@ import Header from './components/header';
 import warningPic from './components/images/warning.png'
 import Resources from './components/resources';
 import { Link } from "react-router-dom";
+import campusPic from './components/images/campus.jpg'
 
 function AppInfo(){
   return(

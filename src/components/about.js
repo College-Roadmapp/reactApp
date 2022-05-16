@@ -3,6 +3,7 @@ import Header from './header';
 import cadenPic from './images/caden.jpg';
 import isabellePic from './images/isabelle.jpg';
 import weixianPic from './images/weixian.png';
+import treyPic from './images/trey.png';
 import userPic from './images/userIcon.png'
 
 function About(){
@@ -21,7 +22,7 @@ function About(){
           </div>
 
           <div className="teammateProfiles">
-            <img src={userPic} className="profilePics" alt="portrait" />
+            <img src={treyPic} className="profilePics" alt="portrait" />
             <div>
               <h3 className="center">Trey Husko</h3>
               <p className="profileText">Computer Science</p>
