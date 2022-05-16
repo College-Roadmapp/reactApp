@@ -124,7 +124,7 @@ function DropDowns(){
                     </Select>
               </FormControl>
 
-            {major === 'comp-sci' ?
+            {/* {major === 'comp-sci' ?
               <div>
                 <div>
                   <FormControl sx={{ m: 1, minWidth: 120 }}>
@@ -146,7 +146,7 @@ function DropDowns(){
               </div>
               :
               <div></div>
-              }
+              } */}
           </div>
         </div>
         :
