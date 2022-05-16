@@ -384,62 +384,58 @@ class JsonDataDisplay extends React.Component {
       }
     }
 
-
-    //---------------------------- baccore arrays -----------------------------
-    // var baccore = require('./../parseHTML/BaccCore/BaccCore.json')
-    // var fitnessBacc = baccore.BaccalaureateCoreCourses.SkillCourses['Fitness (3)']
-    // var mathBacc = baccore.BaccalaureateCoreCourses.SkillCourses['MATHEMATICS (3)']
-    // var speechBacc = baccore.BaccalaureateCoreCourses.SkillCourses['SPEECH (3)']
-    // var write1Bacc = baccore.BaccalaureateCoreCourses.SkillCourses['WRITING I (4)']
-    // var write2Bacc = baccore.BaccalaureateCoreCourses.SkillCourses['WRITING II (3)']
-    // var bioBacc = baccore.BaccalaureateCoreCourses.Perspective['BIOLOGICAL SCIENCE (LECTURE/LAB) (4 OR 8)']
-    // var cultDivBacc = baccore.BaccalaureateCoreCourses.Perspective['CULTURAL DIVERSITY (3)']
-    // var litArtsBacc = baccore.BaccalaureateCoreCourses.Perspective['LITERATURE AND THE ARTS (3)']
-    // var physBacc = baccore.BaccalaureateCoreCourses.Perspective['PHYSICAL SCIENCE (LECTURE/LAB OR LAB) (4 OR 8)']
-    // var westCultBacc = baccore.BaccalaureateCoreCourses.Perspective['WESTERN CULTURE (3)']
-    // var socProcBacc = baccore.BaccalaureateCoreCourses.Perspective['SOCIAL PROCESSES AND INSTITUTIONS (3)']
-    // var diffPowerBacc = baccore.BaccalaureateCoreCourses.DiffPowerDiscrimination
-    // var sciTechSocBacc = baccore.BaccalaureateCoreCourses.Synthesis['SCIENCE, TECHNOLOGY, AND SOCIETY (3)']
-    // var contGlobIssBacc = baccore.BaccalaureateCoreCourses.Synthesis['CONTEMPORARY GLOBAL ISSUES (3)']
-    //--------------------------------------------------------------------------
-
     //creating html for each element of temp using json data
     temp=temp.map(
         (info, i)=>{
             return(
-              <tbody>
-              {info.name === "BACC*" ?
-                <tr>
-                    <td>
-                      <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
-                    </td>
-                    <td className="courseId">{info.id}</td>
-                    <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
-                    <td className="courseCredits">{info.credits}</td>
-                    <td>
-                      <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
-                    </td>
-                </tr>
-                :
-                <tr>
-                  <td>
-                    <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
-                  </td>
-                  <td className="courseId">{info.id}</td>
-                  <td className="courseName">{info.name}</td>
-                  <td className="courseCredits">{info.credits}</td>
-                  <td>
-                    <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
-                  </td>
-                  </tr>
-              }
-              </tbody>
+                <tbody>
+                  {info.name === "BACC*" ?
+                    <tr>
+                        <td>
+                          <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                        </td>
+                        <td className="courseId">{info.id}</td>
+                        <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
+                        <td className="courseCredits">{info.credits}</td>
+                        <td>
+                          <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                        </td>
+                    </tr>
+                    :
+                    <tr>
+                      <td>
+                        <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                      </td>
+                      <td className="courseId">{info.id}</td>
+                      <td className="courseName">{info.name}</td>
+                      <td className="courseCredits">{info.credits}</td>
+                      <td>
+                        <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                      </td>
+                    </tr>
+                  }
+                </tbody>
+              // }
             );
         }
     )
     //uses temp array to render a table with temp's html
     return(
         <div>
+          {termNum === 13 ?
+            <table className="table table-striped">
+            <caption> Course Holder </caption>
+              <thead>
+                  <tr>
+                  <th className="tableLabels"> Complete </th>
+                  <th className="tableLabels"> Course ID  </th>
+                  <th className="tableLabels"> Course Name </th>
+                  <th className="tableLabels"> Credits </th>
+                  <th className="tableLabels"> Relocate </th>
+                  </tr>
+              </thead>
+          </table>
+          :
             <table className="table table-striped">
               <caption> Term {termNum} </caption>
                 <thead>
@@ -455,6 +451,7 @@ class JsonDataDisplay extends React.Component {
                     {temp}
                 {/* </tbody> */}
             </table>
+          }
         </div>
     );
 }
