@@ -335,13 +335,24 @@ class JsonDataDisplay extends React.Component {
       let newTable = new Table(newDegree);
       //start with term 1
       let termNumber = 1;
-      //assigns term values; 4 classes per term based on order they appear in json
+      let extra = newTable.size - 48;
       for(let i=0; i < newTable.size; i++){
         //setting each course's term number based on which term we are rendering it
         newTable.props.getCourse(i).term = termNumber
         //increments the term number after 4 classes have been added
         if((i + 1) % 4 === 0){
           termNumber += 1
+        }
+      }
+      //accounting for baccore overlap by putting more courses in each term due to overflow
+      termNumber = 0
+      if(extra > 0){
+        for(let i = 48; i < 48 + extra; i++){
+          newTable.props.getCourse(i).term = termNumber
+          termNumber += 1
+          if(termNumber === 13){
+            termNumber = 0
+          }
         }
       }
       info1 = newTable
@@ -834,6 +845,9 @@ class JsonDataDisplay extends React.Component {
                   {this.getHtml(term)}
                 </div>
               )}
+              <div className="classTable" key={13}>
+                {this.getHtml(13)}    
+              </div>
           </div>
           <div className="containerBar">
 
