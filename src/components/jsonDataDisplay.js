@@ -113,7 +113,6 @@ class Degree {
     let credits = 0;
     for(let i =0; i < this.degree.length; i++){
       credits += Number(this.degree[i].credits);
-      console.log(credits)
     }
     return credits;
   }
@@ -189,7 +188,7 @@ class JsonDataDisplay extends React.Component {
         if(!copyOfTotalCoursesTaken.includes(props.deg.array.getCourse(props.idx).id)){
           this.state.totalCoursesTaken.push(props.deg.array.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
-          this.state.totalCredits += props.deg.array.getCourse(props.idx).credits
+          this.state.totalCredits += Number(props.deg.array.getCourse(props.idx).credits)
           this.state.totalProgress = this.state.totalCredits/props.deg.array.getTotalCredits() * 100
         }
       }
@@ -206,7 +205,7 @@ class JsonDataDisplay extends React.Component {
           var idx = copyOfTotalCoursesTaken.indexOf(props.deg.array.getCourse(props.idx).id)
           this.state.totalCoursesTaken.splice(idx, 1)
           //taking the credits out of the pool of total credits completed
-          this.state.totalCredits -= props.deg.array.getCourse(props.idx).credits
+          this.state.totalCredits -= Number(props.deg.array.getCourse(props.idx).credits)
           this.state.totalProgress = this.state.totalCredits/props.deg.array.getTotalCredits() * 100
         }
       }
@@ -236,7 +235,7 @@ class JsonDataDisplay extends React.Component {
       this.setState({isOpenArr: testArr})
     }
     // handling term dropdown selection; saves selection into term variable
-    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12, 13]
 
     const handleTermChange = event => {
       this.setState({term: event.target.value});
@@ -253,6 +252,7 @@ class JsonDataDisplay extends React.Component {
       // makes new course with updated term number and deleted old course with outdated term number
       let idx = props.info.array.getIndex(props.id)
       props.info.array.getCourse(idx).term = this.state.term
+      console.log(props.info.array.getCourse(idx))
       this.setState({firstRun: false})
       this.setState({previousTest: props.info})
     }
@@ -336,6 +336,7 @@ class JsonDataDisplay extends React.Component {
       let newTable = new Table(newDegree);
       //start with term 1
       let termNumber = 1;
+
 
       let extra = newTable.size -48
       //assigns term values; 4 classes per term based on order they appear in json
@@ -437,6 +438,7 @@ class JsonDataDisplay extends React.Component {
               <th className="tableLabels"> Relocate </th>
               </tr>
           </thead>
+            {temp}
       </table>
       :
         <table className="table table-striped">
@@ -771,8 +773,9 @@ class JsonDataDisplay extends React.Component {
       console.log('Failed');
     }
     var result = parsedJSON.Courses;
-    console.log(result.Courses);
-    console.log(result.length);
+    // console.log(result.Courses);
+    // console.log(result.length);
+    //------
 
 
     let newDegree = new Degree();
@@ -815,6 +818,7 @@ class JsonDataDisplay extends React.Component {
   //brand new Table with json values
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
+    //if global major variable changed... then do something
     return(
         <div key="tableParent">
           <div className="Tables" key="parentDiv">
