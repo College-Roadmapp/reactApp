@@ -163,6 +163,7 @@ class JsonDataDisplay extends React.Component {
       totalCredits: 0,
       totalCoursesTaken: [],
       course: "None",
+      currentMajor: null,
       baccoreCourses: ["None","None","None","None","None","None","None","None","None","None","None","None","None","None"]
     };
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
@@ -339,7 +340,10 @@ class JsonDataDisplay extends React.Component {
 
   getHtml(termNum){
     //---------------------- assignTerms --------------------------------
-    let info1 = null;
+    let info1 = null; 
+
+    //want to add an 'or' condition here to also make it run when major has changed
+
     if(this.state.firstRun === true){
       //gets degree plan based on json file
       let newDegree = this.IntoClassObjects();
@@ -474,6 +478,10 @@ class JsonDataDisplay extends React.Component {
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
     var curMajor = this.props.major;
+    console.log("hi")
+    // if(curMajor !== this.state.Major){
+      // this.setState({currentMajor: curMajor})
+    // }
     // console.log('=== major', curMajor);
     var parsedJSON;
     if (curMajor === 'comp-sci'){
@@ -787,6 +795,7 @@ class JsonDataDisplay extends React.Component {
     // console.log(result.Courses);
     // console.log(result.length);
     //------
+    console.log(curMajor)
     currentMajor = this.props.major
 
 
@@ -835,6 +844,9 @@ class JsonDataDisplay extends React.Component {
       console.log(currentMajor, this.props.major)
       this.setState({totalProgress:0})
       this.setState({isCheckedArr: []})
+    }
+    if(currentMajor !== this.props.major && this.state.firstRun !== true){
+      this.setState({firstRun: true})
     }
     return(
         <div key="tableParent">
