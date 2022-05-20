@@ -13,13 +13,15 @@ function AppInfo(){
       <div className="container">
         <div className="description">
           <div className="homeText">
-            myOSURoadmap is a student-built application that is intended to assist first-year students, transfer students, and students in exploratory studies with gathering the information they need to satisfy their graduation requirements.
+            <h3> What is this app?</h3>
+            MyOSURoadmap is a student-built application that is intended to assist first-year students, transfer students, and students in exploratory studies with gathering the information they need to satisfy their graduation requirements.
             This tool is designed so that any current or potential Oregon State student can easily comprehend the complex course map for their degree. Users are also provided access to additional information like their degree progress, tuition prices, and the ability to explore other degrees.
           </div>
         </div>
 
         <div className="instructions">
           <div className="homeText">
+            <h3> How does it work?</h3>
             To simulate your college roadmap, follow the tab labeled “roadmap”. From there, you will be able to select your major’s college, followed by your degree. That degree’s required courses will be allocated across twelve tables to represent four years worth of academic terms. Select “change term” to move a course into a different table. Mark off completed courses using the checkboxes and view your overall progress using the progress bar. The tuition calculator will automatically produce an estimate for your tuition cost.
 
           </div>
@@ -34,6 +36,7 @@ function AppInfo(){
         Follow your college’s website <Link className="clickLink" to="/resources">here</Link> to locate your advising resources. </p>
       </div>
     </div>
+    <div className="pageRemainder"> </div>
   </div>
   )
 }

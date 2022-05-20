@@ -290,29 +290,40 @@ header .dropdown-menu a:hover {
 
 }
 
+.container{
+  height: auto;
+  box-sizing: border-box;
+  display: inline-flex;
+  padding: 1em;
+  margin: 20px;
+  gap: 4%;
+  min-width: 800px;
+}
 
 .description {
   clear: left;
   float: left;
   width: 48%;
-  height: auto;
   box-sizing: border-box;
   background-color: rgba(255, 255, 255, 0.8);
-  display: flex;
   justify-content: center;
   color: #000;
+  line-height: 1.3;
+  min-width: 500px;
+  max-height: 400px;
 }
 
 .instructions {
-  float: right;
+  float: left;
   width: 48%;
-  height: auto;
   padding-left: 10px;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.8);
-  display: flex;
   justify-content: center;
   color: white;
+  line-height: 1.3;
+  min-width: 500px;
+  max-height: 400px;
 }
 
 .homeText {
@@ -322,7 +333,8 @@ header .dropdown-menu a:hover {
   padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
-  padding-top: 20px;
+  padding-top: 10px;
+  margin: 20px;
 }
 
 .clickLink{
@@ -332,13 +344,12 @@ header .dropdown-menu a:hover {
 
 .homepageDisclaimer{
   background: #d73f09;
-  width: 98%;
+  width: 100%;
   flex-wrap: wrap;
   float: left;
   clear: left;
   padding-left: 30px;
   padding-top: 10px;
-
   max-height: 200px;
   min-width: 500px;
   white-space: nowrap;
@@ -364,10 +375,17 @@ header .dropdown-menu a:hover {
 }
 
 .displayApp {
-  background-color: white;
+  background-color: #ffffff;
   height: 800px;
   width: 100%;
   padding: 30px;
+}
+
+.pageRemainder{
+  background: black;
+  width: 100%;
+  min-height: 0px;
+  max-height: 100px;
 }
 
 .classTable{
@@ -382,18 +400,22 @@ header .dropdown-menu a:hover {
   margin: 20px;
   float: left;
   clear: left;
-
 }
 
 .Tables{
-
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   float: left;
   clear: left;
+  width: 100%;
+}
 
+@media(max-width:1400px){
+  .Tables {
+     grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .content {
@@ -411,6 +433,11 @@ header .dropdown-menu a:hover {
   float: left;
   clear: left;
   padding-bottom: 80px;
+  max-width: 100%;
+}
+
+.tuitionText{
+  font-size: 13px;
 }
 
 .tuitionAmount{
@@ -422,28 +449,37 @@ header .dropdown-menu a:hover {
   bottom: 0;
   width: 100%;
   margin: auto;
+  height: auto;
+  padding-left: 3%;
 }
 
 .teamDesciption{
   clear: left;
   position: relative;
-  width: 95%;
-  height: 200px;
+  width: 90%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
   background-color: rgb(247, 245, 245);
   text-align: left;
   margin-top: 50px;
-  bottom: -2em;
+  bottom: 3em;
   padding: 10px;
+}
+
+.teamDescText{
+  padding: 10px;
+  margin-left:40px;
+  margin-right:40px;
+  line-height: 1.3;
 }
 
 .profiles{
   display: flex;
-  float: left;
-  clear: left;
-  margin-left: 20px;
+  padding-left: auto;
+  padding-right: auto;
+  justify-content: center;
 }
 
 .teammateProfiles{
@@ -463,6 +499,10 @@ header .dropdown-menu a:hover {
 .profileText{
   font-size: 14px;
   margin: 20px;
+}
+
+.resourcesHeadings{
+  padding-left: 40px;
 }
 
 /* .printme { display: none;}
