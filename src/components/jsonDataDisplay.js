@@ -852,9 +852,9 @@ class JsonDataDisplay extends React.Component {
 
             <ProgressBar
             completed={Math.round(this.state.totalProgress)}
-            height="60px"
+            height="40px"
             width="80%"
-            margin="20px"
+            margin="25px"
             labelAlignment="right"
             baseBgColor="rgba(0, 0, 0, 0.35)"
             bgColor="#d73f09"
