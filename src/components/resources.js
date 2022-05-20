@@ -5,7 +5,7 @@ function Resources(){
     return(
         <body>
           {Header()}
-          <h3>Helpful Links</h3>
+          <h3 className="resourcesHeadings">Helpful Links</h3>
             <ul>
               <li><a href="https://oregonstate.edu">Oregon State University</a></li>
               <li><a href="https://catalog.oregonstate.edu/college-departments/">Colleges, Schools, Departments, Programs</a></li>
@@ -18,7 +18,7 @@ function Resources(){
               <li><a href="https://catalog.oregonstate.edu/earning-degrees/bcc/">Baccalaureate Courses</a></li>
               <li><a href="https://catalog.oregonstate.edu/courses/">Course Descriptions</a></li>
             </ul>
-          <h3>School Pages</h3>
+          <h3 className="resourcesHeadings">School Pages</h3>
             <ul>
               <li><a href="https://agsci.oregonstate.edu">College of Agricultural Science</a></li>
               <li><a href="https://business.oregonstate.edu">College of Business</a></li>

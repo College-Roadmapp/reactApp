@@ -845,7 +845,7 @@ class JsonDataDisplay extends React.Component {
                 </div>
               )}
               <div className="classTable" key={13}>
-                {this.getHtml(13)}    
+                {this.getHtml(13)}
               </div>
           </div>
           <div className="containerBar">
