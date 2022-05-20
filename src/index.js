@@ -6,6 +6,7 @@ import About from './components/about';
 import Resources from './components/resources';
 import Roadmap from './components/roadmap'
 import reportWebVitals from './reportWebVitals';
+// import 'bootstrap/dist/css/bootstrap.css';
 import {
   BrowserRouter,
   HashRouter,

@@ -1,16 +1,6 @@
 {
     "Courses": [
         {
-            "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-            "credits": "3"
-        },
-        {
             "code": "CS 162",
             "title": "INTRODUCTION TO COMPUTER SCIENCE II",
             "credits": "4"
@@ -118,21 +108,6 @@
         {
             "code": "ST 314",
             "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
-            "credits": "3"
-        },
-        {
-            "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
-            "credits": "4"
-        },
-        {
-            "code": "WR 214",
-            "title": "*WRITING IN BUSINESS",
-            "credits": "3"
-        },
-        {
-            "code": "WR 222",
-            "title": "*ENGLISH COMPOSITION",
             "credits": "3"
         },
         {

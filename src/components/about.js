@@ -26,7 +26,7 @@ function About(){
             <img src={treyPic} className="profilePics" alt="portrait" />
             <div>
               <h3 className="center">Trey Husko</h3>
-              <p className="profileText">Computer Science</p>
+              <p className="profileText">Computer Science, Web and Mobile Development</p>
               <a className="profileText" href="https://www.linkedin.com/in/trey-husko-th1">LinkedIn</a>
             </div>
           </div>

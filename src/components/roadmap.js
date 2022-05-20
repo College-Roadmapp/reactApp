@@ -6,6 +6,8 @@ import Select from '@mui/material/Select';
 import Header from './header';
 import EngineeringCalculator from './tuition/engineeringCalculator'
 import React from 'react';
+import Button from 'react-bootstrap/Button';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function Roadmap() {
@@ -61,6 +63,7 @@ function DropDowns(){
   };
   return (
       <div key="roadmap">
+        <button className='printButton' onClick={() => window.print()}>PRINT/SAVE</button>
         <FormControl className="degreeSelection" sx={{ m: 1, minWidth: 120 }}>
           <InputLabel id="demo-simple-select-helper-label">College</InputLabel>
           <Select
@@ -468,7 +471,6 @@ function DropDowns(){
 
         <EngineeringCalculator/>
         </h1>
-        <button className='printButton' onClick={() => window.print()}>PRINT/SAVE AS PDF</button>
       </div>
   );
 }
