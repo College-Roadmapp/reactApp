@@ -130,6 +130,7 @@ const style = {
   p: 4,
 };
 
+var currentMajor
 // ------------------ roadmap --------------------
 class Table  extends React.Component{
 
@@ -186,6 +187,7 @@ class JsonDataDisplay extends React.Component {
         props.deg.array.getCourse(props.idx).completed = 1;
         //adding the course to the array of all courses completed by user
         if(!copyOfTotalCoursesTaken.includes(props.deg.array.getCourse(props.idx).id)){
+          console.log("should be adding")
           this.state.totalCoursesTaken.push(props.deg.array.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
           this.state.totalCredits += Number(props.deg.array.getCourse(props.idx).credits)
@@ -235,7 +237,7 @@ class JsonDataDisplay extends React.Component {
       this.setState({isOpenArr: testArr})
     }
     // handling term dropdown selection; saves selection into term variable
-    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12, 13]
+    const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12,"Holder"]
 
     const handleTermChange = event => {
       this.setState({term: event.target.value});
@@ -251,7 +253,12 @@ class JsonDataDisplay extends React.Component {
       this.setState({isOpenArr: testArr})
       // makes new course with updated term number and deleted old course with outdated term number
       let idx = props.info.array.getIndex(props.id)
-      props.info.array.getCourse(idx).term = this.state.term
+      if(this.state.term !== "Holder"){
+        props.info.array.getCourse(idx).term = this.state.term
+      }
+      else{
+        props.info.array.getCourse(idx).term = 13
+      }
       console.log(props.info.array.getCourse(idx))
       this.setState({firstRun: false})
       this.setState({previousTest: props.info})
@@ -354,6 +361,7 @@ class JsonDataDisplay extends React.Component {
         for(let i = 48; i < 48 + extra; i++){
           newTable.props.getCourse(i).term = termNumber
           termNumber += 1
+          //go back to term 1 if we have filled in 12 terms with one course each
           if(termNumber === 13){
             termNumber = 0
           }
@@ -463,7 +471,7 @@ class JsonDataDisplay extends React.Component {
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
     var curMajor = this.props.major;
-    console.log('=== major', curMajor);
+    // console.log('=== major', curMajor);
     var parsedJSON;
     if (curMajor === 'comp-sci'){
       parsedJSON = require('./../data/Colleges/College of Engineering/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
@@ -776,6 +784,7 @@ class JsonDataDisplay extends React.Component {
     // console.log(result.Courses);
     // console.log(result.length);
     //------
+    currentMajor = this.props.major
 
 
     let newDegree = new Degree();
@@ -819,6 +828,11 @@ class JsonDataDisplay extends React.Component {
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     //if global major variable changed... then do something
+    if(currentMajor != this.props.major){
+      console.log("its working... maybe")
+      this.setState({totalProgress:0})
+      this.setState({isCheckedArr: []})
+    }
     return(
         <div key="tableParent">
           <div className="Tables" key="parentDiv">
