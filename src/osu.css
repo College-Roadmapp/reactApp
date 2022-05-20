@@ -344,7 +344,7 @@ header .dropdown-menu a:hover {
 
 .homepageDisclaimer{
   background: #d73f09;
-  width: 98%;
+  width: 100%;
   flex-wrap: wrap;
   float: left;
   clear: left;
@@ -375,10 +375,17 @@ header .dropdown-menu a:hover {
 }
 
 .displayApp {
-  background-color: white;
+  background-color: #ffffff;
   height: 800px;
   width: 100%;
   padding: 30px;
+}
+
+.pageRemainder{
+  background: black;
+  width: 100%;
+  min-height: 0px;
+  max-height: 100px;
 }
 
 .classTable{
@@ -427,6 +434,10 @@ header .dropdown-menu a:hover {
   clear: left;
   padding-bottom: 80px;
   max-width: 100%;
+}
+
+.tuitionText{
+  font-size: 13px;
 }
 
 .tuitionAmount{

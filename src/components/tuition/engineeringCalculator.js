@@ -1,8 +1,6 @@
 import React from 'react';
 
 
-
-
 function EngineeringCalculator(){
   //const num1 = parseInt(prompt('Enter the first number '));
 
@@ -61,22 +59,22 @@ function EngineeringCalculator(){
 
     <div className="tuitionTable">
 
-    <h3> Tuition Calculator*: </h3>
-    <p> Enter credits: <input type="text" onChange={getInputValue} /> </p>
-    <Checkbox
-    label = "Out-of-state"
-    value = {checked}
-    onChange = {boxChecked}
-    />
+      <h6> Tuition Calculator*: </h6>
+      <p className="tuitionText"> Enter credits: <input type="text" onChange={getInputValue} /> </p>
+      <div className="tuitionText">
+        <Checkbox
+        label = "Out-of-state"
+        value = {checked}
+        onChange = {boxChecked}
+        />
+      </div>
 
-    <div className = "tuitionAmount">
-      <p> $ </p>
-      <p id="tuitionTotal"> 0</p>
-    </div>
+      <div className = "tuitionAmount">
+        <p className="tuitionText"> $ </p>
+        <p className="tuitionText" id="tuitionTotal"> 0</p>
+      </div>
 
-    <p> *This is an estimatation of tuition prices and does not include additional fees. For exact rates and more information, follow this <a href="https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information"> link. </a></p>
-
-
+      <p className="tuitionText"> *This is an estimatation of tuition prices and does not include additional fees. For exact rates and more information, follow this <a href="https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information"> link. </a></p>
     </div>
 
 
