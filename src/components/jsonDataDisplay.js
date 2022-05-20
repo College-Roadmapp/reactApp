@@ -106,8 +106,11 @@ class Degree {
   setNewIndex(index, newIndex){
     this.degree[index].newIndex = newIndex
   }
-  getNewIndex(index){
-    return (this.degree[index].newIndex);
+  getNewIndex(courseId){
+    for(let i = 0; i < this.degree.length; i++){
+      if(this.degree[i].id === courseId)
+        return this.degree[i].newIndex;
+    }
   }
   getTotalCredits(){
     let credits = 0;
@@ -184,10 +187,12 @@ class JsonDataDisplay extends React.Component {
         testArr[props.idx] = true
         this.setState({isCheckedArr: testArr})
         //setting 'completed' of course to 1 to keep track of status
+
+        console.log(props.idx, props.deg.array.getNewIndex(props.id))
+
         props.deg.array.getCourse(props.idx).completed = 1;
         //adding the course to the array of all courses completed by user
         if(!copyOfTotalCoursesTaken.includes(props.deg.array.getCourse(props.idx).id)){
-          console.log("should be adding")
           this.state.totalCoursesTaken.push(props.deg.array.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
           this.state.totalCredits += Number(props.deg.array.getCourse(props.idx).credits)
@@ -259,7 +264,6 @@ class JsonDataDisplay extends React.Component {
       else{
         props.info.array.getCourse(idx).term = 13
       }
-      console.log(props.info.array.getCourse(idx))
       this.setState({firstRun: false})
       this.setState({previousTest: props.info})
     }
@@ -343,7 +347,6 @@ class JsonDataDisplay extends React.Component {
       let newTable = new Table(newDegree);
       //start with term 1
       let termNumber = 1;
-
 
       let extra = newTable.size -48
       //assigns term values; 4 classes per term based on order they appear in json
@@ -799,7 +802,7 @@ class JsonDataDisplay extends React.Component {
     //loop through each course found in the json file and add it to the Degree Class component
 
     for(let i=0; i < result.length; i++){
-      newDegree.insertCourse(result[i].code, result[i].title, null, null, result[i].credits || 4, 0, 0);
+      newDegree.insertCourse(result[i].code, result[i].title, null, null, result[i].credits || 4, 0, i + 14);
     }
     return newDegree;
   }
@@ -828,8 +831,8 @@ class JsonDataDisplay extends React.Component {
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     //if global major variable changed... then do something
-    if(currentMajor != this.props.major){
-      console.log("its working... maybe")
+    if(currentMajor != this.props.major && this.state.totalProgress != 0 && this.state.isCheckedArr != []){
+      console.log(currentMajor, this.props.major)
       this.setState({totalProgress:0})
       this.setState({isCheckedArr: []})
     }
@@ -847,7 +850,6 @@ class JsonDataDisplay extends React.Component {
           </div>
           <div className="containerBar">
 
-          {console.log(this.state.totalProgress)}
             <ProgressBar
             completed={Math.round(this.state.totalProgress)}
             height="60px"
