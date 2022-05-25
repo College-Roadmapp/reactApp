@@ -9,25 +9,9 @@ import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import InputLabel from '@mui/material/InputLabel';
 import ProgressBar from "@ramonak/react-progress-bar";
-import { makeStyles } from '@mui/styles';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { black } from '@mui/material/colors';
 
-
-// ------------------ style for change term buttons --------------------
-
-const useStyles = makeStyles({
-  root: {
-    background: 'black',
-    border: 0,
-    borderRadius: 3,
-    boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
-    color: 'white',
-    height: 48,
-    padding: '0 30px',
-  },
-});
-
+//theme for the change term modal
 const theme = createTheme({
   palette: {
     primary: {
@@ -42,7 +26,7 @@ const theme = createTheme({
   },
 });
 
-// ------------------ class --------------------
+// ------------------ course class --------------------
 class Course {
   constructor(id, name, bacc, baccIndex, credits, term, newIndex) {
     this.id = id;
@@ -56,62 +40,63 @@ class Course {
   }
 }
 
-// ------------------ degree --------------------
+// ------------------ degree class --------------------
 class Degree {
   constructor(){
     this.degree = [];
   }
+  //function to insert new course into degree
   insertCourse(id, name, bacc, baccIndex, credits, term, newIndex){
     let c = new Course(id, name, bacc, baccIndex, credits, term, newIndex);
     this.degree.push(c);
   }
+  //function to remove course from a degree
   removeCourse(idx){
     this.degree.splice(idx, 1);
   }
+  //returns all courses
   get allCourses(){
     return this.degree;
   }
+  //returns the number of courses
   get numberCourses(){
     return this.degree.length;
   }
+  //returns the course based on the index in degree
   getCourse(index){
     return (this.degree[index]);
   }
+  //returns course name based on the index in the degree
   getName(index){
     return (this.degree[index].name);
   }
+  //returns course id based on the index in the degree
   getId(index){
     return (this.degree[index].id);
   }
+  //returns course credits based on the index in the degree
   getCredits(index){
     return (this.degree[index].credits);
   }
+  //returns the term a course is in based on the index in the degree
   getTerm(index){
     return (this.degree[index].term);
   }
-  //doesn't work once you move stuff around
+  //returns the index of a course within the degree based on its id
   getIndex(courseId){
     for(let i = 0; i < this.degree.length; i++){
       if(this.degree[i].id === courseId)
         return i;
     }
   }
-  getTermsArray(){
-    let termArray = []
-    for(let i = 0; i < this.degree.length; i++){
-      termArray.push(this.degree[i].term)
-    }
-    return termArray;
-  }
-  setNewIndex(index, newIndex){
-    this.degree[index].newIndex = newIndex
-  }
+  //returns the index of a course within the degree based on its id
   getNewIndex(courseId){
     for(let i = 0; i < this.degree.length; i++){
       if(this.degree[i].id === courseId)
         return this.degree[i].newIndex;
     }
   }
+  //returns the total number of credits in entire degree
   getTotalCredits(){
     let credits = 0;
     for(let i =0; i < this.degree.length; i++){
@@ -121,6 +106,7 @@ class Degree {
   }
 }
 
+// styling for the change term modal
 const style = {
   position: 'absolute',
   top: '50%',
@@ -133,10 +119,11 @@ const style = {
   p: 4,
 };
 
+//global variable to compare to dropdown selection of major to see
+  //when the selection has changed (used primarily in render)
 var currentMajor
 // ------------------ roadmap --------------------
 class Table  extends React.Component{
-
   constructor(props){
     super(props);
     this.array = props;
@@ -155,22 +142,20 @@ class JsonDataDisplay extends React.Component {
       isOpen: false,
       term: 0,
       firstRun: true,
-      test: null,
+      // test: null,
       previousTest: null,
       isCheckedArr: [],
       isChecked: false,
-      totalProgress: 0,
-      totalCredits: 0,
+      // totalProgress: 0,
+      // totalCredits: 0,
       totalCoursesTaken: [],
-      course: "None",
+      // course: "None",
       currentMajor: null,
-      baccoreCourses: ["None","None","None","None","None","None","None","None","None","None","None","None","None","None"]
+      baccoreCourses: Array(14).fill("None")
     };
-    this.coursesPerTermArray = [0,0,0,0,0,0,0,0,0,0,0,0]
-
+    this.coursesPerTermArray = Array(12).fill(0)
     this.totalProgress = 0
     this.totalCredits = 0
-
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
     this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
@@ -179,15 +164,13 @@ class JsonDataDisplay extends React.Component {
     this.getHtml = this.getHtml.bind(this)
   }
 
-  //----------------------------------------------------------------------------------------------
-  //partially working- bug where if you click the same course over and over weird things happen
-  //once something is checked, then unchecked, it will not check again
-  //everything seems to be delayed by a 'round' of clicking
+
+  //---------- checkbox component: for user to mark already completed courses, ----------
+  //---------- and in turn calculate total progress ----------
   ControlledCheckbox(props) {
     const handleChange = (event) => {
       let copyOfTotalCoursesTaken = [...this.state.totalCoursesTaken]
       //user has clicked the checkbox indicating the have taken the corresponding course
-      // console.log(props.deg.array)
       if(event.target.checked === true){
         //set index in isCheckedArr to true at same index of course in degree array
         let testArr = [...this.state.isCheckedArr]
@@ -200,8 +183,6 @@ class JsonDataDisplay extends React.Component {
           this.state.totalCoursesTaken.push(props.deg.array.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
           this.totalCredits += Number(props.deg.array.getCourse(props.idx).credits)
-          // this.setState({totalCredits: this.state.totalCredits + Number(props.deg.array.getCourse(props.idx).credits)})
-          // this.setState({totalProgress: this.state.totalCredits/props.deg.array.getTotalCredits() * 100})
           this.totalProgress = this.totalCredits/props.deg.array.getTotalCredits() * 100
         }
       }
@@ -220,9 +201,6 @@ class JsonDataDisplay extends React.Component {
           //taking the credits out of the pool of total credits completed
           this.totalCredits -= Number(props.deg.array.getCourse(props.idx).credits)
           this.totalProgress = this.totalCredits/props.deg.array.getTotalCredits() * 100
-          // console.log("should be subtracting")
-          // this.setState({totalCredits: this.state.totalCredits - Number(props.deg.array.getCourse(props.idx).credits)})
-          // this.setState({totalProgress: this.state.totalCredits/props.deg.array.getTotalCredits() * 100})
         }
       }
     };
@@ -235,10 +213,9 @@ class JsonDataDisplay extends React.Component {
     );
   }
 
-//----------------------------------------------------------------------------------------------
-
-
-
+  //---------- modal component: pops up when user clicks "Change Term" on a course and presents ----------
+  //---------- them with a dropdown of term options to move that course to ----------
+  //---------- handleClose then moves this course accordingly on the roadmap ----------
   BasicModal(props) {
     // handling modal open
     const handleOpen = () => {
@@ -248,15 +225,15 @@ class JsonDataDisplay extends React.Component {
       let testItem = {...testArr[props.idx]}
       testItem = true
       testArr[props.idx] = testItem
+      //sets same index in isOpenArr to true as course in roadmap's index, now that modal has opened
       this.setState({isOpenArr: testArr})
     }
     // handling term dropdown selection; saves selection into term variable
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12,"Holder"]
-
+    //sets dropdown option to state variable 'term'
     const handleTermChange = event => {
       this.setState({term: event.target.value});
     }
-
     //handling modal closing and updating given course's term
     const handleClose = () => {
       //workaround for updating a single element in a state array
@@ -264,15 +241,22 @@ class JsonDataDisplay extends React.Component {
       let testItem = {...testArr[props.idx]}
       testItem = false
       testArr[props.idx] = testItem
+      //sets same index in isOpenArr to false as course in roadmap's index, now that modal is closing
       this.setState({isOpenArr: testArr})
-      // makes new course with updated term number and deleted old course with outdated term number
+      // get index of course
       let idx = props.info.array.getIndex(props.id)
+      //check that user didn't move course to "Holder" term
       if(this.state.term !== "Holder"){
+        // set term value of course to selected dropdown option
         props.info.array.getCourse(idx).term = this.state.term
       }
+      //if the user moved the course to the holder term, give it the term number 13 
+        //(need a number not string)
       else{
         props.info.array.getCourse(idx).term = 13
       }
+      //setting state variables to not automatically render roadmap as it would by default
+          //because courses have moved around now, and we want it to stay that way
       this.setState({firstRun: false})
       this.setState({previousTest: props.info})
     }
@@ -311,12 +295,15 @@ class JsonDataDisplay extends React.Component {
     );
   }
 
-
-
+  //---------- course dropdown component: displays options for baccore based on which ----------
+  //---------- baccore category is selected, and then when a course from dropdown is ----------
+  //---------- selected, it remains that visible on the roadmap ----------
   CourseDropdown(props){
-    //make state array and put value of chosen course for each dropdown as 'value'
+    //when dropdown on a baccore course is opened:
     const handleChange = event => {
+      //create a temporary array copying bacccore courses
       let tempArr = [...this.state.baccoreCourses]
+      //set the value of the chosen dropdown open to that corresponding baccore section
       tempArr[props.idx] = event.target.value
       this.setState({baccoreCourses: tempArr})
     }
@@ -339,12 +326,18 @@ class JsonDataDisplay extends React.Component {
     )
   }
 
+  //---------- getHtml component: on the first render for a major, this function ----------
+  //---------- assigns each course a term number that will evenly distribute the ----------
+  //---------- courses amoung the 12 terms ----------
+  //---------- If this has already been done for a given major, it will skip that step ----------
+  //---------- to avoid resetting any courses that a user has moved to a different major ----------
+  //---------- Then, it makes an array of html for each course, and renders all of them ----------
+  //---------- into the roadmap ----------
   getHtml(termNum){
-    //---------------------- assignTerms --------------------------------
     let info1 = null; 
-    this.coursesPerTermArray = [0,0,0,0,0,0,0,0,0,0,0,0]
-    //want to add an 'or' condition here to also make it run when major has changed
-
+    this.coursesPerTermArray = Array(12).fill(0)
+    //if it a new major has been selected, then this conditional statement will
+      //give each course a term by default, otherwise it will leave the term numbers as they are
     if(this.state.firstRun === true){
       //gets degree plan based on json file
       let newDegree = this.IntoClassObjects();
@@ -352,20 +345,21 @@ class JsonDataDisplay extends React.Component {
       let newTable = new Table(newDegree);
       //start with term 1
       let termNumber = 1;
+      //idx for this.coursesPerTermArray
       let idx = 0;
+      //count up to the number of courses per term, then move to next term
       let count = 0;
-
-      let extra = newTable.size -48
-
+      //calculate courses per term by dividing into 12 terms
       let coursesPerTerm = Math.floor(newTable.size / 12)
+      //then we will spread the remaining courses amoung the first few terms until none remaining
       let remainderTerms = newTable.size % 12
+      //create array of courses per term with value of how many should be per term
       this.coursesPerTermArray = Array(12).fill(coursesPerTerm)
-      for(let i =0 ; i < remainderTerms; i++){
-        this.coursesPerTermArray [i]++
+      //then allocate terms for any remaining courses
+      for(let i =0; i < remainderTerms; i++){
+        this.coursesPerTermArray[i]++
       }
-      // console.log(coursesPerTerm, remainderTerms, newTable.size, perTermArray)
-      // console.log(newTable)
-
+      //give each course a term number based on how many courses are needed per term
       for(let i = 0; i < newTable.size; i++){
         newTable.props.getCourse(i).term = termNumber
         count++
@@ -375,75 +369,13 @@ class JsonDataDisplay extends React.Component {
           count = 0
         }
       }
-      // console.log(newTable)
-
-      //assigns term values; 4 classes per term based on order they appear in json
-      // for(let i=0; i < newTable.size; i++){
-      //   //setting each course's term number based on which term we are rendering it
-      //   newTable.props.getCourse(i).term = termNumber
-      //   //increments the term number after 4 classes have been added
-      //   if((i + 1) % 4 === 0){
-      //     termNumber += 1
-      //   }
-      // }
-      // //accounting for baccore overlap by putting more courses in each term due to overflow
-      // termNumber = 0
-      // if(extra > 0){
-      //   for(let i = 48; i < 48 + extra; i++){
-      //     newTable.props.getCourse(i).term = termNumber
-      //     termNumber += 1
-      //     //go back to term 1 if we have filled in 12 terms with one course each
-      //     if(termNumber === 13){
-      //       termNumber = 0
-      //     }
-      //   }
-      // }
       info1 = newTable
     }
-
-    // if(this.state.firstRun === true){
-    //   console.log("should")
-    //   //gets degree plan based on json file
-    //   let newDegree = this.IntoClassObjects();
-    //   //puts that degree plan into a Table for the roadmap
-    //   let newTable = new Table(newDegree);
-    //   //start with term 1
-    //   let termNumber = 1;
-    //   let extra = newTable.size -48
-    //   let idx = 0
-    //   //assigns term values; 4 classes per term based on order they appear in json
-    //   for(let i=0; i < newTable.size; i++){
-    //     //setting each course's term number based on which term we are rendering it
-    //     newTable.props.getCourse(i).term = termNumber
-    //     if(termNumber <= 12){
-    //       this.coursesPerTermArray[idx] =this.coursesPerTermArray[idx] +1
-    //     }
-    //     //increments the term number after 4 classes have been added
-    //     if((i + 1) % 4 === 0){
-    //       termNumber += 1
-    //       idx += 1
-    //     }
-    //   }
-    //   //accounting for baccore overlap by putting more courses in each term due to overflow
-    //   termNumber = 1
-    //   if(extra > 0){
-    //     for(let i = 48; i < 48 + extra; i++){
-    //       newTable.props.getCourse(i).term = termNumber
-    //       this.coursesPerTermArray[termNumber-1] += 1
-    //       termNumber += 1
-    //       //go back to term 1 if we have filled in 12 terms with one course each
-    //       if(termNumber === 13){
-    //         termNumber = 1
-    //       }
-    //     }
-    //     info1 = newTable
-    //   }
-    // }
+    //the current major has an in-progress roadmap, so we don't change it
     else{
       info1 = this.state.previousTest
     }
-
-    //-------------------------------------------------------------------
+    //set isOpenArr and isChecked arr to false for the length of the degree
     for(let i = 0; i < info1.array.degree.length; i++){
       if(this.state.isOpenArr.length < info1.array.degree.length){
         this.state.isOpenArr.push(false)
@@ -452,10 +384,6 @@ class JsonDataDisplay extends React.Component {
         this.state.isCheckedArr.push(false)
       }
     }
-
-
-    //------------------------ start of original getHtml ---------------------------
-
     //empty array that will hold the current term's courses
     var temp= [];
     //setting temp array of courses based on term number of course components and termNum
@@ -465,8 +393,8 @@ class JsonDataDisplay extends React.Component {
         temp.push(info1.array.getCourse(i));
       }
     }
-
-
+    //create html of each course, checking if it is baccore or not, because baccore is rendered
+      //slightly differently since we don't know the course ID the user will choose
     temp=temp.map(
       (info, i)=>{
           return(
@@ -499,60 +427,10 @@ class JsonDataDisplay extends React.Component {
             </tbody>
           );
       }
-  )
-
-    //creating html for each element of temp using json data
-    // temp=temp.map(
-    //     (info, i)=>{
-    //         return(
-    //           <tbody>
-    //           {info.name === "BACC*" ?
-    //             <tr>
-    //                 <td>
-    //                   <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
-    //                 </td>
-    //                 <td className="courseId">{info.id}</td>
-    //                 <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
-    //                 <td className="courseCredits">{info.credits}</td>
-    //                 <td>
-    //                   <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
-    //                 </td>
-    //             </tr>
-    //             :
-    //             <tr>
-    //               <td>
-    //                 <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
-    //               </td>
-    //               <td className="courseId">{info.id}</td>
-    //               <td className="courseName">{info.name}</td>
-    //               <td className="courseCredits">{info.credits}</td>
-    //               <td>
-    //                 <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
-    //               </td>
-    //               </tr>
-    //           }
-    //           </tbody>
-    //         );
-    //     }
-    // )
+    )
     //uses temp array to render a table with temp's html
     return(
       <div>
-      {termNum === 13 ?
-        <table className="table table-striped">
-        <caption> Course Holder </caption>
-          <thead>
-              <tr>
-              <th className="tableLabels"> Complete </th>
-              <th className="tableLabels"> Course ID  </th>
-              <th className="tableLabels"> Course Name </th>
-              <th className="tableLabels"> Credits </th>
-              <th className="tableLabels"> Relocate </th>
-              </tr>
-          </thead>
-            {temp}
-      </table>
-      :
         <table className="table table-striped">
           <caption> Term {termNum} </caption>
             <thead>
@@ -566,14 +444,14 @@ class JsonDataDisplay extends React.Component {
             </thead>
             {temp}
         </table>
-      }
     </div>
     );
-}
+  }
 
-
+  //---------- IntoClassObject component: when a new major is selected based on the ----------
+  //---------- dropdown, this functional component gets the json for that major and ----------
+  //---------- inserts all of its courses plus baccore into a degree ----------
   IntoClassObjects(){
-    //******* this will have to be conditional based on dropdown selection *****
     var curMajor = this.props.major;
     var parsedJSON;
     if (curMajor === 'comp-sci'){
@@ -884,58 +762,34 @@ class JsonDataDisplay extends React.Component {
       console.log('Failed');
     }
     var result = parsedJSON.Courses;
-
+    //sets currentMajor to current dropdown selection
     currentMajor = this.props.major
-
-
+    //make a new degree for newly selected major
     let newDegree = new Degree();
-    //---------------------------temporary baccore solution---------------------------------
+    //get baccore json data
     var tempBaccCore = require('./../parseHTML/BaccCore/temporaryBaccCore.json')
+    //push baccore courses first
     for(let i = 0; i < tempBaccCore.BaccCoreCourses.length; i++){
       newDegree.insertCourse(tempBaccCore.BaccCoreCourses[i].name, "BACC*", tempBaccCore.BaccCoreCourses[i], i, tempBaccCore.BaccCoreCourses[i].credits, 0, i)
     }
-    //--------------------------------------------------------------------------------------
-
-    //create new degree plan to put the json in
-    //loop through each course found in the json file and add it to the Degree Class component
-
+    //then push all major-related courses
     for(let i=0; i < result.length; i++){
       newDegree.insertCourse(result[i].code, result[i].title, null, null, result[i].credits || 4, 0, i + 14);
     }
     return newDegree;
   }
 
-  assignTerms(){
-    //gets degree plan based on json file
-    let newDegree = this.IntoClassObjects();
-    //puts that degree plan into a Table for the roadmap
-    let newTable = new Table(newDegree);
-    //start with term 1
-    let termNum = 1;
-    //assigns term values; 4 classes per term based on order they appear in json
-    for(let i=0; i < newTable.size; i++){
-      //setting each course's term number based on which term we are rendering it
-      newTable.props.getCourse(i).term = termNum
-      //increments the term number after 4 classes have been added
-      if((i + 1) % 4 === 0){
-        termNum += 1
-      }
-    }
-    return newTable;
-  }
-
-
-  //brand new Table with json values
+  //render a brand new Table with json values
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-    //if global major variable changed... then do something
+    //if global major variable changed and the user had clicked checkboxes and 
+      //in turn updates the total progress count, reset them all back to 0/empty
     if(currentMajor !== this.props.major && this.totalProgress !== 0 && this.state.isCheckedArr !== []){
-      console.log(currentMajor, this.props.major)
-      // this.setState({totalProgress:0})
       this.totalProgress = 0
       this.totalCredits = 0;
       this.setState({isCheckedArr: []})
     }
+    //reset the firstRun back to true if a new major is selected
     if(currentMajor !== this.props.major && this.state.firstRun !== true){
       this.setState({firstRun: true})
     }
@@ -952,7 +806,6 @@ class JsonDataDisplay extends React.Component {
               </div>
           </div>
           <div className="containerBar">
-            {console.log(this.totalProgress)}
             <ProgressBar
             completed={Math.round(this.totalProgress)}
             height="40px"
