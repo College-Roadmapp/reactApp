@@ -167,6 +167,10 @@ class JsonDataDisplay extends React.Component {
       baccoreCourses: ["None","None","None","None","None","None","None","None","None","None","None","None","None","None"]
     };
     this.coursesPerTermArray = [0,0,0,0,0,0,0,0,0,0,0,0]
+
+    this.totalProgress = 0
+    this.totalCredits = 0
+
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
     this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
@@ -190,16 +194,15 @@ class JsonDataDisplay extends React.Component {
         testArr[props.idx] = true
         this.setState({isCheckedArr: testArr})
         //setting 'completed' of course to 1 to keep track of status
-
-        console.log(props.idx, props.deg.array.getNewIndex(props.id))
-
         props.deg.array.getCourse(props.idx).completed = 1;
         //adding the course to the array of all courses completed by user
         if(!copyOfTotalCoursesTaken.includes(props.deg.array.getCourse(props.idx).id)){
           this.state.totalCoursesTaken.push(props.deg.array.getCourse(props.idx).id)
           //adding the credits out of the pool of total credits completed
-          this.state.totalCredits += Number(props.deg.array.getCourse(props.idx).credits)
-          this.state.totalProgress = this.state.totalCredits/props.deg.array.getTotalCredits() * 100
+          this.totalCredits += Number(props.deg.array.getCourse(props.idx).credits)
+          // this.setState({totalCredits: this.state.totalCredits + Number(props.deg.array.getCourse(props.idx).credits)})
+          // this.setState({totalProgress: this.state.totalCredits/props.deg.array.getTotalCredits() * 100})
+          this.totalProgress = this.totalCredits/props.deg.array.getTotalCredits() * 100
         }
       }
       //user has unclicked the checkbox indicating the have not taken the corresponding course
@@ -215,8 +218,11 @@ class JsonDataDisplay extends React.Component {
           var idx = copyOfTotalCoursesTaken.indexOf(props.deg.array.getCourse(props.idx).id)
           this.state.totalCoursesTaken.splice(idx, 1)
           //taking the credits out of the pool of total credits completed
-          this.state.totalCredits -= Number(props.deg.array.getCourse(props.idx).credits)
-          this.state.totalProgress = this.state.totalCredits/props.deg.array.getTotalCredits() * 100
+          this.totalCredits -= Number(props.deg.array.getCourse(props.idx).credits)
+          this.totalProgress = this.totalCredits/props.deg.array.getTotalCredits() * 100
+          // console.log("should be subtracting")
+          // this.setState({totalCredits: this.state.totalCredits - Number(props.deg.array.getCourse(props.idx).credits)})
+          // this.setState({totalProgress: this.state.totalCredits/props.deg.array.getTotalCredits() * 100})
         }
       }
     };
@@ -369,7 +375,7 @@ class JsonDataDisplay extends React.Component {
           count = 0
         }
       }
-      console.log(newTable)
+      // console.log(newTable)
 
       //assigns term values; 4 classes per term based on order they appear in json
       // for(let i=0; i < newTable.size; i++){
@@ -923,13 +929,14 @@ class JsonDataDisplay extends React.Component {
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     //if global major variable changed... then do something
-    if(currentMajor != this.props.major && this.state.totalProgress != 0 && this.state.isCheckedArr != []){
+    if(currentMajor !== this.props.major && this.state.totalProgress !== 0 && this.state.isCheckedArr !== []){
       console.log(currentMajor, this.props.major)
-      this.setState({totalProgress:0})
+      // this.setState({totalProgress:0})
+      this.totalProgress = 0
+      this.totalCredits = 0;
       this.setState({isCheckedArr: []})
     }
     if(currentMajor !== this.props.major && this.state.firstRun !== true){
-      console.log("resetting to true")
       this.setState({firstRun: true})
     }
     return(
@@ -945,9 +952,9 @@ class JsonDataDisplay extends React.Component {
               </div>
           </div>
           <div className="containerBar">
-
+            {console.log(this.totalProgress)}
             <ProgressBar
-            completed={Math.round(this.state.totalProgress)}
+            completed={Math.round(this.totalProgress)}
             height="40px"
             width="80%"
             margin="25px"
