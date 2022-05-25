@@ -166,11 +166,13 @@ class JsonDataDisplay extends React.Component {
       currentMajor: null,
       baccoreCourses: ["None","None","None","None","None","None","None","None","None","None","None","None","None","None"]
     };
+    this.coursesPerTermArray = [0,0,0,0,0,0,0,0,0,0,0,0]
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
     this.BasicModal = this.BasicModal.bind(this);
     this.ControlledCheckbox = this.ControlledCheckbox.bind(this);
     this.CourseDropdown = this.CourseDropdown.bind(this);
     this.IntoClassObjects = this.IntoClassObjects.bind(this);
+    this.getHtml = this.getHtml.bind(this)
   }
 
   //----------------------------------------------------------------------------------------------
@@ -307,17 +309,10 @@ class JsonDataDisplay extends React.Component {
 
   CourseDropdown(props){
     //make state array and put value of chosen course for each dropdown as 'value'
-    //in handleChange:
-    //this.setState({choiceArr[1]: event.target.value});
-    //in return:
-    //value={this.state.choiceArr[1]}
     const handleChange = event => {
-      console.log(props.idx)
-      console.log(this.state.baccoreCourses)
       let tempArr = [...this.state.baccoreCourses]
       tempArr[props.idx] = event.target.value
       this.setState({baccoreCourses: tempArr})
-      console.log(this.state.baccoreCourses)
     }
     return (
       <Box sx={{ minWidth: 90, maxHeight: 40, fontSize: 11, lineHeigh: 0, pt:1}}>
@@ -341,7 +336,7 @@ class JsonDataDisplay extends React.Component {
   getHtml(termNum){
     //---------------------- assignTerms --------------------------------
     let info1 = null; 
-
+    this.coursesPerTermArray = [0,0,0,0,0,0,0,0,0,0,0,0]
     //want to add an 'or' condition here to also make it run when major has changed
 
     if(this.state.firstRun === true){
@@ -351,32 +346,94 @@ class JsonDataDisplay extends React.Component {
       let newTable = new Table(newDegree);
       //start with term 1
       let termNumber = 1;
+      let idx = 0;
+      let count = 0;
 
       let extra = newTable.size -48
-      //assigns term values; 4 classes per term based on order they appear in json
-      for(let i=0; i < newTable.size; i++){
-        //setting each course's term number based on which term we are rendering it
+
+      let coursesPerTerm = Math.floor(newTable.size / 12)
+      let remainderTerms = newTable.size % 12
+      let perTermArray = Array(12).fill(coursesPerTerm)
+      for(let i =0 ; i < remainderTerms; i++){
+        perTermArray[i]++
+      }
+      // console.log(coursesPerTerm, remainderTerms, newTable.size, perTermArray)
+      // console.log(newTable)
+
+      for(let i = 0; i < newTable.size; i++){
         newTable.props.getCourse(i).term = termNumber
-        //increments the term number after 4 classes have been added
-        if((i + 1) % 4 === 0){
+        count++
+        if(perTermArray[idx] === count){
           termNumber += 1
+          idx += 1
+          count = 0
         }
       }
-      //accounting for baccore overlap by putting more courses in each term due to overflow
-      termNumber = 0
-      if(extra > 0){
-        for(let i = 48; i < 48 + extra; i++){
-          newTable.props.getCourse(i).term = termNumber
-          termNumber += 1
-          //go back to term 1 if we have filled in 12 terms with one course each
-          if(termNumber === 13){
-            termNumber = 0
-          }
-        }
-      }
+
+      //assigns term values; 4 classes per term based on order they appear in json
+      // for(let i=0; i < newTable.size; i++){
+      //   //setting each course's term number based on which term we are rendering it
+      //   newTable.props.getCourse(i).term = termNumber
+      //   //increments the term number after 4 classes have been added
+      //   if((i + 1) % 4 === 0){
+      //     termNumber += 1
+      //   }
+      // }
+      // //accounting for baccore overlap by putting more courses in each term due to overflow
+      // termNumber = 0
+      // if(extra > 0){
+      //   for(let i = 48; i < 48 + extra; i++){
+      //     newTable.props.getCourse(i).term = termNumber
+      //     termNumber += 1
+      //     //go back to term 1 if we have filled in 12 terms with one course each
+      //     if(termNumber === 13){
+      //       termNumber = 0
+      //     }
+      //   }
+      // }
       info1 = newTable
     }
+
+    // if(this.state.firstRun === true){
+    //   console.log("should")
+    //   //gets degree plan based on json file
+    //   let newDegree = this.IntoClassObjects();
+    //   //puts that degree plan into a Table for the roadmap
+    //   let newTable = new Table(newDegree);
+    //   //start with term 1
+    //   let termNumber = 1;
+    //   let extra = newTable.size -48
+    //   let idx = 0
+    //   //assigns term values; 4 classes per term based on order they appear in json
+    //   for(let i=0; i < newTable.size; i++){
+    //     //setting each course's term number based on which term we are rendering it
+    //     newTable.props.getCourse(i).term = termNumber
+    //     if(termNumber <= 12){
+    //       this.coursesPerTermArray[idx] =this.coursesPerTermArray[idx] +1
+    //     }
+    //     //increments the term number after 4 classes have been added
+    //     if((i + 1) % 4 === 0){
+    //       termNumber += 1
+    //       idx += 1
+    //     }
+    //   }
+    //   //accounting for baccore overlap by putting more courses in each term due to overflow
+    //   termNumber = 1
+    //   if(extra > 0){
+    //     for(let i = 48; i < 48 + extra; i++){
+    //       newTable.props.getCourse(i).term = termNumber
+    //       this.coursesPerTermArray[termNumber-1] += 1
+    //       termNumber += 1
+    //       //go back to term 1 if we have filled in 12 terms with one course each
+    //       if(termNumber === 13){
+    //         termNumber = 1
+    //       }
+    //     }
+    //     info1 = newTable
+    //   }
+    // }
     else{
+      console.log("should not be in here")
       info1 = this.state.previousTest
     }
 
@@ -404,40 +461,74 @@ class JsonDataDisplay extends React.Component {
     }
 
 
-    //creating html for each element of temp using json data
     temp=temp.map(
-        (info, i)=>{
-            return(
-              <tbody>
-              {info.name === "BACC*" ?
-                <tr>
-                    <td>
-                      <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
-                    </td>
-                    <td className="courseId">{info.id}</td>
-                    <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
-                    <td className="courseCredits">{info.credits}</td>
-                    <td>
-                      <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
-                    </td>
-                </tr>
-                :
-                <tr>
+      (info, i)=>{
+          return(
+            <tbody>
+            {info.name === "BACC*" ?
+              <tr>
                   <td>
                     <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
                   </td>
                   <td className="courseId">{info.id}</td>
-                  <td className="courseName">{info.name}</td>
+                  <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
                   <td className="courseCredits">{info.credits}</td>
                   <td>
                     <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
                   </td>
-                  </tr>
-              }
-              </tbody>
-            );
-        }
-    )
+              </tr>
+              :
+              <tr>
+                <td>
+                  <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                </td>
+                <td className="courseId">{info.id}</td>
+                <td className="courseName">{info.name}</td>
+                <td className="courseCredits">{info.credits}</td>
+                <td>
+                  <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                </td>
+                </tr>
+            }
+            </tbody>
+          );
+      }
+  )
+
+    //creating html for each element of temp using json data
+    // temp=temp.map(
+    //     (info, i)=>{
+    //         return(
+    //           <tbody>
+    //           {info.name === "BACC*" ?
+    //             <tr>
+    //                 <td>
+    //                   <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
+    //                 </td>
+    //                 <td className="courseId">{info.id}</td>
+    //                 <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
+    //                 <td className="courseCredits">{info.credits}</td>
+    //                 <td>
+    //                   <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
+    //                 </td>
+    //             </tr>
+    //             :
+    //             <tr>
+    //               <td>
+    //                 <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
+    //               </td>
+    //               <td className="courseId">{info.id}</td>
+    //               <td className="courseName">{info.name}</td>
+    //               <td className="courseCredits">{info.credits}</td>
+    //               <td>
+    //                 <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*this.coursesPerTermArray[termNum-1] + i}/>
+    //               </td>
+    //               </tr>
+    //           }
+    //           </tbody>
+    //         );
+    //     }
+    // )
     //uses temp array to render a table with temp's html
     return(
       <div>
@@ -478,11 +569,6 @@ class JsonDataDisplay extends React.Component {
   IntoClassObjects(){
     //******* this will have to be conditional based on dropdown selection *****
     var curMajor = this.props.major;
-    console.log("hi")
-    // if(curMajor !== this.state.Major){
-      // this.setState({currentMajor: curMajor})
-    // }
-    // console.log('=== major', curMajor);
     var parsedJSON;
     if (curMajor === 'comp-sci'){
       parsedJSON = require('./../data/Colleges/College of Engineering/Computer Science Undergraduate Major (BA, BS, HBA, HBS).json');
@@ -792,10 +878,7 @@ class JsonDataDisplay extends React.Component {
       console.log('Failed');
     }
     var result = parsedJSON.Courses;
-    // console.log(result.Courses);
-    // console.log(result.length);
-    //------
-    console.log(curMajor)
+
     currentMajor = this.props.major
 
 
@@ -846,6 +929,7 @@ class JsonDataDisplay extends React.Component {
       this.setState({isCheckedArr: []})
     }
     if(currentMajor !== this.props.major && this.state.firstRun !== true){
+      console.log("resetting to true")
       this.setState({firstRun: true})
     }
     return(
