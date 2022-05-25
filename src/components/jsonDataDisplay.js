@@ -353,9 +353,9 @@ class JsonDataDisplay extends React.Component {
 
       let coursesPerTerm = Math.floor(newTable.size / 12)
       let remainderTerms = newTable.size % 12
-      let perTermArray = Array(12).fill(coursesPerTerm)
+      this.coursesPerTermArray = Array(12).fill(coursesPerTerm)
       for(let i =0 ; i < remainderTerms; i++){
-        perTermArray[i]++
+        this.coursesPerTermArray [i]++
       }
       // console.log(coursesPerTerm, remainderTerms, newTable.size, perTermArray)
       // console.log(newTable)
@@ -363,12 +363,13 @@ class JsonDataDisplay extends React.Component {
       for(let i = 0; i < newTable.size; i++){
         newTable.props.getCourse(i).term = termNumber
         count++
-        if(perTermArray[idx] === count){
+        if(this.coursesPerTermArray[idx] === count){
           termNumber += 1
           idx += 1
           count = 0
         }
       }
+      console.log(newTable)
 
       //assigns term values; 4 classes per term based on order they appear in json
       // for(let i=0; i < newTable.size; i++){
@@ -433,7 +434,6 @@ class JsonDataDisplay extends React.Component {
     //   }
     // }
     else{
-      console.log("should not be in here")
       info1 = this.state.previousTest
     }
 
@@ -468,25 +468,25 @@ class JsonDataDisplay extends React.Component {
             {info.name === "BACC*" ?
               <tr>
                   <td>
-                    <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                    <this.ControlledCheckbox id={info.id} deg={info1} idx={info.newIndex}/>
                   </td>
                   <td className="courseId">{info.id}</td>
                   <this.CourseDropdown id={info.id} credits={info.credits} name={info.bacc} idx={info.newIndex}/>
                   <td className="courseCredits">{info.credits}</td>
                   <td>
-                    <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                    <this.BasicModal info={info1} id={temp[i].id} idx={info.newIndex}/>
                   </td>
               </tr>
               :
               <tr>
                 <td>
-                  <this.ControlledCheckbox id={info.id} deg={info1} idx={(termNum-1)*4 + i}/>
+                  <this.ControlledCheckbox id={info.id} deg={info1} idx={info.newIndex}/>
                 </td>
                 <td className="courseId">{info.id}</td>
                 <td className="courseName">{info.name}</td>
                 <td className="courseCredits">{info.credits}</td>
                 <td>
-                  <this.BasicModal info={info1} id={temp[i].id} idx={(termNum-1)*4 + i}/>
+                  <this.BasicModal info={info1} id={temp[i].id} idx={info.newIndex}/>
                 </td>
                 </tr>
             }
