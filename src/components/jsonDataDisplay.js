@@ -929,7 +929,7 @@ class JsonDataDisplay extends React.Component {
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
     //if global major variable changed... then do something
-    if(currentMajor !== this.props.major && this.state.totalProgress !== 0 && this.state.isCheckedArr !== []){
+    if(currentMajor !== this.props.major && this.totalProgress !== 0 && this.state.isCheckedArr !== []){
       console.log(currentMajor, this.props.major)
       // this.setState({totalProgress:0})
       this.totalProgress = 0
