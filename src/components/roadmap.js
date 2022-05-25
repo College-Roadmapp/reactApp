@@ -6,10 +6,8 @@ import Select from '@mui/material/Select';
 import Header from './header';
 import EngineeringCalculator from './tuition/engineeringCalculator'
 import React from 'react';
-import Button from 'react-bootstrap/Button';
-// import 'bootstrap/dist/css/bootstrap.min.css';
 
-
+//combines header and dropdowns
 function Roadmap() {
     return(
         <div>
@@ -19,6 +17,7 @@ function Roadmap() {
     )
 }
 
+//calls dropdowns
 function AppDisplay(){
   return(
       <div className="displayApp" key="appParentDiv">
@@ -29,6 +28,7 @@ function AppDisplay(){
   )
 }
 
+//college and major dropdowns, and calls JsonDataDisplay to create roadmap
 function DropDowns(){
   //---------- variables for college selection -----------
   const collegesJSON = require('./colleges.json');
@@ -53,13 +53,6 @@ function DropDowns(){
   const [major, setMajor] = React.useState('');
   const handleMajorChange = (event) => {
     setMajor(event.target.value);
-  };
-  //---------- variables for option selection -----------
-  const optionsJSON = require('./options.json');
-  var parsedCSOption = optionsJSON.compScienceOptions;
-  const [option, setOption] = React.useState('');
-  const handleOptionChange = (event) => {
-    setOption(event.target.value);
   };
   return (
       <div key="roadmap">
@@ -126,30 +119,6 @@ function DropDowns(){
 
                     </Select>
               </FormControl>
-
-            {/* {major === 'comp-sci' ?
-              <div>
-                <div>
-                  <FormControl sx={{ m: 1, minWidth: 120 }}>
-                    <InputLabel id="demo-simple-select-helper-label">Option</InputLabel>
-                    <Select
-                      labelId="demo-simple-select-helper-label"
-                      id="demo-simple-select-helper"
-                      value={option}
-                      label="Option"
-                      onChange={handleOptionChange}
-                    >
-                      <MenuItem value="">
-                        <em>None</em>
-                      </MenuItem>
-                      {parsedCSOption.map((option) => <MenuItem value={option.value} key={option.label}>{option.label}</MenuItem>)}
-                    </Select>
-                  </FormControl>
-                </div>
-              </div>
-              :
-              <div></div>
-              } */}
           </div>
         </div>
         :

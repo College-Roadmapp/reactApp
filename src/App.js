@@ -2,10 +2,9 @@ import React from 'react';
 import './osu.css';
 import Header from './components/header';
 import warningPic from './components/images/warning.png'
-import Resources from './components/resources';
 import { Link } from "react-router-dom";
-import campusPic from './components/images/campus.jpg'
 
+//renders home page of website
 function AppInfo(){
   return(
   <div>

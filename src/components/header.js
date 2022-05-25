@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 
 
+//renders website header with links to seperate pages
 function Header() {
     return (
     <header className="App-header">

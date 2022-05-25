@@ -142,14 +142,10 @@ class JsonDataDisplay extends React.Component {
       isOpen: false,
       term: 0,
       firstRun: true,
-      // test: null,
       previousTest: null,
       isCheckedArr: [],
       isChecked: false,
-      // totalProgress: 0,
-      // totalCredits: 0,
       totalCoursesTaken: [],
-      // course: "None",
       currentMajor: null,
       baccoreCourses: Array(14).fill("None")
     };

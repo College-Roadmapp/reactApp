@@ -1,6 +1,8 @@
 import React from 'react';
 import Header from './header';
 
+
+//renders resources page
 function Resources(){
     return(
         <body>

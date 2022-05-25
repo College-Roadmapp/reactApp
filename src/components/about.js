@@ -4,9 +4,9 @@ import cadenPic from './images/caden.jpg';
 import isabellePic from './images/isabelle.jpg';
 import weixianPic from './images/weixian.png';
 import treyPic from './images/trey.png';
-import userPic from './images/userIcon.png'
-import { Link } from "react-router-dom";
 
+
+//renders about page
 function About(){
     return(
       <body>
