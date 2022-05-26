@@ -122,7 +122,7 @@
     {
         "code": "WR 407",
         "title": "SEMINAR",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "ART 206",
@@ -172,7 +172,7 @@
     {
         "code": "NMC 399",
         "title": "SPECIAL TOPICS",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "NMC 421",
@@ -207,7 +207,7 @@
     {
         "code": "NMC 499",
         "title": "SPECIAL TOPICS",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "MUS 493",
@@ -252,12 +252,12 @@
     {
         "code": "NMC 409",
         "title": "PRACTICUM 2",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "NMC 410",
         "title": "INTERNSHIP",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "NMC 481",

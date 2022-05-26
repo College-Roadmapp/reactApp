@@ -7,7 +7,7 @@
     {
         "code": "REL 407",
         "title": "^SEMINAR",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "REL 206/PHL 206",
@@ -57,7 +57,7 @@
     {
         "code": "REL 199",
         "title": "SPECIAL TOPICS",
-        "credits": "1-4"
+        "credits": "4"
     },
     {
         "code": "REL 201/PAX 201",
@@ -67,7 +67,7 @@
     {
         "code": "REL 299",
         "title": "SPECIAL TOPICS",
-        "credits": "1-4"
+        "credits": "4"
     },
     {
         "code": "REL 310/PHL 310",
@@ -157,17 +157,17 @@
     {
         "code": "REL 399",
         "title": "SPECIAL TOPICS",
-        "credits": "1-4"
+        "credits": "4"
     },
     {
         "code": "REL 402",
         "title": "INDEPENDENT STUDY",
-        "credits": "1-12"
+        "credits": "4"
     },
     {
         "code": "REL 405",
         "title": "READING AND CONFERENCE",
-        "credits": "1-4"
+        "credits": "4"
     },
     {
         "code": "REL 411/PHL 411",
@@ -177,7 +177,7 @@
     {
         "code": "REL 415",
         "title": "SELECTED TOPICS",
-        "credits": "1-4"
+        "credits": "4"
     },
     {
         "code": "REL 425/HST 425",
