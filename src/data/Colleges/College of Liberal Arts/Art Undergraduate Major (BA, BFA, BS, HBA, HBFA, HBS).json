@@ -13,5 +13,85 @@
         "code": "ART 131",
         "title": "DRAWING CORE STUDIO",
         "credits": "4"
+    },
+    {
+        "code": "ART 204",
+        "title": "*INTRODUCTION TO WESTERN ART: PREHISTORY TO HIGH MIDDLE AGES(*)",
+        "credits": "3"
+    },
+    {
+        "code": "ART 205",
+        "title": "*INTRODUCTION TO WESTERN ART: GOTHIC TO BAROQUE(*)",
+        "credits": "3"
+    },
+    {
+        "code": "ART 206",
+        "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY(*)",
+        "credits": "3"
+    },
+    {
+        "code": "ART 208",
+        "title": "*INTRODUCTION TO ASIAN ART(*)",
+        "credits": "3"
+    },
+    {
+        "code": "ART 222",
+        "title": "INTRODUCTION TO TIME-BASED ART(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 263",
+        "title": "DIGITAL PHOTOGRAPHY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 340",
+        "title": "DARKROOM PHOTOGRAPHY I(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 345",
+        "title": "INTERMEDIATE PHOTOGRAPHY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 347",
+        "title": "PHOTOGRAPH: STUDIO LIGHTING(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 456",
+        "title": "PORTFOLIO-PHOTOGRAPHY/VIDEO ART(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 339",
+        "title": "PROFESSIONAL PRACTICES FOR ARTISTS(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 341",
+        "title": "DARKROOM PHOTOGRAPHY II(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 348",
+        "title": "CONCEPTS IN DIGITAL IMAGING(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 349/NMC 349",
+        "title": "VIDEO ART(*)",
+        "credits": "8"
+    },
+    {
+        "code": "ART 446",
+        "title": "DOCUMENTARY PHOTOGRAPHY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ART 447",
+        "title": "ADVANCED STUDIO LIGHTING(*)",
+        "credits": "4"
     }
 ]}

@@ -63,5 +63,30 @@
         "code": "MUS 442",
         "title": "GENRE STUDIES",
         "credits": "3"
+    },
+    {
+        "code": "MUS 403",
+        "title": "THESIS(*)",
+        "credits": "3"
+    },
+    {
+        "code": "MUS 443",
+        "title": "THEORY AND COMPOSITION STUDIES(*)",
+        "credits": "9"
+    },
+    {
+        "code": "MUS 493",
+        "title": "BASIC RECORDING TECHNIQUES(*)",
+        "credits": "3"
+    },
+    {
+        "code": "MUS 494",
+        "title": "INTERMEDIATE RECORDING TECHNIQUES(*)",
+        "credits": "3"
+    },
+    {
+        "code": "MUS 495",
+        "title": "ADVANCED RECORDING TECHNIQUES(*)",
+        "credits": "3"
     }
 ]}

@@ -37,7 +37,7 @@
     {
         "code": "AMS 406",
         "title": "PROJECTS",
-        "credits": "1-16"
+        "credits": "2"
     },
     {
         "code": "HST 201",
@@ -52,6 +52,36 @@
     {
         "code": "HST 203",
         "title": "*HISTORY OF THE UNITED STATES",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 416",
+        "title": "POWER AND REPRESENTATION(*)",
+        "credits": "4"
+    },
+    {
+        "code": "PS 322",
+        "title": "*CONSTITUTIONAL LAW: CIVIL RIGHTS AND LIBERTIES(*)",
+        "credits": "4"
+    },
+    {
+        "code": "PS 362",
+        "title": "MODERN POLITICAL THOUGHT(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ENG 240",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL LITERATURE(*)",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 309",
+        "title": "*ENVIRONMENTAL JUSTICE(*)",
+        "credits": "3"
+    },
+    {
+        "code": "PS 475",
+        "title": "ENVIRONMENTAL POLITICS AND POLICY(*)",
         "credits": "4"
     }
 ]}

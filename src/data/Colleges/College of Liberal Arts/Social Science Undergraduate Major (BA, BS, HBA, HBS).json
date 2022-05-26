@@ -28,5 +28,35 @@
         "code": "SUS 420",
         "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY",
         "credits": "3"
+    },
+    {
+        "code": "SOC 439",
+        "title": "WELFARE AND SOCIAL SERVICES(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 430",
+        "title": "GENDER AND SOCIETY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "WR 462",
+        "title": "^ENVIRONMENTAL WRITING(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 448",
+        "title": "LAW AND SOCIETY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "PS 362",
+        "title": "MODERN POLITICAL THOUGHT(*)",
+        "credits": "4"
     }
 ]}

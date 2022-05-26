@@ -18,5 +18,45 @@
         "code": "SOC 413",
         "title": "SOCIOLOGICAL THEORY",
         "credits": "4"
+    },
+    {
+        "code": "SOC 340",
+        "title": "DEVIANT BEHAVIOR AND SOCIAL CONTROL(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 440",
+        "title": "JUVENILE DELINQUENCY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 441",
+        "title": "CRIMINOLOGY AND PENOLOGY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 449",
+        "title": "LAW, CRIME, AND POLICY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 480",
+        "title": "*ENVIRONMENTAL SOCIOLOGY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 481",
+        "title": "*SOCIETY AND NATURAL RESOURCES(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 475",
+        "title": "RURAL SOCIOLOGY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "SOC 410",
+        "title": "INTERNSHIP(*)",
+        "credits": "4"
     }
 ]}

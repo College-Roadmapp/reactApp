@@ -33,5 +33,45 @@
         "code": "SPAN 438",
         "title": "^SELECTED TOPICS IN LUSO-HISPANIC CULTURE 1",
         "credits": "3"
+    },
+    {
+        "code": "SPAN 320",
+        "title": "SPANISH CONVERSATION(*)",
+        "credits": "3"
+    },
+    {
+        "code": "SPAN 327",
+        "title": "MEXICAN-AMERICAN LITERATURE AND COMPOSITION FOR SPANISH HERITAGE LANGUAGE LEARNERS(*)",
+        "credits": "3"
+    },
+    {
+        "code": "SPAN 350",
+        "title": "PHONETICS AND PRONUNCIATION(*)",
+        "credits": "3"
+    },
+    {
+        "code": "SPAN 351",
+        "title": "HISPANIC LINGUISTICS(*)",
+        "credits": "3"
+    },
+    {
+        "code": "SPAN 355",
+        "title": "INTRODUCTION TO SPANISH TRANSLATION(*)",
+        "credits": "3"
+    },
+    {
+        "code": "SPAN 379",
+        "title": "PROCTOR EXPERIENCE(*)",
+        "credits": "1"
+    },
+    {
+        "code": "SPAN 411",
+        "title": "SPECIALIZED GRAMMAR OR LINGUISTICS TOPICS(*)",
+        "credits": "3"
+    },
+    {
+        "code": "SPAN 412",
+        "title": "ADVANCED COMPOSITION(*)",
+        "credits": "3"
     }
 ]}

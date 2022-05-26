@@ -35,8 +35,33 @@
         "credits": "4"
     },
     {
-        "code": "ANTH 475",
-        "title": "ANTHROPOLOGY IN PRACTICE",
+        "code": "ANTH 332",
+        "title": "ARCHAEOLOGICAL INFERENCE(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 435",
+        "title": "CULTURAL RESOURCES: POLICY AND PROCEDURES(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 438",
+        "title": "ARCHAEOLOGY FIELD SCHOOL(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 371",
+        "title": "RESEARCH METHODS IN CULTURAL ANTHROPOLOGY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 374",
+        "title": "*ANTHROPOLOGY AND GLOBAL HEALTH(*)",
+        "credits": "4"
+    },
+    {
+        "code": "ANTH 383",
+        "title": "*INTRODUCTION TO MEDICAL ANTHROPOLOGY(*)",
         "credits": "4"
     }
 ]}

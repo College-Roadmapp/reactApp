@@ -28,5 +28,25 @@
         "code": "GER 413",
         "title": "FOURTH-YEAR GERMAN",
         "credits": "4"
+    },
+    {
+        "code": "GER 361",
+        "title": "CRITICAL ISSUES OF GERMAN CINEMA(*)",
+        "credits": "3"
+    },
+    {
+        "code": "GER 362",
+        "title": "DIVIDED SCREEN: GERMAN CINEMA BETWEEN 1945 AND 1990(*)",
+        "credits": "3"
+    },
+    {
+        "code": "GER 363",
+        "title": "CONTEMPORARY GERMAN CINEMA(*)",
+        "credits": "3"
+    },
+    {
+        "code": "GER 379",
+        "title": "PROCTOR EXPERIENCE(*)",
+        "credits": "2"
     }
 ]}

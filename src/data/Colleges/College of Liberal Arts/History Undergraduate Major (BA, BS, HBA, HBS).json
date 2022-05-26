@@ -58,5 +58,25 @@
         "code": "HST 407",
         "title": "^SEMINAR 2,3",
         "credits": "5"
+    },
+    {
+        "code": "HST 425",
+        "title": "*THE HOLOCAUST IN ITS HISTORY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "HST 425H",
+        "title": "*THE HOLOCAUST IN ITS HISTORY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "HST 426",
+        "title": "WORLD WAR I: A GLOBAL HISTORY(*)",
+        "credits": "4"
+    },
+    {
+        "code": "HST 427",
+        "title": "TEACHING THE HOLOCAUST(*)",
+        "credits": "4"
     }
 ]}
