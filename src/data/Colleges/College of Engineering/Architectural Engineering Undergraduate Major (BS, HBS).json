@@ -2,47 +2,42 @@
     "Courses": [
         {
             "code": "ART 210",
-            "title": "*HISTORY OF WESTERN ARCHITECTURE",
+            "title": "HISTORY OF WESTERN ARCHITECTURE",
             "credits": "3"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING",
             "credits": "3"
         },
         {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS",
             "credits":  "4"
         },
         {
             "code": "PHL 205",
-            "title": "*ETHICS",
+            "title": "ETHICS",
             "credits":  "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits":  "4"
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits":  "4"
         },
         {
@@ -77,12 +72,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits":  "4"
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits":  "4"
         },
         {
@@ -227,57 +222,22 @@
         },
         {
             "code": "ARE 418",
-            "title": "^ARCHITECTURAL ENGINEERING PROFESSIONAL PRACTICE (Capstone)",
+            "title": "ARCHITECTURAL ENGINEERING PROFESSIONAL PRACTICE (Capstone)",
             "credits":  "4"
         },
         {
             "code": "ARE 419",
-            "title": "^ARCHITECTURAL ENGINEERING DESIGN (Capstone)",
+            "title": "ARCHITECTURAL ENGINEERING DESIGN (Capstone)",
             "credits": "3"
         },
         {
             "code": "CE 482",
-            "title": "MASONRY DESIGN",
+            "title": "MASONRY DESIGN*",
             "credits": "3"
         },
         {
             "code": "CE 427",
-            "title": "TEMPORARY CONSTRUCTION STRUCTURES",
-            "credits":  "4"
-        },
-        {
-            "code": "CE 373",
-            "title": "GEOTECHNICAL ENGINEERING II",
-            "credits":  "4"
-        },
-        {
-            "code": "CE 580",
-            "title": "SELECTED TOPICS IN STRUCTURAL DESIGN",
-            "credits": "3"
-        },
-        {
-            "code": "WSE 592",
-            "title": "ADVANCED WOOD DESIGN",
-            "credits":  "4"
-        },
-        {
-            "code": "CE 424",
-            "title": "CONTRACTS AND SPECIFICATIONS",
-            "credits":  "4"
-        },
-        {
-            "code": "CEM 431",
-            "title": "OBTAINING CONSTRUCTION CONTRACTS",
-            "credits":  "4"
-        },
-        {
-            "code": "CEM 443",
-            "title": "^PROJECT MANAGEMENT FOR CONSTRUCTION",
-            "credits":  "4"
-        },
-        {
-            "code": "CE 594",
-            "title": "TRANSPORT FACILITY DESIGN",
+            "title": "TEMPORARY CONSTRUCTION STRUCTURES*",
             "credits":  "4"
         }
     ]

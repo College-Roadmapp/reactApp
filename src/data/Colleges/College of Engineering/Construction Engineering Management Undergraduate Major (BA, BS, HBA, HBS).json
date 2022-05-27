@@ -2,37 +2,22 @@
     "Courses": [
         {
             "code": "CH 201",
-            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS*",
             "credits": "3"
-        },
-        {
-            "code": "CH 231",
-            "title": "GENERAL CHEMISTRY",
-            "credits": "4"
-        },
-        {
-            "code": "CH 261",
-            "title": "*LABORATORY FOR CHEMISTRY 231",
-            "credits": "1"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS",
             "credits": "4"
         },
         {
             "code": "ECON 202",
-            "title": "*INTRODUCTION TO MACROECONOMICS",
+            "title": "INTRODUCTION TO MACROECONOMICS",
             "credits": "4"
         },
         {
@@ -52,12 +37,12 @@
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -67,12 +52,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -81,7 +66,7 @@
             "credits": "4"
         },
         {
-            "code": "BA330",
+            "code": "BA 330",
             "title": "LEGAL ENVIRONMENT OF BUSINESS",
             "credits": "4"
         },
@@ -122,12 +107,12 @@
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PHL 205",
-            "title": "*ETHICS",
+            "title": "ETHICS",
             "credits": "4"
         },
         {
@@ -137,7 +122,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -192,12 +177,7 @@
         },
         {
             "code": "FE 315",
-            "title": "SOIL ENGINEERING",
-            "credits": "4"
-        },
-        {
-            "code": "CE 372",
-            "title": "GEOTECHNICAL ENGINEERING I",
+            "title": "SOIL ENGINEERING*",
             "credits": "4"
         },
         {
@@ -227,13 +207,8 @@
         },
         {
             "code": "CEM 431",
-            "title": "OBTAINING CONSTRUCTION CONTRACTS",
+            "title": "OBTAINING CONSTRUCTION CONTRACTS*",
             "credits": "4"
-        },
-        {
-            "code": "CEM 432",
-            "title": "CONSTRUCTION PROJECT PLANNING",
-            "credits": "3"
         },
         {
             "code": "CEM 443",
@@ -243,6 +218,16 @@
         {
             "code": "MGMT 453",
             "title": "HUMAN RESOURCES MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "UPPER-DIVISION BUSINESS ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "UPPER-DIVISION ENGINEERING ELECTIVE*",
             "credits": "4"
         }
     ]

@@ -32,7 +32,7 @@
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -47,17 +47,17 @@
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
+            "title": "PUBLIC SPEAKING",
             "credits": "4"
         },
         {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS",
             "credits": "4"
         },
         {
@@ -107,22 +107,22 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -152,12 +152,12 @@
         },
         {
             "code": "ESC 497",
-            "title": "^MIME CAPSTONE DESIGN",
+            "title": "MIME CAPSTONE DESIGN",
             "credits": "4"
         },
         {
             "code": "ESC 498",
-            "title": "^MIME CAPSTONE DESIGN",
+            "title": "MIME CAPSTONE DESIGN",
             "credits": "4"
         },
         {
@@ -177,82 +177,47 @@
         },
         {
             "code": "CS 261",
-            "title": "DATA STRUCTURES",
-            "credits": "4"
-        },
-        {
-            "code": "CS 290",
-            "title": "WEB DEVELOPMENT",
+            "title": "DATA STRUCTURES*",
             "credits": "4"
         },
         {
             "code": "CS 325",
-            "title": "ANALYSIS OF ALGORITHMS",
-            "credits": "4"
-        },
-        {
-            "code": "CS 340",
-            "title": "INTRODUCTION TO DATABASES",
+            "title": "ANALYSIS OF ALGORITHMS*",
             "credits": "4"
         },
         {
             "code": "CS 434",
-            "title": "MACHINE LEARNING AND DATA MINING",
+            "title": "MACHINE LEARNING AND DATA MINING*",
             "credits": "4"
         },
         {
             "code": "ECE 322",
-            "title": "ELECTRONICS I",
+            "title": "ELECTRONICS I*",
             "credits": "3"
         },
         {
-            "code": "ESE 355",
-            "title": "ENERGY REGULATION",
-            "credits": "4"
-        },
-        {
             "code": "ESE 430",
-            "title": "FEEDBACK CONTROL SYSTEMS",
-            "credits": "4"
-        },
-        {
-            "code": "ESE 450",
-            "title": "ENERGY GENERATION SYSTEMS",
-            "credits": "4"
-        },
-        {
-            "code": "ESE 470",
-            "title": "ENERGY DISTRIBUTION SYSTEMS",
-            "credits": "4"
-        },
-        {
-            "code": "ESE 471",
-            "title": "ENERGY STORAGE SYSTEMS",
-            "credits": "4"
-        },
-        {
-            "code": "ESE 499",
-            "title": "SPECIAL TOPICS",
-            "credits": "4"
-        },
-        {
-            "code": "ME 331",
-            "title": "INTRODUCTORY FLUID MECHANICS",
+            "title": "FEEDBACK CONTROL SYSTEMS*",
             "credits": "4"
         },
         {
             "code": "MTH 231",
-            "title": "ELEMENTS OF DISCRETE MATHEMATICS",
-            "credits": "4"
-        },
-        {
-            "code": "IE 415",
-            "title": "SIMULATION AND DECISION SUPPORT SYSTEMS",
+            "title": "ELEMENTS OF DISCRETE MATHEMATICS*",
             "credits": "4"
         },
         {
             "code": "IE 425",
-            "title": "INDUSTRIAL SYSTEMS OPTIMIZATION",
+            "title": "INDUSTRIAL SYSTEMS OPTIMIZATION*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "GENERAL ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "GENERAL ELECTIVE*",
             "credits": "4"
         }
     ]

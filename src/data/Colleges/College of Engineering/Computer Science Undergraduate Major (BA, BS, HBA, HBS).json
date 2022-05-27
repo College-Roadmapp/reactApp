@@ -52,7 +52,7 @@
         },
         {
             "code": "CS 391",
-            "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+            "title": "SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
             "credits": "3"
         },
         {
@@ -62,12 +62,12 @@
         },
         {
             "code": "CS 461",
-            "title": "^SENIOR SOFTWARE ENGINEERING PROJECT I",
+            "title": "SENIOR SOFTWARE ENGINEERING PROJECT I",
             "credits": "3"
         },
         {
             "code": "CS 462",
-            "title": "^SENIOR SOFTWARE ENGINEERING PROJECT II",
+            "title": "SENIOR SOFTWARE ENGINEERING PROJECT II",
             "credits": "3"
         },
         {
@@ -97,7 +97,7 @@
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -112,7 +112,72 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
+            "credits": "3"
+        },
+        {
+            "code": "WR 214",
+            "title": "WRITING IN BUSINESS*",
+            "credits": "3"
+        },
+        {
+            "code": "WR 121",
+            "title": "ENGLISH COMPOSITION",
+            "credits": "4"
+        },
+        {
+            "code": "CS 321",
+            "title": "INTRODUCTION TO THEORY OF COMPUTATION*",
+            "credits": "3"
+        },
+        {
+            "code": "CS 370",
+            "title": "INTRODUCTION TO SECURITY*",
+            "credits": "4"
+        },
+        {
+            "code": "CS 472",
+            "title": "COMPUTER ARCHITECTURE*",
+            "credits": "4"
+        },
+        {
+            "code": "CS 480",
+            "title": "TRANSLATORS*",
+            "credits": "4"
+        },
+        {
+            "code": "ECE 271",
+            "title": "DIGITAL LOGIC DESIGN*",
+            "credits": "2"
+        },
+        {
+            "code": "ECE 272",
+            "title": "DIGITAL LOGIC DESIGN*",
+            "credits": "1"
+        },
+        {
+            "code": "ECE 375",
+            "title": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING*",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 254",
+            "title": "VECTOR CALCULUS 1*",
+            "credits": "4"
+        },
+        {
+            "code": "MTH 264",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA*",
+            "credits": "2"
+        },
+        {
+            "code": "MTH 265",
+            "title": "INTRODUCTION TO SERIES*",
+            "credits": "2"
+        },
+        {
+            "code": "COMM 111",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         }
     ]
