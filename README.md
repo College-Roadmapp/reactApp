@@ -10,10 +10,10 @@ We hope this project will support students in overcoming these roadblocks and ad
 
 # App Features
 
-*[talk about the features here]
-*feature1
-*feature2
-*and so on...
+* [talk about the features here]
+* feature1
+* feature2
+* and so on...
 
 # Packages Installed:
 
