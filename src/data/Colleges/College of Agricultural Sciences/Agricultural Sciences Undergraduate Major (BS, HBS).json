@@ -25,16 +25,6 @@
         "credits": "1"
     },
     {
-        "code": "CSS 205",
-        "title": "*SOIL SCIENCE (Ecampus)",
-        "credits": "4"
-    },
-    {
-        "code": "CSS 305",
-        "title": "PRINCIPLES OF SOIL SCIENCE (EOU)",
-        "credits": "4"
-    },
-    {
         "code": "AED 235",
         "title": "INTRODUCTION TO AGRICULTURAL EDUCATION",
         "credits": "2"
@@ -52,7 +42,7 @@
     {
         "code": "AG 199",
         "title": "SPECIAL STUDIES (Orientation to Agricultural Sciences Major)",
-        "credits": "1-16"
+        "credits": "4"
     },
     {
         "code": "AG 200",
@@ -100,11 +90,6 @@
         "credits": "3"
     },
     {
-        "code": "AG 410",
-        "title": "INTERNSHIP",
-        "credits": "1-16"
-    },
-    {
         "code": "AG 412",
         "title": "AG SAFETY AND HEALTH",
         "credits": "3"
@@ -132,26 +117,11 @@
     {
         "code": "AG 499",
         "title": "SPECIAL TOPICS",
-        "credits": "1-4"
-    },
-    {
-        "code": "AGRI 399",
-        "title": "SPECIAL TOPICS (Navigating Global Experiences)",
-        "credits": "1-4"
+        "credits": "4"
     },
     {
         "code": "AEC 253",
         "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
-        "credits": "4"
-    },
-    {
-        "code": "AEC 388",
-        "title": "AGRICULTURAL LAW",
-        "credits": "4"
-    },
-    {
-        "code": "BA 330",
-        "title": "LEGAL ENVIRONMENT OF BUSINESS",
         "credits": "4"
     },
     {
@@ -160,44 +130,14 @@
         "credits": "4"
     },
     {
-        "code": "ST 201",
-        "title": "PRINCIPLES OF STATISTICS",
-        "credits": "4"
-    },
-    {
         "code": "AG 351",
         "title": "*COMMUNICATING GLOBAL AGRICULTURE & NATURAL RESOURCES ISSUES",
-        "credits": "3"
-    },
-    {
-        "code": "AG 435",
-        "title": "PROFESSIONAL PRESENTATIONS IN AGRICULTURE",
-        "credits": "3"
-    },
-    {
-        "code": "AG 445",
-        "title": "SOCIAL MEDIA ADVOCACY IN AG SCIENCES & NATURAL RESOURCES",
-        "credits": "3"
-    },
-    {
-        "code": "AG 455",
-        "title": "*RISK & CRISIS COMMUNICATIONS IN AG SCI & NATURAL RESOURCES",
         "credits": "3"
     },
     {
         "code": "AEC 250",
         "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
         "credits": "3"
-    },
-    {
-        "code": "AEC 251",
-        "title": "*INTRODUCTION TO AGRICULTURAL AND FOOD ECONOMICS",
-        "credits": "3"
-    },
-    {
-        "code": "ECON 201",
-        "title": "*INTRODUCTION TO MICROECONOMICS",
-        "credits": "4"
     },
     {
         "code": "CH 121",
@@ -225,63 +165,8 @@
         "credits": "4"
     },
     {
-        "code": "BI 101",
-        "title": "*ENVIRONMENTAL BIOLOGY: ECOLOGY, CONSERVATION, GLOBAL CHANGE",
-        "credits": "4"
-    },
-    {
-        "code": "BI 102",
-        "title": "*ANIMAL BIOLOGY: GENES, BEHAVIOR AND EVOLUTION OF LIFE",
-        "credits": "4"
-    },
-    {
-        "code": "BI 103",
-        "title": "*HUMAN BIOLOGY: ANATOMY, PHYSIOLOGY AND DISEASE",
-        "credits": "4"
-    },
-    {
-        "code": "BI 204",
-        "title": "*INTRODUCTORY BIOLOGY I",
-        "credits": "4"
-    },
-    {
-        "code": "BI 205",
-        "title": "*INTRODUCTORY BIOLOGY II",
-        "credits": "4"
-    },
-    {
-        "code": "BI 206",
-        "title": "*INTRODUCTORY BIOLOGY III",
-        "credits": "4"
-    },
-    {
         "code": "AG 230",
         "title": "INTRODUCTION TO EXTENSION AND ENGAGEMENT",
         "credits": "3"
-    },
-    {
-        "code": "LEAD 242",
-        "title": "PERSONAL LEADERSHIP DEVELOPMENT",
-        "credits": "3"
-    },
-    {
-        "code": "LEAD 342",
-        "title": "*TEAM AND ORGANIZATIONAL LEADERSHIP",
-        "credits": "3"
-    },
-    {
-        "code": "LEAD 442",
-        "title": "LEADERSHIP SKILLS FOR CAREER SUCCESS",
-        "credits": "3"
-    },
-    {
-        "code": "LEAD 443",
-        "title": "LEADERSHIP THROUGH CONVERSATIONS",
-        "credits": "3"
-    },
-    {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
     }
 ]}

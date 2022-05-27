@@ -1,37 +1,7 @@
 {"Courses":[
     {
-        "code": "HHS 231",
-        "title": "*LIFETIME FITNESS FOR HEALTH",
-        "credits": "2"
-    },
-    {
-        "code": "HHS 241",
-        "title": "*LIFETIME FITNESS (or any PAC course)",
-        "credits": "1"
-    },
-    {
-        "code": "WR 121",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "4"
-    },
-    {
         "code": "BB 314",
         "title": "CELL AND MOLECULAR BIOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
         "credits": "4"
     },
     {
@@ -55,16 +25,6 @@
         "credits": "4"
     },
     {
-        "code": "PBG 430",
-        "title": "PLANT GENETICS",
-        "credits": "3"
-    },
-    {
-        "code": "PBG 431",
-        "title": "PLANT GENETICS RECITATION",
-        "credits": "1"
-    },
-    {
         "code": "CH 121",
         "title": "GENERAL CHEMISTRY",
         "credits": "5"
@@ -78,36 +38,6 @@
         "code": "CH 123",
         "title": "*GENERAL CHEMISTRY",
         "credits": "5"
-    },
-    {
-        "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
-        "credits": "1"
-    },
-    {
-        "code": "CH 232",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
-        "credits": "1"
-    },
-    {
-        "code": "CH 233",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
-        "credits": "1"
     },
     {
         "code": "CH 331",
@@ -125,31 +55,6 @@
         "credits": "4"
     },
     {
-        "code": "BB 450",
-        "title": "GENERAL BIOCHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "BB 451",
-        "title": "GENERAL BIOCHEMISTRY",
-        "credits": "3"
-    },
-    {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 112",
-        "title": "*ELEMENTARY FUNCTIONS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 231",
-        "title": "ELEMENTS OF DISCRETE MATHEMATICS",
-        "credits": "4"
-    },
-    {
         "code": "MTH 241",
         "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
         "credits": "4"
@@ -157,16 +62,6 @@
     {
         "code": "MTH 245",
         "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
         "credits": "4"
     },
     {

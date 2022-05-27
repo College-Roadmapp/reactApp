@@ -1,20 +1,5 @@
 {"Courses":[
     {
-        "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
-        "credits": "4"
-    },
-    {
         "code": "BI 204",
         "title": "*INTRODUCTORY BIOLOGY I",
         "credits": "4"
@@ -45,46 +30,6 @@
         "credits": "5"
     },
     {
-        "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
-        "credits": "1"
-    },
-    {
-        "code": "CH 232",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
-        "credits": "1"
-    },
-    {
-        "code": "CH 233",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
-        "credits": "1"
-    },
-    {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 112",
-        "title": "*ELEMENTARY FUNCTIONS",
-        "credits": "4"
-    },
-    {
         "code": "MTH 241",
         "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
         "credits": "4"
@@ -110,16 +55,6 @@
         "credits": "3"
     },
     {
-        "code": "SOIL 205",
-        "title": "SOIL SCIENCE",
-        "credits": "3"
-    },
-    {
-        "code": "SOIL 206",
-        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
-        "credits": "1"
-    },
-    {
         "code": "CSS 205",
         "title": "*SOIL SCIENCE",
         "credits": "4"
@@ -136,39 +71,9 @@
 
     },
     {
-        "code": "CROP 401",
-        "title": "RESEARCH",
-        "credits": "1-16"
-    },
-    {
-        "code": "CROP 403",
-        "title": "THESIS",
-        "credits": "1-16"
-    },
-    {
-        "code": "CROP 410",
-        "title": "INTERNSHIP",
-        "credits": "1-6"
-    },
-    {
-        "code": "SOIL 401",
-        "title": "RESEARCH",
-        "credits": "1-16"
-    },
-    {
-        "code": "SOIL 403",
-        "title": "THESIS",
-        "credits": "1-16"
-    },
-    {
-        "code": "SOIL 408",
-        "title": "WORKSHOP",
-        "credits": "1-16"
-    },
-    {
         "code": "SOIL 410",
         "title": "INTERNSHIP",
-        "credits": "1-6"
+        "credits": "4"
     },
     {
         "code": "BI 370",

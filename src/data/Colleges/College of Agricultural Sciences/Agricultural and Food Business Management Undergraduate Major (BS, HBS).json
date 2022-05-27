@@ -40,6 +40,26 @@
         "credits": "4"
     },
     {
+        "code": "AEC 313",
+        "title": "INTERMEDIATE APPLIED ECONOMICS II: MARKETS, WELFARE, & POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 351",
+        "title": "NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 352",
+        "title": "ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 432",
+        "title": "ENVIRONMENTAL LAW",
+        "credits": "4"
+    },
+    {
         "code": "AEC 442",
         "title": "AGRICULTURAL BUSINESS MANAGEMENT",
         "credits": "4"
@@ -65,11 +85,6 @@
         "credits": "1-16"
     },
     {
-        "code": "AEC 410",
-        "title": "INTERNSHIP",
-        "credits": "1-6"
-    },
-    {
         "code": "BA 211",
         "title": "FINANCIAL ACCOUNTING +",
         "credits": "4"
@@ -90,79 +105,14 @@
         "credits": "4"
     },
     {
-        "code": "BA 347",
-        "title": "INTERNATIONAL BUSINESS",
-        "credits": "4"
-    },
-    {
         "code": "BA 351",
         "title": "MANAGING ORGANIZATIONS",
-        "credits": "4"
-    },
-    {
-        "code": "BA 352",
-        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
-        "credits": "4"
-    },
-    {
-        "code": "BA 357",
-        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
-        "credits": "4"
-    },
-    {
-        "code": "BA 360",
-        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
-        "credits": "4"
-    },
-    {
-        "code": "BA 390",
-        "title": "PRINCIPLES OF MARKETING",
-        "credits": "4"
-    },
-    {
-        "code": "BA 463",
-        "title": "FAMILY ENTERPRISE GOVERNANCE",
-        "credits": "4"
-    },
-    {
-        "code": "FIN 441",
-        "title": "FINANCIAL INSTITUTIONS",
-        "credits": "4"
-    },
-    {
-        "code": "MRKT 492",
-        "title": "CONSUMER BEHAVIOR",
-        "credits": "4"
-    },
-    {
-        "code": "MRKT 493",
-        "title": "INTEGRATED MARKETING COMMUNICATIONS",
-        "credits": "4"
-    },
-    {
-        "code": "MRKT 495",
-        "title": "RETAIL MANAGEMENT",
-        "credits": "4"
-    },
-    {
-        "code": "MRKT 497",
-        "title": "GLOBAL MARKETING",
         "credits": "4"
     },
     {
         "code": "AG 111",
         "title": "INFORMATION TECHNOLOGY IN AGRICULTURE",
         "credits": "3"
-    },
-    {
-        "code": "CS 101",
-        "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
     },
     {
         "code": "MTH 241",
@@ -185,54 +135,14 @@
         "credits": "4"
     },
     {
-        "code": "ECON 424",
-        "title": "INTRODUCTION TO ECONOMETRICS",
-        "credits": "4"
-    },
-    {
-        "code": "ST 352",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
-        "credits": "4"
-    },
-    {
         "code": "WR 323",
         "title": "*ENGLISH COMPOSITION",
         "credits": "3"
     },
     {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
-    },
-    {
-        "code": "WR 121",
-        "title": "*ENGLISH COMPOSITION +",
-        "credits": "4"
-    },
-    {
         "code": "WR 214",
         "title": "*WRITING IN BUSINESS",
         "credits": "3"
-    },
-    {
-        "code": "WR 222",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
-    },
-    {
-        "code": "HHS 231",
-        "title": "*LIFETIME FITNESS FOR HEALTH",
-        "credits": "2"
     },
     {
         "code": "HHS 241",

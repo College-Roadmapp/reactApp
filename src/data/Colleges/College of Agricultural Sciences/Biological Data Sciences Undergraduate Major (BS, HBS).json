@@ -1,20 +1,5 @@
 {"Courses":[
     {
-        "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
-        "credits": "4"
-    },
-    {
         "code": "BI 204",
         "title": "*INTRODUCTORY BIOLOGY I",
         "credits": "4"
@@ -33,6 +18,11 @@
         "code": "BI 311",
         "title": "GENETICS",
         "credits": "4"
+    },
+    {
+        "code": "BI 370",
+        "title": "ECOLOGY",
+        "credits": "3"
     },
     {
         "code": "BI 445",
@@ -70,8 +60,18 @@
         "credits": "4"
     },
     {
+        "code": "MTH 256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS",
+        "credits": "4"
+    },
+    {
         "code": "MTH 341",
         "title": "LINEAR ALGEBRA I",
+        "credits": "3"
+    },
+    {
+        "code": "MTH 420",
+        "title": "MODELS AND METHODS OF APPLIED MATHEMATICS",
         "credits": "3"
     },
     {
@@ -115,9 +115,49 @@
         "credits": "3"
     },
     {
+        "code": "BI 351",
+        "title": "MARINE ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "FES 341",
+        "title": "FOREST ECOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "CSS 205",
+        "title": "SOIL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 341",
+        "title": "PLANT ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 442",
+        "title": "PLANT POPULATION ECOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BOT 458",
+        "title": "MOLECULAR ECOLOGY",
+        "credits": "3"
+    },
+    {
         "code": "BDS 406",
         "title": "SPECIAL PROJECTS",
-        "credits": "1-99"
+        "credits": "2"
+    },
+    {
+        "code": "FE 209",
+        "title": "FOREST PHOTOGRAMMETRY AND REMOTE SENSING",
+        "credits": "4"
+    },
+    {
+        "code": "FE 303",
+        "title": "SURVEY OF GEOGRAPHIC INFORMATION SYSTEMS IN NATURAL RESOURCE",
+        "credits": "4"
     },
     {
         "code": "BDS 411",
