@@ -1,342 +1,177 @@
 {"Courses":[
     {
         "code": "MTH 112",
-        "title": "*ELEMENTARY FUNCTIONS",
+        "title": "ELEMENTARY FUNCTIONS ",
         "credits": "4"
     },
     {
         "code": "ST 351",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "title": "INTRODUCTION TO STATISTICAL METHODS ",
         "credits": "4"
     },
     {
         "code": "ST 352",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "title": "INTRODUCTION TO STATISTICAL METHODS ",
         "credits": "4"
     },
     {
         "code": "GEOG 102",
-        "title": "*PHYSICAL GEOGRAPHY",
-        "credits": "4"
-    },
-    {
-        "code": "GEO 202",
-        "title": "*EARTH SYSTEMS SCIENCE",
+        "title": "PHYSICAL GEOGRAPHY*",
         "credits": "4"
     },
     {
         "code": "GEOG 323",
-        "title": "^CLIMATOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 324",
-        "title": "^ECOLOGICAL BIOGEOGRAPHY",
+        "title": "CLIMATOLOGY*",
         "credits": "4"
     },
     {
         "code": "GEOG 103",
-        "title": "*THE HUMAN PLANET",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 100",
-        "title": "*CLIMATE JUSTICE",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 203",
-        "title": "*HUMAN-ENVIRONMENT GEOGRAPHY",
+        "title": "THE HUMAN PLANET*",
         "credits": "3"
     },
     {
         "code": "GEOG 105",
-        "title": "*PEOPLE, PLACES, AND PERSPECTIVES IN THE GLOBAL SOUTH",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 106",
-        "title": "*WESTERN TRADITION & EMERGING CHALLENGES IN THE GLOBAL NORTH",
+        "title": "PEOPLE, PLACES, AND PERSPECTIVES IN THE GLOBAL SOUTH*",
         "credits": "3"
     },
     {
         "code": "GEOG 240",
-        "title": "*HUMAN DIMENSIONS OF CLIMATE CHANGE",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 250",
-        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES",
+        "title": "HUMAN DIMENSIONS OF CLIMATE CHANGE*",
         "credits": "3"
     },
     {
         "code": "GEOG 241",
-        "title": "*TRANSFORMING ENVIRONMENTAL CONFLICTS",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 300",
-        "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+        "title": "TRANSFORMING ENVIRONMENTAL CONFLICTS*",
         "credits": "3"
     },
     {
         "code": "GEOG 201",
-        "title": "*FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS",
+        "title": "FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS ",
         "credits": "4"
     },
     {
         "code": "GEOG 360",
-        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
+        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY ",
         "credits": "4"
     },
     {
         "code": "GEOG 370",
-        "title": "GEOVISUALIZATION: CARTOGRAPHY",
+        "title": "GEOVISUALIZATION: CARTOGRAPHY ",
         "credits": "4"
     },
     {
         "code": "GEOG 464",
-        "title": "GEOSPATIAL PERSPECTIVES ON INTELLIGENCE, SECURITY AND ETHICS",
+        "title": "GEOSPATIAL PERSPECTIVES ON INTELLIGENCE, SECURITY AND ETHICS ",
         "credits": "3"
     },
     {
         "code": "GEOG 480",
-        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS",
+        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS ",
         "credits": "4"
     },
     {
         "code": "GEOG 407",
-        "title": "SEMINAR",
-        "credits": "1-16"
+        "title": "SEMINAR ",
+        "credits": "1"
     },
     {
         "code": "GEOG 295",
-        "title": "INTRODUCTION TO GEOGRAPHIC FIELD RESEARCH",
+        "title": "INTRODUCTION TO GEOGRAPHIC FIELD RESEARCH ",
         "credits": "3"
     },
     {
         "code": "GEOG 410",
-        "title": "INTERNSHIP",
-        "credits": "1-16"
-    },
-    {
-        "code": "GEOG 401",
-        "title": "RESEARCH",
-        "credits": "1-16"
-    },
-    {
-        "code": "GEOG 403",
-        "title": "THESIS",
-        "credits": "1-16"
+        "title": "INTERNSHIP*",
+        "credits": "3"
     },
     {
         "code": "GEOG 495",
-        "title": "FIELD GEOGRAPHY OF OREGON I",
+        "title": "FIELD GEOGRAPHY OF OREGON I ",
         "credits": "3"
     },
     {
         "code": "GEOG 361",
-        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING",
+        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING*",
         "credits": "4"
     },
     {
         "code": "GEOG 362",
-        "title": "GIS AND SPATIAL DATA SCIENCE",
+        "title": "GIS AND SPATIAL DATA SCIENCE*",
         "credits": "4"
-    },
-    {
-        "code": "GEOG 371",
-        "title": "GEOVISUALIZATION: WEB MAPPING",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 462",
-        "title": "GISCIENCE III: PROGRAMMING FOR GEOSPATIAL ANALYSIS",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 472",
-        "title": "GEOVISUALIZATION: GEOVISUAL ANALYTICS",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 481",
-        "title": "SATELLITE IMAGE ANALYSIS",
-        "credits": "4"
-    },
-    {
-        "code": "ATS 341",
-        "title": "*SNOW, SMOKE, AND STORMS: CLIMATE CHANGE IMPACTS IN THE PNW",
-        "credits": "3"
     },
     {
         "code": "GEOG 323",
-        "title": "^CLIMATOLOGY",
+        "title": "CLIMATOLOGY*",
         "credits": "4"
-    },
-    {
-        "code": "GEOG 324",
-        "title": "^ECOLOGICAL BIOGEOGRAPHY",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 423",
-        "title": "SNOW HYDROLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 424",
-        "title": "HYDROLOGY FOR WATER RESOURCES MANAGEMENT",
-        "credits": "3"
     },
     {
         "code": "OC 333",
-        "title": "*OCEANS, COASTS, AND PEOPLE",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 350",
-        "title": "*GEOGRAPHY OF NATURAL HAZARDS",
+        "title": "OCEANS, COASTS, AND PEOPLE*",
         "credits": "3"
     },
     {
         "code": "GEOG 451",
-        "title": "PLANNING PRINCIPLES AND PRACTICES FOR RESILIENT COMMUNITIES",
+        "title": "PLANNING PRINCIPLES AND PRACTICES FOR RESILIENT COMMUNITIES*",
         "credits": "4"
     },
     {
         "code": "GEOG 452",
-        "title": "ENVIRONMENTAL ASSESSMENT",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 453",
-        "title": "EFFECTIVE COMMUNICATION OF ENVIRONMENTAL CHANGE SCIENCE",
-        "credits": "3"
-    },
-    {
-        "code": "GEO 309",
-        "title": "*ENVIRONMENTAL JUSTICE",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 311",
-        "title": "*GEOGRAPHY OF AFRICA",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 313",
-        "title": "*GEOGRAPHY OF ASIA",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 314",
-        "title": "*GEOGRAPHY OF LATIN AMERICA",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 330",
-        "title": "*GEOGRAPHY OF INTERNATIONAL DEVELOPMENT AND GLOBALIZATION",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 332",
-        "title": "*CLIMATE AND HEALTH",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 300",
-        "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 331",
-        "title": "*POPULATION, CONSUMPTION, AND ENVIRONMENT",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 340",
-        "title": "*INTRODUCTION TO WATER SCIENCE AND POLICY",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 430",
-        "title": "RESILIENCE-BASED NATURAL RESOURCE MANAGEMENT",
+        "title": "ENVIRONMENTAL ASSESSMENT*",
         "credits": "3"
     },
     {
         "code": "GEOG 440",
-        "title": "CONFLICT, COOPERATION, AND CONTROL OF WATER IN THE US",
+        "title": "CONFLICT, COOPERATION, AND CONTROL OF WATER IN THE US*",
         "credits": "3"
     },
     {
         "code": "GEOG 441",
-        "title": "THE WORLD'S WATER",
+        "title": "THE WORLD'S WATER*",
         "credits": "3"
     },
     {
-        "code": "GEOG 102",
-        "title": "*PHYSICAL GEOGRAPHY",
+        "code": "ELE XX1",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "GEO 202",
-        "title": "*EARTH SYSTEMS SCIENCE",
+        "code": "ELE XX2",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "GEOG 103",
-        "title": "*THE HUMAN PLANET",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 203",
-        "title": "*HUMAN-ENVIRONMENT GEOGRAPHY",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 105",
-        "title": "*PEOPLE, PLACES, AND PERSPECTIVES IN THE GLOBAL SOUTH",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 106",
-        "title": "*WESTERN TRADITION & EMERGING CHALLENGES IN THE GLOBAL NORTH",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 201",
-        "title": "*FOUNDATIONS OF GEOSPATIAL SCIENCE AND GIS",
+        "code": "ELE XX3",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "GEOG 240",
-        "title": "*HUMAN DIMENSIONS OF CLIMATE CHANGE",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 250",
-        "title": "*LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 251",
-        "title": "*GEOGRAPHY OF DISASTER MANAGEMENT",
-        "credits": "3"
-    },
-    {
-        "code": "MTH 112",
-        "title": "*ELEMENTARY FUNCTIONS",
+        "code": "ELE XX4",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "ST 351",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "code": "ELE XX5",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "ST 352",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "code": "ELE XX6",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX7",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX8",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX9",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     }
 ]}

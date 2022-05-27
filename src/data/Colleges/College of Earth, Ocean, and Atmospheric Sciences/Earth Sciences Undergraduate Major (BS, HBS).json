@@ -1,77 +1,218 @@
 {"Courses":[
     {
         "code": "ATS 201",
-        "title": "*CLIMATE SCIENCE",
+        "title": "CLIMATE SCIENCE ",
         "credits": "4"
     },
     {
-        "code": "CH 121",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "5"
-    },
-    {
         "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "4"
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231*",
         "credits": "1"
     },
     {
         "code": "PH 211",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS*",
         "credits": "4"
     },
     {
-        "code": "PH 201",
-        "title": "*GENERAL PHYSICS",
-        "credits": "5"
-    },
-    {
         "code": "GEO 201",
-        "title": "*PHYSICAL GEOLOGY",
+        "title": "PHYSICAL GEOLOGY ",
         "credits": "4"
     },
     {
         "code": "GEO 202",
-        "title": "*EARTH SYSTEMS SCIENCE",
+        "title": "EARTH SYSTEMS SCIENCE ",
         "credits": "4"
     },
     {
         "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
+        "title": "DIFFERENTIAL CALCULUS" ,
         "credits": "4"
     },
     {
         "code": "OC 201",
-        "title": "*OCEANOGRAPHY",
+        "title": "OCEANOGRAPHY ",
         "credits": "4"
     },
     {
         "code": "ST 351",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "title": "INTRODUCTION TO STATISTICAL METHODS ",
         "credits": "4"
-    },
-    {
-        "code": "CBEE 102",
-        "title": "ENGINEERING PROBLEM SOLVING AND COMPUTATIONS",
-        "credits": "3"
     },
     {
         "code": "ENGR 112",
-        "title": "INTRODUCTION TO ENGINEERING COMPUTING",
+        "title": "INTRODUCTION TO ENGINEERING COMPUTING*",
         "credits": "3"
     },
     {
-        "code": "GEOG 360",
-        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
+        "code": "PH 221",
+        "title": "RECITATION FOR PHYSICS 211*",
+        "credits": "1"
+    },
+    {
+        "code": "CH 122",
+        "title": "GENERAL CHEMISTRY* ",
+        "credits": "5"
+    },
+    {
+        "code": "PH 212",
+        "title": "GENERAL PHYSICS WITH CALCULUS*",
         "credits": "4"
     },
     {
-        "code": "ST 352",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "code": "PH 213",
+        "title": "GENERAL PHYSICS WITH CALCULUS*",
+        "credits": "4"
+    },
+    {
+        "code": "PH 222",
+        "title": "RECITATION FOR PHYSICS 212*",
+        "credits": "1"
+    },
+    {
+        "code": "PH 223",
+        "title": "RECITATION FOR PHYSICS 213*",
+        "credits": "1"
+    },
+    {
+        "code": "MTH 252",
+        "title": "INTEGRAL CALCULUS* ",
+        "credits": "4"
+    },
+
+    {
+        "code": "ATS 295",
+        "title": "OBSERVING CLIMATE* ",
+        "credits": "3"
+    },
+    {
+        "code": "ATS 301",
+        "title": "CLIMATE DATA ANALYSIS* ",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 310",
+        "title": "METEOROLOGY* ",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 420",
+        "title": "CLIMATE PHYSICS* ",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 421",
+        "title": "CLIMATE MODELING* ",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 441",
+        "title": "NORTHWEST CLIMATE AND WEATHER* ",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 484",
+        "title": "INTRODUCTION TO BIOGEOCHEMISTRY* ",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 486",
+        "title": "QUATERNARY PALEOCLIMATOLOGY* ",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 433",
+        "title": "CLIMATE CHANGE IMPACTS, ADAPTATION AND VULNERABILITY* ",
+        "credits": "3"
+    },
+    {
+        "code": "ATS 401",
+        "title": "RESEARCH* ",
+        "credits": "3"
+    },
+    {
+        "code": "ATS 401",
+        "title": "RESEARCH* ",
+        "credits": "3"
+    },
+    {
+        "code": "GEOG 440",
+        "title": "CONFLICT, COOPERATION, AND CONTROL OF WATER IN THE US* ",
+        "credits": "4"
+    },
+    {
+        "code": "PS 455",
+        "title": "THE POLITICS OF CLIMATE CHANGE* ",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 411",
+        "title": "THERMODYNAMICS AND CLOUD MICROPHYSICS* ",
+        "credits": "4"
+    },
+    {
+        "code": "ATS 412",
+        "title": "ATMOSPHERIC RADIATION* ",
+        "credits": "3"
+    },
+    {
+        "code": "GEO 481",
+        "title": "GLACIAL GEOLOGY* ",
+        "credits": "4"
+    },
+    {
+        "code": "OC 430",
+        "title": "PRINCIPLES OF PHYSICAL OCEANOGRAPHY* ",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX1",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX2",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX3",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX4",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX5",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX6",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX7",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX8",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX9",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     }
 ]}

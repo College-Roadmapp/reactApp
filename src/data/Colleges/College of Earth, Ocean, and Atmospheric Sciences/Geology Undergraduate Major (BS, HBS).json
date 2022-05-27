@@ -1,107 +1,77 @@
 {"Courses":[
     {
         "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
+        "title": "DIFFERENTIAL CALCULUS ",
         "credits": "4"
     },
     {
         "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
+        "title": "INTEGRAL CALCULUS ",
         "credits": "4"
     },
     {
         "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "4"
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231*",
         "credits": "1"
     },
     {
-        "code": "CH 121",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "5"
-    },
-    {
         "code": "CH 232",
-        "title": "GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "4"
     },
     {
         "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "title": "LABORATORY FOR CHEMISTRY 232*",
         "credits": "1"
     },
     {
-        "code": "CH 122",
-        "title": "*GENERAL CHEMISTRY",
-        "credits": "5"
-    },
-    {
         "code": "PH 211",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS*",
         "credits": "4"
-    },
-    {
-        "code": "PH 201",
-        "title": "*GENERAL PHYSICS",
-        "credits": "5"
     },
     {
         "code": "PH 212",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS*",
         "credits": "4"
     },
     {
-        "code": "PH 202",
-        "title": "*GENERAL PHYSICS",
-        "credits": "5"
-    },
-    {
         "code": "ST 351",
-        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "title": "INTRODUCTION TO STATISTICAL METHODS ",
         "credits": "4"
     },
     {
         "code": "CH 123",
-        "title": "*GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "5"
     },
     {
-        "code": "CH 233",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
-        "credits": "1"
-    },
-    {
         "code": "PH 203",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
         "code": "PH 213",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS",
         "credits": "4"
     },
     {
         "code": "GEO 201",
-        "title": "*PHYSICAL GEOLOGY",
+        "title": "PHYSICAL GEOLOGY",
         "credits": "4"
     },
     {
         "code": "GEO 202",
-        "title": "*EARTH SYSTEMS SCIENCE",
+        "title": "EARTH SYSTEMS SCIENCE",
         "credits": "4"
     },
     {
         "code": "GEO 203",
-        "title": "*EVOLUTION OF PLANET EARTH",
+        "title": "EVOLUTION OF PLANET EARTH",
         "credits": "4"
     },
     {
@@ -151,12 +121,12 @@
     },
     {
         "code": "GEO 430",
-        "title": "^GEOCHEMISTRY",
+        "title": "GEOCHEMISTRY",
         "credits": "4"
     },
     {
         "code": "GEO 463",
-        "title": "^GEOPHYSICS AND TECTONICS",
+        "title": "GEOPHYSICS AND TECTONICS",
         "credits": "4"
     },
     {
@@ -171,97 +141,52 @@
     },
     {
         "code": "GEO 412",
-        "title": "IGNEOUS PETROLOGY",
+        "title": "IGNEOUS PETROLOGY*",
         "credits": "4"
-    },
-    {
-        "code": "GEO 440",
-        "title": "ECONOMIC GEOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "GEO 497",
-        "title": "FIELD MAPPING OF ORE DEPOSITS",
-        "credits": "3"
     },
     {
         "code": "GEO 427",
-        "title": "^VOLCANOLOGY",
+        "title": "VOLCANOLOGY*",
         "credits": "4"
     },
     {
-        "code": "GEO 433",
-        "title": "COASTAL GEOMORPHOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "GEO 461",
-        "title": "GEOLOGY OF EARTHQUAKES",
-        "credits": "3"
-    },
-    {
         "code": "BI 427",
-        "title": "PALEOBIOLOGY",
+        "title": "PALEOBIOLOGY*",
         "credits": "4"
     },
     {
         "code": "GEO 431",
-        "title": "ENVIRONMENTAL GEOCHEMISTRY",
+        "title": "ENVIRONMENTAL GEOCHEMISTRY*",
         "credits": "3"
     },
     {
-        "code": "GEO 432",
-        "title": "APPLIED GEOMORPHOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "GEO 477",
-        "title": "GLACIERS IN THE CLIMATE SYSTEM (New Course - GLACIERS IN THE CLIMATE SYSTEM)",
-        "credits": "3"
-    },
-    {
-        "code": "GEO 481",
-        "title": "GLACIAL GEOLOGY",
+        "code": "ELE XX1",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "GEO 484",
-        "title": "INTRODUCTION TO BIOGEOCHEMISTRY",
-        "credits": "3"
-    },
-    {
-        "code": "GEO 486",
-        "title": "QUATERNARY PALEOCLIMATOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "GEO 488",
-        "title": "QUATERNARY STRATIGRAPHY OF NORTH AMERICA",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 423",
-        "title": "SNOW HYDROLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 480",
-        "title": "REMOTE SENSING I: PRINCIPLES AND APPLICATIONS",
+        "code": "ELE XX2",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "OC 460",
-        "title": "GEOLOGICAL OCEANOGRAPHY",
+        "code": "ELE XX3",
+        "title": "GENERAL ELECTIVE*",
         "credits": "4"
     },
     {
-        "code": "GEO 403",
-        "title": "THESIS",
-        "credits": "1-16"
+        "code": "ELE XX4",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
     },
     {
-        "code": "GEO 499",
-        "title": "SPECIAL TOPICS",
-        "credits": "0-16"
+        "code": "ELE XX5",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX6",
+        "title": "GENERAL ELECTIVE*",
+        "credits": "4"
     }
 ]}
