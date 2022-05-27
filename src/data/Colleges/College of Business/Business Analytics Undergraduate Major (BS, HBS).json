@@ -28,5 +28,180 @@
         "code": "BA 481",
         "title": "INTRODUCTION TO BUSINESS ANALYTICS",
         "credits": "4"
+    },
+    {
+        "code": "BA 281",
+        "title": "PROFESSIONAL DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "BA 282",
+        "title": "DRAFTING YOUR CAREER BLUEPRINT",
+        "credits": "1"
+    },
+    {
+        "code": "BA 283",
+        "title": "CREATIVITY, CULTURE, AND THE WORKPLACE",
+        "credits": "1"
+    },
+    {
+        "code": "BA 284",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE I",
+        "credits": "1"
+    },
+    {
+        "code": "BA 211",
+        "title": "FINANCIAL ACCOUNTING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 213",
+        "title": "MANAGERIAL ACCOUNTING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 223",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "BA 230",
+        "title": "BUSINESS LAW I",
+        "credits": "4"
+    },
+    {
+        "code": "BA 240",
+        "title": "FINANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 360",
+        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+        "credits": "4"
+    },
+    {
+        "code": "BA 270",
+        "title": "BUSINESS PROCESS MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 275",
+        "title": "FOUNDATIONS OF STATISTICAL INFERENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 311",
+        "title": "FRAMING YOUR CAREER PLAN",
+        "credits": "1"
+    },
+    {
+        "code": "BA 312",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE II",
+        "credits": "1"
+    },
+    {
+        "code": "BA 313",
+        "title": "THE ORANGE AND BLACK CASE COMPETITION",
+        "credits": "1"
+    },
+    {
+        "code": "BA 347",
+        "title": "INTERNATIONAL BUSINESS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 354",
+        "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY",
+        "credits": "4"
+    },
+    {
+        "code": "BA 357",
+        "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "BA 370",
+        "title": "BUSINESS INFORMATION SYSTEMS OVERVIEW",
+        "credits": "4"
+    },
+    {
+        "code": "BA 375",
+        "title": "APPLIED QUANTITATIVE METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 411",
+        "title": "NAVIGATING YOUR WORKPLACE",
+        "credits": "1"
+    },
+    {
+        "code": "BA 412",
+        "title": "FINANCIAL PLANNING I",
+        "credits": "1"
+    },
+    {
+        "code": "BA 413",
+        "title": "FINANCIAL PLANNING II",
+        "credits": "1"
+    },
+    {
+        "code": "BA 466",
+        "title": "INTEGRATIVE STRATEGIC EXPERIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 275",
+        "title": "FOUNDATIONS OF STATISTICAL INFERENCE",
+        "credits": "4"
+    },
+    {
+        "code": "BA 375",
+        "title": "APPLIED QUANTITATIVE METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 474",
+        "title": "DATA MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "BA 475",
+        "title": "DATA EXPLORATION AND VISUALIZATION",
+        "credits": "3"
+    },
+    {
+        "code": "BA 476",
+        "title": "DATA AND TEXT MINING",
+        "credits": "3"
+    },
+    {
+        "code": "BA 481",
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS",
+        "credits": "4"
     }
 ]}

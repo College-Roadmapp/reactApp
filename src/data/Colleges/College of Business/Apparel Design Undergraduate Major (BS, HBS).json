@@ -5,9 +5,29 @@
         "credits": "4"
     },
     {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
+        "code": "BA 160",
+        "title": "B-ENGAGED",
+        "credits": "3"
+    },
+    {
+        "code": "BA 161",
+        "title": "INNOVATION NATION--AWARENESS TO ACTION",
+        "credits": "3"
+    },
+    {
+        "code": "BA 162",
+        "title": "INNOVATION NATION--IDEAS TO REALITY",
+        "credits": "3"
+    },
+    {
+        "code": "BA 106",
+        "title": "BUSINESS NOW",
+        "credits": "6"
+    },
+    {
+        "code": "BA 260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+        "credits": "6"
     },
     {
         "code": "ST 201",
@@ -45,33 +65,162 @@
         "credits": "3"
     },
     {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 218",
-        "title": "*INTERPERSONAL COMMUNICATION",
-        "credits": "3"
-    },
-    {
         "code": "WR 222",
         "title": "*ENGLISH COMPOSITION",
         "credits": "3"
     },
     {
-        "code": "WR 323",
-        "title": "*ENGLISH COMPOSITION",
+        "code": "DSGN 226",
+        "title": "SPECIFICATION BUYING",
+        "credits": "4"
+    },
+    {
+        "code": "DSGN 253",
+        "title": "PROFESSIONAL DEVELOPMENT",
         "credits": "3"
     },
     {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
+        "code": "DSGN 282",
+        "title": "DRAFTING YOUR CAREER BLUEPRINT",
+        "credits": "1"
+    },
+    {
+        "code": "DSGN 283",
+        "title": "CREATIVITY, CULTURE, AND THE WORKPLACE",
+        "credits": "1"
+    },
+    {
+        "code": "DSGN 284",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE I",
+        "credits": "1"
+    },
+
+    {
+        "code": "DSGN 226",
+        "title": "SPECIFICATION BUYING",
+        "credits": "4"
+    },    {
+        "code": "DSGN 244",
+        "title": "COLOR INNOVATION",
+        "credits": "4"
+    },
+    {
+        "code": "DSGN 255",
+        "title": "TEXTILES",
+        "credits": "4"
+    },
+    {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+
+    {
+        "code": "DSGN 253",
+        "title": "PROFESSIONAL DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 311",
+        "title": "FRAMING YOUR CAREER PLAN",
+        "credits": "1"
+    },
+    {
+        "code": "DSGN 312",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE II",
+        "credits": "1"
+    },
+    {
+        "code": "DSGN 313",
+        "title": "THE ORANGE AND BLACK CASE COMPETITION",
+        "credits": "1"
+    },
+    {
+        "code": "DSGN 327",
+        "title": "PERFORMANCE APPAREL INNOVATION I",
+        "credits": "4"
+    },
+
+    {
+        "code": "DSGN 329",
+        "title": "SPORTSWEAR INDUSTRY COLLABORATION",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 330",
+        "title": "FASHION FORECASTING AND MARKET ANALYSIS",
+        "credits": "4"
+    },
+    {
+        "code": "DSGN 333",
+        "title": "HISTORY OF CONTEMPORARY FASHION",
+        "credits": "4"
+    },
+    {
+        "code": "DSGN 341",
+        "title": "DESIGN THINKING AND PROCESS INNOVATION",
+        "credits": "4"
+    },
+    {
+        "code": "DSGN 356",
+        "title": "SPECIFICATION AND EVALUATION OF PERFORMANCE MATERIALS",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 357",
+        "title": "EVALUATION OF PERFORMANCE MATERIALS LABORATORY",
+        "credits": "1"
+    },
+    {
+        "code": "DSGN 328",
+        "title": "DIGITAL DESIGN FOR APPAREL",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 411",
+        "title": "NAVIGATING YOUR WORKPLACE",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 412",
+        "title": "FINANCIAL PLANNING I",
         "credits": "3"
     }
+    ,
+    {
+        "code": "DSGN 413",
+        "title": "FINANCIAL PLANNING II",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 427",
+        "title": "PERFORMANCE APPAREL INNOVATION II",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 428",
+        "title": "FUNCTIONAL DESIGN AND PRODUCT DEVELOPMENT",
+        "credits": "3"
+    },
+    {
+        "code": "DSGN 429",
+        "title": "*GLOBAL SOURCING OF TEXTILES, APPAREL, AND FOOTWEAR",
+        "credits": "3"
+    },
+    {
+        "code": "MGMT 475",
+        "title": "PROJECT MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 492",
+        "title": "CONSUMER BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "MRKT 495",
+        "title": "RETAIL MANAGEMENT",
+        "credits": "3"
+    }
+
 ]}

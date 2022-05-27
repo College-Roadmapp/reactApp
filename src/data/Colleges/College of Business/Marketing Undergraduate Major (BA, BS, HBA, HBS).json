@@ -100,24 +100,9 @@
         "credits": "4"
     },
     {
-        "code": "BA 403",
-        "title": "THESIS",
-        "credits": "1-16"
-    },
-    {
-        "code": "BA 405",
-        "title": "READING AND CONFERENCE",
-        "credits": "1-16"
-    },
-    {
-        "code": "BA 406",
-        "title": "PROJECTS",
-        "credits": "1-16"
-    },
-    {
         "code": "BA 410",
         "title": "BUSINESS INTERNSHIP (e.g., Participate in DAM Chic or OSU Fashion Organization or Related Internship))",
-        "credits": "1-12"
+        "credits": "4"
     },
     {
         "code": "BA 348",
@@ -143,26 +128,6 @@
         "code": "MRKT 488",
         "title": "PROFESSIONAL SALES",
         "credits": "4"
-    },
-    {
-        "code": "BA 403",
-        "title": "THESIS",
-        "credits": "1-16"
-    },
-    {
-        "code": "BA 405",
-        "title": "READING AND CONFERENCE",
-        "credits": "1-16"
-    },
-    {
-        "code": "BA 406",
-        "title": "PROJECTS",
-        "credits": "1-16"
-    },
-    {
-        "code": "BA 410",
-        "title": "BUSINESS INTERNSHIP (e.g., AIGA Participation or Related Internship)",
-        "credits": "1-12"
     },
     {
         "code": "BA 348",
@@ -268,35 +233,5 @@
         "code": "ECON 202",
         "title": "*INTRODUCTION TO MACROECONOMICS",
         "credits": "4"
-    },
-    {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 218",
-        "title": "*INTERPERSONAL COMMUNICATION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 222",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 323",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
     }
 ]}

@@ -5,11 +5,6 @@
         "credits": "3"
     },
     {
-        "code": "BA 163",
-        "title": "B-ENGAGED",
-        "credits": "3"
-    },
-    {
         "code": "BA 161",
         "title": "INNOVATION NATION--AWARENESS TO ACTION",
         "credits": "3"
@@ -17,21 +12,6 @@
     {
         "code": "BA 162",
         "title": "INNOVATION NATION--IDEAS TO REALITY",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 218",
-        "title": "*INTERPERSONAL COMMUNICATION",
         "credits": "3"
     },
     {
@@ -87,11 +67,6 @@
     {
         "code": "BA 240",
         "title": "FINANCE",
-        "credits": "4"
-    },
-    {
-        "code": "BA 360",
-        "title": "INTRODUCTION TO FINANCIAL MANAGEMENT",
         "credits": "4"
     },
     {
@@ -165,16 +140,6 @@
         "credits": "3"
     },
     {
-        "code": "WR 323",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
-    },
-    {
         "code": "BA 411",
         "title": "NAVIGATING YOUR WORKPLACE",
         "credits": "1"
@@ -240,18 +205,8 @@
         "credits": "4"
     },
     {
-        "code": "ACTG 420",
-        "title": "IT AUDITING",
-        "credits": "4"
-    },
-    {
         "code": "ACTG 425",
         "title": "ADVANCED TAXATION",
-        "credits": "4"
-    },
-    {
-        "code": "ACTG 428",
-        "title": "ADVANCED AUDIT ANALYTICS",
         "credits": "4"
     },
     {

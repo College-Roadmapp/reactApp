@@ -4,11 +4,7 @@
         "title": "B-ENGAGED",
         "credits": "3"
     },
-    {
-        "code": "BA 163",
-        "title": "B-ENGAGED",
-        "credits": "3"
-    },
+
     {
         "code": "BA 161",
         "title": "INNOVATION NATION--AWARENESS TO ACTION",
@@ -23,21 +19,6 @@
         "code": "BA 101",
         "title": "BUSINESS NOW",
         "credits": "6"
-    },
-    {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 218",
-        "title": "*INTERPERSONAL COMMUNICATION",
-        "credits": "3"
     },
     {
         "code": "MTH 241",
@@ -168,21 +149,6 @@
         "code": "BA 375",
         "title": "APPLIED QUANTITATIVE METHODS",
         "credits": "4"
-    },
-    {
-        "code": "WR 222",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 323",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
     },
     {
         "code": "BA 411",

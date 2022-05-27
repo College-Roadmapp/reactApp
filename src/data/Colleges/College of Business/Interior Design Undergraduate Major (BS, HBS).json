@@ -45,33 +45,152 @@
         "credits": "3"
     },
     {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
+        "code": "DSGN 253",
+        "title": "PROFESSIONAL DEVELOPMENT"
     },
     {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
+        "code": "DSGN 282",
+        "title": "DRAFTING YOUR CAREER BLUEPRINT"
     },
     {
-        "code": "COMM 218",
-        "title": "*INTERPERSONAL COMMUNICATION",
-        "credits": "3"
+        "code": "DSGN 283",
+        "title": "CREATIVITY, CULTURE, AND THE WORKPLACE"
     },
     {
-        "code": "WR 222",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
+        "code": "DSGN 284",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE I"
     },
     {
-        "code": "WR 323",
-        "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
+        "code": "ART 206",
+        "title": "*INTRODUCTION TO WESTERN ART: NEOCLASSICISM TO CONTEMPORARY"
     },
     {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
+        "code": "DSGN 244",
+        "title": "COLOR INNOVATION"
+    },
+    {
+        "code": "DSGN 255",
+        "title": "TEXTILES"
+    },
+    {
+        "code": "DSGN 281",
+        "title": "DRAWING AND SKETCHING"
+    },
+    {
+        "code": "BA 260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "code": "ST 201",
+        "title": "PRINCIPLES OF STATISTICS"
+    },
+    {
+        "code": "ART 367",
+        "title": "*HISTORY OF DESIGN"
+    },
+    {
+        "code": "BA 315",
+        "title": "ACCOUNTING FOR DECISION MAKING"
+    },
+    {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "BA 223",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "DSGN 311",
+        "title": "FRAMING YOUR CAREER PLAN"
+    },
+    {
+        "code": "DSGN 312",
+        "title": "FOUNDATIONS OF PERSONAL FINANCE II"
+    },
+    {
+        "code": "DSGN 313",
+        "title": "THE ORANGE AND BLACK CASE COMPETITION"
+    },
+    {
+        "code": "DSGN 341",
+        "title": "DESIGN THINKING AND PROCESS INNOVATION"
+    },
+    {
+        "code": "BA 352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE"
+    },
+    {
+        "code": "BA 354",
+        "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY"
+    },
+    {
+        "code": "MGMT 364",
+        "title": "PROJECT MANAGEMENT"
+    },
+    {
+        "code": "DSGN 411",
+        "title": "NAVIGATING YOUR WORKPLACE"
+    },
+    {
+        "code": "DSGN 412",
+        "title": "FINANCIAL PLANNING I"
+    },
+    {
+        "code": "DSGN 413",
+        "title": "FINANCIAL PLANNING II"
+    },
+    {
+        "code": "MRKT 492",
+        "title": "CONSUMER BEHAVIOR"
+    },
+    {
+        "code": "MRKT 495",
+        "title": "RETAIL MANAGEMENT"
+    },
+    {
+        "code": "DSGN 342",
+        "title": "INTRODUCTION TO DESIGN MANAGEMENT"
+    },
+
+    {
+        "code": "DSGN 442",
+        "title": "MATERIALITY AND MAKING FIELD PROJECT"
+    },
+    {
+        "code": "DSGN 330",
+        "title": "^FASHION FORECASTING AND MARKET ANALYSIS"
+    },
+    {
+        "code": "DSGN 333",
+        "title": "HISTORY OF CONTEMPORARY FASHION"
+    },
+    {
+        "code": "DSGN 356",
+        "title": "SPECIFICATION AND EVALUATION OF PERFORMANCE MATERIALS"
+    },
+    {
+        "code": "SUS 350",
+        "title": "*SUSTAINABLE COMMUNITIES"
+    },
+    {
+        "code": "BA 363",
+        "title": "INNOVATION MANAGEMENT"
+    },
+    {
+        "code": "DSGN 475",
+        "title": "*GLOBAL SOURCING OF TEXTILES, APPAREL, AND FOOTWEAR"
+    },
+    {
+        "code": "BA 481",
+        "title": "INTRODUCTION TO BUSINESS ANALYTICS"
+    },
+    {
+        "code": "MRKT 484",
+        "title": "DIGITAL MARKETING PLATFORMS"
+    },
+    {
+        "code": "MRKT 493",
+        "title": "INTEGRATED MARKETING COMMUNICATIONS"
     }
 ]}
