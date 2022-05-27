@@ -477,9 +477,9 @@ class JsonDataDisplay extends React.Component {
     // else if (curMajor === 'eco-eng') {
     //   parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
     // }
-    // else if (curMajor === 'enviro-eco-policy') {
-    //   parsedJSON = require('./../parseHTML/Success/Environmental Economics and Policy Undergraduate Major (BS, HBS).json');
-    // }
+    else if (curMajor === 'enviro-eco-policy') {
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Environmental Economics and Policy Undergraduate Major (BS, HBS).json');
+    }
     else if (curMajor === 'fish-wild') {
       parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Fisheries and Wildlife Sciences Undergraduate Major (BS, HBS).json');
     }

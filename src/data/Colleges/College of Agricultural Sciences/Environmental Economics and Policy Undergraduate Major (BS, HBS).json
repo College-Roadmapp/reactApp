@@ -50,29 +50,14 @@
         "credits": "4"
     },
     {
-        "code": "AEC 401",
-        "title": "RESEARCH AND SCHOLARSHIP",
-        "credits": "1-16"
-    },
-    {
         "code": "AEC 406",
         "title": "PROJECTS (Development, Analysis or Service Project)",
-        "credits": "1-16"
-    },
-    {
-        "code": "AEC 410",
-        "title": "INTERNSHIP",
-        "credits": "1-6"
+        "credits": "3"
     },
     {
         "code": "AG 111",
         "title": "INFORMATION TECHNOLOGY IN AGRICULTURE",
         "credits": "3"
-    },
-    {
-        "code": "CS 101",
-        "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
-        "credits": "4"
     },
     {
         "code": "FW 303",
@@ -90,18 +75,8 @@
         "credits": "4"
     },
     {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
-    },
-    {
         "code": "MTH 241",
         "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
         "credits": "4"
     },
     {
@@ -120,8 +95,99 @@
         "credits": "3"
     },
     {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
+        "code": "WR 323",
+        "title": "*ENGLISH COMPOSITION",
         "credits": "3"
+    },
+    {
+        "code": "AEC 3XX",
+        "title": "AEC UPPER DIVISION ELECTIVE 1",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 3XX",
+        "title": "AEC UPPER DIVISION ELECTIVE 2",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 3XX",
+        "title": "AEC UPPER DIVISION ELECTIVE 3",
+        "credits": "4"
+    },
+    {
+        "code": "AEC 4XX",
+        "title": "AEC UPPER DIVISION ELECTIVE 4",
+        "credits": "4"
+    },    
+    {
+        "code": "AEC 4XX",
+        "title": "AEC UPPER DIVISION ELECTIVE 5",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 1",
+        "credits": "3"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 2",
+        "credits": "3"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 3",
+        "credits": "3"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 4",
+        "credits": "3"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 5",
+        "credits": "3"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 6",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 7",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 8",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 9",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 10",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 11",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 12",
+        "credits": "4"
+    },
+    {
+        "code": "GEN 3XX",
+        "title": "GENERAL ELECTIVE 13",
+        "credits": "4"
     }
+
 ]}

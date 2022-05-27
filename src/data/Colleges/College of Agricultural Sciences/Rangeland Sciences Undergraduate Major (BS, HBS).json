@@ -1,57 +1,7 @@
 {"Courses":[
     {
-        "code": "HHS 231",
-        "title": "*LIFETIME FITNESS FOR HEALTH",
-        "credits": "2"
-    },
-    {
-        "code": "HHS 241",
-        "title": "*LIFETIME FITNESS (or PAC course)",
-        "credits": "1"
-    },
-    {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 218",
-        "title": "*INTERPERSONAL COMMUNICATION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 121",
-        "title": "*ENGLISH COMPOSITION (Must be taken in first 45 credits)",
-        "credits": "4"
-    },
-    {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
-    },
-    {
         "code": "AG 421",
         "title": "^WRITING IN AGRICULTURE",
-        "credits": "3"
-    },
-    {
-        "code": "ANS 420",
-        "title": "^ETHICAL ISSUES IN ANIMAL AGRICULTURE",
-        "credits": "3"
-    },
-    {
-        "code": "ENSC 479",
-        "title": "^ENVIRONMENTAL CASE STUDIES",
-        "credits": "3"
-    },
-    {
-        "code": "FW 435",
-        "title": "^WILDLIFE IN AGRICULTURAL ECOSYSTEMS",
         "credits": "3"
     },
     {
@@ -110,16 +60,6 @@
         "credits": "4"
     },
     {
-        "code": "SOIL 205",
-        "title": "SOIL SCIENCE",
-        "credits": "3"
-    },
-    {
-        "code": "SOIL 206",
-        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
-        "credits": "1"
-    },
-    {
         "code": "CSS 205",
         "title": "*SOIL SCIENCE",
         "credits": "4"
@@ -150,28 +90,8 @@
         "credits": "3"
     },
     {
-        "code": "AEC 352/ECON 352",
-        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
-        "credits": "3"
-    },
-    {
         "code": "ANTH 466",
         "title": "*RURAL ANTHROPOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "SOC 381",
-        "title": "SOCIAL DIMENSIONS OF SUSTAINABILITY",
-        "credits": "4"
-    },
-    {
-        "code": "SOC 475",
-        "title": "RURAL SOCIOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "SOC 480",
-        "title": "*ENVIRONMENTAL SOCIOLOGY",
         "credits": "4"
     },
     {
@@ -182,21 +102,6 @@
     {
         "code": "ANS 313",
         "title": "APPLIED ANIMAL NUTRITION: FEEDS AND RATION FORMULATION",
-        "credits": "4"
-    },
-    {
-        "code": "ANS 436",
-        "title": "SHEEP PRODUCTION SYSTEMS",
-        "credits": "3"
-    },
-    {
-        "code": "ANS 445",
-        "title": "BEEF PRODUCTION SYSTEMS",
-        "credits": "4"
-    },
-    {
-        "code": "ANS 446",
-        "title": "GRAZING LIVESTOCK PRODUCTION",
         "credits": "4"
     },
     {
@@ -213,21 +118,6 @@
         "code": "RNG 457",
         "title": "HABITAT ANALYSIS 1: HABITAT USE AND MOVEMENT",
         "credits": "3"
-    },
-    {
-        "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
-        "credits": "4"
     },
     {
         "code": "BI 204",
@@ -272,6 +162,61 @@
     {
         "code": "ST 351",
         "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 1",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 2",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 3",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 4",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 5",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 6",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 7",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 8",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 9",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 10",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX",
+        "title": "OPTION COURSE 11",
         "credits": "4"
     }
 ]}

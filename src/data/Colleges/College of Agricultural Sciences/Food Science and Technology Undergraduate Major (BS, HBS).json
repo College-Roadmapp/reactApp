@@ -5,18 +5,8 @@
         "credits": "5"
     },
     {
-        "code": "MTH 112",
-        "title": "*ELEMENTARY FUNCTIONS",
-        "credits": "4"
-    },
-    {
         "code": "MTH 241",
         "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
         "credits": "4"
     },
     {
@@ -55,39 +45,9 @@
         "credits": "3"
     },
     {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "CH 331",
-        "title": "ORGANIC CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 332",
-        "title": "ORGANIC CHEMISTRY",
-        "credits": "4"
-    },
-    {
         "code": "FST 466",
         "title": "CHEMISTRY AND BIOCHEMISTRY OF WINE",
         "credits": "3"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "CH 331",
-        "title": "ORGANIC CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 332",
-        "title": "ORGANIC CHEMISTRY",
-        "credits": "4"
     },
     {
         "code": "FST 479",
@@ -175,16 +135,6 @@
         "credits": "4"
     },
     {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
-        "credits": "4"
-    },
-    {
         "code": "PH 201",
         "title": "*GENERAL PHYSICS",
         "credits": "5"
@@ -220,23 +170,8 @@
         "credits": "2"
     },
     {
-        "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
         "code": "WR 222",
         "title": "*ENGLISH COMPOSITION",
-        "credits": "3"
-    },
-    {
-        "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
-    },
-    {
-        "code": "WR 362",
-        "title": "*SCIENCE WRITING",
         "credits": "3"
     },
     {
@@ -283,75 +218,5 @@
         "code": "FST 425",
         "title": "FOOD SYSTEMS CHEMISTRY",
         "credits": "4"
-    },
-    {
-        "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
-        "credits": "4"
-    },
-    {
-        "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
-        "credits": "1"
-    },
-    {
-        "code": "CH 232",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
-        "credits": "1"
-    },
-    {
-        "code": "CH 233",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
-        "credits": "1"
-    },
-    {
-        "code": "MTH 111",
-        "title": "*COLLEGE ALGEBRA",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 112",
-        "title": "*ELEMENTARY FUNCTIONS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 241",
-        "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "PH 201",
-        "title": "*GENERAL PHYSICS",
-        "credits": "5"
     }
 ]}

@@ -35,11 +35,6 @@
         "credits": "4"
     },
     {
-        "code": "MTH 245",
-        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
-        "credits": "4"
-    },
-    {
         "code": "ST 351",
         "title": "INTRODUCTION TO STATISTICAL METHODS",
         "credits": "4"
@@ -116,8 +111,68 @@
         "credits": "3"
     },
     {
+        "code": "MTH 251",
+        "title": "DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 201",
+        "title": "GENERAL PHYSICS",
+        "credits": "4"
+    },
+    {
+        "code": "PH 202",
+        "title": "GENERAL PHYSICS II",
+        "credits": "4"
+    },
+    {
+        "code": "SOIL 435",
+        "title": "ENVIRONMENTAL SOIL PHYSICS",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 445",
+        "title": "ENVIRONMENTAL SOIL CHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 455",
+        "title": "BIOLOGY OF SOIL ECOSYSTEMS",
+        "credits": "4"
+    },
+    {
+        "code": "SOIL 466",
+        "title": "SOIL MORPHOLOGY AND CLASSIFICATION",
+        "credits": "4"
+    },
+    {
+        "code": "GEO 201",
+        "title": "*PHYSICAL GEOLOGY",
+        "credits": "4"
+    },
+    {
         "code": "SUS 325/CROP 325/SOIL 325",
         "title": "^AG AND ENVIRONMENTAL PREDICAMENTS: A CASE STUDY APPROACH",
         "credits": "3"
+    },
+    {
+        "code": "SOIL 360",
+        "title": "SOIL MANAGEMENT FOR ORGANIC PRODUCTION",
+        "credits": "3"
+    },
+    {
+        "code": "SOIL 366",
+        "title": "ECOSYSTEMS OF WILDLAND SOILS",
+        "credits": "3"
+    },
+    {
+        "code": "CROP 420",
+        "title": "SEED SCIENCE AND TECHNOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "CROP 440",
+        "title": "WEED MANAGEMENT",
+        "credits": "4"
     }
 ]}
