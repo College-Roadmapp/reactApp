@@ -396,9 +396,6 @@ function DropDowns(){
         {college === "public-health-human-science" && major === "health-mgmt-policy" &&
         <JsonDataDisplay key="json" major={major}/>
         }
-        {college === "public-health-human-science" && major === "health-promo-behavior" &&
-        <JsonDataDisplay key="json" major={major}/>
-        }
         {college === "public-health-human-science" && major === "human-dev-fam-sci" &&
         <JsonDataDisplay key="json" major={major}/>
         }
@@ -435,9 +432,6 @@ function DropDowns(){
         {college === "science" && major === "zoology" &&
         <JsonDataDisplay key="json" major={major}/>
         }
-
-
-
         <EngineeringCalculator/>
         </h1>
       </div>

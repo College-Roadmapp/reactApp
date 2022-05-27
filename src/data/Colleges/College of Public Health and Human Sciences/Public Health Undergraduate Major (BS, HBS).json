@@ -1,13 +1,33 @@
 {"Courses":[
     {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
         "code": "H 100",
         "title": "INTRODUCTION TO PUBLIC HEALTH",
         "credits": "4"
     },
     {
-        "code": "H 206",
-        "title": "PROJECTS (take 3 times)",
-        "credits": "1-16"
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "H 206 (1)",
+        "title": "PROJECTS",
+        "credits": "4"
+    },
+    {
+        "code": "H 206 (2)",
+        "title": "PROJECTS",
+        "credits": "4"
+    },
+    {
+        "code": "H 206 (3)",
+        "title": "PROJECTS",
+        "credits": "4"
     },
     {
         "code": "H 210",
@@ -30,13 +50,73 @@
         "credits": "4"
     },
     {
+        "code": "ECON 201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 245",
+        "title": "*MATHEMATICS FOR MANAGEMENT, LIFE, AND SOCIAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "CS 101",
+        "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "H 250",
+        "title": "INTRODUCTION TO HEALTH CARE MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ECON 202",
+        "title": "*INTRODUCTION TO MACROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 315",
+        "title": "ACCOUNTING FOR DECISION MAKING",
+        "credits": "4"
+    },
+    {
+        "code": "PS 201",
+        "title": "*INTRODUCTION TO UNITED STATES GOVERNMENT AND POLITICS",
+        "credits": "4"
+    },
+    {
+        "code": "MB 230",
+        "title": "*INTRODUCTORY MICROBIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
         "code": "H 319",
         "title": "INTRODUCTION TO HEALTH POLICY",
         "credits": "3"
     },
     {
+        "code": "PHL 444",
+        "title": "*BIOMEDICAL ETHICS",
+        "credits": "4"
+    },
+    {
+        "code": "BA 351",
+        "title": "MANAGING ORGANIZATIONS",
+        "credits": "4"
+    },
+    {
         "code": "H 320",
         "title": "INTRODUCTION TO HUMAN DISEASE",
+        "credits": "3"
+    },
+    {
+        "code": "H 436",
+        "title": "ADVANCED TOPICS IN HEALTH CARE MANAGEMENT",
         "credits": "3"
     },
     {
@@ -45,8 +125,43 @@
         "credits": "3"
     },
     {
+        "code": "BA 390",
+        "title": "PRINCIPLES OF MARKETING",
+        "credits": "4"
+    },
+    {
+        "code": "H 457",
+        "title": "FINANCIAL MANAGEMENT OF HEALTH CARE ORGANIZATIONS",
+        "credits": "3"
+    },
+    {
         "code": "H 425",
         "title": "FOUNDATIONS OF EPIDEMIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "MGMT 453",
+        "title": "HUMAN RESOURCES MANAGEMENT",
+        "credits": "4"
+    },
+    {
+        "code": "H 407",
+        "title": "SEMINAR",
+        "credits": "2"
+    },
+    {
+        "code": "H 432",
+        "title": "ECONOMIC ISSUES IN HEALTH AND MEDICAL CARE",
+        "credits": "3"
+    },
+    {
+        "code": "H 434",
+        "title": "HEALTH CARE LAW AND REGULATION",
+        "credits": "3"
+    },
+    {
+        "code": "H 458",
+        "title": "REIMBURSEMENT MECHANISMS",
         "credits": "3"
     }
 ]}

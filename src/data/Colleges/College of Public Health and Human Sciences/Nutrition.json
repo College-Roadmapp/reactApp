@@ -1,0 +1,217 @@
+{"Courses":[
+    {
+        "code": "CH 121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "NUTR 104",
+        "title": "ORIENTATION TO THE NUTRITION MAJOR",
+        "credits": "1"
+    },
+    {
+        "code": "WR 121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "CH 122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 111",
+        "title": "*COLLEGE ALGEBRA",
+        "credits": "4"
+    },
+    {
+        "code": "CH 123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "5"
+    },
+    {
+        "code": "MTH 112",
+        "title": "*ELEMENTARY FUNCTIONS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "CH 331",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 221",
+        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "credits": "4"
+    },
+    {
+        "code": "H 100",
+        "title": "INTRODUCTION TO PUBLIC HEALTH",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 240",
+        "title": "HUMAN NUTRITION",
+        "credits": "3"
+    },
+    {
+        "code": "NUTR 241",
+        "title": "APPLICATIONS IN HUMAN NUTRITION",
+        "credits": "1"
+    },
+    {
+        "code": "CH 332",
+        "title": "ORGANIC CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 222",
+        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 325",
+        "title": "NUTRITION THROUGH THE LIFE CYCLE",
+        "credits": "3"
+    },
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "CH 337",
+        "title": "ORGANIC CHEMISTRY LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "BI 223",
+        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "ST 351",
+        "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "BI 231",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 241",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BB 450",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 439",
+        "title": "COMMUNICATIONS IN DIETETICS",
+        "credits": "3"
+    },
+    {
+        "code": "NUTR 307",
+        "title": "SEMINAR",
+        "credits": "1"
+    },
+    {
+        "code": "BI 232",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 242",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "BB 451",
+        "title": "GENERAL BIOCHEMISTRY",
+        "credits": "3"
+    },
+    {
+        "code": "NUTR 423",
+        "title": "COMMUNITY NUTRITION",
+        "credits": "4"
+    },
+    {
+        "code": "H 320",
+        "title": "INTRODUCTION TO HUMAN DISEASE",
+        "credits": "3"
+    },
+    {
+        "code": "BI 233",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BI 243",
+        "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "credits": "2"
+    },
+    {
+        "code": "NUTR 311",
+        "title": "FOODSERVICE PRODUCTION AND PURCHASING",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 401",
+        "title": "RESEARCH",
+        "credits": "1"
+    },
+    {
+        "code": "NUTR 417",
+        "title": "HUMAN NUTRITION SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "NUTR 430",
+        "title": "MEDICAL NUTRITION THERAPY I",
+        "credits": "4"
+    },
+    {
+        "code": "KIN 324",
+        "title": "EXERCISE PHYSIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "KIN 343",
+        "title": "PRE-THERAPY/ALLIED HEALTH SEMINAR",
+        "credits": "1"
+    },
+    {
+        "code": "NUTR 418",
+        "title": "HUMAN NUTRITION SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "MB 302",
+        "title": "GENERAL MICROBIOLOGY",
+        "credits": "3"
+    },
+    {
+        "code": "BB 314",
+        "title": "CELL AND MOLECULAR BIOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "MB 303",
+        "title": "GENERAL MICROBIOLOGY LABORATORY",
+        "credits": "2"
+    }
+]}

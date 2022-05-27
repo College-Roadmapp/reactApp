@@ -104,7 +104,6 @@
             ],
             "pubHealthMajors":[
                 {"label": "Health Management and Policy", "value":"health-mgmt-policy"},
-                {"label": "Health Promotion and Health Behavior", "value":"health-promo-behavior"},
                 {"label": "Human Development and Family Sciences", "value":"human-dev-fam-sci"},
                 {"label": "Kinesiology", "value":"kin"},
                 {"label": "Nutrition", "value":"nutrition"}

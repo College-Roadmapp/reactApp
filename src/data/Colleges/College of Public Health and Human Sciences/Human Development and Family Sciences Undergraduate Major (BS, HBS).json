@@ -15,6 +15,16 @@
         "credits": "3"
     },
     {
+        "code": "MTH 105",
+        "title":"*INTRODUCTION TO CONTEMPORARY MATHEMATICS",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 201",
+        "title": "*CONTEMPORARY FAMILIES IN THE U.S.",
+        "credits": "3"
+    },
+    {
         "code": "HDFS 311",
         "title": "INFANT AND CHILD DEVELOPMENT",
         "credits": "4"
@@ -55,6 +65,11 @@
         "credits": "4"
     },
     {
+        "code": "HDFS 447",
+        "title": "*FAMILIES AND POVERTY",
+        "credits": "4"
+    },
+    {
         "code": "PSY 202",
         "title": "*GENERAL PSYCHOLOGY",
         "credits": "4"
@@ -87,6 +102,11 @@
     {
         "code": "ST 351",
         "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "HDFS 461",
+        "title": "PROGRAM DEVELOPMENT AND PROPOSAL WRITING",
         "credits": "4"
     }
 ]}

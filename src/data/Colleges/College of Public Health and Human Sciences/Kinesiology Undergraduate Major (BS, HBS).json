@@ -5,13 +5,28 @@
         "credits": "1"
     },
     {
-        "code": "KIN 206",
+        "code": "KIN 132",
+        "title": "INTRODUCTION TO THE ALLIED HEALTH PROFESSIONS",
+        "credits": "1"
+    },
+    {
+        "code": "KIN 206 (1)",
         "title": "PROJECTS",
-        "credits": "1-16"
+        "credits": "4"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
     },
     {
         "code": "KIN 311",
         "title": "MOTOR BEHAVIOR",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
         "credits": "4"
     },
     {
@@ -25,9 +40,24 @@
         "credits": "3"
     },
     {
+        "code": "KIN 206 (2)",
+        "title": "PROJECTS",
+        "credits": "4"
+    },
+    {
         "code": "KIN 321",
         "title": "BIOMECHANICS OF HUMAN MOVEMENT",
         "credits": "4"
+    },
+    {
+        "code": "HHS 231",
+        "title": "*LIFETIME FITNESS FOR HEALTH",
+        "credits": "2"
+    },
+    {
+        "code": "SOC 204",
+        "title": "*INTRODUCTION TO SOCIOLOGY",
+        "credits": "3"
     },
     {
         "code": "KIN 324",
@@ -43,6 +73,11 @@
         "code": "KIN 481",
         "title": "^ANALYSIS OF CRITICAL ISSUES IN KINESIOLOGY",
         "credits": "3"
+    },
+    {
+        "code": "KIN 206 (3)",
+        "title": "PROJECTS",
+        "credits": "4"
     },
     {
         "code": "BI 231",
@@ -75,21 +110,6 @@
         "credits": "2"
     },
     {
-        "code": "BI 331",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 332",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 333",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "3"
-    },
-    {
         "code": "BI 341",
         "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
         "credits": "2"
@@ -105,19 +125,14 @@
         "credits": "2"
     },
     {
-        "code": "BI 254",
-        "title": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
+        "code": "PH 201",
+        "title": "*GENERAL PHYSICS",
         "credits": "5"
     },
     {
-        "code": "BI 255",
-        "title": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "5"
-    },
-    {
-        "code": "BI 256",
-        "title": "PRINCIPLES OF HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "5"
+        "code": "PHAR 210",
+        "title": "TERMINOLOGY OF THE HEALTH SCIENCES",
+        "credits": "2"
     },
     {
         "code": "CH 121",

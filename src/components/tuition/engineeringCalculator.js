@@ -58,7 +58,6 @@ function EngineeringCalculator(){
   return(
 
     <div className="tuitionTable">
-
       <h6> Tuition Calculator*: </h6>
       <p className="tuitionText"> Enter credits: <input type="text" onChange={getInputValue} /> </p>
       <div className="tuitionText">
@@ -76,8 +75,6 @@ function EngineeringCalculator(){
 
       <p className="tuitionText"> *This is an estimatation of tuition prices and does not include additional fees. For exact rates and more information, follow this <a href="https://fa.oregonstate.edu/business-affairs/tuition-and-fee-information"> link. </a></p>
     </div>
-
-
   )
 }
 

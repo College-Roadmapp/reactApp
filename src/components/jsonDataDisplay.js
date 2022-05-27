@@ -711,21 +711,18 @@ class JsonDataDisplay extends React.Component {
     // else if (curMajor === 'pharmd') {
     //   parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/');
     // }
-    // else if (curMajor === 'health-mgmt-policy') {
-    //   parsedJSON = require('./../parseHTML/Success/hea');
-    // }
-    // else if (curMajor === 'health-promo-behavior') {
-    //   parsedJSON = require('./../parseHTML/Success/Civil Engineering Undergraduate Major (BA, BS, HBA, HBS).json');
-    // }
+    else if (curMajor === 'health-mgmt-policy') {
+      parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/Public Health Undergraduate Major (BS, HBS).json');
+    }
     else if (curMajor === 'human-dev-fam-sci') {
       parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/Human Development and Family Sciences Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'kin') {
       parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/Kinesiology Undergraduate Major (BS, HBS).json');
     }
-    // else if (curMajor === 'nutrition') {
-    //   parsedJSON = require('./../parseHTML/FailedGrab/Nutrition Undergraduate Major (BS, HBS).json');
-    // }
+    else if (curMajor === 'nutrition') {
+      parsedJSON = require('./../data/Colleges/College of Public Health and Human Sciences/Nutrition.json');
+    }
     else if (curMajor === 'biochem-biophys') {
       parsedJSON = require('./../data/Colleges/College of Science/Biochemistry and Biophysics Undergraduate Major (BS, HBS).json');
     }
