@@ -1,4 +1,41 @@
-# Getting Started with Create React App
+# About myOSURoadmap
+
+Are you an incoming or current Oregon State student trying to map out your college career? Planning your path to graduation can be a complex process and confusing to navigate. The current method of creating your course roadmap is flawed by issues of accessibility, clarity, and helpfulness. The variety of tools that Oregon State offers are located in multiple different places and it can be difficult to collect all of the necessary information to stay on top of your major. Our goal in creating this application is to relieve students of all these issues and simplify their college planning experience within one place.
+
+Our project, MyOSURoadmap, is a student-built web application that is designed to assist students in easily understanding the course map for their degree. With this tool, users are able to view their required courses spread throughout a four year plan with the ability to customize it to their liking. Students will select their college and major to view a sample of that degree map. After that, courses can easily be moved between terms to view what works best for their schedule and personal preferences. For more information about courses and various programs, a list of links is available to guide users through navigating other helpful student resources.
+
+MyOSURoadmap also works to simplify the complexity around Oregon State’s tuition rates and help students plan out their finances. Our web app provides a tuition calculator that estimates the tuition rates for that specific college based on the number of credits being applied. Finally, another supported tool is the progress bar which gives students the ability to track their progress towards earning their degree. By selecting checkboxes next to their completed courses within the roadmap, the progress bar visually displays their finished work.
+
+We hope this project will support students in overcoming these roadblocks and administer an easier experience for planning out their academic career at OSU. 
+
+# App Features
+
+* Browse Home, Roadmap, About, and Resources pages
+* Select a major offered at OSU given the user's selection of college
+* Render a course roadmap based on major selection
+* Allow user to check off courses they have already completed, in turn displaying their progress through the progress bar
+* Allow user to move courses amoung different terms
+* Made a 'Course Holder' term available if the user does not want a course on their 12-term roadmap
+* Print/Save button to print roadmap or save it as a PDF
+
+# Potential features to build upon existing application
+
+* Taking into account minors
+* Taking into account degree options
+* Checking prerequisites, and alerting the user if the order of the courses in their roadmap violated a prerequisite requirement
+* Discard any overlap between default Baccalaurate Core courses and required courses in degree plan
+
+# React Documentation
+
+To create the app, we can the command `npx create-react-app my-app`
+
+## Specific Packages Installed for Our App
+
+`npm install @mui/material @emotion/react @emotion/styled`
+
+`npm install --save @ramonak/react-progress-bar`
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
