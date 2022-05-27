@@ -1,3 +1,16 @@
+# About myOSURoadmap
+
+[about section here]
+
+# Packages Installed:
+
+`npm install @mui/material @emotion/react @emotion/styled`
+`npm install --save @ramonak/react-progress-bar`
+
+# React Documentation:
+
+To create the app, we can the command `npx create-react-app my-app`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
