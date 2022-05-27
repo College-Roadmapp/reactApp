@@ -10,22 +10,32 @@ We hope this project will support students in overcoming these roadblocks and ad
 
 # App Features
 
-* [talk about the features here]
-* feature1
-* feature2
-* and so on...
+* Browse Home, Roadmap, About, and Resources pages
+* Select a major offered at OSU given the user's selection of college
+* Render a course roadmap based on major selection
+* Allow user to check off courses they have already completed, in turn displaying their progress through the progress bar
+* Allow user to move courses amoung different terms
+* Made a 'Course Holder' term available if the user does not want a course on their 12-term roadmap
+* Print/Save button to print roadmap or save it as a PDF
 
-# Packages Installed:
+# Potential features to build upon existing application
+
+* Taking into account minors
+* Taking into account degree options
+* Checking prerequisites, and alerting the user if the order of the courses in their roadmap violated a prerequisite requirement
+* Discard any overlap between default Baccalaurate Core courses and required courses in degree plan
+
+# React Documentation
+
+To create the app, we can the command `npx create-react-app my-app`
+
+## Specific Packages Installed for Our App
 
 `npm install @mui/material @emotion/react @emotion/styled`
 
 `npm install --save @ramonak/react-progress-bar`
 
-# React Documentation:
-
-To create the app, we can the command `npx create-react-app my-app`
-
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
