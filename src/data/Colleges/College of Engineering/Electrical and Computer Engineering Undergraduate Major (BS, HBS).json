@@ -14,7 +14,7 @@
             "code": "ENGR 103",
             "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
             "credits": "3"
-        },  
+        },
         {
             "code": "ENGR 201",
             "title": "ELECTRICAL FUNDAMENTALS I",
@@ -42,7 +42,7 @@
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -77,17 +77,17 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -102,18 +102,18 @@
         },
         {
             "code": "CS 391",
-            "title": "*SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+            "title": "SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
             "credits": "3"
         },
         {
             "code": "ECE 271",
             "title": "DIGITAL LOGIC DESIGN",
-            "credits": "4"
+            "credits": "3"
         },
         {
             "code": "ECE 272",
             "title": "DIGITAL LOGIC DESIGN LABORATORY",
-            "credits": "4"
+            "credits": "1"
         },
         {
             "code": "ECE 322",
@@ -167,48 +167,83 @@
         },
         {
             "code": "ECE 441",
-            "title": "^ENGINEERING DESIGN PROJECT",
+            "title": "ENGINEERING DESIGN PROJECT",
             "credits": "3"
         },
         {
             "code": "ECE 442",
-            "title": "^ENGINEERING DESIGN PROJECT",
+            "title": "ENGINEERING DESIGN PROJECT",
             "credits": "3"
         },
         {
             "code": "ECE 443",
-            "title": "^ENGINEERING DESIGN PROJECT",
+            "title": "ENGINEERING DESIGN PROJECT",
             "credits": "2"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
-        },        
+        },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS",
+            "title": "LIFETIME FITNESS",
             "credits": "1"
+        },
+        {
+            "code": "CS 344",
+            "title": "OPERATING SYSTEMS 1*",
+            "credits": "4"
+        },
+        {
+            "code": "ECE 411",
+            "title": "ENGINEERING MAGNETICS*",
+            "credits": "3"
+        },
+        {
+            "code": "ECE 413",
+            "title": "SENSORS*",
+            "credits": "3"
+        },
+        {
+            "code": "ECE 415",
+            "title": "MATERIAL SCIENCE OF NANOTECHNOLOGY*",
+            "credits": "3"
+        },
+        {
+            "code": "ECE 416",
+            "title": "ELECTRONIC MATERIALS AND DEVICES*",
+            "credits": "4"
+        },
+        {
+            "code": "ECE 422",
+            "title": "CMOS INTEGRATED CIRCUITS 1*",
+            "credits": "4"
+        },
+        {
+            "code": "ECE 423",
+            "title": "CMOS INTEGRATED CIRCUITS 2*",
+            "credits": "4"
+        },
+        {
+            "code": "ECE 474",
+            "title": "VLSI SYSTEM DESIGN*",
+            "credits": "4"
         }
     ]
 }

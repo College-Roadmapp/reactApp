@@ -17,12 +17,7 @@
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
@@ -42,17 +37,17 @@
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "4"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "title": "LIFETIME FITNESS (or any PAC course)",
             "credits": "1"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -67,12 +62,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -82,12 +77,7 @@
         },
         {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
-            "credits": "4"
-        },
-        {
-            "code": "ECON 202",
-            "title": "*INTRODUCTION TO MACROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS*",
             "credits": "4"
         },
         {
@@ -127,12 +117,12 @@
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -142,7 +132,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -222,22 +212,27 @@
         },
         {
             "code": "MIME 497",
-            "title": "^MIME CAPSTONE DESIGN",
-            "credits": "4"
-        },
-        {
-            "code": "ENGR 415",
-            "title": "^ENGINEERING CAPSTONE DESIGN I",
+            "title": "MIME CAPSTONE DESIGN*",
             "credits": "4"
         },
         {
             "code": "MIME 498",
-            "title": "^MIME CAPSTONE DESIGN",
+            "title": "^MIME CAPSTONE DESIGN*",
             "credits": "4"
         },
         {
-            "code": "ENGR 416",
-            "title": "^ENGINEERING CAPSTONE DESIGN II",
+            "code": "ELE XX1",
+            "title": "RESTRICTED ME TECHNICAL ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "RESTRICTED ME TECHNICAL ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX3",
+            "title": "RESTRICTED ME LABORATORY ELECTIVE*",
             "credits": "4"
         }
     ]

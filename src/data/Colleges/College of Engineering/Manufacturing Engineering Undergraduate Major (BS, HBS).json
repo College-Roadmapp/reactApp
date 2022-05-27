@@ -17,12 +17,7 @@
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
@@ -42,17 +37,17 @@
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "title": "LIFETIME FITNESS (or any PAC course)",
             "credits": "1"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -67,12 +62,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -122,7 +117,7 @@
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -132,12 +127,7 @@
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
-            "credits": "4"
-        },
-        {
-            "code": "PH 213",
-            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS ",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -157,7 +147,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -188,6 +178,51 @@
         {
             "code": "MIME 498",
             "title": "^MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX3",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX4",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX5",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX6",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX7",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX8",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX9",
+            "title": "RESTRICTED ELECTIVE*",
             "credits": "4"
         }
     ]

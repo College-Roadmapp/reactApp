@@ -22,7 +22,7 @@
         },
         {
             "code": "CH 261",
-            "title": "*LABORATORY FOR CHEMISTRY 231",
+            "title": "LABORATORY FOR CHEMISTRY 231",
             "credits": "1"
         },
         {
@@ -32,32 +32,32 @@
         },
         {
             "code": "CH 262",
-            "title": "*LABORATORY FOR CHEMISTRY 232",
+            "title": "LABORATORY FOR CHEMISTRY 232",
             "credits": "1"
         },
         {
             "code": "CH 233",
-            "title": "*LABORATORY FOR CHEMISTRY 233",
+            "title": "LABORATORY FOR CHEMISTRY 233",
             "credits": "4"
         },
         {
             "code": "CH 263",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "LABORATORY FOR CHEMISTRY 233",
+            "credits": "1"
+        },
+        {
+            "code": "CH 263",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "1"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING",
             "credits": "3"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -72,17 +72,17 @@
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "title": "LIFETIME FITNESS (or any PAC course)",
             "credits": "1"
         },
         {
@@ -137,22 +137,22 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -222,7 +222,7 @@
         },
         {
             "code": "CBEE 414",
-            "title": "^PROCESS ENGINEERING LABORATORY",
+            "title": "PROCESS ENGINEERING LABORATORY",
             "credits": "3"
         },
         {
@@ -244,6 +244,21 @@
             "code": "CHE 443",
             "title": "CHEMICAL REACTION ENGINEERING",
             "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "GENERAL ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "ADVANCED CHEMISTRY COURSE WITH LAB*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX3",
+            "title": "ADVANCED CHEMISTRY COURSE*",
+            "credits": "3"
         }
     ]
 }

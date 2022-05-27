@@ -17,77 +17,37 @@
         },
         {
             "code": "CH 231",
-            "title": "GENERAL CHEMISTRY",
+            "title": "GENERAL CHEMISTRY*",
             "credits": "4"
         },
         {
             "code": "CH 261",
-            "title": "*LABORATORY FOR CHEMISTRY 231",
+            "title": "LABORATORY FOR CHEMISTRY 231*",
             "credits": "1"
         },
         {
             "code": "CH 232",
-            "title": "GENERAL CHEMISTRY",
+            "title": "GENERAL CHEMISTRY*",
             "credits": "4"
         },
         {
             "code": "CH 262",
-            "title": "*LABORATORY FOR CHEMISTRY 232",
+            "title": "LABORATORY FOR CHEMISTRY 232*",
             "credits": "1"
         },
         {
             "code": "CH 233",
-            "title": "*LABORATORY FOR CHEMISTRY 233",
+            "title": "LABORATORY FOR CHEMISTRY 233*",
             "credits": "4"
         },
         {
             "code": "CH 263",
-            "title": "*DIFFERENTIAL CALCULUS",
-            "credits": "1"
-        },
-        {
-            "code": "CH 121",
-            "title": "GENERAL CHEMISTRY",
-            "credits": "5"
-        },
-        {
-            "code": "CH 122",
-            "title": "*GENERAL CHEMISTRY",
-            "credits": "5"
-        },
-        {
-            "code": "CH 123",
-            "title": "*GENERAL CHEMISTRY",
-            "credits": "5"
-        },
-        {
-            "code": "CH 201",
-            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
-            "credits": "3"
-        },
-        {
-            "code": "CH 202",
-            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
-            "credits": "3"
-        },
-        {
-            "code": "CH 205",
-            "title": "LABORATORY FOR CH 202",
+            "title": "DIFFERENTIAL CALCULUS*",
             "credits": "1"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 218",
-            "title": "*INTERPERSONAL COMMUNICATION",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
@@ -102,8 +62,8 @@
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
-            "credits": ""
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
         },
         {
             "code": "MTH 252",
@@ -122,42 +82,32 @@
         },
         {
             "code": "MTH 264",
-            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "title": "INTRODUCTION TO MATRIX ALGEBRA*",
             "credits": "2"
         },
         {
             "code": "MTH 265",
-            "title": "INTRODUCTION TO SERIES",
+            "title": "INTRODUCTION TO SERIES*",
             "credits": "2"
         },
         {
-            "code": "MTH 253",
-            "title": "INFINITE SERIES AND SEQUENCES",
-            "credits": "4"
-        },
-        {
-            "code": "MTH 341",
-            "title": "LINEAR ALGEBRA I",
-            "credits": "3"
-        },
-        {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
-        },        
+        },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
-        },        
+        },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -177,42 +127,32 @@
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "title": "LIFETIME FITNESS (or any PAC course)",
             "credits": "1"
         },
         {
             "code": "SOIL 205",
             "title": "SOIL SCIENCE",
-            "credits": "4"
+            "credits": "3"
         },
         {
             "code": "SOIL 206",
-            "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
+            "title": "SOIL SCIENCE LABORATORY FOR SOIL 205",
             "credits": "1"
         },
         {
             "code": "ST 314",
-            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS*",
             "credits": "3"
         },
         {
-            "code": "ST 421",
-            "title": "INTRODUCTION TO MATHEMATICAL STATISTICS",
-            "credits": "4"
-        },
-        {
-            "code": "ST 422",
-            "title": "INTRODUCTION TO MATHEMATICAL STATISTICS",
-            "credits": "4"
-        },
-        {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -257,17 +197,17 @@
         },
         {
             "code": "BEE 481",
-            "title": "^ECOLOGICAL ENGINEERING DESIGN I",
+            "title": "ECOLOGICAL ENGINEERING DESIGN I",
             "credits": "4"
         },
         {
             "code": "BEE 482",
-            "title": "^ECOLOGICAL ENGINEERING DESIGN I",
+            "title": "ECOLOGICAL ENGINEERING DESIGN I",
             "credits": "3"
         },
         {
             "code": "BEE 483",
-            "title": "^ECOLOGICAL ENGINEERING DESIGN I",
+            "title": "ECOLOGICAL ENGINEERING DESIGN I",
             "credits": "2"
         },
         {
@@ -287,33 +227,43 @@
         },
         {
             "code": "AEC 250",
-            "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+            "title": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY*",
             "credits": "3"
-        },
-        {
-            "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
-            "credits": "4"
         },
         {
             "code": "IE 380",
-            "title": "*THE RESPONSIBLE ENGINEER",
+            "title": "THE RESPONSIBLE ENGINEER*",
             "credits": "3"
         },
         {
-            "code": "PHL 205",
-            "title": "*ETHICS",
+            "code": "CE 411",
+            "title": "OCEAN ENGINEERING*",
             "credits": "4"
         },
         {
-            "code": "PHL 440",
-            "title": "*ENVIRONMENTAL ETHICS",
+            "code": "CE 417",
+            "title": "HYDRAULIC ENGINEERING DESIGN*",
+            "credits": "4"
+        },
+        {
+            "code": "ENVE 425",
+            "title": "AIR POLLUTION CONTROL*",
             "credits": "3"
         },
         {
-            "code": "PHL 443/REL 443",
-            "title": "*WORLD VIEWS AND ENVIRONMENTAL VALUES",
-            "credits": "3"
+            "code": "AEC 432",
+            "title": "ENVIRONMENTAL LAW*",
+            "credits": "4"
+        },
+        {
+            "code": "BB 350",
+            "title": "ELEMENTARY BIOCHEMISTRY*",
+            "credits": "4"
+        },
+        {
+            "code": "BOT 341",
+            "title": "PLANT ECOLOGY*",
+            "credits": "4"
         }
     ]
 }

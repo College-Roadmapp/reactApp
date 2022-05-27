@@ -32,22 +32,17 @@
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING",
             "credits": "3"
         },
         {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS",
             "credits": "4"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -62,12 +57,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -117,12 +112,12 @@
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -132,7 +127,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -197,12 +192,12 @@
         },
         {
             "code": "CE 418",
-            "title": "^CIVIL ENGINEERING PROFESSIONAL PRACTICE",
+            "title": "CIVIL ENGINEERING PROFESSIONAL PRACTICE",
             "credits": "3"
         },
         {
             "code": "CE 419",
-            "title": "^CIVIL INFRASTRUCTURE DESIGN",
+            "title": "CIVIL INFRASTRUCTURE DESIGN",
             "credits": "3"
         },
         {
@@ -218,6 +213,21 @@
         {
             "code": "ENVE 321",
             "title": "ENVIRONMENTAL ENGINEERING FUNDAMENTALS",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "TECHNICAL ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "TECHNICAL ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX3",
+            "title": "TECHNICAL ELECTIVE*",
             "credits": "4"
         }
     ]

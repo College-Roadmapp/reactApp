@@ -2,67 +2,27 @@
     "Courses": [
         {
             "code": "CH 121",
-            "title": "GENERAL CHEMISTRY",
+            "title": "GENERAL CHEMISTRY*",
             "credits": "5"
         },
         {
             "code": "CH 122",
-            "title": "*GENERAL CHEMISTRY",
+            "title": "GENERAL CHEMISTRY*",
             "credits": "5"
         },
         {
             "code": "CH 123",
-            "title": "*GENERAL CHEMISTRY",
+            "title": "GENERAL CHEMISTRY*",
             "credits": "5"
         },
         {
-            "code": "CH 231",
-            "title": "GENERAL CHEMISTRY",
-            "credits": "4"
-        },
-        {
-            "code": "CH 261",
-            "title": "*LABORATORY FOR CHEMISTRY 232",
-            "credits": "1"
-        },
-        {
-            "code": "CH 232",
-            "title": "GENERAL CHEMISTRY",
-            "credits": "4"
-        },
-        {
-            "code": "CH 262",
-            "title": "*LABORATORY FOR CHEMISTRY 232",
-            "credits": "1"
-        },
-        {
-            "code": "CH 233",
-            "title": "GENERAL CHEMISTRY",
-            "credits": "4"
-        },
-        {
-            "code": "CH 263",
-            "title": "*LABORATORY FOR CHEMISTRY 233",
-            "credits": "1"
-        },
-        {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
             "code": "CS 101",
-            "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS",
-            "credits": "4"
-        },
-        {
-            "code": "CS 161",
-            "title": "INTRODUCTION TO COMPUTER SCIENCE I",
+            "title": "COMPUTERS: APPLICATIONS AND IMPLICATIONS*",
             "credits": "4"
         },
         {
@@ -82,7 +42,7 @@
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -97,32 +57,32 @@
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
             "code": "BI 221",
-            "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+            "title": "PRINCIPLES OF BIOLOGY: CELLS",
             "credits": "4"
         },
         {
             "code": "BI 222",
-            "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+            "title": "PRINCIPLES OF BIOLOGY: ORGANISMS",
             "credits": "4"
         },
         {
             "code": "BI 223",
-            "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+            "title": "PRINCIPLES OF BIOLOGY: POPULATIONS",
             "credits": "4"
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "4"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "title": "LIFETIME FITNESS (or any PAC course)",
             "credits": "4"
         },
         {
@@ -141,38 +101,28 @@
             "credits": "4"
         },
         {
-            "code": "PH 201",
-            "title": "*GENERAL PHYSICS",
-            "credits": "5"
-        },
-        {
-            "code": "PH 202",
-            "title": "*GENERAL PHYSICS",
-            "credits": "5"
-        },
-        {
-            "code": "PH 203",
-            "title": "*GENERAL PHYSICS",
-            "credits": "5"
-        },
-        {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS*",
             "credits": "4"
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS*",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS*",
             "credits": "4"
         },
         {
             "code": "BI 231",
             "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "NSE 319",
+            "title": "SOCIETAL ASPECTS OF NUCLEAR TECHNOLOGY",
             "credits": "3"
         },
         {
@@ -182,22 +132,17 @@
         },
         {
             "code": "ST 201",
-            "title": "PRINCIPLES OF STATISTICS",
+            "title": "PRINCIPLES OF STATISTICS*",
             "credits": "4"
         },
         {
             "code": "ST 202",
-            "title": "PRINCIPLES OF STATISTICS",
+            "title": "PRINCIPLES OF STATISTICS*",
             "credits": "4"
         },
         {
-            "code": "ST 314",
-            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
-            "credits": "3"
-        },
-        {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -207,7 +152,7 @@
         },
         {
             "code": "H 445",
-            "title": "*OCCUPATIONAL HEALTH",
+            "title": "OCCUPATIONAL HEALTH",
             "credits": "3"
         },
         {
@@ -227,12 +172,12 @@
         },
         {
             "code": "NSE 474",
-            "title": "^NUCLEAR SYSTEMS DESIGN I",
+            "title": "NUCLEAR SYSTEMS DESIGN I",
             "credits": "4"
         },
         {
             "code": "NSE 475",
-            "title": "^NUCLEAR SYSTEMS DESIGN II",
+            "title": "NUCLEAR SYSTEMS DESIGN II",
             "credits": "4"
         },
         {
@@ -243,6 +188,46 @@
         {
             "code": "NSE 488",
             "title": "RADIOECOLOGY",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "GENERAL ELECTIVE*",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "GENERAL ELECTIVE*",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX3",
+            "title": "HEALTH ELECTIVE*",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX4",
+            "title": "HEALTH ELECTIVE*",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX5",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX6",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX7",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX8",
+            "title": "RESTRICTED ELECTIVE*",
             "credits": "3"
         }
     ]

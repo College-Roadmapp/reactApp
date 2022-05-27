@@ -12,12 +12,7 @@
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
@@ -37,17 +32,17 @@
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (or any PAC course)",
+            "title": "LIFETIME FITNESS (or any PAC course)",
             "credits": "1"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -62,22 +57,17 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
             "code": "ENGR 201",
             "title": "ELECTRICAL FUNDAMENTALS I",
-            "credits": "3"
-        },
-        {
-            "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
             "credits": "3"
         },
         {
@@ -132,12 +122,12 @@
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -192,7 +182,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -222,17 +212,27 @@
         },
         {
             "code": "NSE 474",
-            "title": "^NUCLEAR SYSTEMS DESIGN I",
+            "title": "NUCLEAR SYSTEMS DESIGN I",
             "credits": "4"
         },
         {
             "code": "NSE 475",
-            "title": "^NUCLEAR SYSTEMS DESIGN II",
+            "title": "NUCLEAR SYSTEMS DESIGN II",
             "credits": "4"
         },
         {
             "code": "NSE 481",
             "title": "RADIATION PROTECTION",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "RESTRICTED ELECTIVE*",
+            "credits": "4"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "GENERAL ELECTIVE*",
             "credits": "4"
         }
     ]
