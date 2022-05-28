@@ -7,17 +7,12 @@
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS",
             "credits": "4"
         },
         {
@@ -37,22 +32,22 @@
         },
         {
             "code": "FES 240",
-            "title": "*FOREST BIOLOGY",
+            "title": "FOREST BIOLOGY",
             "credits": "4"
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS (any PAC course)",
+            "title": "LIFETIME FITNESS (any PAC course)",
             "credits": "1"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -67,12 +62,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -117,7 +112,7 @@
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -127,7 +122,7 @@
         },
         {
             "code": "FOR 206",
-            "title": "*FOREST SOILS LABORATORY FOR SOIL ",
+            "title": "FOREST SOILS LABORATORY FOR SOIL ",
             "credits": "1"
         },
         {
@@ -137,7 +132,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -174,6 +169,96 @@
             "code": "FE 434",
             "title": "FOREST WATERSHED MANAGEMENT",
             "credits": "4"
+        },
+        {
+            "code": "FE 440",
+            "title": "FOREST OPERATIONS ANALYSIS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 470",
+            "title": "LOGGING MECHANICS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 471",
+            "title": "HARVESTING MANAGEMENT",
+            "credits": "3"
+        },
+        {
+            "code": "FOR 321",
+            "title": "FOREST MENSURATION",
+            "credits": "5"
+        },
+        {
+            "code": "FOR 329",
+            "title": "FOREST RESOURCE ECONOMICS I",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 441",
+            "title": "SILVICULTURE PRINCIPLES",
+            "credits": "4"
+        },
+        {
+            "code": "FE 415",
+            "title": "FOREST ROAD ENGINEERING",
+            "credits": "3"
+        },
+        {
+            "code": "FE 416",
+            "title": "FOREST ROAD SYSTEM MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "FE 457/FOR 457",
+            "title": "TECHNIQUES FOR FOREST RESOURCE ANALYSIS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 459/FOR 459",
+            "title": "FOREST MANAGEMENT PLANNING AND DESIGN I",
+            "credits": "4"
+        },
+        {
+            "code": "FE 460",
+            "title": "FOREST OPERATIONS REGULATIONS AND POLICY ISSUES*",
+            "credits": "3"
+        },
+        {
+            "code": "FE 469/FOR 469",
+            "title": "FOREST MANAGEMENT PLANNING AND DESIGN II",
+            "credits": "4"
+        },
+        {
+            "code": "FE 480",
+            "title": "FOREST ENGINEERING PRACTICE AND PROFESSIONALISM",
+            "credits": "1"
+        },
+        {
+            "code": "FOR 330",
+            "title": "FOREST RESOURCE ECONOMICS II",
+            "credits": "4"
+        },
+        {
+            "code": "GEOG 300",
+            "title": "SUSTAINABILITY FOR THE COMMON GOOD*",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX1",
+            "title": "GENERAL ELECTIVE",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX2",
+            "title": "GENERAL ELECTIVE",
+            "credits": "3"
+        },
+        {
+            "code": "ELE XX3",
+            "title": "GENERAL ELECTIVE",
+            "credits": "3"
         }
     ]
 }

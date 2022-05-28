@@ -304,27 +304,28 @@ header .dropdown-menu a:hover {
 .description {
   clear: left;
   float: left;
-  width: 48%;
+  width: 28%;
   box-sizing: border-box;
   background-color: rgba(255, 255, 255, 0.8);
   justify-content: center;
   color: #000;
   line-height: 1.3;
   min-width: 500px;
-  max-height: 400px;
+  max-height: 450px;
 }
 
 .instructions {
   float: left;
-  width: 48%;
+  width: 78%;
   padding-left: 10px;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.8);
   justify-content: center;
   color: white;
   line-height: 1.3;
-  min-width: 500px;
-  max-height: 400px;
+  min-width: 700px;
+  max-height: 550px;
+  min-height: 350px;
 }
 
 .homeText {
@@ -345,13 +346,13 @@ header .dropdown-menu a:hover {
 
 .homepageDisclaimer{
   background: #d73f09;
-  width: 100%;
+  width: 98%;
   flex-wrap: wrap;
   float: left;
   clear: left;
   padding-left: 30px;
   padding-top: 10px;
-  max-height: 200px;
+  max-height: 300px;
   min-width: 500px;
   white-space: nowrap;
 
@@ -549,7 +550,7 @@ footer {
   will-change: transform;
   position: absolute;
   left: 760px;
-  top: 250px;
+  top: 435px;
  }
 
  .printButton:disabled {
@@ -566,4 +567,20 @@ footer {
  .printButton:active {
   box-shadow: none;
   transform: translateY(0);
+ }
+
+ .roadmapNote{
+   clear: left;
+   float: left;
+   padding-left: 75px;
+   padding-right: 10%;
+   font-size: 13px;
+   font-weight: 600;
+   color: rgba(0, 0, 0, 0.8);;
+   border-style: solid;
+   border-left: None;
+   border-right: None;
+   border-color: rgba(0, 0, 0, 0.2);
+   border-width: thin;
+   padding-bottom: 20px;
  }

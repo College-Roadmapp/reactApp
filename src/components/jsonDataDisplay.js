@@ -246,7 +246,7 @@ class JsonDataDisplay extends React.Component {
         // set term value of course to selected dropdown option
         props.info.array.getCourse(idx).term = this.state.term
       }
-      //if the user moved the course to the holder term, give it the term number 13 
+      //if the user moved the course to the holder term, give it the term number 13
         //(need a number not string)
       else{
         props.info.array.getCourse(idx).term = 13
@@ -330,7 +330,7 @@ class JsonDataDisplay extends React.Component {
   //---------- Then, it makes an array of html for each course, and renders all of them ----------
   //---------- into the roadmap ----------
   getHtml(termNum){
-    let info1 = null; 
+    let info1 = null;
     this.coursesPerTermArray = Array(12).fill(0)
     //if it a new major has been selected, then this conditional statement will
       //give each course a term by default, otherwise it will leave the term numbers as they are
@@ -474,9 +474,9 @@ class JsonDataDisplay extends React.Component {
     else if (curMajor === 'crop-soil') {
       parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Crop and Soil Science Undergraduate Major (BS, HBS).json');
     }
-    // else if (curMajor === 'eco-eng') {
-    //   parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
-    // }
+    else if (curMajor === 'eco-eng') {
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Ecological Engineering Undergraduate Major (BS, HBS).json');
+    }
     else if (curMajor === 'enviro-eco-policy') {
       parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Environmental Economics and Policy Undergraduate Major (BS, HBS).json');
     }
@@ -519,9 +519,6 @@ class JsonDataDisplay extends React.Component {
     else if (curMajor === 'hosp-mgmt') {
       parsedJSON = require('./../data/Colleges/College of Business/Hospitality Management Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    // else if (curMajor === 'inn-mgmt') {
-    //   parsedJSON = require('./../parseHTML/Success/Innovation Management Undergraduate Major (BA, BS, HBA, HBS).json');
-    // }
     else if (curMajor === 'int-des') {
       parsedJSON = require('./../data/Colleges/College of Business/Interior Design Undergraduate Major (BS, HBS).json');
     }
@@ -552,15 +549,12 @@ class JsonDataDisplay extends React.Component {
     // else if (curMajor === 'ocean-sci') {
     //   parsedJSON = require('./../parseHTML/Success/');
     // }
-    else if (curMajor === 'ed-double-deg') {
-      parsedJSON = require('./../data/Colleges/College of Education/Education Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
     else if (curMajor === 'elem-ed') {
-      parsedJSON = require('./../data/Colleges/College of Education/Teaching Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Education/Elementary Education Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    // else if (curMajor === 'clin-elem-ed') {
-    //   parsedJSON = require('./../parseHTML/Success/Clin');
-    // }
+    else if (curMajor === 'clin-elem-ed') {
+      parsedJSON = require('./../data/Colleges/College of Education/Clinically Based Elementary Education Undergraduate Major (BS, HBS).json');
+    }
     else if (curMajor === 'arch') {
       parsedJSON = require('./../data/Colleges/College of Engineering/Architectural Engineering Undergraduate Major (BS, HBS).json');
     }
@@ -736,7 +730,7 @@ class JsonDataDisplay extends React.Component {
       parsedJSON = require('./../data/Colleges/College of Science/Biology Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'chem') {
-      parsedJSON = require('./../parseHTML/Success/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'math') {
       parsedJSON = require('./../data/Colleges/College of Science/Mathematics Undergraduate Major (BS, HBS).json');
@@ -775,7 +769,7 @@ class JsonDataDisplay extends React.Component {
   //render a brand new Table with json values
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-    //if global major variable changed and the user had clicked checkboxes and 
+    //if global major variable changed and the user had clicked checkboxes and
       //in turn updates the total progress count, reset them all back to 0/empty
     if(currentMajor !== this.props.major && this.totalProgress !== 0 && this.state.isCheckedArr !== []){
       this.totalProgress = 0

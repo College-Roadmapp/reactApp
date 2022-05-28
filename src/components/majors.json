@@ -25,7 +25,6 @@
                 {"label": "Design and Innovation Management", "value":"des-inn-mgmt"},
                 {"label": "Finance", "value":"finance"},
                 {"label": "Hospitality Management", "value":"hosp-mgmt"},
-                {"label": "Innovation Management", "value":"inn-mgmt"},
                 {"label": "Interior Design", "value":"int-des"},
                 {"label": "Management", "value":"mgmt"},
                 {"label": "Marketing", "value":"marketing"},
@@ -40,7 +39,6 @@
                 {"label": "Ocean Science", "value":"ocean-sci"}
             ],
             "educationMajors":[
-                {"label": "Education Double Degree", "value":"ed-double-deg"},
                 {"label": "Elementary Education", "value":"elem-ed"},
                 {"label": "Clinincally Based Elementary Education", "value":"clin-elem-ed"}
             ],

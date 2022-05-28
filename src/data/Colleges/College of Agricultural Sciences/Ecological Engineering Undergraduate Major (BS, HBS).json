@@ -1,0 +1,243 @@
+{"Courses":[
+    {
+        "code": "ENGR\u00a0100",
+        "title": "THE OREGON STATE ENGINEERING STUDENT",
+        "credits": "4"
+    },
+    {
+        "code": "ENGR\u00a0102",
+        "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+        "credits": "4"
+    },
+    {
+        "code": "ENGR\u00a0103",
+        "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0121",
+        "title": "GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0122",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0123",
+        "title": "*GENERAL CHEMISTRY",
+        "credits": "4"
+    },
+    {
+        "code": "ENGR\u00a0211",
+        "title": "STATICS",
+        "credits": "4"
+    },
+    {
+        "code": "ENGR\u00a0213",
+        "title": "STRENGTH OF MATERIALS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "*DIFFERENTIAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0256",
+        "title": "APPLIED DIFFERENTIAL EQUATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0253",
+        "title": "INFINITE SERIES AND SEQUENCES",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0341",
+        "title": "LINEAR ALGEBRA I",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "WR\u00a0121",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0221",
+        "title": "FUNDAMENTALS OF ECOLOGICAL ENGINEERING",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0222",
+        "title": "ECOLOGICAL ENGINEERING COMPUTATION",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0270",
+        "title": "ECOLOGY FOR ENGINEERS",
+        "credits": "4"
+    },
+    {
+        "code": "SOIL\u00a0205",
+        "title": "SOIL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "SOIL\u00a0206",
+        "title": "*SOIL SCIENCE LABORATORY FOR SOIL 205",
+        "credits": "4"
+    },
+    {
+        "code": "ST\u00a0314",
+        "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0311",
+        "title": "ECOLOGICAL FLUID MECHANICS",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0312",
+        "title": "ECOHYDRAULICS",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0313",
+        "title": "ECOHYDROLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0320",
+        "title": "BIOSYSTEMS ANALYSIS AND MODELING",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0322",
+        "title": "ECOLOGICAL ENGINEERING THERMODYNAMICS AND TRANSFER PROCESS",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0361",
+        "title": "ECOLOGICAL ENGINEERING LABORATORY",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0362",
+        "title": "ECOLOGICAL ENGINEERING MICROBIAL PROCESSES",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0468",
+        "title": "BIOREMEDIATION ENGINEERING",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0481",
+        "title": "^ECOLOGICAL ENGINEERING DESIGN I",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0482",
+        "title": "ECOLOGICAL ENGINEERING DESIGN II",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0483",
+        "title": "ECOLOGICAL ENGINEERING DESIGN III",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0415",
+        "title": "PROFESSIONAL DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "FE\u00a0208",
+        "title": "FOREST SURVEYING",
+        "credits": "4"
+    },
+    {
+        "code": "FE\u00a0257",
+        "title": "GIS AND FOREST ENGINEERING APPLICATIONS",
+        "credits": "4"
+    },
+    {
+        "code": "AEC\u00a0250",
+        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "ECON\u00a0201",
+        "title": "*INTRODUCTION TO MICROECONOMICS",
+        "credits": "4"
+    },
+    {
+        "code": "IE\u00a0380",
+        "title": "*THE RESPONSIBLE ENGINEER",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0410",
+        "title": "ECOLOGICAL ENGINEERING INTERNSHIP",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0433",
+        "title": "IRRIGATION SYSTEM DESIGN",
+        "credits": "4"
+    },
+    {
+        "code": "BEE\u00a0446",
+        "title": "RIVER ENGINEERING",
+        "credits": "4"
+    },
+    {
+        "code": "AEC\u00a0351",
+        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
+        "credits": "4"
+    },
+    {
+        "code": "AEC\u00a0432",
+        "title": "ENVIRONMENTAL LAW",
+        "credits": "4"
+    },
+    {
+        "code": "ANS\u00a0121",
+        "title": "*INTRODUCTION TO ANIMAL SCIENCES",
+        "credits": "4"
+    },
+    {
+        "code": "ANS\u00a0251",
+        "title": "PRINCIPLES OF ANIMAL FOODS TECHNOLOGY",
+        "credits": "4"
+    }
+
+]}

@@ -1,12 +1,7 @@
 {"Courses":[
     {
         "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
-        "credits": "3"
-    },
-    {
-        "code": "COMM 114",
-        "title": "*ARGUMENT AND CRITICAL DISCOURSE",
+        "title": "PUBLIC SPEAKING*",
         "credits": "3"
     },
     {
@@ -16,32 +11,7 @@
     },
     {
         "code": "ANTH 481",
-        "title": "*NATURAL RESOURCES AND COMMUNITY VALUES",
-        "credits": "3"
-    },
-    {
-        "code": "FES 485",
-        "title": "*CONSENSUS AND NATURAL RESOURCES",
-        "credits": "3"
-    },
-    {
-        "code": "FW 340",
-        "title": "*MULTICULTURAL PERSPECTIVES IN NATURAL RESOURCES",
-        "credits": "3"
-    },
-    {
-        "code": "FW 350",
-        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
-        "credits": "3"
-    },
-    {
-        "code": "SOC 481",
-        "title": "*SOCIETY AND NATURAL RESOURCES",
-        "credits": "4"
-    },
-    {
-        "code": "WGSS 440",
-        "title": "*WOMEN AND NATURAL RESOURCES",
+        "title": "NATURAL RESOURCES AND COMMUNITY VALUES*",
         "credits": "3"
     },
     {
@@ -61,7 +31,7 @@
     },
     {
         "code": "SUS 350",
-        "title": "*SUSTAINABLE COMMUNITIES",
+        "title": "SUSTAINABLE COMMUNITIES",
         "credits": "4"
     },
     {
@@ -71,22 +41,162 @@
     },
     {
         "code": "TRAL 357",
-        "title": "*PARKS AND PROTECTED AREAS MANAGEMENT",
-        "credits": "3"
-    },
-    {
-        "code": "FES 444",
-        "title": "ECOLOGICAL ASPECTS OF PARK MANAGEMENT",
-        "credits": "3"
-    },
-    {
-        "code": "TRAL 352",
-        "title": "WILDERNESS MANAGEMENT",
+        "title": "PARKS AND PROTECTED AREAS MANAGEMENT*",
         "credits": "3"
     },
     {
         "code": "WR 121",
-        "title": "*ENGLISH COMPOSITION",
+        "title": "ENGLISH COMPOSITION",
         "credits": "4"
+    },
+    {
+        "code": "ELE XX1",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX2",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX3",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX4",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX5",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX6",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX7",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX8",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX9",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X10",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X11",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X12",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X13",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X14",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X15",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X16",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X17",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X18",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X19",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X20",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X21",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X22",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X23",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X24",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X25",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X26",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X27",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X28",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X29",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X30",
+        "title": "SPECIALTY OPTION*",
+        "credits": "3"
     }
 ]}

@@ -1,0 +1,273 @@
+{"Courses":[
+    {
+        "code": "HHS\u00a0231",
+        "title": "LIFETIME FITNESS FOR HEALTH ",
+        "credits": "2"
+    },
+    {
+        "code": "HHS\u00a0241",
+        "title": "LIFETIME FITNESS (or any PAC course) ",
+        "credits": "1"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY ",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0271",
+        "title": "LABORATORY FOR CH 231 FOR CHEMISTRY MAJORS ",
+        "credits": "1"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY ",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0272",
+        "title": "LABORATORY FOR CH 232 FOR CHEMISTRY MAJORS ",
+        "credits": "1"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY ",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0273",
+        "title": "LABORATORY FOR CH 233 FOR CHEMISTRY MAJORS ",
+        "credits": "1"
+    },
+    {
+        "code": "CH\u00a0334",
+        "title": "ORGANIC CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0335",
+        "title": "ORGANIC CHEMISTRY " ,
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0336",
+        "title": "ORGANIC CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0361",
+        "title": "EXPERIMENTAL CHEMISTRY I ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0362",
+        "title": "EXPERIMENTAL CHEMISTRY I ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0421",
+        "title": "ANALYTICAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0422",
+        "title": "ANALYTICAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0440",
+        "title": "PHYSICAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0441",
+        "title": "PHYSICAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0442",
+        "title": "PHYSICAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "MTH\u00a0251",
+        "title": "DIFFERENTIAL CALCULUS ",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0252",
+        "title": "INTEGRAL CALCULUS ",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0253",
+        "title": "INFINITE SERIES AND SEQUENCES ",
+        "credits": "4"
+    },
+    {
+        "code": "MTH\u00a0254",
+        "title": "VECTOR CALCULUS I ",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0211",
+        "title": "GENERAL PHYSICS WITH CALCULUS ",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0212",
+        "title": "GENERAL PHYSICS WITH CALCULUS ",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0213",
+        "title": "GENERAL PHYSICS WITH CALCULUS",
+        "credits": "4"
+    },
+    {
+        "code": "PH\u00a0221",
+        "title": "RECITATION FOR PHYSICS 211 ",
+        "credits": "1"
+    },
+    {
+        "code": "PH\u00a0222",
+        "title": "RECITATION FOR PHYSICS 212 ",
+        "credits": "1"
+    },
+    {
+        "code": "PH\u00a0223",
+        "title": "RECITATION FOR PHYSICS 213 ",
+        "credits": "1"
+    },
+    {
+        "code": "CH\u00a0231",
+        "title": "GENERAL CHEMISTRY ",
+        "credits": "4"
+    },
+    {
+        "code": "CH\u00a0271",
+        "title": "LABORATORY FOR CH 231 FOR CHEMISTRY MAJORS ",
+        "credits": "1"
+    },
+    {
+        "code": "CH\u00a0232",
+        "title": "GENERAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0272",
+        "title": "LABORATORY FOR CH 232 FOR CHEMISTRY MAJORS ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0233",
+        "title": "GENERAL CHEMISTRY ",
+        "credits": "3"
+    },
+    {
+        "code": "CH\u00a0273",
+        "title": "LABORATORY FOR CH 233 FOR CHEMISTRY MAJORS ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX1",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX2",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX3",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX4",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX5",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX6",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX7",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX8",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XX9",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X10",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X11",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X12",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X13",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X14",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE 15",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X16",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X17",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X18",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X19",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    },
+    {
+        "code": "ELE X20",
+        "title": "CHEMISTRY OPTION ",
+        "credits": "3"
+    }
+
+]}

@@ -8,7 +8,7 @@ function Header() {
     <header className="App-header">
         <a href="http://oregonstate.edu"><img src="http://oregonstate.edu/themes/osu/drupal8-osuhomepage/logo.svg" alt="Oregon State University"/></a>
         <div id="site-title">
-        <a href=""><h1>myOSURoadmap</h1></a>
+        <a href=""><h1>MyOSURoadmap</h1></a>
         </div>
           <div id="content-wrapper" className="Wrap">
             <nav id="navigation" role="menu">

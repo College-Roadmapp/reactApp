@@ -2,13 +2,8 @@
     "Courses": [
         {
             "code": "AEC 250",
-            "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
-            "credits": "3-4"
-        },
-        {
-            "code": "ECON 201",
-            "title": " *INTRODUCTION TO MICROECONOMICS",
-            "credits": ""
+            "title": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY*",
+            "credits": "3"
         },
         {
             "code": "CH 231",
@@ -17,87 +12,62 @@
         },
         {
             "code": "CH 261",
-            "title": "*LABORATORY FOR CHEMISTRY",
+            "title": "LABORATORY FOR CHEMISTRY",
             "credits": "1"
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
-            "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": " *ARGUMENT AND CRITICAL DISCOURSE",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
         },
         {
             "code": "FES 240",
-            "title": "*FOREST BIOLOGY",
+            "title": "FOREST BIOLOGY",
             "credits": "4"
         },
         {
             "code": "FOR 111",
-            "title": "INTRODUCTION TO FORESTRY",
-            "credits": "3"
-        },
-        {
-            "code": "NR 201",
-            "title": " MANAGING NATURAL RESOURCES FOR THE FUTURE",
+            "title": "INTRODUCTION TO FORESTRY*",
             "credits": "3"
         },
         {
             "code": "FOR 112",
-            "title": "COMPUTING APPLICATIONS IN FORESTRY",
-            "credits": "3"
-        },
-        {
-            "code": "FE 102",
-            "title": " FOREST ENGINEERING PROBLEM SOLVING AND TECHNOLOGY",
+            "title": "COMPUTING APPLICATIONS IN FORESTRY*",
             "credits": "3"
         },
         {
             "code": "HHS 231",
-            "title": "*LIFETIME FITNESS FOR HEALTH",
+            "title": "LIFETIME FITNESS FOR HEALTH",
             "credits": "2"
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS ( any PAC course)",
+            "title": "LIFETIME FITNESS ( any PAC course)",
             "credits": "1"
         },
         {
             "code": "MTH 111",
-            "title": "*COLLEGE ALGEBRA",
+            "title": "COLLEGE ALGEBRA",
             "credits": "4"
         },
         {
             "code": "MTH 112",
-            "title": "*ELEMENTARY FUNCTIONS",
+            "title": "ELEMENTARY FUNCTIONS",
             "credits": "4"
         },
         {
             "code": "MTH 241",
-            "title": "*CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
+            "title": "CALCULUS FOR MANAGEMENT AND SOCIAL SCIENCE",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
             "code": "BI 204",
-            "title": "*INTRODUCTORY BIOLOGY I",
-            "credits": "4"
-        },
-        {
-            "code": "BI 212",
-            "title": " *PRINCIPLES OF BIOLOGY",
-            "credits": "4"
-        },
-        {
-            "code": "BI 221",
-            "title": " *PRINCIPLES OF BIOLOGY: CELLS",
+            "title": "INTRODUCTORY BIOLOGY I*",
             "credits": "4"
         },
         {
@@ -117,7 +87,7 @@
         },
         {
             "code": "PH 201",
-            "title": "*GENERAL PHYSICS",
+            "title": "GENERAL PHYSICS",
             "credits": "5"
         },
         {
@@ -127,7 +97,7 @@
         },
         {
             "code": "FOR 206",
-            "title": "*FOREST SOILS LABORATORY FOR SOIL",
+            "title": "FOREST SOILS LABORATORY FOR SOIL",
             "credits": "1"
         },
         {
@@ -137,13 +107,73 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING*",
             "credits": "3"
         },
         {
-            "code": "WR 362",
-            "title": " *SCIENCE WRITING",
+            "code": "FE 312/FOR 312",
+            "title": "FORESTRY FIELD SCHOOL",
+            "credits": "2"
+        },
+        {
+            "code": "FE 370",
+            "title": "HARVESTING OPERATIONS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 434",
+            "title": "FOREST WATERSHED MANAGEMENT",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 321",
+            "title": "FOREST MENSURATION",
+            "credits": "5"
+        },
+        {
+            "code": "FOR 329",
+            "title": "FOREST RESOURCE ECONOMICS I",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 442",
+            "title": "SILVICULTURE REFORESTATION",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 443",
+            "title": "SILVICULTURE PRACTICES",
+            "credits": "4"
+        },
+        {
+            "code": "FE 444",
+            "title": "FOREST REMOTE SENSING AND PHOTOGRAMMETRY",
+            "credits": "4"
+        },
+        {
+            "code": "FE 457/FOR 457",
+            "title": "TECHNIQUES FOR FOREST RESOURCE ANALYSIS",
+            "credits": "4"
+        },
+        {
+            "code": "FE 459/FOR 459",
+            "title": "FOREST MANAGEMENT PLANNING AND DESIGN I",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 330",
+            "title": "FOREST RESOURCE ECEONOMICS II",
+            "credits": "4"
+        },
+        {
+            "code": "FOR 460",
+            "title": "FOREST POLICY*",
             "credits": "3"
+        },
+        {
+            "code": "FE 469/FOR 469",
+            "title": "FOREST MANAGEMENT PLANNING AND DESIGN II",
+            "credits": "4"
         }
     ]
 }

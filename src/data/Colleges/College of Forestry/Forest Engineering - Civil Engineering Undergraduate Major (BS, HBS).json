@@ -17,17 +17,12 @@
         },
         {
             "code": "COMM 111",
-            "title": "*PUBLIC SPEAKING",
+            "title": "PUBLIC SPEAKING*",
             "credits": "3"
-        },
-        {
-            "code": "COMM 114",
-            "title": "*ARGUMENT AND CRITICAL DISCOURSE",
-            "credits": "3"
-        },
-        {
+          },
+          {
             "code": "ECON 201",
-            "title": "*INTRODUCTION TO MICROECONOMICS",
+            "title": "INTRODUCTION TO MICROECONOMICS",
             "credits": "4"
         },
         {
@@ -47,22 +42,17 @@
         },
         {
             "code": "FE 102",
-            "title": "FOREST ENGINEERING PROBLEM SOLVING AND TECHNOLOGY",
+            "title": "FOREST ENGINEERING PROBLEM SOLVING AND TECHNOLOGY*",
             "credits": "3"
         },
         {
-            "code": "ENGR 103",
-            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
-            "credits": "4"
-        },
-        {
             "code": "FES 240",
-            "title": "*FOREST BIOLOGY",
+            "title": "FOREST BIOLOGY",
             "credits": "4"
         },
         {
             "code": "MTH 251",
-            "title": "*DIFFERENTIAL CALCULUS",
+            "title": "DIFFERENTIAL CALCULUS",
             "credits": "4"
         },
         {
@@ -77,12 +67,12 @@
         },
         {
             "code": "PH 211",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "WR 121",
-            "title": "*ENGLISH COMPOSITION",
+            "title": "ENGLISH COMPOSITION",
             "credits": "4"
         },
         {
@@ -107,12 +97,7 @@
         },
         {
             "code": "FE 208",
-            "title": "FOREST SURVEYING",
-            "credits": "4"
-        },
-        {
-            "code": "CE 361",
-            "title": "SURVEYING THEORY",
+            "title": "FOREST SURVEYING*",
             "credits": "4"
         },
         {
@@ -133,21 +118,21 @@
         {
             "code": "MTH 264",
             "title": "INTRODUCTION TO MATRIX ALGEBRA",
-            "credits": "4"
+            "credits": "2"
         },
         {
             "code": "MTH 265",
             "title": "MATRIX AND POWER SERIES METHODS",
-            "credits": "4"
+            "credits": "2"
         },
         {
             "code": "PH 212",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
             "code": "PH 213",
-            "title": "*GENERAL PHYSICS WITH CALCULUS",
+            "title": "GENERAL PHYSICS WITH CALCULUS",
             "credits": "4"
         },
         {
@@ -157,7 +142,7 @@
         },
         {
             "code": "FOR 206",
-            "title": "*FOREST SOILS LABORATORY FOR SOIL",
+            "title": "FOREST SOILS LABORATORY FOR SOIL",
             "credits": "4"
         },
         {
@@ -167,7 +152,7 @@
         },
         {
             "code": "WR 327",
-            "title": "*TECHNICAL WRITING",
+            "title": "TECHNICAL WRITING",
             "credits": "3"
         },
         {
@@ -227,13 +212,8 @@
         },
         {
             "code": "GEOG 300",
-            "title": "*SUSTAINABILITY FOR THE COMMON GOOD",
+            "title": "*SUSTAINABILITY FOR THE COMMON GOOD*",
             "credits": "3"
-        },
-        {
-            "code": "FW 350",
-            "title": "*ENDANGERED SPECIES SOCIETY AND SUSTAINABILITY",
-            "credits": "4"
         },
         {
             "code": "CCE 321",
@@ -287,7 +267,7 @@
         },
         {
             "code": "HHS 241",
-            "title": "*LIFETIME FITNESS",
+            "title": "LIFETIME FITNESS",
             "credits": "1"
         },
         {
@@ -297,12 +277,12 @@
         },
         {
             "code": "CE 418",
-            "title": "^CIVIL ENGINEERING PROFESSIONAL PRACTICE",
+            "title": "CIVIL ENGINEERING PROFESSIONAL PRACTICE",
             "credits": "3"
         },
         {
             "code": "CE 419",
-            "title": "^CIVIL INFRASTRUCTURE DESIGN",
+            "title": "CIVIL INFRASTRUCTURE DESIGN",
             "credits": "3"
         },
         {
@@ -337,7 +317,7 @@
         },
         {
             "code": "FOR 460",
-            "title": "^FOREST POLICY",
+            "title": "FOREST POLICY",
             "credits": "3"
         },
         {
