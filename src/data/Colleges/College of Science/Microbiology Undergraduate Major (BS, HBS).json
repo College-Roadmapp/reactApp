@@ -1,22 +1,12 @@
 {"Courses":[
     {
         "code": "MTH 227",
-        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
+        "title": "CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I*",
         "credits": "4"
     },
     {
         "code": "MTH 228",
-        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
+        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II*",
         "credits": "4"
     },
     {
@@ -31,7 +21,7 @@
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231",
         "credits": "1"
     },
     {
@@ -41,7 +31,7 @@
     },
     {
         "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "title": "LABORATORY FOR CHEMISTRY 232",
         "credits": "1"
     },
     {
@@ -51,7 +41,7 @@
     },
     {
         "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "title": "LABORATORY FOR CHEMISTRY 233",
         "credits": "1"
     },
     {
@@ -76,17 +66,17 @@
     },
     {
         "code": "PH 201",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
         "code": "PH 202",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
         "code": "PH 203",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
@@ -96,27 +86,22 @@
     },
     {
         "code": "BB 450",
-        "title": "GENERAL BIOCHEMISTRY",
+        "title": "GENERAL BIOCHEMISTRY*",
         "credits": "4"
     },
     {
-        "code": "BB 451",
-        "title": "GENERAL BIOCHEMISTRY",
-        "credits": "3"
-    },
-    {
         "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "title": "PRINCIPLES OF BIOLOGY: CELLS*",
         "credits": "4"
     },
     {
         "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "title": "PRINCIPLES OF BIOLOGY: ORGANISMS",
         "credits": "4"
     },
     {
         "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "title": "PRINCIPLES OF BIOLOGY: POPULATIONS",
         "credits": "4"
     },
     {
@@ -146,7 +131,7 @@
     },
     {
         "code": "MB 311",
-        "title": "^MOLECULAR MICROBIOLOGY LAB: A WRITING INTENSIVE COURSE",
+        "title": "MOLECULAR MICROBIOLOGY LAB: A WRITING INTENSIVE COURSE",
         "credits": "3"
     },
     {
@@ -161,147 +146,77 @@
     },
     {
         "code": "MB 417",
-        "title": "IMMUNOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "MB 422",
-        "title": "AQUATIC MICROBIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "MB 435",
-        "title": "PATHOGENIC MICROBES LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "MB 441",
-        "title": "FOOD MICROBIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "MB 496",
-        "title": "FISH DISEASES IN CONSERVATION BIOLOGY AND AQUACULTURE LAB",
+        "title": "IMMUNOLOGY LABORATORY*",
         "credits": "2"
     },
     {
         "code": "BOT 350",
-        "title": "INTRODUCTORY PLANT PATHOLOGY",
+        "title": "INTRODUCTORY PLANT PATHOLOGY*",
         "credits": "4"
     },
     {
         "code": "BOT 461",
-        "title": "MYCOLOGY",
+        "title": "MYCOLOG*Y",
         "credits": "4"
     },
     {
-        "code": "MB 401",
-        "title": "RESEARCH",
-        "credits": "1-16"
-    },
-    {
-        "code": "MB 403",
-        "title": "THESIS",
-        "credits": "1-16"
-    },
-    {
-        "code": "MB 405",
-        "title": "READING AND CONFERENCE",
-        "credits": "1-16"
-    },
-    {
-        "code": "MB 406",
-        "title": "SPECIAL PROJECTS",
-        "credits": "1-16"
-    },
-    {
-        "code": "MB 410",
-        "title": "OCCUPATIONAL INTERNSHIP",
-        "credits": "1-10"
-    },
-    {
         "code": "MB 416",
-        "title": "IMMUNOLOGY",
+        "title": "IMMUNOLOGY*",
         "credits": "3"
     },
     {
         "code": "MB 417",
-        "title": "IMMUNOLOGY LABORATORY",
+        "title": "IMMUNOLOGY LABORATORY*",
         "credits": "2"
     },
     {
         "code": "MB 420",
-        "title": "MICROBIAL GENOME EVOLUTION AND BIODIVERSITY",
+        "title": "MICROBIAL GENOME EVOLUTION AND BIODIVERSITY*",
         "credits": "3"
     },
     {
         "code": "MB 422",
-        "title": "AQUATIC MICROBIOLOGY LABORATORY",
+        "title": "AQUATIC MICROBIOLOGY LABORATORY*",
         "credits": "2"
     },
     {
-        "code": "MB 430",
-        "title": "BACTERIAL PATHOGENESIS",
+        "code": "ELE XX1",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 434",
-        "title": "VIROLOGY",
+        "code": "ELE XX2",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 435",
-        "title": "PATHOGENIC MICROBES LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "MB 436",
-        "title": "THE HUMAN MICROBIOME",
+        "code": "ELE XX3",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 440",
-        "title": "FOOD MICROBIOLOGY",
+        "code": "ELE XX4",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 441",
-        "title": "FOOD MICROBIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "MB 448",
-        "title": "MICROBE-ENVIRONMENT INTERACTIONS",
+        "code": "ELE XX5",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 456",
-        "title": "MICROBIAL BIOTECHNOLOGY",
+        "code": "ELE XX6",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 479/FST 479",
-        "title": "FERMENTATION MICROBIOLOGY",
+        "code": "ELE XX7",
+        "title": "ELECTIVE",
         "credits": "3"
     },
     {
-        "code": "MB 480",
-        "title": "GENERAL PARASITOLOGY",
+        "code": "ELE XX8",
+        "title": "ELECTIVE",
         "credits": "3"
-    },
-    {
-        "code": "MB 491/FST 491",
-        "title": "FISH DISEASES IN CONSERVATION BIOLOGY AND AQUACULTURE",
-        "credits": "3"
-    },
-    {
-        "code": "MB 496",
-        "title": "FISH DISEASES IN CONSERVATION BIOLOGY AND AQUACULTURE LAB",
-        "credits": "2"
-    },
-    {
-        "code": "MB 499",
-        "title": "SPECIAL TOPICS",
-        "credits": "0-16"
     }
 ]}

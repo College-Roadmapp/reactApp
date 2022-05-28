@@ -1,17 +1,17 @@
 {"Courses":[
     {
         "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "title": "PRINCIPLES OF BIOLOGY: CELLS",
         "credits": "4"
     },
     {
         "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "title": "PRINCIPLES OF BIOLOGY: ORGANISMS",
         "credits": "4"
     },
     {
         "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "title": "PRINCIPLES OF BIOLOGY: POPULATIONS",
         "credits": "4"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231",
         "credits": "1"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "title": "LABORATORY FOR CHEMISTRY 232",
         "credits": "1"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
         "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "title": "LABORATORY FOR CHEMISTRY 233",
         "credits": "1"
     },
     {
         "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
+        "title": "DIFFERENTIAL CALCULUS",
         "credits": "4"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
         "code": "BB 317",
-        "title": "^SCIENTIFIC THEORY AND PRACTICE",
+        "title": "SCIENTIFIC THEORY AND PRACTICE",
         "credits": "3"
     },
     {
@@ -110,51 +110,6 @@
         "credits": "0"
     },
     {
-        "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
-        "credits": "4"
-    },
-    {
-        "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
-        "credits": "1"
-    },
-    {
-        "code": "CH 232",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
-        "credits": "1"
-    },
-    {
-        "code": "CH 233",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
-        "credits": "1"
-    },
-    {
         "code": "CH 334",
         "title": "ORGANIC CHEMISTRY",
         "credits": "3"
@@ -171,42 +126,92 @@
     },
     {
         "code": "CH 337",
-        "title": "ORGANIC CHEMISTRY LABORATORY",
-        "credits": "4"
-    },
-    {
-        "code": "CH 324",
-        "title": "QUANTITATIVE ANALYSIS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
+        "title": "ORGANIC CHEMISTRY LABORATORY*",
         "credits": "4"
     },
     {
         "code": "PH 201",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
         "code": "PH 202",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
         "code": "PH 203",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS",
         "credits": "5"
     },
     {
         "code": "ST 351",
         "title": "INTRODUCTION TO STATISTICAL METHODS",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX1",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX2",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX3",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX4",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX5",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX6",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX7",
+        "title": "REQUIRED OPTION",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX8",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XX9",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE X10",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE X11",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE X12",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE X13",
+        "title": "ELECTIVE",
         "credits": "4"
     }
 ]}

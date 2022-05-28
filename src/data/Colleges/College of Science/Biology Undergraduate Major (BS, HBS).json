@@ -1,12 +1,7 @@
 {"Courses":[
     {
         "code": "BI 197",
-        "title": "PROFESSIONAL DEVELOPMENT I: HEALTH PROFESSIONS",
-        "credits": "1"
-    },
-    {
-        "code": "BI 198",
-        "title": "PROFESSIONAL DEVELOPMENT I: BIOLOGY AND ZOOLOGY",
+        "title": "PROFESSIONAL DEVELOPMENT I: HEALTH PROFESSIONS*",
         "credits": "1"
     },
     {
@@ -16,37 +11,22 @@
     },
     {
         "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
+        "title": "PUBLIC SPEAKING",
         "credits": "3"
     },
     {
         "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
-    },
-    {
-        "code": "WR 362",
-        "title": "*SCIENCE WRITING",
+        "title": "TECHNICAL WRITING",
         "credits": "3"
     },
     {
         "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
+        "title": "DIFFERENTIAL CALCULUS*",
         "credits": "4"
     },
     {
         "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 227",
-        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 228",
-        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
+        "title": "INTEGRAL CALCULUS*",
         "credits": "4"
     },
     {
@@ -56,17 +36,7 @@
     },
     {
         "code": "ST 352",
-        "title": "INTRODUCTION TO STATISTICAL METHODS 1",
-        "credits": "4"
-    },
-    {
-        "code": "ST 411",
-        "title": "METHODS OF DATA ANALYSIS",
-        "credits": "4"
-    },
-    {
-        "code": "ST 412",
-        "title": "METHODS OF DATA ANALYSIS",
+        "title": "INTRODUCTION TO STATISTICAL METHODS 1*",
         "credits": "4"
     },
     {
@@ -76,7 +46,7 @@
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231",
         "credits": "1"
     },
     {
@@ -86,7 +56,7 @@
     },
     {
         "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "title": "LABORATORY FOR CHEMISTRY 232",
         "credits": "1"
     },
     {
@@ -96,7 +66,7 @@
     },
     {
         "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "title": "LABORATORY FOR CHEMISTRY 233",
         "credits": "1"
     },
     {
@@ -126,17 +96,17 @@
     },
     {
         "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "title": "PRINCIPLES OF BIOLOGY: CELLS",
         "credits": "4"
     },
     {
         "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "title": "PRINCIPLES OF BIOLOGY: ORGANISMS",
         "credits": "4"
     },
     {
         "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
+        "title": "PRINCIPLES OF BIOLOGY: POPULATIONS",
         "credits": "4"
     },
     {
@@ -176,477 +146,62 @@
     },
     {
         "code": "AEC 351",
-        "title": "*NATURAL RESOURCE ECONOMICS AND POLICY",
-        "credits": "3"
-    },
-    {
-        "code": "AEC 352/ECON 352",
-        "title": "*ENVIRONMENTAL ECONOMICS AND POLICY",
-        "credits": "3"
-    },
-    {
-        "code": "BB 220",
-        "title": "*CANCER: SOCIETY'S MALIGNANT SHADOW",
-        "credits": "3"
-    },
-    {
-        "code": "BB 331",
-        "title": "*INTRODUCTION TO MOLECULAR BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BB 332",
-        "title": "*MOLECULAR MEDICINE",
-        "credits": "3"
-    },
-    {
-        "code": "BI 175",
-        "title": "*GENOMES, IDENTITIES AND SOCIETIES",
-        "credits": "3"
-    },
-    {
-        "code": "BI 301",
-        "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
-        "credits": "3"
-    },
-    {
-        "code": "BI 306",
-        "title": "*ENVIRONMENTAL ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 345",
-        "title": "*INTRODUCTION TO EVOLUTION",
-        "credits": "3"
-    },
-    {
-        "code": "BI 347",
-        "title": "*OCEANS IN PERIL",
-        "credits": "3"
-    },
-    {
-        "code": "BI 348",
-        "title": "*HUMAN ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 420",
-        "title": "*VIRUSES IN MODERN SOCIETY",
-        "credits": "3"
-    },
-    {
-        "code": "BOT 324",
-        "title": "*FUNGI IN SOCIETY",
-        "credits": "3"
-    },
-    {
-        "code": "FES 435/TOX 435",
-        "title": "*GENES AND CHEMICALS IN AGRICULTURE: VALUE AND RISK",
-        "credits": "3"
-    },
-    {
-        "code": "FW 350",
-        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
-        "credits": "3"
-    },
-    {
-        "code": "H 312",
-        "title": "*HIV/AIDS AND STIS IN MODERN SOCIETY",
-        "credits": "3"
-    },
-    {
-        "code": "HSTS 417",
-        "title": "*HISTORY OF MEDICINE",
-        "credits": "4"
-    },
-    {
-        "code": "MB 330",
-        "title": "*DISEASE AND SOCIETY",
-        "credits": "3"
-    },
-    {
-        "code": "PHL 444",
-        "title": "*BIOMEDICAL ETHICS",
-        "credits": "4"
-    },
-    {
-        "code": "Z 349",
-        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION",
+        "title": "NATURAL RESOURCE ECONOMICS AND POLICY*",
         "credits": "3"
     },
     {
         "code": "PH 201",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS*",
         "credits": "5"
     },
     {
         "code": "PH 202",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS*",
         "credits": "5"
     },
     {
         "code": "PH 203",
-        "title": "*GENERAL PHYSICS",
+        "title": "GENERAL PHYSICS*",
         "credits": "5"
     },
     {
-        "code": "CS 201",
-        "title": "COMPUTER PROGRAMMING FOR NON-CS MAJORS",
-        "credits": "3"
-    },
-    {
-        "code": "CS 161",
-        "title": "INTRODUCTION TO COMPUTER SCIENCE I",
-        "credits": "4"
-    },
-    {
-        "code": "BDS 211",
-        "title": "USE AND ABUSE OF DATA: CRITICAL THINKING IN SCIENCE",
-        "credits": "3"
-    },
-    {
-        "code": "CS 162",
-        "title": "INTRODUCTION TO COMPUTER SCIENCE II",
-        "credits": "4"
-    },
-    {
         "code": "BB 485",
-        "title": "APPLIED BIOINFORMATICS",
+        "title": "APPLIED BIOINFORMATICS*",
         "credits": "3"
     },
     {
         "code": "BDS 470/BOT 470",
-        "title": "INTRODUCTION TO COMPUTING IN THE LIFE SCIENCES",
-        "credits": "3"
-    },
-    {
-        "code": "BDS 475/BOT 475",
-        "title": "COMPARATIVE GENOMICS",
-        "credits": "4"
-    },
-    {
-        "code": "BDS 478/BOT 478",
-        "title": "FUNCTIONAL GENOMICS",
-        "credits": "3"
-    },
-    {
-        "code": "BDS 491",
-        "title": "CAPSTONE PROJECTS IN BIOLOGICAL DATA SCIENCE I",
-        "credits": "3"
-    },
-    {
-        "code": "BI 456",
-        "title": "PHYLOGENETICS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 481",
-        "title": "BIOGEOGRAPHY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 483",
-        "title": "POPULATION BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "FW 433",
-        "title": "POPULATION DYNAMICS FOR CONSERVATION",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 360",
-        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 361",
-        "title": "QUANTITATIVE GEOSPATIAL ANALYSIS AND MODELING",
-        "credits": "4"
-    },
-    {
-        "code": "GEOG 362",
-        "title": "GIS AND SPATIAL DATA SCIENCE",
-        "credits": "4"
-    },
-    {
-        "code": "OC 449",
-        "title": "ECOLOGICAL THEORIES IN BIOLOGICAL AND FISHERIES OCEANOGRAPHY DATA",
-        "credits": "4"
-    },
-    {
-        "code": "ST 431",
-        "title": "SAMPLING METHODS",
-        "credits": "3"
-    },
-    {
-        "code": "ST 435",
-        "title": "QUANTITATIVE ECOLOGY",
+        "title": "INTRODUCTION TO COMPUTING IN THE LIFE SCIENCES*",
         "credits": "3"
     },
     {
         "code": "BI 427",
-        "title": "PALEOBIOLOGY",
+        "title": "PALEOBIOLOGY*",
         "credits": "4"
-    },
-    {
-        "code": "BOT 321",
-        "title": "PLANT SYSTEMATICS",
-        "credits": "4"
-    },
-    {
-        "code": "BOT 416",
-        "title": "AQUATIC BOTANY",
-        "credits": "4"
-    },
-    {
-        "code": "BOT 461",
-        "title": "MYCOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "Z 361",
-        "title": "INVERTEBRATE BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 362",
-        "title": "INVERTEBRATE BIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "Z 371",
-        "title": "VERTEBRATE BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 372",
-        "title": "VERTEBRATE BIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "Z 422",
-        "title": "COMPARATIVE/FUNCTIONAL VERTEBRATE ANATOMY",
-        "credits": "5"
-    },
-    {
-        "code": "Z 461",
-        "title": "MARINE AND ESTUARINE INVERTEBRATE ZOOLOGY (taught at Hatfield Marine Science Center)",
-        "credits": "4"
-    },
-    {
-        "code": "Z 477",
-        "title": "AQUATIC ENTOMOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "BI 331",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 341",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "BI 332",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
-        "credits": "3"
     },
     {
         "code": "BOT 331",
-        "title": "PLANT PHYSIOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "BOT 488",
-        "title": "ENVIRONMENTAL PHYSIOLOGY OF PLANTS",
-        "credits": "3"
-    },
-    {
-        "code": "Z 423",
-        "title": "ENVIRONMENTAL PHYSIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 425",
-        "title": "EMBRYOLOGY AND DEVELOPMENT",
-        "credits": "5"
-    },
-    {
-        "code": "Z 431",
-        "title": "VERTEBRATE PHYSIOLOGY I",
+        "title": "PLANT PHYSIOLOGY*",
         "credits": "4"
     },
     {
         "code": "BI 319",
-        "title": "^THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES",
-        "credits": "3"
-    },
-    {
-        "code": "BI 371",
-        "title": "^ECOLOGICAL METHODS",
-        "credits": "3"
-    },
-    {
-        "code": "BI 373",
-        "title": "^FIELD METHODS IN MARINE ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BOT 323",
-        "title": "^FLOWERING PLANTS OF THE WORLD",
-        "credits": "3"
-    },
-    {
-        "code": "MB 385",
-        "title": "^EMERGING INFECTIOUS DISEASES AND EPIDEMICS",
+        "title": "THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES*",
         "credits": "3"
     },
     {
         "code": "BI 309",
-        "title": "TEACHING PRACTICUM (by approval)",
-        "credits": "1-6"
-    },
-    {
-        "code": "BI 401",
-        "title": "RESEARCH AND SCHOLARSHIP (by approval)",
-        "credits": "1-16"
-    },
-    {
-        "code": "BI 406",
-        "title": "PROJECTS: CURATORIAL ASSISTANT (by approval)",
-        "credits": "1-6"
-    },
-    {
-        "code": "BI 409",
-        "title": "ADVANCED TEACHING PRACTICUM (by approval)",
-        "credits": "1-6"
-    },
-    {
-        "code": "BI 410",
-        "title": "INTERNSHIP (by approval)",
-        "credits": "1-16"
+        "title": "TEACHING PRACTICUM (by approval)*",
+        "credits": "3"
     },
     {
         "code": "BI 333",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY*",
         "credits": "3"
     },
     {
         "code": "BI 343",
-        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY",
+        "title": "ADVANCED HUMAN ANATOMY AND PHYSIOLOGY LABORATORY*",
         "credits": "2"
-    },
-    {
-        "code": "BI 353",
-        "title": "PACIFIC NORTHWEST COASTAL ECOSYSTEMS (taught at Hatfield Marine Science Center)",
-        "credits": "4"
-    },
-    {
-        "code": "BI 358",
-        "title": "SYMBIOSES AND THE ENVIRONMENT",
-        "credits": "3"
-    },
-    {
-        "code": "BI 375",
-        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION (taught at OSU Cascades)",
-        "credits": "4"
-    },
-    {
-        "code": "BI 427",
-        "title": "PALEOBIOLOGY (if not used above)",
-        "credits": "4"
-    },
-    {
-        "code": "BI 450",
-        "title": "^MARINE BIOLOGY AND ECOLOGY (taught at Hatfield Marine Science Center) 4",
-        "credits": "15"
-    },
-    {
-        "code": "BI 454",
-        "title": "EVOLUTIONARY GENOMICS",
-        "credits": "3"
-    },
-    {
-        "code": "BI 456",
-        "title": "PHYLOGENETICS (if not used above)",
-        "credits": "4"
-    },
-    {
-        "code": "BI 481",
-        "title": "BIOGEOGRAPHY (if not used above)",
-        "credits": "3"
-    },
-    {
-        "code": "BI 483",
-        "title": "POPULATION BIOLOGY (if not used above)",
-        "credits": "3"
-    },
-    {
-        "code": "BI 485",
-        "title": "MONSTER BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 495",
-        "title": "DISEASE ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 350",
-        "title": "ANIMAL BEHAVIOR",
-        "credits": "3"
-    },
-    {
-        "code": "Z 361",
-        "title": "INVERTEBRATE BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 362",
-        "title": "INVERTEBRATE BIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "Z 365",
-        "title": "BIOLOGY OF INSECTS",
-        "credits": "4"
-    },
-    {
-        "code": "Z 371",
-        "title": "VERTEBRATE BIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 372",
-        "title": "VERTEBRATE BIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "Z 425",
-        "title": "EMBRYOLOGY AND DEVELOPMENT (if not used above)",
-        "credits": "5"
-    },
-    {
-        "code": "Z 432",
-        "title": "VERTEBRATE PHYSIOLOGY II",
-        "credits": "3"
-    },
-    {
-        "code": "Z 442",
-        "title": "VERTEBRATE PHYSIOLOGY LABORATORY",
-        "credits": "2"
-    },
-    {
-        "code": "Z 438",
-        "title": "BEHAVIORAL NEUROBIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 473",
-        "title": "HERPETOLOGY",
-        "credits": "4"
     }
 ]}

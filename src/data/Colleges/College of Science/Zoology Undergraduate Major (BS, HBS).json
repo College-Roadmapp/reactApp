@@ -11,83 +11,53 @@
     },
     {
         "code": "COMM 111",
-        "title": "*PUBLIC SPEAKING",
+        "title": "PUBLIC SPEAKING",
         "credits": "3"
     },
     {
         "code": "WR 327",
-        "title": "*TECHNICAL WRITING",
-        "credits": "3"
-    },
-    {
-        "code": "WR 362",
-        "title": "*SCIENCE WRITING",
+        "title": "TECHNICAL WRITING",
         "credits": "3"
     },
     {
         "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
+        "title": "DIFFERENTIAL CALCULUS*",
         "credits": "4"
     },
     {
         "code": "MTH 252",
-        "title": "INTEGRAL CALCULUS",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 227",
-        "title": "*CALCULUS AND PROBABILITY FOR THE LIFE SCIENCES I",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 228",
-        "title": "CALCULUS AND PROBABILTITY FOR THE LIFE SCIENCES II",
+        "title": "INTEGRAL CALCULUS*",
         "credits": "4"
     },
     {
         "code": "CH 231",
-        "title": "GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "4"
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231*",
         "credits": "1"
     },
     {
         "code": "CH 232",
-        "title": "GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "4"
     },
     {
         "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "title": "LABORATORY FOR CHEMISTRY 232*",
         "credits": "1"
     },
     {
         "code": "CH 233",
-        "title": "GENERAL CHEMISTRY",
+        "title": "GENERAL CHEMISTRY*",
         "credits": "4"
     },
     {
         "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "title": "LABORATORY FOR CHEMISTRY 233*",
         "credits": "1"
-    },
-    {
-        "code": "CH 121",
-        "title": "GENERAL CHEMISTRY",
-        "credits": "5"
-    },
-    {
-        "code": "CH 122",
-        "title": "*GENERAL CHEMISTRY",
-        "credits": "5"
-    },
-    {
-        "code": "CH 123",
-        "title": "*GENERAL CHEMISTRY",
-        "credits": "5"
     },
     {
         "code": "CH 331",
@@ -101,13 +71,8 @@
     },
     {
         "code": "CH 337",
-        "title": "ORGANIC CHEMISTRY LABORATORY",
+        "title": "ORGANIC CHEMISTRY LABORATORY*",
         "credits": "4"
-    },
-    {
-        "code": "CH 390",
-        "title": "ENVIRONMENTAL CHEMISTRY",
-        "credits": "3"
     },
     {
         "code": "ST 351",
@@ -121,32 +86,17 @@
     },
     {
         "code": "BI 221",
-        "title": "*PRINCIPLES OF BIOLOGY: CELLS",
+        "title": "PRINCIPLES OF BIOLOGY: CELLS*",
         "credits": "4"
     },
     {
         "code": "BI 222",
-        "title": "*PRINCIPLES OF BIOLOGY: ORGANISMS",
+        "title": "PRINCIPLES OF BIOLOGY: ORGANISMS*",
         "credits": "4"
     },
     {
         "code": "BI 223",
-        "title": "*PRINCIPLES OF BIOLOGY: POPULATIONS",
-        "credits": "4"
-    },
-    {
-        "code": "BI 204",
-        "title": "*INTRODUCTORY BIOLOGY I",
-        "credits": "4"
-    },
-    {
-        "code": "BI 205",
-        "title": "*INTRODUCTORY BIOLOGY II",
-        "credits": "4"
-    },
-    {
-        "code": "BI 206",
-        "title": "*INTRODUCTORY BIOLOGY III",
+        "title": "PRINCIPLES OF BIOLOGY: POPULATIONS*",
         "credits": "4"
     },
     {
@@ -166,43 +116,23 @@
     },
     {
         "code": "Z 361",
-        "title": "INVERTEBRATE BIOLOGY",
+        "title": "INVERTEBRATE BIOLOGY*",
         "credits": "3"
     },
     {
         "code": "Z 362",
-        "title": "INVERTEBRATE BIOLOGY LABORATORY",
+        "title": "INVERTEBRATE BIOLOGY LABORATORY*",
         "credits": "2"
     },
     {
-        "code": "Z 364",
-        "title": "DIVERSITY OF LIFE: INVERTEBRATES",
-        "credits": "5"
-    },
-    {
-        "code": "Z 461",
-        "title": "MARINE AND ESTUARINE INVERTEBRATE ZOOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "BI 450",
-        "title": "^MARINE BIOLOGY AND ECOLOGY",
-        "credits": "15"
-    },
-    {
         "code": "Z 371",
-        "title": "VERTEBRATE BIOLOGY",
+        "title": "VERTEBRATE BIOLOGY*",
         "credits": "3"
     },
     {
         "code": "Z 372",
-        "title": "VERTEBRATE BIOLOGY LABORATORY",
+        "title": "VERTEBRATE BIOLOGY LABORATORY*",
         "credits": "2"
-    },
-    {
-        "code": "Z 374",
-        "title": "DIVERSITY OF LIFE: VERTEBRATES",
-        "credits": "5"
     },
     {
         "code": "Z 423",
@@ -221,23 +151,8 @@
     },
     {
         "code": "BI 319",
-        "title": "^THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES",
+        "title": "THEORY, PRACTICE AND DISCOURSE IN THE LIFE SCIENCES*",
         "credits": "3"
-    },
-    {
-        "code": "BI 371",
-        "title": "^ECOLOGICAL METHODS",
-        "credits": "3"
-    },
-    {
-        "code": "BI 373",
-        "title": "^FIELD METHODS IN MARINE ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 450",
-        "title": "^MARINE BIOLOGY AND ECOLOGY (by application only - Hatfield Marine Science Center)",
-        "credits": "15"
     },
     {
         "code": "BI 498",
@@ -246,407 +161,37 @@
     },
     {
         "code": "BI 358",
-        "title": "SYMBIOSES AND THE ENVIRONMENT",
+        "title": "SYMBIOSES AND THE ENVIRONMENT*",
         "credits": "3"
     },
     {
         "code": "BI 485",
-        "title": "MONSTER BIOLOGY",
+        "title": "MONSTER BIOLOGY*",
         "credits": "3"
-    },
-    {
-        "code": "BOT 321",
-        "title": "PLANT SYSTEMATICS",
-        "credits": "4"
-    },
-    {
-        "code": "FW 302",
-        "title": "BIOLOGY AND CONSERVATION OF MARINE MAMMALS 1",
-        "credits": "4"
-    },
-    {
-        "code": "FW 311",
-        "title": "ORNITHOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "FW 315",
-        "title": "ICHTHYOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "FW 317",
-        "title": "MAMMALOGY",
-        "credits": "3"
-    },
-    {
-        "code": "FW 331",
-        "title": "ECOLOGY OF MARINE AND ESTUARINE BIRDS",
-        "credits": "4"
-    },
-    {
-        "code": "MB 480",
-        "title": "GENERAL PARASITOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 350",
-        "title": "ANIMAL BEHAVIOR",
-        "credits": "3"
-    },
-    {
-        "code": "Z 365",
-        "title": "BIOLOGY OF INSECTS",
-        "credits": "4"
-    },
-    {
-        "code": "Z 422",
-        "title": "COMPARATIVE/FUNCTIONAL VERTEBRATE ANATOMY",
-        "credits": "5"
-    },
-    {
-        "code": "Z 431",
-        "title": "VERTEBRATE PHYSIOLOGY I",
-        "credits": "4"
-    },
-    {
-        "code": "Z 438",
-        "title": "BEHAVIORAL NEUROBIOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 473",
-        "title": "HERPETOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "Z 477",
-        "title": "AQUATIC ENTOMOLOGY",
-        "credits": "4"
     },
     {
         "code": "BI 301",
-        "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
+        "title": "HUMAN IMPACTS ON ECOSYSTEMS*",
         "credits": "3"
-    },
-    {
-        "code": "BI 348",
-        "title": "*HUMAN ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 351",
-        "title": "MARINE ECOLOGY +",
-        "credits": "3"
-    },
-    {
-        "code": "BI 450",
-        "title": "^MARINE BIOLOGY AND ECOLOGY",
-        "credits": "15"
     },
     {
         "code": "BI 353",
-        "title": "PACIFIC NORTHWEST COASTAL ECOSYSTEMS (taught at Hatfield Marine Science Center)",
+        "title": "PACIFIC NORTHWEST COASTAL ECOSYSTEMS (taught at Hatfield Marine Science Center)*",
         "credits": "4"
-    },
-    {
-        "code": "BI 375",
-        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION (taught at OSU-Cascades)",
-        "credits": "4"
-    },
-    {
-        "code": "BI 427",
-        "title": "PALEOBIOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "BI 481",
-        "title": "BIOGEOGRAPHY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 495",
-        "title": "DISEASE ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BOT 341",
-        "title": "PLANT ECOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "FES 440",
-        "title": "WILDLAND FIRE ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "FES 445",
-        "title": "ECOLOGICAL RESTORATION",
-        "credits": "4"
-    },
-    {
-        "code": "FW 445",
-        "title": "ECOLOGICAL RESTORATION",
-        "credits": "4"
-    },
-    {
-        "code": "FW 320",
-        "title": "INTRODUCTORY POPULATION DYNAMICS +",
-        "credits": "4"
-    },
-    {
-        "code": "FW 421",
-        "title": "AQUATIC BIOLOGICAL INVASIONS",
-        "credits": "4"
-    },
-    {
-        "code": "FW 427",
-        "title": "PRINCIPLES OF WILDLIFE DISEASES",
-        "credits": "4"
-    },
-    {
-        "code": "FW 479",
-        "title": "WETLANDS AND RIPARIAN ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "Z 349",
-        "title": "*BIODIVERSITY: CAUSES, CONSEQUENCES, AND CONSERVATION",
-        "credits": "3"
     },
     {
         "code": "AEC 250",
-        "title": "*INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY",
+        "title": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY*",
         "credits": "3"
-    },
-    {
-        "code": "AEC 253",
-        "title": "*ENVIRONMENTAL LAW, POLICY, AND ECONOMICS",
-        "credits": "4"
     },
     {
         "code": "AEC 432",
-        "title": "ENVIRONMENTAL LAW",
+        "title": "ENVIRONMENTAL LAW*",
         "credits": "4"
-    },
-    {
-        "code": "ANS 280",
-        "title": "COMPANION ANIMAL MANAGEMENT",
-        "credits": "4"
-    },
-    {
-        "code": "BI 347",
-        "title": "*OCEANS IN PERIL",
-        "credits": "3"
-    },
-    {
-        "code": "BI 348",
-        "title": "*HUMAN ECOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "BI 301",
-        "title": "*HUMAN IMPACTS ON ECOSYSTEMS",
-        "credits": "3"
-    },
-    {
-        "code": "FES 355",
-        "title": "MANAGEMENT FOR MULTIPLE RESOURCE VALUES",
-        "credits": "3"
-    },
-    {
-        "code": "FES 412",
-        "title": "FOREST ENTOMOLOGY",
-        "credits": "3"
-    },
-    {
-        "code": "FES 452/FW 452",
-        "title": "BIODIVERSITY CONSERVATION IN MANAGED FORESTS",
-        "credits": "3"
-    },
-    {
-        "code": "FES 485",
-        "title": "*CONSENSUS AND NATURAL RESOURCES",
-        "credits": "3"
-    },
-    {
-        "code": "FOR 436",
-        "title": "WILDLAND FIRE SCIENCE AND MANAGEMENT",
-        "credits": "4"
-    },
-    {
-        "code": "FOR 462",
-        "title": "NATURAL RESOURCE POLICY AND LAW",
-        "credits": "3"
-    },
-    {
-        "code": "FW 350",
-        "title": "*ENDANGERED SPECIES, SOCIETY AND SUSTAINABILITY",
-        "credits": "3"
-    },
-    {
-        "code": "FW 451",
-        "title": "AVIAN CONSERVATION AND MANAGEMENT",
-        "credits": "3"
-    },
-    {
-        "code": "FW 458",
-        "title": "MAMMAL CONSERVATION AND MANAGEMENT",
-        "credits": "4"
-    },
-    {
-        "code": "FW 462",
-        "title": "ECOSYSTEM SERVICES",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 450",
-        "title": "LAND USE IN THE AMERICAN WEST",
-        "credits": "3"
-    },
-    {
-        "code": "PS 475",
-        "title": "ENVIRONMENTAL POLITICS AND POLICY",
-        "credits": "4"
-    },
-    {
-        "code": "PS 477",
-        "title": "INTERNATIONAL ENVIRONMENTAL POLITICS AND POLICY",
-        "credits": "4"
-    },
-    {
-        "code": "SOC 481",
-        "title": "*SOCIETY AND NATURAL RESOURCES",
-        "credits": "4"
-    },
-    {
-        "code": "TRAL 352",
-        "title": "WILDERNESS MANAGEMENT",
-        "credits": "3"
-    },
-    {
-        "code": "TRAL 357",
-        "title": "*PARKS AND PROTECTED AREAS MANAGEMENT",
-        "credits": "3"
-    },
-    {
-        "code": "BI 309",
-        "title": "TEACHING PRACTICUM (by approval)",
-        "credits": "1-6"
-    },
-    {
-        "code": "BI 401",
-        "title": "RESEARCH AND SCHOLARSHIP (by approval)",
-        "credits": "1-16"
-    },
-    {
-        "code": "BI 406",
-        "title": "PROJECTS: CURATORIAL ASSISTANT (by approval)",
-        "credits": "1-6"
-    },
-    {
-        "code": "BI 409",
-        "title": "ADVANCED TEACHING PRACTICUM (by approval)",
-        "credits": "1-6"
-    },
-    {
-        "code": "BI 410",
-        "title": "INTERNSHIP (by approval)",
-        "credits": "1-16"
     },
     {
         "code": "ANS 435",
-        "title": "APPLIED ANIMAL BEHAVIOR",
+        "title": "APPLIED ANIMAL BEHAVIOR*",
         "credits": "3"
-    },
-    {
-        "code": "BI 375",
-        "title": "FIELD METHODS IN ECOLOGICAL RESTORATION (taught at OSU-Cascades)",
-        "credits": "4"
-    },
-    {
-        "code": "BI 450",
-        "title": "^MARINE BIOLOGY AND ECOLOGY (by application only - taught at Hatfield Marine Science Center)",
-        "credits": "15"
-    },
-    {
-        "code": "BOT 425",
-        "title": "FLORA OF THE PACIFIC NORTHWEST",
-        "credits": "3"
-    },
-    {
-        "code": "BOT 440",
-        "title": "FIELD METHODS IN PLANT ECOLOGY",
-        "credits": "4"
-    },
-    {
-        "code": "CS 201",
-        "title": "COMPUTER PROGRAMMING FOR NON-CS MAJORS",
-        "credits": "3"
-    },
-    {
-        "code": "CS 161",
-        "title": "INTRODUCTION TO COMPUTER SCIENCE I",
-        "credits": "4"
-    },
-    {
-        "code": "FES 430",
-        "title": "FOREST AS CLASSROOM",
-        "credits": "4"
-    },
-    {
-        "code": "FW 255",
-        "title": "FIELD SAMPLING OF FISH AND WILDLIFE",
-        "credits": "3"
-    },
-    {
-        "code": "FW 430",
-        "title": "INTRODUCTION TO SCIENTIFIC DIVING",
-        "credits": "4"
-    },
-    {
-        "code": "FW 493",
-        "title": "FIELD METHODS FOR MARINE RESEARCH (taught at Hatfield Marine Science Center)",
-        "credits": "3"
-    },
-    {
-        "code": "FW 498",
-        "title": "AQUACULTURE LABORATORY",
-        "credits": "3"
-    },
-    {
-        "code": "GEOG 360",
-        "title": "GISCIENCE I: GEOGRAPHIC INFORMATION SYSTEMS AND THEORY",
-        "credits": "4"
-    },
-    {
-        "code": "KIN 232",
-        "title": "BACKCOUNTRY LEADERSHIP",
-        "credits": "3"
-    },
-    {
-        "code": "NR 325",
-        "title": "SCIENTIFIC METHODS FOR ANALYZING NATURAL RESOURCE PROBLEMS",
-        "credits": "3"
-    },
-    {
-        "code": "RNG 353",
-        "title": "WILDLAND PLANT IDENTIFICATION",
-        "credits": "4"
-    },
-    {
-        "code": "RNG 441",
-        "title": "RANGELAND ANALYSIS",
-        "credits": "4"
-    },
-    {
-        "code": "SED 435",
-        "title": "COMMUNICATING OCEAN SCIENCES TO INFORMAL AUDIENCES",
-        "credits": "3"
-    },
-    {
-        "code": "TRAL 493",
-        "title": "ENVIRONMENTAL INTERPRETATION",
-        "credits": "4"
     }
 ]}
