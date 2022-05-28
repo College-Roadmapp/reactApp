@@ -1,0 +1,54 @@
+{"Courses":[
+    {
+        "code": "BA\u00a0260",
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "code": "BA\u00a0315",
+        "title": "ACCOUNTING FOR DECISION MAKING"
+    },
+    {
+        "code": "BA\u00a0351",
+        "title": "MANAGING ORGANIZATIONS"
+    },
+    {
+        "code": "BA\u00a0352",
+        "title": "MANAGING INDIVIDUAL AND TEAM PERFORMANCE"
+    },
+    {
+        "code": "BA\u00a0354",
+        "title": "^MANAGING ETHICS AND CORPORATE SOCIAL RESPONSIBILITY"
+    },
+    {
+        "code": "BA\u00a0363",
+        "title": "INNOVATION MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0390",
+        "title": "PRINCIPLES OF MARKETING"
+    },
+    {
+        "code": "BA\u00a0458",
+        "title": "INNOVATION AND NEW PRODUCT DEVELOPMENT"
+    },
+    {
+        "code": "BA\u00a0468",
+        "title": "TECHNOLOGY COMMERCIALIZATION"
+    },
+    {
+        "code": "MGMT\u00a0452",
+        "title": "LEADERSHIP"
+    },
+    {
+        "code": "BA\u00a0460",
+        "title": "VENTURE MANAGEMENT"
+    },
+    {
+        "code": "BA\u00a0464",
+        "title": "NEW VENTURE FINANCE"
+    },
+    {
+        "code": "MRKT\u00a0488",
+        "title": "PROFESSIONAL SALES"
+    }
+]}

@@ -519,9 +519,9 @@ class JsonDataDisplay extends React.Component {
     else if (curMajor === 'hosp-mgmt') {
       parsedJSON = require('./../data/Colleges/College of Business/Hospitality Management Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    // else if (curMajor === 'inn-mgmt') {
-    //   parsedJSON = require('./../parseHTML/Success/Innovation Management Undergraduate Major (BA, BS, HBA, HBS).json');
-    // }
+    else if (curMajor === 'inn-mgmt') {
+      parsedJSON = require('./../parseHTML/Success/Innovation Management Undergraduate Major (BA, BS, HBA, HBS).json');
+    }
     else if (curMajor === 'int-des') {
       parsedJSON = require('./../data/Colleges/College of Business/Interior Design Undergraduate Major (BS, HBS).json');
     }
