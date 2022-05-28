@@ -246,7 +246,7 @@ class JsonDataDisplay extends React.Component {
         // set term value of course to selected dropdown option
         props.info.array.getCourse(idx).term = this.state.term
       }
-      //if the user moved the course to the holder term, give it the term number 13 
+      //if the user moved the course to the holder term, give it the term number 13
         //(need a number not string)
       else{
         props.info.array.getCourse(idx).term = 13
@@ -330,7 +330,7 @@ class JsonDataDisplay extends React.Component {
   //---------- Then, it makes an array of html for each course, and renders all of them ----------
   //---------- into the roadmap ----------
   getHtml(termNum){
-    let info1 = null; 
+    let info1 = null;
     this.coursesPerTermArray = Array(12).fill(0)
     //if it a new major has been selected, then this conditional statement will
       //give each course a term by default, otherwise it will leave the term numbers as they are
@@ -733,7 +733,7 @@ class JsonDataDisplay extends React.Component {
       parsedJSON = require('./../data/Colleges/College of Science/Biology Undergraduate Major (BS, HBS).json');
     }
     else if (curMajor === 'chem') {
-      parsedJSON = require('./../parseHTML/Success/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Science/Chemistry Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'math') {
       parsedJSON = require('./../data/Colleges/College of Science/Mathematics Undergraduate Major (BS, HBS).json');
@@ -772,7 +772,7 @@ class JsonDataDisplay extends React.Component {
   //render a brand new Table with json values
   render() {
     const allTermNums = [1,2,3,4,5,6,7,8,9,10,11,12]
-    //if global major variable changed and the user had clicked checkboxes and 
+    //if global major variable changed and the user had clicked checkboxes and
       //in turn updates the total progress count, reset them all back to 0/empty
     if(currentMajor !== this.props.major && this.totalProgress !== 0 && this.state.isCheckedArr !== []){
       this.totalProgress = 0

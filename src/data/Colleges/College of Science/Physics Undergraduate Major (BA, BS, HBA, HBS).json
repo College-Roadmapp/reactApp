@@ -6,7 +6,7 @@
     },
     {
         "code": "CH 261",
-        "title": "*LABORATORY FOR CHEMISTRY 231",
+        "title": "LABORATORY FOR CHEMISTRY 231",
         "credits": "1"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
         "code": "CH 262",
-        "title": "*LABORATORY FOR CHEMISTRY 232",
+        "title": "LABORATORY FOR CHEMISTRY 232",
         "credits": "1"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
         "code": "CH 263",
-        "title": "*LABORATORY FOR CHEMISTRY 233",
+        "title": "LABORATORY FOR CHEMISTRY 233",
         "credits": "1"
     },
     {
         "code": "MTH 251",
-        "title": "*DIFFERENTIAL CALCULUS",
+        "title": "DIFFERENTIAL CALCULUS",
         "credits": "4"
     },
     {
@@ -41,12 +41,7 @@
     },
     {
         "code": "MTH 253",
-        "title": "INFINITE SERIES AND SEQUENCES",
-        "credits": "4"
-    },
-    {
-        "code": "MTH 306",
-        "title": "MATRIX AND POWER SERIES METHODS",
+        "title": "INFINITE SERIES AND SEQUENCES*",
         "credits": "4"
     },
     {
@@ -71,7 +66,7 @@
     },
     {
         "code": "PH 211",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS",
         "credits": "4"
     },
     {
@@ -81,7 +76,7 @@
     },
     {
         "code": "PH 212",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS",
         "credits": "4"
     },
     {
@@ -91,7 +86,7 @@
     },
     {
         "code": "PH 213",
-        "title": "*GENERAL PHYSICS WITH CALCULUS",
+        "title": "GENERAL PHYSICS WITH CALCULUS",
         "credits": "4"
     },
     {
@@ -162,21 +157,16 @@
     {
         "code": "PH 401",
         "title": "RESEARCH",
-        "credits": "1-16"
-    },
-    {
-        "code": "PH 403",
-        "title": "^THESIS",
-        "credits": "1-16"
-    },
-    {
-        "code": "PH 415",
-        "title": "COMPUTER INTERFACING AND INSTRUMENTATION",
         "credits": "3"
     },
     {
-        "code": "PH 464",
-        "title": "SCIENTIFIC COMPUTING II",
+        "code": "PH 403",
+        "title": "THESIS",
+        "credits": "3"
+    },
+    {
+        "code": "PH 415",
+        "title": "COMPUTER INTERFACING AND INSTRUMENTATION*",
         "credits": "3"
     },
     {
@@ -200,18 +190,13 @@
         "credits": "4"
     },
     {
-        "code": "PH 431",
-        "title": "CAPSTONES IN PHYSICS: ELECTROMAGNETISM",
+        "code": "ELE XX1",
+        "title": "BACHELOR OF SCIENCE/ARTS CREDITS",
         "credits": "3"
     },
     {
-        "code": "PH 441",
-        "title": "CAPSTONES IN PHYSICS: THERMAL AND STATISTICAL PHYSICS",
-        "credits": "3"
-    },
-    {
-        "code": "PH 451",
-        "title": "CAPSTONES IN PHYSICS: QUANTUM MECHANICS",
+        "code": "ELE XX2",
+        "title": "BACHELOR OF SCIENCE/ARTS CREDITS",
         "credits": "3"
     }
 ]}
