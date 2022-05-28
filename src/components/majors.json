@@ -39,7 +39,6 @@
                 {"label": "Ocean Science", "value":"ocean-sci"}
             ],
             "educationMajors":[
-                {"label": "Education Double Degree", "value":"ed-double-deg"},
                 {"label": "Elementary Education", "value":"elem-ed"},
                 {"label": "Clinincally Based Elementary Education", "value":"clin-elem-ed"}
             ],

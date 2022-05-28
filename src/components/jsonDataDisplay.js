@@ -549,9 +549,6 @@ class JsonDataDisplay extends React.Component {
     // else if (curMajor === 'ocean-sci') {
     //   parsedJSON = require('./../parseHTML/Success/');
     // }
-    else if (curMajor === 'ed-double-deg') {
-      parsedJSON = require('./../data/Colleges/College of Education/Education Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
     else if (curMajor === 'elem-ed') {
       parsedJSON = require('./../data/Colleges/College of Education/Teaching Undergraduate Major (BS, HBS).json');
     }
