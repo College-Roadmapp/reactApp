@@ -427,6 +427,21 @@ class JsonDataDisplay extends React.Component {
     //uses temp array to render a table with temp's html
     return(
       <div>
+        {termNum === 13 ?
+        <table className="table table-striped">
+        <caption> Course Holder </caption>
+          <thead>
+              <tr>
+              <th className="tableLabels"> Complete </th>
+              <th className="tableLabels"> Course ID  </th>
+              <th className="tableLabels"> Course Name </th>
+              <th className="tableLabels"> Credits </th>
+              <th className="tableLabels"> Relocate </th>
+              </tr>
+          </thead>
+            {temp}
+      </table>
+      :
         <table className="table table-striped">
           <caption> Term {termNum} </caption>
             <thead>
@@ -440,6 +455,7 @@ class JsonDataDisplay extends React.Component {
             </thead>
             {temp}
         </table>
+      }
     </div>
     );
   }
