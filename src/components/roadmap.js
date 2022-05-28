@@ -6,12 +6,21 @@ import Select from '@mui/material/Select';
 import Header from './header';
 import EngineeringCalculator from './tuition/engineeringCalculator'
 import React from 'react';
+import { Link } from "react-router-dom";
 
 //combines header and dropdowns
 function Roadmap() {
     return(
         <div>
             {Header()}
+            <div className="roadmapNote">
+              <p> NOTE: </p>
+              <ul>
+                <li>-Most undergraduate degrees offer multiple options that align with different areas within a major for students to pick from. For this roadmap, we’ve selected a sample list of courses for a generic roadmap. Required electives for these options are represented though placeholders labeled “ELE XXX” or may not be included entirely.</li><br/>
+                <li>-Courses followed by an asterisk (*) indicate that students get to choose from multiple classes to fill that requirement. We’ve selected one of those options as an example.</li><br/>
+                <li>-The roadmap does not include prerequisites for courses. To view prerequisites and other course/program information, visit the <Link  to="/resources">resources</Link> tab.</li>
+              </ul>
+            </div>
             {<AppDisplay/>}
         </div>
     )
@@ -23,6 +32,7 @@ function AppDisplay(){
       <div className="displayApp" key="appParentDiv">
         <div className = "dropDownMenu" key="ddParentDiv">
             {<DropDowns key="ddFunction"/>}
+
         </div>
       </div>
   )
