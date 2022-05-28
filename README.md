@@ -6,7 +6,7 @@ Our project, MyOSURoadmap, is a student-built web application that is designed t
 
 MyOSURoadmap also works to simplify the complexity around Oregon State’s tuition rates and help students plan out their finances. Our web app provides a tuition calculator that estimates the tuition rates for that specific college based on the number of credits being applied. Finally, another supported tool is the progress bar which gives students the ability to track their progress towards earning their degree. By selecting checkboxes next to their completed courses within the roadmap, the progress bar visually displays their finished work.
 
-We hope this project will support students in overcoming these roadblocks and administer an easier experience for planning out their academic career at OSU. 
+We hope this project will support students in overcoming these roadblocks and administer an easier experience for planning out their academic career at OSU.
 
 # App Features
 
@@ -24,6 +24,10 @@ We hope this project will support students in overcoming these roadblocks and ad
 * Taking into account degree options
 * Checking prerequisites, and alerting the user if the order of the courses in their roadmap violated a prerequisite requirement
 * Discard any overlap between default Baccalaurate Core courses and required courses in degree plan
+
+# GitHub Link
+
+https://github.com/College-Roadmapp/reactApp
 
 # React Documentation
 
