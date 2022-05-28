@@ -550,11 +550,11 @@ class JsonDataDisplay extends React.Component {
     //   parsedJSON = require('./../parseHTML/Success/');
     // }
     else if (curMajor === 'elem-ed') {
-      parsedJSON = require('./../data/Colleges/College of Education/Teaching Undergraduate Major (BS, HBS).json');
+      parsedJSON = require('./../data/Colleges/College of Education/Elementary Education Undergraduate Major (BA, BS, HBA, HBS).json');
     }
-    // else if (curMajor === 'clin-elem-ed') {
-    //   parsedJSON = require('./../parseHTML/Success/Clin');
-    // }
+    else if (curMajor === 'clin-elem-ed') {
+      parsedJSON = require('./../data/Colleges/College of Education/Clinically Based Elementary Education Undergraduate Major (BS, HBS).json');
+    }
     else if (curMajor === 'arch') {
       parsedJSON = require('./../data/Colleges/College of Engineering/Architectural Engineering Undergraduate Major (BS, HBS).json');
     }

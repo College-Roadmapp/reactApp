@@ -1,0 +1,192 @@
+{"Courses":[
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "ED 216",
+        "title": "*PURPOSE, STRUCTURE, AND FUNCTION OF EDUCATION IN A DEMOCRACY",
+        "credits": "3"
+    },
+    {
+        "code": "ED 219",
+        "title": "*SOCIAL JUSTICE,CIVIL RIGHTS & MULTICULTURALISM IN EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 201",
+        "title": "*CONTEMPORARY FAMILIES IN THE U.S.",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 311",
+        "title": "INFANT AND CHILD DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 211",
+        "title": "*FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 212",
+        "title": "FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 390",
+        "title": "FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX (1)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (2)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (3)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (4)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (5)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ED 394",
+        "title": "DIFFERENTIATION IN THE ELEMENTARY CLASSROOM",
+        "credits": "2"
+    },
+    {
+        "code": "ED 409",
+        "title": "PRACTICUM/CLINICAL EXPERIENCE",
+        "credits": "6"
+    },
+    {
+        "code": "ED 410",
+        "title": "INTERNSHIP/WORK EXPERIENCE",
+        "credits": "3"
+    },
+    {
+        "code": "ED 413",
+        "title": "LEARNING ENVIRONMENTS I: FOSTERING CLASS ENGAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ED 414",
+        "title": "LEARNING ENVIRONMENTS II: ADVANCING EVERY STUDENT",
+        "credits": "2"
+    },
+    {
+        "code": "ED 450",
+        "title": "FOUNDATIONS OF EDUCATION AND PLANNING",
+        "credits": "4"
+    },
+    {
+        "code": "ED 451",
+        "title": "ASSESSMENT",
+        "credits": "4"
+    },
+    {
+        "code": "ED 452",
+        "title": "USING DATA TO SUPPORT ALL STUDENTS",
+        "credits": "3"
+    },
+    {
+        "code": "ED 457",
+        "title": "TEACHING ELEMENTARY MATHEMATICS FOR UNDERSTANDING",
+        "credits": "3"
+    },
+    {
+        "code": "ED 463",
+        "title": "STRATEGIES FOR TEACHING PHYSICAL EDUCATION HEALTH & WELLNESS",
+        "credits": "1"
+    },
+    {
+        "code": "ED 465",
+        "title": "ELEMENTARY METHODS: LITERACY",
+        "credits": "4"
+    },
+    {
+        "code": "ED 466",
+        "title": "ELEMENTARY METHODS: MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "ED 467",
+        "title": "ELEMENTARY METHODS: NATURAL AND SOCIAL SCIENCE",
+        "credits": "4"
+    },
+    {
+        "code": "ED 468",
+        "title": "ELEMENTARY METHODS: LANGUAGE ARTS",
+        "credits": "4"
+    },
+    {
+        "code": "ED 469",
+        "title": "STRATEGIES FOR TEACHING THE FINE ARTS",
+        "credits": "1"
+    },
+    {
+        "code": "ED 492",
+        "title": "TECHNOLOGY TOOLS FOR TEACHING",
+        "credits": "1"
+    },
+    {
+        "code": "ED 472",
+        "title": "FOUNDATIONS OF ESOL EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 431",
+        "title": "FAMILY, SCHOOL, AND COMMUNITY COLLABORATION",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 432",
+        "title": "CHILDREN AND YOUTH WITH DISABILITIES",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 447",
+        "title": "*FAMILIES AND POVERTY",
+        "credits": "4"
+    },
+    {
+        "code": "ED 473",
+        "title": "INSTRUCTIONAL APPROACHES FOR ESOL EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "ED 479",
+        "title": "LINGUISTICS FOR TEACHERS",
+        "credits": "3"
+    }
+]}

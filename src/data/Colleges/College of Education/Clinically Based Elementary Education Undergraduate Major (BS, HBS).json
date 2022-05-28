@@ -1,0 +1,177 @@
+{"Courses":[
+    {
+        "code": "COMM 218",
+        "title": "*INTERPERSONAL COMMUNICATION",
+        "credits": "3"
+    },
+    {
+        "code": "ED 216",
+        "title": "*PURPOSE, STRUCTURE, AND FUNCTION OF EDUCATION IN A DEMOCRACY",
+        "credits": "3"
+    },
+    {
+        "code": "ED 219",
+        "title": "*SOCIAL JUSTICE,CIVIL RIGHTS & MULTICULTURALISM IN EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 201",
+        "title": "*CONTEMPORARY FAMILIES IN THE U.S.",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 311",
+        "title": "INFANT AND CHILD DEVELOPMENT",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 211",
+        "title": "*FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 212",
+        "title": "FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "MTH 390",
+        "title": "FOUNDATIONS OF ELEMENTARY MATHEMATICS",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 201",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "PSY 202",
+        "title": "*GENERAL PSYCHOLOGY",
+        "credits": "4"
+    },
+    {
+        "code": "WR 222",
+        "title": "*ENGLISH COMPOSITION",
+        "credits": "3"
+    },
+    {
+        "code": "ELE XXX (1)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (2)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (3)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (4)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ELE XXX (5)",
+        "title": "ELECTIVE",
+        "credits": "4"
+    },
+    {
+        "code": "ED 309 (1)",
+        "title": "FIELD PRACTICUM 1",
+        "credits": "3"
+    },
+    {
+        "code": "ED 309 (2)",
+        "title": "FIELD PRACTICUM 2",
+        "credits": "3"
+    },
+    {
+        "code": "ED 309 (3)",
+        "title": "FIELD PRACTICUM 3",
+        "credits": "3"
+    },
+    {
+        "code": "ED 409",
+        "title": "PRACTICUM/CLINICAL EXPERIENCE",
+        "credits": "14"
+    },
+    {
+        "code": "ED 410",
+        "title": "INTERNSHIP/WORK EXPERIENCE",
+        "credits": "12"
+    },
+    {
+        "code": "ED 407",
+        "title": "SEMINAR",
+        "credits": "11"
+    },
+    {
+        "code": "ED 420",
+        "title": "CLASSROOM MANAGEMENT",
+        "credits": "3"
+    },
+    {
+        "code": "ED 424",
+        "title": "TEACHER AS REFLECTIVE PRACTITIONER",
+        "credits": "2"
+    },
+    {
+        "code": "ED 427",
+        "title": "ASSESSMENT FOR K-12 INSTRUCTION",
+        "credits": "2"
+    },
+    {
+        "code": "ED 448",
+        "title": "TEACHING IN INCLUSIVE CLASSROOMS",
+        "credits": "2"
+    },
+    {
+        "code": "ED 456",
+        "title": "STRATEGIES FOR TEACHING LANGUAGE ARTS AND SOCIAL STUDIES",
+        "credits": "3"
+    },
+    {
+        "code": "ED 457",
+        "title": "TEACHING ELEMENTARY MATHEMATICS FOR UNDERSTANDING",
+        "credits": "3"
+    },
+    {
+        "code": "ED 476",
+        "title": "PARTNERSHIPS AND IDEOLOGIES IN ESOL EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "ED 472",
+        "title": "FOUNDATIONS OF ESOL EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "HDFS 431",
+        "title": "FAMILY, SCHOOL, AND COMMUNITY COLLABORATION",
+        "credits": "3"
+    },
+    {
+        "code": "SED 459",
+        "title": "SCIENCE AND THE NATURE OF INQUIRY",
+        "credits": "3"
+    },
+    {
+        "code": "ED 483",
+        "title": "DEVELOPMENTAL READING",
+        "credits": "3"
+    },
+    {
+        "code": "ED 473",
+        "title": "INSTRUCTIONAL APPROACHES FOR ESOL EDUCATION",
+        "credits": "3"
+    },
+    {
+        "code": "ED 479",
+        "title": "LINGUISTICS FOR TEACHERS",
+        "credits": "3"
+    }
+]}
