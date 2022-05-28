@@ -474,9 +474,9 @@ class JsonDataDisplay extends React.Component {
     else if (curMajor === 'crop-soil') {
       parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Crop and Soil Science Undergraduate Major (BS, HBS).json');
     }
-    // else if (curMajor === 'eco-eng') {
-    //   parsedJSON = require('./../parseHTML/Success/Ecological Engineering Undergraduate Major (BS, HBS).json');
-    // }
+    else if (curMajor === 'eco-eng') {
+      parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Ecological Engineering Undergraduate Major (BS, HBS).json');
+    }
     else if (curMajor === 'enviro-eco-policy') {
       parsedJSON = require('./../data/Colleges/College of Agricultural Sciences/Environmental Economics and Policy Undergraduate Major (BS, HBS).json');
     }
@@ -518,9 +518,6 @@ class JsonDataDisplay extends React.Component {
     }
     else if (curMajor === 'hosp-mgmt') {
       parsedJSON = require('./../data/Colleges/College of Business/Hospitality Management Undergraduate Major (BA, BS, HBA, HBS).json');
-    }
-    else if (curMajor === 'inn-mgmt') {
-      parsedJSON = require('./../parseHTML/Success/Innovation Management Undergraduate Major (BA, BS, HBA, HBS).json');
     }
     else if (curMajor === 'int-des') {
       parsedJSON = require('./../data/Colleges/College of Business/Interior Design Undergraduate Major (BS, HBS).json');
